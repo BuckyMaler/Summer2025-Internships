@@ -5615,7 +5615,7 @@
         "company_name": "Palantir",
         "id": "d58f726c-620e-4c0c-89d7-8b54421280ab",
         "title": "Forward Deployed Software Engineer \u2013 Internship - US Government",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -111190,7 +111190,7 @@
         "company_name": "Amazon",
         "id": "7662002a-77ed-449a-b1fd-53ad0e042d3a",
         "title": "Software Dev Engineer Intern 2025 - Automated Reasoning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -118385,7 +118385,7 @@
         "company_name": "Analog Devices",
         "id": "aab29e11-4094-49e6-a664-ce8fabda7546",
         "title": "Algorithm Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -118862,7 +118862,7 @@
         "company_name": "Snowflake",
         "id": "6e540e89-80e8-4631-85e1-fa356073996d",
         "title": "Software Engineer Intern - Infrastructure Automation - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -124384,7 +124384,7 @@
         "company_name": "Red Ventures",
         "id": "233855ba-7f7b-4e33-bb03-06c1ffbbbacb",
         "title": "2025 Launch Program: Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -124593,7 +124593,7 @@
         "company_name": "Truveta",
         "id": "a4abee1c-e704-42b9-af99-6e04629cf35a",
         "title": "Clinical Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -127283,7 +127283,7 @@
         "company_name": "Adobe",
         "id": "5a8011a3-0387-40b0-ac07-060ad7dacd5a",
         "title": "2025 Intern - Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -127879,7 +127879,7 @@
         "company_name": "Adobe",
         "id": "eabf546f-596c-45eb-8034-1f0c83d3794c",
         "title": "2025 Intern - Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -128747,7 +128747,7 @@
         "company_name": "ZOLL Medical Corporation",
         "id": "6cfeaca3-c199-4f58-bdaa-161a97115369",
         "title": "Software Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025"
@@ -129797,7 +129797,7 @@
         "company_name": "Bandwidth",
         "id": "483abaa7-1de4-4701-976f-89e941f9f997",
         "title": "Software Development Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -136001,7 +136001,7 @@
         "company_name": "TP-ICAP",
         "id": "66371972-a747-465f-b4b2-f25de1be0ca4",
         "title": "Client Data Analyst \u2013 Week Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -141346,7 +141346,7 @@
         "company_name": "Comcast",
         "id": "62e609f0-8e94-452f-a979-2c6c9e29fd4c",
         "title": "Comcast Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -141958,7 +141958,7 @@
         "company_name": "Verizon Communications",
         "id": "29ba9f93-fd2f-471a-8ea0-252dfe1a0af2",
         "title": "BEYA STEM Conference Full Stack Software Development Summer 2025 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -141996,7 +141996,7 @@
         "company_name": "Verizon Communications",
         "id": "2264f48d-6cb6-4089-b9bc-a3b836fa89e3",
         "title": "AI/ML Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -142232,7 +142232,7 @@
         "company_name": "Verizon Communications",
         "id": "438bb52a-68c8-4875-ad55-e6b8d49d4e57",
         "title": "Full Stack Software Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -143326,7 +143326,7 @@
         "company_name": "Verizon Communications",
         "id": "2ea79027-ac08-4797-a70c-9a639bf38f87",
         "title": "Full Stack Software Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -143403,7 +143403,7 @@
         "company_name": "Verizon Communications",
         "id": "6fffa6b3-6056-4001-9bb5-105704ade0a4",
         "title": "Full Stack Software Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -143423,7 +143423,7 @@
         "company_name": "Verizon Communications",
         "id": "65885ba1-1f68-4cce-b46f-90ba36a0df55",
         "title": "Full Stack Software Development Summer 2025 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -144109,7 +144109,7 @@
         "company_name": "Verizon Communications",
         "id": "3638c8bd-83dc-49db-8376-0c143597a357",
         "title": "AI/ML Engineering Summer 2025 Internship - Njit",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -144128,7 +144128,7 @@
         "company_name": "Verizon Communications",
         "id": "900bb8e2-b7a7-48d0-9c65-8bba2f77dcbd",
         "title": "Network Automation Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -144166,7 +144166,7 @@
         "company_name": "Verizon Communications",
         "id": "b0a0d694-5c59-4673-8d72-987c0fa02708",
         "title": "AI/ML Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -144185,7 +144185,7 @@
         "company_name": "Verizon Communications",
         "id": "52c34bf1-f551-4514-badb-e41cfa184599",
         "title": "AI/ML Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -145193,7 +145193,7 @@
         "company_name": "Ryan",
         "id": "3b853401-78ac-4a7f-a037-1273889bc31e",
         "title": "Summer 2025 Technology Interns",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -146004,7 +146004,7 @@
         "company_name": "Genworth Financial",
         "id": "3cc574cb-bc4b-433d-a64a-724516f7ca0d",
         "title": "Enterprise Data Management Office Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -146911,7 +146911,7 @@
         "company_name": "Samsung",
         "id": "6e5e9ca5-a0d6-4c99-ab8e-4ba0c1b2b624",
         "title": "Intern \u2013 System Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -147349,7 +147349,7 @@
         "company_name": "Zoetis",
         "id": "147263c7-687c-44f7-8852-900ed9b3b049",
         "title": "4-Hana Supply Chain Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -147973,7 +147973,7 @@
         "company_name": "Scale AI",
         "id": "02e2a1f4-d62b-4518-9c33-74ea54cdf37a",
         "title": "Technical Advisor Intern - GenAI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -148880,7 +148880,7 @@
         "company_name": "BambooHR",
         "id": "a4ce6673-b2a6-4719-99b0-782eb5ba9bc7",
         "title": "Software Developer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -150420,7 +150420,7 @@
         "company_name": "IBM",
         "id": "7f725875-6bf2-4607-895b-f253a8ba2d03",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -150742,7 +150742,7 @@
         "company_name": "Western Digital",
         "id": "68ed1ed8-6e28-42df-ac00-844983390d1f",
         "title": "Summer 2025 Intern - Operations Research & Analytics Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -151232,7 +151232,7 @@
         "company_name": "Medline",
         "id": "bda89780-584b-454c-8d0e-11ecba2252df",
         "title": "IT Business Systems Intern - Sap/Erp",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -151772,7 +151772,7 @@
         "company_name": "TD Bank",
         "id": "d2361a4f-7b42-4748-ab24-9a56ee86b9a6",
         "title": "Data Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -153342,7 +153342,7 @@
         "company_name": "IBM",
         "id": "8c4b91f5-0213-45dd-b769-c69f222c9f5d",
         "title": "Senior Data Scientist Intern - Corporate Development - M&a",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -154326,7 +154326,7 @@
         "company_name": "New Leaf Energy",
         "id": "3882d0c5-25b4-40b8-be8d-59c517350604",
         "title": "Transmission Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -154898,7 +154898,7 @@
         "company_name": "TD Bank",
         "id": "1265bec1-1d57-4c83-b313-d7d22017d21c",
         "title": "Global Markets Intern/Co-op - Quantitative Engineering Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -155288,7 +155288,7 @@
         "company_name": "Nissan",
         "id": "304c826e-2a8b-4a77-8bdb-22ac291f6d70",
         "title": "Machine Learning Intern-Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -155345,7 +155345,7 @@
         "company_name": "Nissan",
         "id": "b172eee1-3f49-47a5-9b0e-004fe19148cb",
         "title": "Compiler Development Research Intern-Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -155537,7 +155537,7 @@
         "company_name": "Mistplay",
         "id": "3cd98c10-e271-419d-ab0d-604da8036ed6",
         "title": "Stagiaire en science des donn\u00e9es \u2013 Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -155556,7 +155556,7 @@
         "company_name": "CACI",
         "id": "5b8b6a7e-f9a3-4e59-91c2-6d5b68912178",
         "title": "Students \u2013 Summer 2025 Intern Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -156327,7 +156327,7 @@
         "company_name": "ATPCO",
         "id": "51705e2a-baee-42cc-91a5-ac0b76640b27",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -156888,7 +156888,7 @@
         "company_name": "Leidos",
         "id": "e156043c-099e-4c18-bbf3-5b66125faac9",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -156986,7 +156986,7 @@
         "company_name": "Motorola",
         "id": "96ada597-b9dd-4355-b950-16f1f8dff29a",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -157043,7 +157043,7 @@
         "company_name": "ATPCO",
         "id": "fffda04f-8c19-4758-8ed6-844ba95a6ea9",
         "title": "Software Engineer Intern - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -157100,7 +157100,7 @@
         "company_name": "Northrop Grumman",
         "id": "84585fbe-81df-46c1-9b77-82e35cc6fa23",
         "title": "Intern Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -157216,7 +157216,7 @@
         "company_name": "Northrop Grumman",
         "id": "2791197e-6da6-43f2-9e5f-ef6df69630b9",
         "title": "2025 Intern Database Administration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -157389,7 +157389,7 @@
         "company_name": "Leidos",
         "id": "1cd2aac3-3ad5-4092-a225-689c7d679dac",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -157408,7 +157408,7 @@
         "company_name": "Leidos",
         "id": "88b5af3b-0375-4f12-9ac2-cf902d257368",
         "title": "Cybersecurity Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -157524,7 +157524,7 @@
         "company_name": "BillionToOne",
         "id": "6d79ffd3-5dfa-4696-bd06-f3ebd7b96cbe",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -157562,7 +157562,7 @@
         "company_name": "IBM",
         "id": "74e2bd5e-1897-4b32-82d3-e2c920035165",
         "title": "Software Engineer \u2013 Large Scale Language Models Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -157600,7 +157600,7 @@
         "company_name": "Avnet",
         "id": "29ed2861-74ba-4ba9-9963-5af49dffaa78",
         "title": "IT Business Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -158251,7 +158251,7 @@
         "company_name": "7-Eleven",
         "id": "195323e0-9dca-43ff-8147-759b56d9f65a",
         "title": "Enterprise Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -158300,6 +158300,1430 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/f1e2116e-f25f-44f8-9667-7351ce6ceb3f",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Genuine Parts Company",
+        "id": "5e33d32f-1b04-4dca-b970-5c1fc4d77d56",
+        "title": "Software Developer \u2013 Ebusiness Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739837539,
+        "date_posted": 1739837539,
+        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Developer---eBusiness-Intern_R25_0000005896",
+        "locations": [
+            "Birmingham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northwestern Mutual",
+        "id": "f2ebb765-540c-448a-8128-2bfd209bfb62",
+        "title": "Public Investments Quantitative Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739838588,
+        "date_posted": 1739838588,
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern_JR-41879",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Relativity Space",
+        "id": "8ca0f359-2458-447e-a311-3f05a0c2bffb",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1739838560,
+        "date_posted": 1739838560,
+        "url": "https://boards.greenhouse.io/rsinternboard/jobs/7855756002",
+        "locations": [
+            "John C. Stennis Space Center, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Relativity-Space",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Truveta",
+        "id": "6ff80ddd-7319-4bfa-9283-5608c300c20a",
+        "title": "Clinical Data Analyst Intern/Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739837798,
+        "date_posted": 1739837798,
+        "url": "https://job-boards.greenhouse.io/truveta/jobs/5452551004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Truveta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CVS Health",
+        "id": "7227f084-a9a4-4854-a8b2-ad75ea4f7bfe",
+        "title": "Innotech Summer Undergraduate Internship - Pharmacy Services - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739838931,
+        "date_posted": 1739838931,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/InnoTech-Summer-Undergraduate-Internship-2025---Pharmacy-Services---Software-Engineer_R0507290",
+        "locations": [
+            "Smithfield, RI",
+            "Scottsdale, AZ",
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Resmed",
+        "id": "2d95599a-743d-4682-92e2-4745db067c37",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739852462,
+        "date_posted": 1739852462,
+        "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/US-San-Diego-Corporate/Software-Engineering-Intern_JR_039380",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/f1e2116e-f25f-44f8-9667-7351ce6ceb3f",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "5a779e25-8b12-483e-9645-d6fdef78a388",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739881340,
+        "date_posted": 1739881340,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/EDINBURGH-01/Software-Engineering-Intern_R48966-1",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Comcast",
+        "id": "b5225a5a-037c-42d1-b060-00bcb3ee7c69",
+        "title": "Comcast Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1739896316,
+        "date_posted": 1739896316,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R398008",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Comcast",
+        "id": "c55f52f4-427e-4650-951c-f1724f644986",
+        "title": "Comcast Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1739896308,
+        "date_posted": 1739896308,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---West-Chester-1354-Boot-Rd/Comcast-Software-Engineer-Co-op_R397682",
+        "locations": [
+            "West Chester, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lowe's ",
+        "id": "2afc6327-9cd6-484c-b7c3-c25406e16a5a",
+        "title": "Software Engineer \u2013 Undergraduate Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739896534,
+        "date_posted": 1739896534,
+        "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Software-Engineer--Undergraduate-Internship_JR-01879296",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Lowes",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chewy",
+        "id": "e823870c-0da2-4586-9d7e-e8e73d09ad28",
+        "title": "AI Innovator Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739895471,
+        "date_posted": 1739895471,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6642607",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chewy",
+        "id": "1c4fc0c8-5564-48fd-b781-471d528757ac",
+        "title": "AI Innovator Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739895470,
+        "date_posted": 1739895470,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6641852",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "7-Eleven",
+        "id": "25c5f0d6-6ff1-49e6-a73d-3129efab393d",
+        "title": "Merchandising Technology Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739896288,
+        "date_posted": 1739896288,
+        "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Merchandising-Technology-Intern_R25_0000001208",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/7-Eleven",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Comcast",
+        "id": "faff98b6-aa9e-42ce-951c-e34964a22dd0",
+        "title": "Comcast AI Technologies Front-End Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1739896307,
+        "date_posted": 1739896307,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-AI-Technologies-Front-End-Engineer-Co-op_R398002",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "National Information Solutions Cooperative (NISC)",
+        "id": "76e651ab-cfb6-4f9e-8e40-f35e10e2cb8d",
+        "title": "Intern \u2013 Software Development",
+        "active": false,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1739895766,
+        "date_posted": 1739895766,
+        "url": "https://boards.greenhouse.io/testnisc/jobs/6643155",
+        "locations": [
+            "Bismarck, ND",
+            "Lake St Louis, MO",
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Information-Solutions-Cooperative-(NISC)",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Comcast",
+        "id": "f9e9792d-0d9d-4379-aac8-2cbcfe2e3e94",
+        "title": "Comcast Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1739896302,
+        "date_posted": 1739896302,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R400696",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intel",
+        "id": "c286d91a-c60d-4bd2-8503-fdb5eac4493a",
+        "title": "System and Software Optimization Engineer \u2013 Undergrad Intern - AI/ML",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739910758,
+        "date_posted": 1739910758,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/System-and-Software-Optimization-Engineer----Undergrad-Intern--AI-ML-_JR0272229",
+        "locations": [
+            "Marlborough, MA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Marvell",
+        "id": "607a357f-7f3a-4332-a59b-28e932e9efec",
+        "title": "People Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739910671,
+        "date_posted": 1739910671,
+        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/People-Analytics-Intern---Bachelor-s-degree_2401876",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Daniel J Edelman Holdings",
+        "id": "fcaa76f2-c8f4-4b46-bef3-7e596395d011",
+        "title": "Intern \u2013 Predictive Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1739910311,
+        "date_posted": 1739910311,
+        "url": "https://jobs.lever.co/djeholdings/3efb093e-541b-4cf3-917d-f37f8515befc/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Daniel-J-Edelman-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TD Bank",
+        "id": "7164bed0-12a9-4dbe-804a-035922645626",
+        "title": "Global Markets Intern/Co-op - Equity Research",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739911301,
+        "date_posted": 1739911301,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Intern-Co-op---Equity-Research--Summer-2025-_R_1401770",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "e87af15f-cb53-4e8b-9fe1-9af8c1c6cd03",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912004,
+        "date_posted": 1739912004,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636100",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "489937cb-ca2a-45d4-b3d0-50824eb8f2d9",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912004,
+        "date_posted": 1739912004,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636015",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "952c3702-d734-44db-a7de-dd182be9becc",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912004,
+        "date_posted": 1739912004,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636136",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "cf8b7f99-9f7a-49f9-b942-963d19ac0f31",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636122",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "a93c0bde-8722-4fe4-823e-23b0e3aa1724",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636050",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "3a29a29c-a517-4579-acb2-1925cd81b67e",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912004,
+        "date_posted": 1739912004,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636194",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "3d8c96b1-235b-4c03-a43d-d0d2c3dd2426",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636085",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "57cc7b24-e0e5-4267-9d26-91a08974a2f1",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912002,
+        "date_posted": 1739912002,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636051",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "87586a82-1eaa-4b05-9782-19698562311e",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636048",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "2013f687-7ca5-4dd1-8491-5487a449ec90",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6635958",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "583fed75-9b62-402c-85a1-b97d10f55acd",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636101",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "4d84a902-1ea9-4deb-8c17-e4b28fd03913",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912005,
+        "date_posted": 1739912005,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636140",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "cbe8bec3-7fcc-40a1-aaaa-688080e94f3f",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912030,
+        "date_posted": 1739912030,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636082",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "de2277a4-b4fe-47e7-aea1-0836dd433581",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912005,
+        "date_posted": 1739912005,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636097",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "1d345ac4-9654-4cce-8b1d-a68c6109cc99",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912005,
+        "date_posted": 1739912005,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6635991",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "860c37d3-57bc-4def-9369-a38739a46dad",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912004,
+        "date_posted": 1739912004,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636018",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "347efecf-d2b0-4e9b-89dc-8a24dd252ff2",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912004,
+        "date_posted": 1739912004,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636047",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "e3c5eba8-4144-442a-8b2d-c9694a048dde",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912004,
+        "date_posted": 1739912004,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636099",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "f4b12401-526c-4ae4-a4c5-1e426a64e31e",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912004,
+        "date_posted": 1739912004,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6635989",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "662be0e9-4396-4ec7-a61f-b734567875d4",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636137",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "68e91058-6f5a-43c9-b12c-847525a8c80f",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6635990",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "24b71ed1-673e-45eb-8834-110df7449918",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6635957",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "c2732d89-9d92-47a0-b4e1-8cfe69392239",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636124",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "22dcc834-d1cc-4392-acac-2c03dbc5b37d",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636193",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "a1a83230-4259-42e6-b563-876d5c4b3280",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636138",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "774c93af-e46d-4a3d-a7b4-ead5930f0a45",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912004,
+        "date_posted": 1739912004,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636086",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "d9f885b9-3473-463b-94af-491319077472",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636192",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "95fa2065-58f3-413e-be3c-e053a0218f41",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912004,
+        "date_posted": 1739912004,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636123",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "ee0024b6-24a5-491d-8e3d-52ae1861789b",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636121",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "fe0efdcf-2477-4460-9326-3bfc38a052ad",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636084",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "a54d3f0f-c2b1-47de-83ed-48a42bd4fd79",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636083",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "fadb6a2a-40f3-4e2e-9a9e-fedfd73edfb6",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6635987",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "9e2765ac-4f13-4e3f-a2a2-206297032f22",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636017",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "7ed346da-5f36-40f6-baba-21ab60bdcdc9",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636195",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "4e7c3bb3-3055-40f7-a993-471b8ea681a2",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912004,
+        "date_posted": 1739912004,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6635959",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "8fc0ca80-569f-4a38-9537-3e5afb15fe74",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912004,
+        "date_posted": 1739912004,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636049",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "bb250c15-e080-461c-9bff-8319a25f2bfd",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912005,
+        "date_posted": 1739912005,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6635955",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "103ea6b4-1593-40b5-94ca-4b10e7d0c06f",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636196",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "GCM Grosvenor",
+        "id": "19cec51c-eaf4-4d09-bf43-c8b5078a2b26",
+        "title": "Software Engineering Summer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739911214,
+        "date_posted": 1739911214,
+        "url": "https://boards.greenhouse.io/gcmgrosvenor/jobs/6266879003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/c4659eb7-478d-4b6c-9346-8929e1129552",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "2390467b-cfde-49ff-b792-ebfc3598f04e",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636139",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "b672f4b6-3265-47c7-a132-f9cc30cfc087",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636016",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "2601b039-9492-4080-b90d-5b60285c08d3",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636019",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "5b667109-d356-46f7-b469-a960ab19d1c5",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912004,
+        "date_posted": 1739912004,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6635988",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "b37b4a17-ab63-4a64-b2bb-b4e4d07afd9a",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636098",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "0e8e9512-8658-47bd-a2d5-a726ddc50696",
+        "title": "Software Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6636120",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DigitalOcean",
+        "id": "64bc87ed-4342-4004-8848-e9460fad435a",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912003,
+        "date_posted": 1739912003,
+        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=6635956",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalOcean",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Autodesk",
+        "id": "4fc4bb6a-fc3d-4594-9590-c5c0576fcdc9",
+        "title": "Intern \u2013 Full Stack Software Developer",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1739910520,
+        "date_posted": 1739910520,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Ontario-CAN---Remote/Intern--Full-Stack-Software-Developer_24WD81512-1",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "COTA",
+        "id": "383eea33-3e14-4463-ba6c-b90afbdf05d6",
+        "title": "Data Product Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739913827,
+        "date_posted": 1739913827,
+        "url": "https://job-boards.greenhouse.io/cota/jobs/6472352003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/COTA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "2d6dc715-f328-46f2-b361-05560a158654",
+        "title": "Summer 2025 Knowledge Management Data Analyst Intern-Bachelor's",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739910484,
+        "date_posted": 1739910484,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Summer-2025-Knowledge-Management-Data-Analyst-Intern--Bachelor-s--Santa-Clara--CA-_R2511523",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "DJE Holdings",
+        "id": "7444e6fc-1627-4b70-86fe-97ab8c9f7776",
+        "title": "Intern \u2013 Performance Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1739910297,
+        "date_posted": 1739910297,
+        "url": "https://jobs.lever.co/djeholdings/c2ab9ded-891d-4f9a-9c7f-b40b2bf72ec1/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Dje-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Samsung",
+        "id": "6ffd5b35-868c-4aad-bce2-db480f64c6c4",
+        "title": "Summer Intern - Software Dev Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739913796,
+        "date_posted": 1739913796,
+        "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Summer-Intern--Software-Dev-Engineer_R100637",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "f940a814-0d1a-4bc9-a29f-8e9bbb99ac26",
+        "title": "Division CTO Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739913100,
+        "date_posted": 1739913100,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Division-CTO-Intern_R-00153377",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "85af3418-e8a1-4b62-b82d-582f33543e56",
+        "title": "Behavioral and Neuro-Cognitive Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739913098,
+        "date_posted": 1739913098,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Behavioral-and-Neuro-Cognitive-Research-Intern_R-00153368",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Live Nation Entertainment",
+        "id": "574abbb2-4555-4791-a924-8a44da2e4074",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1739912719,
+        "date_posted": 1739912719,
+        "url": "https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/Reston-VA-USA/Software-Engineer-Intern_JR-76686-1",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
         "is_visible": true,
         "sponsorship": "Other"
     }
