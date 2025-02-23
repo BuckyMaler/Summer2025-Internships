@@ -100784,7 +100784,7 @@
         "company_name": "Allegion",
         "id": "a16a92b9-a709-41c9-929c-4f08e9b4bc4a",
         "title": "Software Engineering Verification Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -147853,7 +147853,7 @@
         "company_name": "Workiva",
         "id": "44cef455-9732-4db3-9e68-5c137a05fa01",
         "title": "2025 Summer Intern - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -149919,7 +149919,7 @@
         "company_name": "Ameriprise Financial",
         "id": "521ec143-b3dd-4521-bfa7-e768e6fbd1d7",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -153342,7 +153342,7 @@
         "company_name": "IBM",
         "id": "8c4b91f5-0213-45dd-b769-c69f222c9f5d",
         "title": "Senior Data Scientist Intern - Corporate Development - M&a",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -157658,7 +157658,7 @@
         "company_name": "Warner Bros.",
         "id": "f82a68db-f70e-4fc0-b4a6-f639680c3f10",
         "title": "Netherrealm Software Engineering Co-op - Summer 2025 - June-December",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025",
@@ -158685,7 +158685,7 @@
         "company_name": "TD Bank",
         "id": "7164bed0-12a9-4dbe-804a-035922645626",
         "title": "Global Markets Intern/Co-op - Equity Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -159884,7 +159884,7 @@
         "company_name": "Northrop Grumman",
         "id": "12365a89-b3bb-4b9f-8079-b9021b8c3050",
         "title": "2025 Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -159999,7 +159999,7 @@
         "company_name": "Comcast",
         "id": "2eae01b8-2542-45df-9bf1-8967a2fbaa4c",
         "title": "Comcast HR Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -160688,7 +160688,7 @@
         "company_name": "Lowe's",
         "id": "1506ffc2-1be9-4e4e-a697-4786443101e6",
         "title": "Exploratory Software Engineer \u2013 Undergraduate Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -161284,7 +161284,7 @@
         "company_name": "Athena Health",
         "id": "ff9e9007-36a1-465a-b908-bb3306b4dcb9",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -161335,5 +161335,278 @@
         "date_posted": 1740176205,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Marsh & McLennan",
+        "id": "25058a40-36b1-4331-a11a-0370421fc680",
+        "title": "ICAT Applications Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1740183207,
+        "date_posted": 1740183207,
+        "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Broomfield---Interlocken/ICAT-Applications-Development-Intern---Summer-2025_R_296220-1",
+        "locations": [
+            "Broomfield, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Marsh-McLennan",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Marsh & McLennan",
+        "id": "278c30c3-71f0-435a-a75d-09cc0f2ed069",
+        "title": "Data Strategy Analytics Engineering Co-op - College Program 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025",
+            "Winter 2026"
+        ],
+        "date_updated": 1740183205,
+        "date_posted": 1740183205,
+        "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/New-York---1166/Data-Strategy-Analytics-Engineering-Co-op---NY---College-Program-2025_R_298260-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Marsh-McLennan",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Marsh & McLennan",
+        "id": "44273502-a80c-4039-845a-a94c3c5557ff",
+        "title": "Data Strategy Software Engineering Co-op - College Program 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025",
+            "Winter 2026"
+        ],
+        "date_updated": 1740183171,
+        "date_posted": 1740183171,
+        "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/New-York---1166/Data-Strategy-Software-Engineering-Co-op---NY---College-Program-2025_R_298259-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Marsh-McLennan",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Coral",
+        "id": "a579fe8b-c7f9-428b-89fd-b2323d7076fa",
+        "title": "Software Engineer Intern - AI Anime Avatar Apps \ud83e\udd16",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1740184072,
+        "date_posted": 1740184072,
+        "url": "https://jobs.ashbyhq.com/Coral/9b46f5e6-b22b-40e5-9013-a36445b350b7/application",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/6a0a29d6-c32d-4703-93c2-9b5edf49bebd",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "EUNA Solutions",
+        "id": "22a4ffc3-da41-41b2-b13b-4ab192da2701",
+        "title": "Software Developer Co-Op - Procurement",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1740183990,
+        "date_posted": 1740183990,
+        "url": "https://euna.bamboohr.com/careers/281/",
+        "locations": [
+            "Oakville, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/86636c38-0e05-4ec1-b699-ea03e743f151",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "02bdfe50-af10-440a-9356-4076a85590b7",
+        "title": "Corporate Strategy Intern - Data Science",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1740183437,
+        "date_posted": 1740183437,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Corporate-Strategy-Intern---Data-Science_R2511392",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Live Nation Entertainment",
+        "id": "e980a9dd-5976-45ae-8bc5-dcdf34bb1437",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1740184357,
+        "date_posted": 1740184357,
+        "url": "https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/Reston-VA-USA/Software-Engineer-Intern_JR-76689-1",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Walt Disney Company",
+        "id": "a02791e8-10b2-4fb8-a3c0-0fab8c977c2e",
+        "title": "Disney Entertainment and ESPN Technology Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1740198705,
+        "date_posted": 1740198705,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Disney-Entertainment-and-ESPN-Technology-Software-Engineering-Intern--Seattle--WA--Summer-2025_10114567",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fresenius Medical Care",
+        "id": "d7a70480-1e00-43cd-a5ee-8c624eda5f76",
+        "title": "Software Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1740198530,
+        "date_posted": 1740198530,
+        "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Software-Engineering-Co-op---2_R0190047",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fresenius",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Exact Sciences",
+        "id": "f614c4c0-fa63-41b6-b7b5-e4afcd14d7e8",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1740197898,
+        "date_posted": 1740197898,
+        "url": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Data-Science-Intern_R24-7097",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Exact-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IDEXX",
+        "id": "1f8d1e91-1feb-427f-a2c5-8cfca4508ec3",
+        "title": "Servicenow Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1740227509,
+        "date_posted": 1740227509,
+        "url": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-United-States/ServiceNow-Developer-Intern_J-046234",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/IDEXX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bridgestone",
+        "id": "52384210-0314-4a36-9d8e-97ac74ef8882",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1740227326,
+        "date_posted": 1740227326,
+        "url": "https://bridgestone.wd5.myworkdayjobs.com/External/job/Americas-Technology-Center/Data-Science-Intern_2025_03871",
+        "locations": [
+            "Akron, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Bridgestone",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Lake Michigan Credit Union",
+        "id": "0a7fd4d0-ed14-417e-9d96-f2e277b24e7b",
+        "title": "Retail Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1740226515,
+        "date_posted": 1740226515,
+        "url": "https://lmcu.wd5.myworkdayjobs.com/lmcucareersite/job/Tampa-FL/Retail-Intern---Central-FL_REQ-2025-5426",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Lake-Michigan-Credit-Union",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tandem",
+        "id": "7a76e53c-f5e2-4da2-878b-da950d7b4b71",
+        "title": "Software Engineer Internship",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1740256061,
+        "date_posted": 1740256061,
+        "url": "https://jobs.ashbyhq.com/tandem/82e10191-232e-4e8d-9c5e-cb82940cdfc7/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tandem",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
