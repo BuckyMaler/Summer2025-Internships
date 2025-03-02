@@ -143501,7 +143501,7 @@
         "company_name": "S&P Global ",
         "id": "9a895dd3-a3ac-435f-9395-9867985209c1",
         "title": "Ratings \u2013 Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -143520,7 +143520,7 @@
         "company_name": "S&P Global ",
         "id": "82c377a8-572c-4226-8d91-264fe12b94c1",
         "title": "Data Science Intern-NLP - LLM and GenAI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -145965,7 +145965,7 @@
         "company_name": "Jabil",
         "id": "0b15c1ba-d874-46e2-9b87-1445d025cfd6",
         "title": "Operations Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -146234,7 +146234,7 @@
         "company_name": "Santander",
         "id": "6bd9795f-5619-4ce1-80b9-c2b466571034",
         "title": "Santander CIB 2026 Global Markets \u2013 Summer Analyst Program - Sales & Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -149997,7 +149997,7 @@
         "company_name": "Warner Bros.",
         "id": "e166ddbc-1028-4ea0-b23d-cf3e30cef2da",
         "title": "Research & Analytics Internships - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -151850,7 +151850,7 @@
         "company_name": "Warner Bros.",
         "id": "1c304c7e-a738-46bd-b8e4-c32f38ac1715",
         "title": "Data Analyst Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -151869,7 +151869,7 @@
         "company_name": "Warner Bros.",
         "id": "33833f6d-762e-4774-bf3c-d127c11cb6cc",
         "title": "CNN Digital Growth Analytics Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -152995,7 +152995,7 @@
         "company_name": "Bank of Montreal",
         "id": "0deafc4c-5e5e-43fd-b2cd-02670f28cb8f",
         "title": "Data Analyst Intern \u2013 Co-op/Internship - Business Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -153014,7 +153014,7 @@
         "company_name": "Bank of Montreal",
         "id": "852ce194-2389-465c-9cbd-921e64ad8001",
         "title": "Data Analyst Intern \u2013 Co-op/Internship - Business Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -153342,7 +153342,7 @@
         "company_name": "IBM",
         "id": "8c4b91f5-0213-45dd-b769-c69f222c9f5d",
         "title": "Senior Data Scientist Intern - Corporate Development - M&a",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -155039,7 +155039,7 @@
         "company_name": "Blockhouse",
         "id": "df401ac6-ddc8-438e-9398-8a57f4432c4b",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -155058,7 +155058,7 @@
         "company_name": "S&P Global ",
         "id": "6e2a6387-f18b-40d5-b24f-523de52fffa9",
         "title": "Data Science Intern-NLP - LLM and GenAI - Early Careers",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -157581,7 +157581,7 @@
         "company_name": "Scout Motors",
         "id": "f4d9754c-6741-4cb4-adf5-7332707138ee",
         "title": "2025 Summer Internship - Production - AI Implementation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -161479,7 +161479,7 @@
         "company_name": "The Walt Disney Company",
         "id": "a02791e8-10b2-4fb8-a3c0-0fab8c977c2e",
         "title": "Disney Entertainment and ESPN Technology Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -162037,7 +162037,7 @@
         "company_name": "Curtiss-Wright Corporation",
         "id": "95f3c3eb-8764-4be4-a877-881f809d4437",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -164614,6 +164614,223 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/SP-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "EquipmentShare",
+        "id": "b13997fd-7f7c-4301-8f9a-c88c4a23096b",
+        "title": "Intern: Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1740787985,
+        "date_posted": 1740787985,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=6676021",
+        "locations": [
+            "Columbia, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "USAA",
+        "id": "52e0d888-c710-443d-a37a-8a2aca8af7f0",
+        "title": "CFO Intern - Data",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1740788933,
+        "date_posted": 1740788933,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/CFO-Intern--Data-_R0107528",
+        "locations": [
+            "Charlotte, NC",
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Motorola",
+        "id": "daa73fcc-64bd-4a06-862e-0988222beae8",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1740789607,
+        "date_posted": 1740789607,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Development-Intern--Summer-2025-_R54029",
+        "locations": [
+            "Chicago, IL",
+            "Westminster, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "KBR",
+        "id": "b8b555d4-2c50-422b-baae-db0afc4d64ee",
+        "title": "Power BI Intern - Nss",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1740789413,
+        "date_posted": 1740789413,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/National-Security-Solutions--NSS--Internship---Power-BI-Intern_R2102934",
+        "locations": [
+            "King of Prussia, PA",
+            "Colorado Springs, CO",
+            "Chantilly, VA",
+            "Maui, Hawaii",
+            "Columbus, OH",
+            "Beavercreek, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jabil",
+        "id": "8378d4ed-654d-4a54-98e5-1758a24a0583",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1740802447,
+        "date_posted": 1740802447,
+        "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/Austin-TX/Software-Engineering-Intern_J2410426-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/051f591a-22c2-4254-aec5-c3ee7c82b288",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fidelity National Information Services",
+        "id": "7521f9a1-6d9d-41d6-80c6-fe96f90fa140",
+        "title": "Intern \u2013 Business Application and Machine Learning Developer",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1740802645,
+        "date_posted": 1740802645,
+        "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/CAN-TRNT-Virtual/Intern--Business-Application-and-Machine-Learning-Developer-Spring-2025_JR0289873",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/a5d9e630-71ac-4ef5-9d27-140adc376da1",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1740808298,
+        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Development-Intern_REQ-1608",
+        "company_name": "Interac Corp.",
+        "title": "Software Development Intern",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "e6435f60-2a4c-4330-9393-7603d8b8f5e2",
+        "date_posted": 1740808298,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mr. Cooper",
+        "id": "28656949-16bd-42d7-82c9-944395ce860f",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1740831870,
+        "date_posted": 1740831870,
+        "url": "https://nationstar.wd5.myworkdayjobs.com/mrcooper/job/Cypress-Waters---Dallas-TX/XMLNAME-2025-Summer-Intern-Program---Data-Engineer-Intern--Onsite--DFW-_022987",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/21c673f4-d5e4-401d-aa12-c91bc6aa44fb",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mr. Cooper",
+        "id": "5648116b-682c-4156-8e75-9d3729b6d9ba",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1740831871,
+        "date_posted": 1740831871,
+        "url": "https://nationstar.wd5.myworkdayjobs.com/mrcooper/job/Cypress-Waters---Dallas-TX/XMLNAME-2025-Summer-Virtual-Intern-Program---Data-Engineer-Intern--On-Site-Lewisville-_022975",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/21c673f4-d5e4-401d-aa12-c91bc6aa44fb",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mr. Cooper",
+        "id": "b7a458f4-f4aa-42b5-a139-8c3ddda7fe40",
+        "title": "2025 Summer Intern Program \u2013 Originations Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1740831869,
+        "date_posted": 1740831869,
+        "url": "https://nationstar.wd5.myworkdayjobs.com/mrcooper/job/Cypress-Waters---Dallas-TX/XMLNAME-2025-Summer-Intern-Program---Originations-Analytics-Intern--Onsite-DFW-_023128",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/21c673f4-d5e4-401d-aa12-c91bc6aa44fb",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mr. Cooper",
+        "id": "3ac9aa5e-4228-47bc-9673-c97d5a95bfb4",
+        "title": "2025 Summer Intern Program - Machine Learning Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1740831867,
+        "date_posted": 1740831867,
+        "url": "https://nationstar.wd5.myworkdayjobs.com/mrcooper/job/Cypress-Waters---Dallas-TX/XMLNAME-2025-Summer-Intern-Program---Machine-Learning-Engineer--DFW-_023219",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/21c673f4-d5e4-401d-aa12-c91bc6aa44fb",
         "is_visible": true,
         "sponsorship": "Other"
     }
