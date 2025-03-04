@@ -106268,7 +106268,7 @@
         "company_name": "Amazon",
         "id": "8c9f42dc-4728-4ad8-9e1f-c20b8c372c10",
         "title": "Software Development Engineer - Artificial General Intelligence",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1727305952,
         "date_posted": 1727305952,
@@ -109433,7 +109433,7 @@
         "company_name": "Nutanix",
         "id": "c134fc85-037f-458a-ba69-20e83d986106",
         "title": "Software Engineering Intern Summer 2025 - Undergraduate - Only",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -111073,7 +111073,7 @@
         "company_name": "Motorola",
         "id": "616e565b-b414-4d89-8058-8ce00c4eb71c",
         "title": "Critical Communication Networks Software Engineer \u2013 Summer 2025 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -117859,7 +117859,7 @@
         "company_name": "Link Logistics",
         "id": "43b6fadb-511f-44d4-afa3-bd9490349c35",
         "title": "Data Science Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -118188,7 +118188,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "40012d5b-915f-47b3-b885-6c9bcf87e2d7",
         "title": "Technology Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -124270,7 +124270,7 @@
         "company_name": "Rivian",
         "id": "6c70703f-e752-42a4-88f0-a6ea65b04cf1",
         "title": "Software Engineering Intern - Data Applications - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -139010,7 +139010,7 @@
         "company_name": "Fastly",
         "id": "02dda90c-5ab9-41af-a9b4-fc051a9a22f5",
         "title": "Software Engineer \u2013 Summer Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -145193,7 +145193,7 @@
         "company_name": "Ryan",
         "id": "3b853401-78ac-4a7f-a037-1273889bc31e",
         "title": "Summer 2025 Technology Interns",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -145792,7 +145792,7 @@
         "company_name": "Kalderos",
         "id": "508cfd43-c8b0-41be-8d73-bb0ac551122e",
         "title": "Data Science & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -155116,7 +155116,7 @@
         "company_name": "Vimeo",
         "id": "63f3bb8f-7a3c-4f43-b816-5ec99b2d96ed",
         "title": "Video Playback Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -155922,7 +155922,7 @@
         "company_name": "Vimeo",
         "id": "fe983498-23f6-494b-8e8e-ae9d44dbd178",
         "title": "Software Engineer Intern - Library",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -155941,7 +155941,7 @@
         "company_name": "Vimeo",
         "id": "cb951607-5348-4015-b918-a0ee7e5afe0d",
         "title": "Software Engineer Intern - Viewer Home",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -156384,7 +156384,7 @@
         "company_name": "Motorola",
         "id": "73c625e1-1169-4c15-aaf7-ec048963ab75",
         "title": "Software Engineering \u2013 2025 Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -157292,7 +157292,7 @@
         "company_name": "Critical Mass",
         "id": "0ad04183-ed8a-4b40-bdbe-672fcd75ceef",
         "title": "Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -159617,7 +159617,7 @@
         "company_name": "Applied Materials",
         "id": "2d6dc715-f328-46f2-b361-05560a158654",
         "title": "Summer 2025 Knowledge Management Data Analyst Intern-Bachelor's",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -160496,7 +160496,7 @@
         "company_name": "Rivian",
         "id": "6dcaa70c-cfb7-4171-a76f-4c46f4041a62",
         "title": "Software Engineering Intern - Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -160650,7 +160650,7 @@
         "company_name": "Legend Biotech",
         "id": "168d5e5e-8360-433e-aa65-9509a51b2c85",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -161227,7 +161227,7 @@
         "company_name": "Samsung",
         "id": "a623513a-1b63-415e-80d2-8b5c7cd15c68",
         "title": "Data Analyst \u2013 Intern - Samsung Product Management - Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -161614,7 +161614,7 @@
         "company_name": "Warner Bros.",
         "id": "b4fb42cd-33a9-4e0f-bf3f-5f7d757f4670",
         "title": "Content Protection & Analytics Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -161998,7 +161998,7 @@
         "company_name": "Critical Mass",
         "id": "f5220c38-a1ae-4e62-b94d-52fe01adebe2",
         "title": "Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -162250,7 +162250,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "cca39132-5893-4ac5-895a-5d8d91fd3f01",
         "title": "Associate Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -162364,7 +162364,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "830eac98-c401-4737-9ed5-67f3256bc419",
         "title": "Associate Software Developer \u2013 Co-op position - HP Anyware Endpoints Performance",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -162383,7 +162383,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "f18edb1e-d6eb-48ca-9227-03880ab66f84",
         "title": "Associate Software Developer \u2013 Co-op position - HP Anyware Endpoints System Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -162422,7 +162422,7 @@
         "company_name": "Parsons",
         "id": "23926cea-c85a-4af3-88db-05335c463adc",
         "title": "Computer Engineer/Computer Science 2025 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -162499,7 +162499,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "7caaefc8-0817-4bcb-af99-75a7b0ad9f58",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -162714,7 +162714,7 @@
         "company_name": "Cambia Health Solutions",
         "id": "842099c0-6931-41ea-9296-b5e0cfdca419",
         "title": "Machine Learning Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -163214,7 +163214,7 @@
         "company_name": "CACI",
         "id": "3650841e-3c7a-4465-b957-bedb1727506d",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -163504,7 +163504,7 @@
         "company_name": "Jabil",
         "id": "1e1d00c5-4d9d-49d8-9972-e5c5b329fc91",
         "title": "Integration Services AI and API Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -163925,14 +163925,14 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Cibc",
+        "company_name": "CIBC",
         "id": "c45ceaa0-fb16-4a36-a6ee-cd3d72b7806b",
         "title": "Data Management \u2013 Summer Intern",
         "active": true,
         "terms": [
             "Summer 2025"
         ],
-        "date_updated": 1740689216,
+        "date_updated": 1740983034,
         "date_posted": 1740689216,
         "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/US-Data-Management---2025-Summer-Intern_2419043",
         "locations": [
@@ -164024,7 +164024,7 @@
         "company_name": "Leidos",
         "id": "24c03829-3ae1-4c41-8ecc-16327d9eee29",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -164425,7 +164425,7 @@
         "company_name": "CVS Health",
         "id": "42aa85bc-ab10-49e4-8dab-19381a7cc8cf",
         "title": "Data Science Graduate Intern: Neuroinclusive Interview Process",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -164469,7 +164469,7 @@
         "company_name": "COTA",
         "id": "8fe81d95-1d8a-4e77-8b0b-704309ec751f",
         "title": "DAI Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -164526,7 +164526,7 @@
         "company_name": "Comcast",
         "id": "919b85fa-fa9a-48b9-8d3c-3c91655dedbc",
         "title": "Comcast Software Engineer Intern - Beeswax Serving",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -164546,7 +164546,7 @@
         "company_name": "Eulerity",
         "id": "7d5d9408-3d0e-414e-b692-11201f767f72",
         "title": "Mobile iOS Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -164565,7 +164565,7 @@
         "company_name": "Leidos",
         "id": "8cc4a6ba-5658-42ab-9e8a-221cd05f2215",
         "title": "Network Engineering/Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -164622,7 +164622,7 @@
         "company_name": "EquipmentShare",
         "id": "b13997fd-7f7c-4301-8f9a-c88c4a23096b",
         "title": "Intern: Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -164725,7 +164725,7 @@
         "company_name": "Fidelity National Information Services",
         "id": "7521f9a1-6d9d-41d6-80c6-fe96f90fa140",
         "title": "Intern \u2013 Business Application and Machine Learning Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -164831,6 +164831,354 @@
             "Dallas, TX"
         ],
         "company_url": "https://simplify.jobs/c/21c673f4-d5e4-401d-aa12-c91bc6aa44fb",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1740968610,
+        "url": "https://wd1.myworkdaysite.com/recruiting/clorox/Clorox/job/Durham-NC---USA-Strickland-Bldg/Machine-Learning-Engineer-Intern_18293-1",
+        "company_name": "The Clorox Company",
+        "title": "Machine Learning Engineer Intern",
+        "locations": [
+            "Durham, NC, US"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "BuckyMaler",
+        "id": "8496e713-c80f-4532-a1c3-0dda5bbb435a",
+        "date_posted": 1740968610,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740968638,
+        "url": "https://wd1.myworkdaysite.com/recruiting/clorox/Clorox/job/Durham-NC---USA-Strickland-Bldg/Identity-and-Access-Management--IAM--Analyst-Intern_18337-1",
+        "company_name": "The Clorox Company",
+        "title": "Identity and Access Management (IAM) Analyst Intern",
+        "locations": [
+            "Durham, NC, US"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "BuckyMaler",
+        "id": "492e97e9-26c5-419d-904f-530914d1d0d5",
+        "date_posted": 1740968638,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1740983354,
+        "url": "https://careers.amd.com/careers-home/jobs/57669",
+        "company_name": "AMD",
+        "title": "Software Engineering Intern/Co-Op (Undergrad | Summer, 2025 | Onsite/Hybrid | 4 months)",
+        "locations": [
+            "Markham, Ontario, Canada"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "331aedc8-c542-409d-8cc6-a03a07729d7c",
+        "date_posted": 1740983354,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "917f00b1-1f61-4df8-99a5-a2c58b10dd81",
+        "title": "Intern - Process Data Scientist",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1740989605,
+        "date_posted": 1740989605,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2025-Summer-Intern---Process-Data-Scientist_R2511163",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Daimler Truck",
+        "id": "cc40660b-a1aa-4139-9c44-1b17c4d1e46f",
+        "title": "Accounts Payable Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741034474,
+        "date_posted": 1741034474,
+        "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Accounts-Payable-Data-Analyst-Intern_DT-13886",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Daimler-Truck",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Thousand Eyes",
+        "id": "f66e85a0-871e-4e8c-a940-f700b40cb623",
+        "title": "Software Engineer Intern - Cloud and Enterprise Agents",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741033464,
+        "date_posted": 1741033464,
+        "url": "https://job-boards.greenhouse.io/thousandeyes/jobs/6678480",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Thousand-Eyes",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TIFIN",
+        "id": "e8021e73-6a38-41dc-a3c0-e276acb5efd7",
+        "title": "Intern \u2013 Data Integration",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741033973,
+        "date_posted": 1741033973,
+        "url": "https://tifin.com/careers/apply/?gh_jid=5466344004",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tifin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Checkr",
+        "id": "4d08922b-da24-43d3-a22c-2694fa4c38ea",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741035658,
+        "date_posted": 1741035658,
+        "url": "https://job-boards.greenhouse.io/checkr/jobs/6669517",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Checkr",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CVS Health",
+        "id": "1758e94c-38a6-47cb-9438-e998412c3280",
+        "title": "Innotech Summer Undergraduate Internship 2025 - Aetna Tech - Aetna Health Digital",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741035975,
+        "date_posted": 1741035975,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/InnoTech-Summer-Undergraduate-Internship-2025---Aetna-Tech---Aetna-Health-Digital_R0519332",
+        "locations": [
+            "Smithfield, RI",
+            "Scottsdale, AZ",
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CVS Health",
+        "id": "1efbf540-e05c-4657-b517-787fd4f01888",
+        "title": "Innotech Summer Undergraduate Internship 2025 - Aetna Tech - Data Scientist",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741035959,
+        "date_posted": 1741035959,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/InnoTech-Summer-Undergraduate-Internship-2025---Aetna-Tech---Data-Scientist_R0519406",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CVS Health",
+        "id": "81e4cfa5-beca-4dd2-a5f7-464be9ca96ba",
+        "title": "Innotech Summer Undergraduate Internship - Aetna Tech - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741035956,
+        "date_posted": 1741035956,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/InnoTech-Summer-Undergraduate-Internship-2025---Aetna-Tech---Software-Engineer_R0519345",
+        "locations": [
+            "Smithfield, RI",
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CVS Health",
+        "id": "05e7df8b-6df4-4674-a645-af296b7580db",
+        "title": "Innotech Summer Undergraduate Internship - Aetna Tech - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741035952,
+        "date_posted": 1741035952,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/InnoTech-Summer-Undergraduate-Internship-2025---Aetna-Tech---Software-Engineer_R0520591",
+        "locations": [],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CVS Health",
+        "id": "0ec5c7da-3ec8-46a8-b976-0288a32c7a8a",
+        "title": "Innotech Summer Graduate Internship - Aetna Tech - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741035951,
+        "date_posted": 1741035951,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/InnoTech-Summer-Graduate-Internship-2025---Aetna-Tech---Software-Engineer_R0519307-1",
+        "locations": [
+            "Smithfield, RI",
+            "Scottsdale, AZ",
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Accenture",
+        "id": "50619325-78fb-47c5-af0e-25f08e2ea6cf",
+        "title": "Center for Advanced AI \u2013 Applied Research Scientist Graduate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741035846,
+        "date_posted": 1741035846,
+        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/CA---Mountain-View/Center-for-Advanced-AI---Applied-Research-Scientist-Graduate-Intern---NAELFY25_R00258191",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northrop Grumman",
+        "id": "8c3eb01b-bb17-4420-8df5-84068daf54e1",
+        "title": "2025 Data Analytics Co-op - Mission Assurance",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025",
+            "Winter 2026"
+        ],
+        "date_updated": 1741036829,
+        "date_posted": 1741036829,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2025-Data-Analytics-Co-op---Mission-Assurance_R10187992-1",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northrop Grumman",
+        "id": "ca0c01e4-d9a6-47e3-b59a-6d251e99eb5d",
+        "title": "2025 Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741036820,
+        "date_posted": 1741036820,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkton/XMLNAME-2025-Software-Engineering-Intern---Elkton-MD_R10188004",
+        "locations": [
+            "Elkton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Trepp",
+        "id": "a42e28f3-a2d7-45b5-bee0-407303ab769d",
+        "title": "Full Stack Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741038951,
+        "date_posted": 1741038951,
+        "url": "https://www.trepp.com/joining-trepp?gh_jid=6679252",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Trepp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Athletic Media Company",
+        "id": "bc04fcff-b8b1-48dd-82ce-545bb7534570",
+        "title": "Engineering Student Intern - Summer 2025",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741038494,
+        "date_posted": 1741038494,
+        "url": "https://jobs.lever.co/theathletic/f650f3b0-4a7f-4064-86b5-93e01b538879/apply",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Athletic-Media-Company",
         "is_visible": true,
         "sponsorship": "Other"
     }
