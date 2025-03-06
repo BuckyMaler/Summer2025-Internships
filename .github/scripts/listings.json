@@ -104806,7 +104806,7 @@
         "company_name": "NinjaTrader",
         "id": "32b3b579-cbf6-457c-8b16-69e473465d3f",
         "title": "Web Engineer Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -105207,7 +105207,7 @@
         "company_name": "CACI",
         "id": "61dfc960-07b3-4d24-86f9-8d89cca962d6",
         "title": "Software Development Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -109277,7 +109277,7 @@
         "company_name": "Cockroach Labs",
         "id": "59d64bb2-56df-4381-8bbf-5cd71e5fff7e",
         "title": "Engineering Internships 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -131271,7 +131271,7 @@
         "company_name": "Scale AI",
         "id": "1ca0bd89-e1ef-41c9-bb4e-e2757a61eae9",
         "title": "Machine Learning Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -137915,7 +137915,7 @@
         "company_name": "Lumentum",
         "id": "442cc1d3-61b0-443d-af0e-fa1f7f0d5c58",
         "title": "Precision High Speed 3D Camera Lab and Data Analyst Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -137957,7 +137957,7 @@
         "company_name": "Lumentum",
         "id": "f619a9fe-1ae6-47df-b196-7a69eded2aa2",
         "title": "Metrology System Coop",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -137976,7 +137976,7 @@
         "company_name": "Lumentum",
         "id": "15efa927-bb88-4d57-beee-fa17b019edd7",
         "title": "3D Camera Software Developer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -140977,7 +140977,7 @@
         "company_name": "CACI",
         "id": "9e6d3fd8-71b9-489f-8bf5-97672f13205c",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -141552,7 +141552,7 @@
         "company_name": "Cadence Design Systems",
         "id": "6963e98e-8703-4cfc-8d5c-6cab076c32a8",
         "title": "SVG Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -143364,7 +143364,7 @@
         "company_name": "Motorola",
         "id": "262a27c5-cf3f-484c-a5f7-eb346a723dae",
         "title": "Global Services Business Intelligence & Analytics Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -151368,7 +151368,7 @@
         "company_name": "Zoox",
         "id": "02037816-a3e5-470e-9c4a-e7518ec4d47c",
         "title": "System Integration & Validation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -151425,7 +151425,7 @@
         "company_name": "Symbotic",
         "id": "b4294b3d-f049-42bc-a326-bbf9c55ed068",
         "title": "Co-op-Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Spring 2026",
@@ -152293,7 +152293,7 @@
         "company_name": "Expedia Group",
         "id": "0d699d58-bebf-4369-b1fc-f970642f8403",
         "title": "Mobile Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -155748,7 +155748,7 @@
         "company_name": "Motorola",
         "id": "9ba8b8eb-b669-400a-8c6b-6d435302dea9",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -155922,7 +155922,7 @@
         "company_name": "Vimeo",
         "id": "fe983498-23f6-494b-8e8e-ae9d44dbd178",
         "title": "Software Engineer Intern - Library",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -155941,7 +155941,7 @@
         "company_name": "Vimeo",
         "id": "cb951607-5348-4015-b918-a0ee7e5afe0d",
         "title": "Software Engineer Intern - Viewer Home",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -156576,7 +156576,7 @@
         "company_name": "Amazon",
         "id": "ba16f402-8400-4b77-b177-c5dc713ff737",
         "title": "BIE Co-op Fall Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -156615,7 +156615,7 @@
         "company_name": "Amazon",
         "id": "61f8f4fc-3056-44a3-aa89-0e2392f67af3",
         "title": "DE Co-op Fall Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -160650,7 +160650,7 @@
         "company_name": "Legend Biotech",
         "id": "168d5e5e-8360-433e-aa65-9509a51b2c85",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -162714,7 +162714,7 @@
         "company_name": "Cambia Health Solutions",
         "id": "842099c0-6931-41ea-9296-b5e0cfdca419",
         "title": "Machine Learning Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -163714,7 +163714,7 @@
         "company_name": "Cox",
         "id": "905970f9-f4ae-4171-b1f4-187f945d8495",
         "title": "Software Engineering Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -163869,7 +163869,7 @@
         "company_name": "Voltus",
         "id": "1c259fd5-d46c-412b-b70c-b8bab9bb78e8",
         "title": "Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -164706,7 +164706,7 @@
         "company_name": "Jabil",
         "id": "8378d4ed-654d-4a54-98e5-1758a24a0583",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -165322,7 +165322,7 @@
         "company_name": "SpartanNash",
         "id": "bfdca451-2fcf-4455-a653-ff5149f360e8",
         "title": "IT Database Administration Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -165457,7 +165457,7 @@
         "company_name": "RTX",
         "id": "c8f615dd-798e-4368-ab00-b00cba376b4f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -165495,7 +165495,7 @@
         "company_name": "RTX",
         "id": "5b4db45b-07df-4876-b186-a78a8bc8fa4d",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -165704,7 +165704,7 @@
         "company_name": "Netsmart",
         "id": "16857d0c-80e6-4db7-97ac-69e1a2f921ce",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -165913,7 +165913,7 @@
         "company_name": "Dick's Sporting Goods",
         "id": "56c6e2e3-c501-4575-accd-40b4fb071ca6",
         "title": "Analytics Engineer Intern - Analytics Hub",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -165932,7 +165932,7 @@
         "company_name": "Dick's Sporting Goods",
         "id": "3f0f5f87-1d2e-4fd9-a866-679564933370",
         "title": "Software Engineer Intern - Video",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -165970,7 +165970,7 @@
         "company_name": "Dick's Sporting Goods",
         "id": "832e690d-d0d6-4280-84bb-3cf7abbef025",
         "title": "Software Engineer Intern - User Growth",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -165989,7 +165989,7 @@
         "company_name": "S&P Global ",
         "id": "e9f139c0-d055-4143-bc0a-bfed1e3e3d0f",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -166064,7 +166064,7 @@
         "company_name": "Live Nation Entertainment",
         "id": "11b98237-66b9-4d70-8991-89cbe29a97af",
         "title": "Data Visualization Intern - Liveanalytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -166102,7 +166102,7 @@
         "company_name": "Spot & Tango",
         "id": "5641f7c9-450e-4a56-a6c4-07ce6dc09fce",
         "title": "Data Science/Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -166121,7 +166121,7 @@
         "company_name": "Spot & Tango",
         "id": "60752a60-3707-4c11-b0c8-e1dd2dee7c97",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -166132,6 +166132,775 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Spot-And-Tango",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "1d29809c-76b1-4284-94eb-443e997bcfed",
+        "title": "Sales Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741133696,
+        "date_posted": 1741133696,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Sales-Analytics-Intern_3148585-1",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AssetMark",
+        "id": "0090fb87-54ba-43e3-9e9f-9855a53018b7",
+        "title": "Software Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741133675,
+        "date_posted": 1741133675,
+        "url": "https://assetmark.wd5.myworkdayjobs.com/en-US/AssetMark_Careers/job/Austin-TX/Software-Engineer-Intern_Req-002962",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/ec74b780-e6b1-4ed3-b5fc-119cb7606da8",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SPS Commerce",
+        "id": "b1510efa-acd6-404e-bac0-2270015934b9",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741133609,
+        "date_posted": 1741133609,
+        "url": "https://careers-spscommerce.icims.com/jobs/9182/job",
+        "locations": [
+            "Rogers, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/SPS-Commerce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bloom Energy",
+        "id": "8b2b5c0c-af9f-4c70-a406-7e73ee02dab9",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741133643,
+        "date_posted": 1741133643,
+        "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Software-Engineering-Intern_JR-19516",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bloom-Energy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Figure AI",
+        "id": "29f569dc-7730-4998-baf0-79017eee5e68",
+        "title": "Full-Stack Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741133428,
+        "date_posted": 1741133428,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4451543006",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/04cbb102-51d9-4ce2-a4d8-38a82f8ea8e5",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chime",
+        "id": "c3e31500-fff8-4222-ac07-f328250f1100",
+        "title": "Software Engineer Intern - Funding Habits",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741133411,
+        "date_posted": 1741133411,
+        "url": "https://boards.greenhouse.io/chime/jobs/7744630002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Chime",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chime",
+        "id": "97b893ae-06a8-4225-a6f3-632e980a5382",
+        "title": "Software Engineer Intern - DD Setup",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741133410,
+        "date_posted": 1741133410,
+        "url": "https://boards.greenhouse.io/chime/jobs/7744628002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Chime",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Relativity Space",
+        "id": "5de5f7fb-a465-4c09-baf6-ecefcc7f05cd",
+        "title": "Flight Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1741134354,
+        "date_posted": 1741134354,
+        "url": "https://boards.greenhouse.io/rsinternboard/jobs/7892232002",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Relativity-Space",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Airbus",
+        "id": "cc18a152-270d-43ef-9d1a-b681dbb5741d",
+        "title": "Summer Internship - Project Data Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741134273,
+        "date_posted": 1741134273,
+        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Summer-Internship---Project-Data-Analyst_JR10317675",
+        "locations": [
+            "Mobile, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Airbus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Optiver",
+        "id": "b816e606-0f93-4245-9fdf-2ff1b52d6fce",
+        "title": "Software Engineer Co-Op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1741134544,
+        "date_posted": 1741134544,
+        "url": "https://job-boards.greenhouse.io/optiverprivate/jobs/7883877002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Las Vegas Sands Corp",
+        "id": "11a92b30-7a90-4926-b5fa-3e9c8b0df8ae",
+        "title": "Software Engineering Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741134014,
+        "date_posted": 1741134014,
+        "url": "https://sands.wd1.myworkdayjobs.com/sands_careers/job/Dallas-Texas/Software-Engineering-Intern_R25_0031",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Las-Vegas-Sands-Corp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "28d5719c-16cf-4a7d-8534-0be23f93075f",
+        "title": "Intern - Embedded Systems Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025",
+            "Spring 2026"
+        ],
+        "date_updated": 1741133853,
+        "date_posted": 1741133853,
+        "url": "https://careers.rivian.com/jobs/22518?lang=en-us&icims=1",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Standard Insurance",
+        "id": "b4e0132d-6240-4c4f-9198-ad1d2818abc1",
+        "title": "Data Analyst Intern - RP Sales",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741148057,
+        "date_posted": 1741148057,
+        "url": "https://standard.wd1.myworkdayjobs.com/search/job/Portland-OR/Data--Analyst-Intern---RP-Sales_REQ005361",
+        "locations": [],
+        "company_url": "https://simplify.jobs/c/Standard-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chime",
+        "id": "2ffec62e-f763-40b9-9a84-3330aaa1b7b1",
+        "title": "Software Engineer Intern - Growth Funding",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741147827,
+        "date_posted": 1741147827,
+        "url": "https://boards.greenhouse.io/chime/jobs/7744493002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Chime",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ThredUp",
+        "id": "bb7905b0-76e7-4ea5-aae2-75f641c8fad8",
+        "title": "Machine Learning Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741147726,
+        "date_posted": 1741147726,
+        "url": "https://thredup.wd1.myworkdayjobs.com/en-US/thredup_Careers/job/Scottsdale-AZ/Machine-Learning-Engineer_951",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/abce266b-0529-48a2-bfd2-a071fa10a847",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Covenant Eyes",
+        "id": "a726ad59-505b-4dd3-9a5b-1d61845430a1",
+        "title": "Software Developer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741162465,
+        "date_posted": 1741162465,
+        "url": "https://careers-covenanteyes.icims.com/jobs/1230/job",
+        "locations": [
+            "East Lansing, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Covenant-Eyes",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Everwatch",
+        "id": "1455665b-2757-4563-a63b-02d340458236",
+        "title": "Computer Science Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025",
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1741162476,
+        "date_posted": 1741162476,
+        "url": "https://everwatch-everwatchsolutions.icims.com/jobs/3159/job",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Everwatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Everwatch",
+        "id": "54fca1f5-9c0b-45cc-b257-58c5e5e12457",
+        "title": "Computer Science Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025",
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1741162476,
+        "date_posted": 1741162476,
+        "url": "https://everwatch-everwatchsolutions.icims.com/jobs/3163/job",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Everwatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Everwatch",
+        "id": "8baa2070-38e1-43f4-84d9-8558402d71cf",
+        "title": "Computer Science Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025",
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1741162476,
+        "date_posted": 1741162476,
+        "url": "https://everwatch-everwatchsolutions.icims.com/jobs/3157/job",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Everwatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Covenant Eyes",
+        "id": "0cfcad65-7193-4f17-8ee4-babde9a70e50",
+        "title": "Database Administrator Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741162468,
+        "date_posted": 1741162468,
+        "url": "https://careers-covenanteyes.icims.com/jobs/1219/job",
+        "locations": [
+            "East Lansing, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Covenant-Eyes",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Panasonic Avionics",
+        "id": "7ad2e1ae-2645-4caa-988a-4959319c4548",
+        "title": "Software Test Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741162598,
+        "date_posted": 1741162598,
+        "url": "https://careers.na.panasonic.com/jobs/39684?lang=en-us&icims=1",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Panasonic-Avionics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Everwatch",
+        "id": "f7a6937f-b723-4d9c-839b-5a80e12606f4",
+        "title": "Computer Science Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025",
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1741162476,
+        "date_posted": 1741162476,
+        "url": "https://everwatch-everwatchsolutions.icims.com/jobs/3156/job",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Everwatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Everwatch",
+        "id": "00d91adf-282b-4ab2-a7eb-a23061236f4f",
+        "title": "Computer Science Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025",
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1741162476,
+        "date_posted": 1741162476,
+        "url": "https://everwatch-everwatchsolutions.icims.com/jobs/3161/job",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Everwatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Akima",
+        "id": "bd1c313a-6e40-46e0-bc14-8061c5ee0f11",
+        "title": "EMG STEM Summer Internship - IT/ SOFTWARE / Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741162554,
+        "date_posted": 1741162554,
+        "url": "https://careers.akima.com/jobs/15617?lang=en-us&icims=1",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Akima",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Akima",
+        "id": "c890b449-b1a2-45ea-a634-dde2fa256685",
+        "title": "STEM Summer Internship - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741162517,
+        "date_posted": 1741162517,
+        "url": "https://careers.akima.com/jobs/14669?lang=en-us&icims=1",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akima",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Everwatch",
+        "id": "811fbb38-eec3-47ef-92ef-608f43f87683",
+        "title": "Computer Science Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025",
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1741162476,
+        "date_posted": 1741162476,
+        "url": "https://everwatch-everwatchsolutions.icims.com/jobs/3160/job",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Everwatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Panasonic Avionics",
+        "id": "36c63921-dc73-4aa4-83fb-a586250a88fc",
+        "title": "Business Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1741162597,
+        "date_posted": 1741162597,
+        "url": "https://careers.na.panasonic.com/jobs/41158?lang=en-us&icims=1",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Panasonic-Avionics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Panasonic Avionics",
+        "id": "953fb82c-cb27-4444-a4d4-9015134c3214",
+        "title": "Mulesoft Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741162556,
+        "date_posted": 1741162556,
+        "url": "https://careers.na.panasonic.com/jobs/39952?lang=en-us&icims=1",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Panasonic-Avionics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Panasonic Avionics",
+        "id": "a71c0533-decf-4be4-8406-261ae90227da",
+        "title": "Software Developer Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741162608,
+        "date_posted": 1741162608,
+        "url": "https://careers.na.panasonic.com/jobs/39873?lang=en-us&icims=1",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Panasonic-Avionics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Panasonic Avionics",
+        "id": "cd6fc019-7c8d-45a0-87cc-0619d43b3c9b",
+        "title": "Business Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741162553,
+        "date_posted": 1741162553,
+        "url": "https://careers.na.panasonic.com/jobs/41641?lang=en-us&icims=1",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Panasonic-Avionics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Panasonic Avionics",
+        "id": "eb005959-8e95-4437-b8f5-119684b7cae9",
+        "title": "SAP BTP App/Dev Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1741162605,
+        "date_posted": 1741162605,
+        "url": "https://careers.na.panasonic.com/jobs/40668?lang=en-us&icims=1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Panasonic-Avionics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Panasonic Avionics",
+        "id": "2c2f1c58-b11d-48f0-9173-abdd690572b5",
+        "title": "Web Application Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741162603,
+        "date_posted": 1741162603,
+        "url": "https://careers.na.panasonic.com/jobs/39950?lang=en-us&icims=1",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Panasonic-Avionics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Panasonic Avionics",
+        "id": "8ca1badc-793f-4a03-815c-fae83ee9c66e",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1741162602,
+        "date_posted": 1741162602,
+        "url": "https://careers.na.panasonic.com/jobs/40427?lang=en-us&icims=1",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Panasonic-Avionics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Panasonic Avionics",
+        "id": "fdd1db4c-1590-4fd7-b36a-e615c22fe286",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1741162565,
+        "date_posted": 1741162565,
+        "url": "https://careers.na.panasonic.com/jobs/41162?lang=en-us&icims=1",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Panasonic-Avionics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Panasonic Avionics",
+        "id": "da3be2f1-7fd1-41f2-8957-6989be9c62a1",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1741162588,
+        "date_posted": 1741162588,
+        "url": "https://careers.na.panasonic.com/jobs/39225?lang=en-us&icims=1",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Panasonic-Avionics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Panasonic Avionics",
+        "id": "250bb8e6-cadd-4845-88a1-7d8fc68664f0",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1741162572,
+        "date_posted": 1741162572,
+        "url": "https://careers.na.panasonic.com/jobs/39958?lang=en-us&icims=1",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Panasonic-Avionics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Everwatch",
+        "id": "318a9e09-a6a3-4342-996d-60a44c5f3817",
+        "title": "Computer Science Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025",
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1741162476,
+        "date_posted": 1741162476,
+        "url": "https://everwatch-everwatchsolutions.icims.com/jobs/3158/job",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Everwatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Everwatch",
+        "id": "8e4b8ad9-1308-49f0-bfde-27b0f688aa1e",
+        "title": "Computer Science Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025",
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1741162476,
+        "date_posted": 1741162476,
+        "url": "https://everwatch-everwatchsolutions.icims.com/jobs/3162/job",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Everwatch",
         "is_visible": true,
         "sponsorship": "Other"
     }
