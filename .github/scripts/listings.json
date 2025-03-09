@@ -123617,7 +123617,7 @@
         "company_name": "AeroVironment",
         "id": "8d486696-dd0b-46af-a1a6-68079a88131c",
         "title": "2025 Summer Internship - Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -135846,7 +135846,7 @@
         "company_name": "S&P Global ",
         "id": "2fbd558f-213f-436c-a926-ec966743073f",
         "title": "Data Science & Modeling Intern - Early Careers",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -141130,7 +141130,7 @@
         "company_name": "Nuro",
         "id": "01c0587d-77c1-4ded-b1a0-c5fd17713149",
         "title": "Systems Engineering Intern - Validation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -141510,7 +141510,7 @@
         "company_name": "Comcast",
         "id": "706a4d44-b17a-462f-8938-87d58e480983",
         "title": "Comcast Data Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -145155,7 +145155,7 @@
         "company_name": "AEG",
         "id": "c7d99f1f-6e19-41d8-b832-22783bb2083d",
         "title": "Summer Intern - Application Development - Global Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -153506,7 +153506,7 @@
         "company_name": "Harbinger Motors",
         "id": "e4a0e315-f6ca-454a-a311-35977211c0a2",
         "title": "Intern \u2013 Production Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -163869,7 +163869,7 @@
         "company_name": "Voltus",
         "id": "1c259fd5-d46c-412b-b70c-b8bab9bb78e8",
         "title": "Software Engineering Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -164972,7 +164972,7 @@
         "company_name": "Checkr",
         "id": "4d08922b-da24-43d3-a22c-2694fa4c38ea",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -165108,7 +165108,7 @@
         "company_name": "Northrop Grumman",
         "id": "8c3eb01b-bb17-4420-8df5-84068daf54e1",
         "title": "2025 Data Analytics Co-op - Mission Assurance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025",
@@ -165129,7 +165129,7 @@
         "company_name": "Northrop Grumman",
         "id": "ca0c01e4-d9a6-47e3-b59a-6d251e99eb5d",
         "title": "2025 Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -165303,7 +165303,7 @@
         "company_name": "TruStage",
         "id": "caf3ac30-56c9-4c4b-a8a8-5d01adf706f5",
         "title": "Full-stack \u2013 Application Developer IT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -165342,7 +165342,7 @@
         "company_name": "Checkr",
         "id": "e1f51127-fd43-49c3-a258-549017a65348",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -167237,7 +167237,7 @@
         "company_name": "Vapi",
         "id": "37bce317-7267-4c31-8ef8-40937d2d3a74",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -168097,7 +168097,7 @@
         "company_name": "Kodiak Robotics",
         "id": "40c7b4f9-7ca4-42ba-972c-2e87e7580846",
         "title": "Summer 2025 Intern - Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -168648,6 +168648,257 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Werfen",
+        "id": "ab2d1419-95a6-4ae0-887c-07a1f91b821e",
+        "title": "Intern \u2013 Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741392780,
+        "date_posted": 1741392780,
+        "url": "https://careers-werfen.icims.com/jobs/8460/job",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Werfen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "6f5879f8-71f1-443c-9d25-549ef874ac30",
+        "title": "Summer 2025 Intern - Back-End HDD Manufacturing",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741392576,
+        "date_posted": 1741392576,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000046684318",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "B. Braun Medical Inc",
+        "id": "53cc5a8d-8860-4601-be66-c1b69d150a5e",
+        "title": "Product Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741392371,
+        "date_posted": 1741392371,
+        "url": "https://bbrauncareers-bbraun.icims.com/jobs/25185/job",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/B-Braun-Medical-Inc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Moog Inc",
+        "id": "72554c49-f9dc-447b-bc00-ac4ce5e790db",
+        "title": "Intern \u2013 Fluids Product Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741392365,
+        "date_posted": 1741392365,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Fluids-Product-Engineer_R-25-11069",
+        "locations": [
+            "Boston, NY",
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog-Inc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Moog Inc",
+        "id": "3b3a08b2-86a9-4955-8108-426020b905ce",
+        "title": "Intern \u2013 Fluids Product Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741392365,
+        "date_posted": 1741392365,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Fluids-Product-Engineer_R-25-11070",
+        "locations": [
+            "Boston, NY",
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog-Inc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Safran",
+        "id": "c4f24b99-980e-457b-aafa-3ee6777b2b4e",
+        "title": "Engineering Internships!",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741392355,
+        "date_posted": 1741392355,
+        "url": "https://safransed.bamboohr.com/careers/509/",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Safran",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kodiak Robotics",
+        "id": "8bb4beaa-8ab4-49e5-a457-1b372a12d0bd",
+        "title": "Intern - Motion Planning",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741393371,
+        "date_posted": 1741393371,
+        "url": "https://jobs.lever.co/kodiak/9402afdd-6682-4d9c-9116-cf9fd472742d/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kodiak Robotics",
+        "id": "db462274-034d-42fc-9b58-61e83827f6cd",
+        "title": "Summer 2025 Intern - Perception",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741393369,
+        "date_posted": 1741393369,
+        "url": "https://jobs.lever.co/kodiak/c731a8b1-5efd-4c91-82fc-764a24dfd44b/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kodiak-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sanofi",
+        "id": "35235283-ca1d-4a02-8f66-ec653ddbc72b",
+        "title": "Data and AI Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741393146,
+        "date_posted": 1741393146,
+        "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Cambridge-MA/Data-and-AI-Engineer---Summer-2025-Intern_R2788513",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/2e32cd23-87b9-4a8f-9544-8fd5f15736cc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keysight Technologies, Inc.",
+        "id": "7e7abdfa-7c99-4e45-96a3-e6e4e6ec5760",
+        "title": "Machine Learning Engineering Internship",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1741392695,
+        "date_posted": 1741392695,
+        "url": "https://jobs.keysight.com/jobs/47095?lang=en-us&icims=1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "GE Vernova",
+        "id": "e34a7db8-9d34-453d-a308-a002b6f4afd5",
+        "title": "GE Vernova Control Solutions & Services \u2013 Product Management Lifecare Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741407519,
+        "date_posted": 1741407519,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/GE-Vernova-Control-Solutions---Services---Product-Management-Lifecare-Data-Analytics-Intern---Summer-2025_R5002180-2",
+        "locations": [
+            "Longmont, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Atlas Van Lines",
+        "id": "adc9b259-3822-4dc1-855a-67491198f88b",
+        "title": "IT Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741407498,
+        "date_posted": 1741407498,
+        "url": "https://careers-atlasworldgroupinc.icims.com/jobs/1685/job",
+        "locations": [
+            "Evansville, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Atlas-Van-Lines",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "GE Vernova",
+        "id": "55454fd9-66f9-4392-b0ce-8fb82ad7dc5e",
+        "title": "GE Vernova Digital Technology Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1741407525,
+        "date_posted": 1741407525,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Schenectady/GE-Vernova-Digital-Technology-Internship---Summer-2025_R5005281-1",
+        "locations": [
+            "Greenville, SC",
+            "Schenectady, NY",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
         "is_visible": true,
         "sponsorship": "Other"
     }
