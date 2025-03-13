@@ -111315,7 +111315,7 @@
         "company_name": "Zoox",
         "id": "2cf4ae32-e3ff-45c1-a7c5-d639abf9fc30",
         "title": "Software Engineer \u2013 Robot Software Infrastructure Internship/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -112911,7 +112911,7 @@
         "company_name": "Marvell",
         "id": "9add455e-004f-4bd5-be0b-521eaea12515",
         "title": "Firmware Engineer Intern - Bachelors",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -121429,7 +121429,7 @@
         "company_name": "Echo Global Logistics",
         "id": "cdf042b6-63f6-410b-a36d-8dec42556acf",
         "title": "Software Engineering Intern-Chicago",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -121598,7 +121598,7 @@
         "company_name": "Activision-Blizzard",
         "id": "1a46bffa-7246-4395-add4-e21204a0954c",
         "title": "Data Analytics & Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -128747,7 +128747,7 @@
         "company_name": "ZOLL Medical Corporation",
         "id": "6cfeaca3-c199-4f58-bdaa-161a97115369",
         "title": "Software Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025"
@@ -138520,7 +138520,7 @@
         "company_name": "Rockwell Automation",
         "id": "3010fd0e-8ffe-4160-a6fb-6f179a0e498a",
         "title": "Co-op \u2013 Embedded Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -140016,7 +140016,7 @@
         "company_name": "S&P Global ",
         "id": "c27d90e2-79bf-4f84-b051-bcaf0f4155e9",
         "title": "Data Analysis Product Management Intern - Early Careers",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -142809,7 +142809,7 @@
         "company_name": "Viatris",
         "id": "9cb009b7-ec37-4048-a8c5-5007641e624f",
         "title": "Intern \u2013 IT Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -151174,7 +151174,7 @@
         "company_name": "Blue Cross Blue Shield",
         "id": "d5b8fcb6-3c08-41ec-acab-082f6eda0ace",
         "title": "Summer Intern - IT Application Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -152549,7 +152549,7 @@
         "company_name": "First American",
         "id": "8ef1173d-dfd1-48f3-86b5-5a051b176825",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -153438,7 +153438,7 @@
         "company_name": "Mach9",
         "id": "4d241c98-2def-4110-8a55-dc7534e991d9",
         "title": "Full-Stack Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -153816,7 +153816,7 @@
         "company_name": "LiveRamp",
         "id": "ccb682b2-f8c9-407b-80c1-ab12178b5efc",
         "title": "Co-Op \u2013 Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -155806,7 +155806,7 @@
         "company_name": "Cadence Design Systems",
         "id": "245da664-f1f3-4fe4-b578-a4dc259af238",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -157312,7 +157312,7 @@
         "company_name": "S&P Global ",
         "id": "eaa0352c-8a86-484d-846f-86b075db93e8",
         "title": "Land & Data Analyst Research Intern - Early Careers",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -159426,7 +159426,7 @@
         "company_name": "GCM Grosvenor",
         "id": "19cec51c-eaf4-4d09-bf43-c8b5078a2b26",
         "title": "Software Engineering Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -159656,7 +159656,7 @@
         "company_name": "Samsung",
         "id": "6ffd5b35-868c-4aad-bce2-db480f64c6c4",
         "title": "Summer Intern - Software Dev Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -160842,7 +160842,7 @@
         "company_name": "Cadence Design Systems",
         "id": "ee3356c8-d2e5-4759-92e5-1ca739024404",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -161460,7 +161460,7 @@
         "company_name": "Live Nation Entertainment",
         "id": "e980a9dd-5976-45ae-8bc5-dcdf34bb1437",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -161653,7 +161653,7 @@
         "company_name": "Skechers",
         "id": "2f6f9465-a266-4125-9e0c-19a015b6d66d",
         "title": "Data Science and Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -161940,7 +161940,7 @@
         "company_name": "Motorola",
         "id": "f078107c-8521-499e-b3b1-e7ffe999f79e",
         "title": "Software Engineering \u2013 2025 Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -163637,7 +163637,7 @@
         "company_name": "ThredUp",
         "id": "19d92046-1260-4fa2-bdfb-f68560ed4072",
         "title": "Fintech Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -163734,7 +163734,7 @@
         "company_name": "FM Global",
         "id": "34548cba-e736-42b8-88dc-7d22147a0725",
         "title": "Corporate Underwriting Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -163889,7 +163889,7 @@
         "company_name": "TD Bank",
         "id": "c063af28-110c-433f-a0ad-acb1b6de1dd6",
         "title": "Business Systems Analyst Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -163966,7 +163966,7 @@
         "company_name": "S&P Global ",
         "id": "0a9db25e-8a7b-4c47-afed-ea60312d45bf",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -164763,7 +164763,7 @@
         "company_name": "Mr. Cooper",
         "id": "28656949-16bd-42d7-82c9-944395ce860f",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -165628,7 +165628,7 @@
         "company_name": "Bloom Energy",
         "id": "52108181-42bf-4bf3-9a56-a0cbdb68534d",
         "title": "Quality Data Analysis Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -165666,7 +165666,7 @@
         "company_name": "Bloom Energy",
         "id": "96c11862-e429-486c-b5e5-20126b3b661e",
         "title": "Quality Data Analysis Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -166349,7 +166349,7 @@
         "company_name": "Rivian",
         "id": "28d5719c-16cf-4a7d-8534-0be23f93075f",
         "title": "Intern - Embedded Systems Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025",
@@ -167560,7 +167560,7 @@
         "company_name": "Antora Energy",
         "id": "5e16c9ff-644f-43c3-bcca-adb6a82a2745",
         "title": "Software Engineering Intern - Product Management & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -167713,7 +167713,7 @@
         "company_name": "Solar Landscape",
         "id": "4895eb95-3a04-4815-9211-4a5864733b53",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -168542,7 +168542,7 @@
         "company_name": "Werfen",
         "id": "105dde4b-fdca-4c13-8814-fc740fa5b59f",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -169118,7 +169118,7 @@
         "company_name": "MRI Software",
         "id": "187de591-7a30-463c-a764-6593eaa44a98",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -169138,7 +169138,7 @@
         "company_name": "Live Nation Entertainment",
         "id": "abf9abb6-5623-4d7b-8a1a-6e87743a1b12",
         "title": "Pricing Data Integration Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -169157,7 +169157,7 @@
         "company_name": "MRI Software",
         "id": "266705d0-60a8-4b3e-b054-34f85079207b",
         "title": "AI Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -169196,7 +169196,7 @@
         "company_name": "TD Bank",
         "id": "5974913f-f64b-4f2b-9d65-0ee9f2e4b2da",
         "title": "Tdi Data \u2013 Analytics and Insights Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -169216,7 +169216,7 @@
         "company_name": "Rolls Royce",
         "id": "7628b7c7-5503-45e2-bff8-50bd8813a244",
         "title": "Rolls-Royce Undergraduate of the Year \u2013 Summer Internship - Invite Only",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -169545,7 +169545,7 @@
         "company_name": "City of Charlotte",
         "id": "7a8888e5-4fcc-4e47-993a-dc40914648ea",
         "title": "Data Analytics Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -169583,7 +169583,7 @@
         "company_name": "NineDot Energy",
         "id": "dd086b6d-b312-498c-b630-4ec3a1634ea4",
         "title": "Intern \u2013 Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -169660,7 +169660,7 @@
         "company_name": "GE Aerospace",
         "id": "077d03b8-18b4-42e6-8692-86e42d2f22af",
         "title": "Engineering Engines Intern - Computer or Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -169857,7 +169857,7 @@
         "company_name": "Leidos",
         "id": "97ebef54-d514-478d-9d7b-2441093d244a",
         "title": "System Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -169925,6 +169925,2517 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Genies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Simons Foundation",
+        "id": "ba5408b3-904a-447b-8ebc-e5cb049f291c",
+        "title": "Summer Research Interns - Center for Computational Mathematics",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749191,
+        "date_posted": 1741749191,
+        "url": "https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/162-Fifth-Avenue-New-York-NY/Summer-Research-Interns--Center-for-Computational-Mathematics_R0001812",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/645bbffd-6910-4c90-b4d5-ec941d975b60",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SpaceX",
+        "id": "e18e4457-72da-4757-9fc2-ee3026f365df",
+        "title": "Software Engineering Internship/Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1741750161,
+        "date_posted": 1741750161,
+        "url": "https://boards.greenhouse.io/spacex/jobs/7907307002",
+        "locations": [
+            "Bastrop, TX",
+            "Irvine, CA",
+            "Cape Canaveral, FL",
+            "Brownsville, TX",
+            "Redmond, WA",
+            "McGregor, TX",
+            "West Athens, CA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Extreme Networks",
+        "id": "f10d2fec-4315-4985-92c9-701de5ca2ce2",
+        "title": "Intern: Americas Systems Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741750126,
+        "date_posted": 1741750126,
+        "url": "https://jobs.lever.co/extremenetworks/fca90fd0-af44-4d24-9d81-bdbbbf8fd251/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Extreme-Networks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "dfee4ba0-bad8-4f11-aca4-6e193604e248",
+        "title": "Summer Undergraduate Internship - Enterprise Delivery - APMO Automation & Analytics",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741750064,
+        "date_posted": 1741750064,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7901145002",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "b9f5e9fb-3bd1-4455-bc25-054f547c855f",
+        "title": "Innotech Summer Undergraduate Internship - Aetna Tech - Aetna Health Digital",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741750062,
+        "date_posted": 1741750062,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7901127002",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "efed2cee-801b-47df-8a4e-ec071888ea49",
+        "title": "Software Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749850,
+        "date_posted": 1741749850,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7904557002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "6cf6dd13-6264-404f-bb2e-c4557d6e96d4",
+        "title": "Software Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749850,
+        "date_posted": 1741749850,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7904494002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "a6ab824c-bb8f-46f6-8976-4a249516e68a",
+        "title": "Software Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749850,
+        "date_posted": 1741749850,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7904535002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "dc3e55ca-da06-4791-b965-f96b7e94ca31",
+        "title": "Software Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749850,
+        "date_posted": 1741749850,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7897584002",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "1f7e379e-ba1b-4175-8844-9edb0525dd78",
+        "title": "Software Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749850,
+        "date_posted": 1741749850,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7904505002",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "dff32cd0-2ed5-4ec1-8787-5321bb915c7d",
+        "title": "Rockwell Automation \u2013 Intern - Software Engineering",
+        "active": false,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1741749856,
+        "date_posted": 1741749856,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7889351002",
+        "locations": [
+            "Mayfield Heights, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "51485349-32a8-4735-af31-b39efa8ea9f9",
+        "title": "Rockwell Automation - Software Engineering",
+        "active": false,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025",
+            "Winter 2026"
+        ],
+        "date_updated": 1741749849,
+        "date_posted": 1741749849,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7889458002",
+        "locations": [
+            "Mayfield Heights, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "3d40d72f-f023-40ec-924c-e7f4dd2491e8",
+        "title": "Software Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749850,
+        "date_posted": 1741749850,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7904551002",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "3ad3ddf5-563d-43d8-b0ca-57a8e15bc1f0",
+        "title": "Software Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749852,
+        "date_posted": 1741749852,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7904529002",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "9fb2cf61-ec8f-41cf-9613-b7e670a69674",
+        "title": "Rockwell Automation \u2013 Co-op - Firmware Engineering",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749845,
+        "date_posted": 1741749845,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7889484002",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "be1dd06b-d160-4558-9c9f-a9157c3df817",
+        "title": "Software Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749850,
+        "date_posted": 1741749850,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7904481002",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "0243de4e-601c-423b-aff7-afee2c28a4db",
+        "title": "Software Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749850,
+        "date_posted": 1741749850,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7897559002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "cb2be64a-5c3d-41e6-ab5d-d4ff0e9cb6ac",
+        "title": "Software Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749851,
+        "date_posted": 1741749851,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7904556002",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "9ab9721f-590b-4e40-b850-134cd70c6e5d",
+        "title": "Intern - Innovation Platform Software Engineer",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749856,
+        "date_posted": 1741749856,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7889476002",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "f07027ed-b526-47bc-afef-865edf348d91",
+        "title": "Software Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749849,
+        "date_posted": 1741749849,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7904538002",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "f22ba299-3f59-42c4-874a-613466bc2165",
+        "title": "Product Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749831,
+        "date_posted": 1741749831,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7897415002",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "2f251864-7193-4e01-8b3d-ab4c78bda8c7",
+        "title": "Product Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749830,
+        "date_posted": 1741749830,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7897412002",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "db5df85a-d1cb-4e5b-a755-a24ef78190d7",
+        "title": "Product Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749829,
+        "date_posted": 1741749829,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7897391002",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "ab93071d-5be5-47f4-857e-96671a956d76",
+        "title": "Product Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749829,
+        "date_posted": 1741749829,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7897374002",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "a9517262-8e09-4ad1-94b3-253274eac521",
+        "title": "Marketing Analytics Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749819,
+        "date_posted": 1741749819,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7899901002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "7e563814-d4a2-4e8a-ac3c-133afde09fe7",
+        "title": "Product Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749829,
+        "date_posted": 1741749829,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7897442002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "a801ace5-7cb5-4f5a-b794-dcef4b509816",
+        "title": "Machine Learning Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749818,
+        "date_posted": 1741749818,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7904853002",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "40ac07b2-c5ed-452f-94b4-fffabf7e6c30",
+        "title": "Marketing Analytics Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749817,
+        "date_posted": 1741749817,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7899891002",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "ae72cfa6-18de-48d8-98da-73adeb565e37",
+        "title": "Product Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749829,
+        "date_posted": 1741749829,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7897384002",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "a6f4e24d-9726-461c-8039-e46b1b2f272a",
+        "title": "Marketing Analytics Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749817,
+        "date_posted": 1741749817,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7899911002",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "62ec442c-7982-4433-8d7d-b0f2fcd13570",
+        "title": "Machine Learning Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749816,
+        "date_posted": 1741749816,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7895025002",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "53f9de53-4f49-4ca3-b9b3-debad6c6c5c6",
+        "title": "Product Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749828,
+        "date_posted": 1741749828,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7897430002",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "a249f4c0-57b8-40ca-bd01-2870226dd735",
+        "title": "Machine Learning Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749816,
+        "date_posted": 1741749816,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7895066002",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "3f8dcc68-2b42-4b1e-81d6-7b8e9954c87d",
+        "title": "Machine Learning Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749817,
+        "date_posted": 1741749817,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7904832002",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "42f260e2-4ce2-42fc-89c1-0a619a96ac14",
+        "title": "Machine Learning Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749819,
+        "date_posted": 1741749819,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7895046002",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "5194a49f-01d5-4b4f-a014-3179d8013f35",
+        "title": "Marketing Analytics Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749818,
+        "date_posted": 1741749818,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7899909002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "70e24932-62be-4560-b7c0-b16c391c28cc",
+        "title": "Marketing Analytics Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749818,
+        "date_posted": 1741749818,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7899914002",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "99ae6e7e-e7d6-4f99-950c-e8fa7f3f232b",
+        "title": "Machine Learning Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749819,
+        "date_posted": 1741749819,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7895082002",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "6af65143-91b9-4129-b17f-117d325ec946",
+        "title": "Machine Learning Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749816,
+        "date_posted": 1741749816,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7895057002",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "688c87fd-d12c-4654-a971-c0306b049642",
+        "title": "Product Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749829,
+        "date_posted": 1741749829,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7897362002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "66dc446b-a9a9-474b-b9d5-dccebf71f12b",
+        "title": "Product Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749829,
+        "date_posted": 1741749829,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7897414002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "37b28e10-d54d-460e-af0e-d9dc60d9b155",
+        "title": "Marketing Analytics Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749820,
+        "date_posted": 1741749820,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7899879002",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "893f777b-18c9-465d-91ad-d4d5d3cba5b3",
+        "title": "Technology Intern",
+        "active": false,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1741749800,
+        "date_posted": 1741749800,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7878496002",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "04512f15-0ebb-407e-8de9-317af6b2c7f5",
+        "title": "Investment Analyst Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749800,
+        "date_posted": 1741749800,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7894547002",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "acd02543-7cfa-4446-ae97-cb8554fe0ee1",
+        "title": "Investment Analyst Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749800,
+        "date_posted": 1741749800,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7894529002",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "38cd6ab6-158c-4b4c-a4c8-ce2ba495c35c",
+        "title": "Investment Analyst Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749800,
+        "date_posted": 1741749800,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7894533002",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "f57a410a-c320-4fcf-8538-b85df4b73b4d",
+        "title": "Investment Analyst Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749801,
+        "date_posted": 1741749801,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7894534002",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "8789088d-ebef-4c74-8e81-f93f2f814967",
+        "title": "Investment Analyst Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749801,
+        "date_posted": 1741749801,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7894544002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "14e2ffb4-ffdc-493d-9c7d-93e2de087796",
+        "title": "Investment Analyst Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749800,
+        "date_posted": 1741749800,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7894526002",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "51546756-4a96-41cb-b4e1-a52f8d065a93",
+        "title": "Investment Analyst Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749799,
+        "date_posted": 1741749799,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7894590002",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "95b29c94-ee2f-4f0c-8ad8-614efa8c432c",
+        "title": "Innotech Summer Undergraduate Internship - Aetna Tech - Aetna Health Digital",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749764,
+        "date_posted": 1741749764,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7901129002",
+        "locations": [
+            "Smithfield, RI",
+            "Scottsdale, AZ",
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "7d7996c9-93f0-4a05-836f-d1adf9bd203f",
+        "title": "Internship - Aetna Tech - Data Scientist",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749761,
+        "date_posted": 1741749761,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7901092002",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "11a9d454-4b47-4979-89d6-7b4374e85bd2",
+        "title": "Innotech Summer Graduate Internship - Aetna Tech - Software Engineer",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749758,
+        "date_posted": 1741749758,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7900923002",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "bfbd7829-8fed-46b6-b5a7-3ffa41d47b60",
+        "title": "Innotech Summer Graduate Internship - Aetna Tech - Software Engineer",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749757,
+        "date_posted": 1741749757,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7900924002",
+        "locations": [
+            "Smithfield, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "5d88e379-e530-4db6-8425-e15ec237702f",
+        "title": "Epic \u2013 Software Development Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749777,
+        "date_posted": 1741749777,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7893233002",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "f3ad03d5-f0d1-4473-9760-7841e0a945fe",
+        "title": "Innotech Summer Graduate Internship - Health Care Delivery - Enterprise Engineering",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749759,
+        "date_posted": 1741749759,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7900888002",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "2b204516-b84f-4aed-a83a-b1faf6b4d9ee",
+        "title": "Innotech Summer Graduate Internship - Health Care Delivery - Enterprise Engineering",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749759,
+        "date_posted": 1741749759,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7900896002",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "35c9cd7f-de7c-49ac-86d2-0280f580842d",
+        "title": "Innotech Summer Undergraduate Internship - Aetna Tech - Software Engineer",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749759,
+        "date_posted": 1741749759,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7901107002",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "2b52c0ec-0091-4097-b267-ddfe5b98107b",
+        "title": "Innotech Summer Undergraduate Internship - Pharmacy & Consumer Wellness Tech - Software Engineer",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749763,
+        "date_posted": 1741749763,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7900913002",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "81a9d79d-47ae-48cd-a922-fb8b5f5d08bc",
+        "title": "Innotech Summer Undergraduate Internship - Pharmacy Services - Software Engineer",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749764,
+        "date_posted": 1741749764,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7901138002",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "36185c31-d000-4b03-9005-31fd0e99cf0b",
+        "title": "Innotech Summer Undergraduate Internship - Pharmacy Services - Software Engineer",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749766,
+        "date_posted": 1741749766,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7901144002",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "6569a9a2-a1ae-479d-a4e0-974eed8c941a",
+        "title": "Data Analyst Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749761,
+        "date_posted": 1741749761,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7887306002",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "45169156-7c21-4f69-97f9-95c3fbe27559",
+        "title": "Innotech Summer Graduate Internship - Aetna Tech - Software Engineer",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749757,
+        "date_posted": 1741749757,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7900925002",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "6d51bb62-36cd-472d-8a13-2f93a15ab7cb",
+        "title": "Innotech Internship - Pharmacy & Consumer Wellness Tech - Web Development Modern Stack",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749755,
+        "date_posted": 1741749755,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7901091002",
+        "locations": [
+            "Smithfield, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "47ca1ed3-9c8f-4b10-836a-98514b7af00b",
+        "title": "Data Analyst Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749764,
+        "date_posted": 1741749764,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7887294002",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "3bd1cc64-83a4-4f42-9c08-4f3de837281c",
+        "title": "Data Analyst Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749763,
+        "date_posted": 1741749763,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7887288002",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "9ba74741-e9c4-44b1-a5bf-dba8e9f6edab",
+        "title": "Data Analyst Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749762,
+        "date_posted": 1741749762,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7887304002",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "f013aa3e-78b0-419e-b9e8-fcd1b67d467b",
+        "title": "Innotech Summer Undergraduate Internship - Pharmacy Services - Software Engineer",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749763,
+        "date_posted": 1741749763,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7901137002",
+        "locations": [
+            "Smithfield, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "ec765fed-e532-453c-8133-58cf0badfb86",
+        "title": "Data Analyst Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749762,
+        "date_posted": 1741749762,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7887292002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "29f26dea-8fb3-425f-9b30-f16bdd6097fb",
+        "title": "Innotech Summer Undergraduate Internship - Aetna Tech - Software Engineer",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749760,
+        "date_posted": 1741749760,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7901108002",
+        "locations": [
+            "Smithfield, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "e78a7495-c68a-4d9c-9363-528467360e9c",
+        "title": "Database Engineering IT Summer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749745,
+        "date_posted": 1741749745,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7884270002",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rivian",
+        "id": "f761b105-5280-40dc-8ecb-5e1e5aac0e63",
+        "title": "Intern - Embedded Systems Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025",
+            "Spring 2026"
+        ],
+        "date_updated": 1741749654,
+        "date_posted": 1741749654,
+        "url": "https://careers.rivian.com/jobs/22736?lang=en-us&icims=1",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "97d5ab31-1fea-435d-a848-7da0243e86a3",
+        "title": "Marketing Analytics Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749818,
+        "date_posted": 1741749818,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7899871002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "1c97e0ac-8ae3-4a1d-820e-34ddfb5ac0e1",
+        "title": "Machine Learning Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749817,
+        "date_posted": 1741749817,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7894673002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "8f29c973-d9d5-478e-95ea-5830f5d0ee24",
+        "title": "Product Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749828,
+        "date_posted": 1741749828,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7897459002",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "19f99690-85d4-42aa-b1eb-9a6a654452bc",
+        "title": "Machine Learning Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749816,
+        "date_posted": 1741749816,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7904828002",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "45a93997-f51c-445a-95a8-64cfc6b4cd1d",
+        "title": "Investment Analyst Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749801,
+        "date_posted": 1741749801,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7894514002",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "a39885b1-d07c-41f8-a225-7e9556c36b08",
+        "title": "Marketing Analytics Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749818,
+        "date_posted": 1741749818,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7899906002",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "699a0201-b027-45c9-b26f-a802fff2b5db",
+        "title": "Machine Learning Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749816,
+        "date_posted": 1741749816,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7895086002",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "44011c01-19f9-4bc1-8269-d1466ae0e926",
+        "title": "Investment Analyst Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749802,
+        "date_posted": 1741749802,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7894566002",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "b7be17ad-cd41-4bbd-b160-93a6f7209695",
+        "title": "Machine Learning Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749819,
+        "date_posted": 1741749819,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7894685002",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "eb951307-4819-40f7-85a0-d522c4fbba09",
+        "title": "Machine Learning Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749816,
+        "date_posted": 1741749816,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7895070002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "7ec395d4-7512-4b70-b73b-5cffc9cff21a",
+        "title": "Software Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749850,
+        "date_posted": 1741749850,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7904482002",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "5a5be777-c5fc-41a0-a501-f118fe5bdf56",
+        "title": "Software Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749850,
+        "date_posted": 1741749850,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7904522002",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "a0703865-3d40-4a33-add8-0add0a0ca3f9",
+        "title": "Summer Undergraduate Internship - Enterprise Delivery",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749764,
+        "date_posted": 1741749764,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7901084002",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "1900705d-2b5e-45ce-bb5a-640d64232bef",
+        "title": "Machine Learning Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749816,
+        "date_posted": 1741749816,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7895071002",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "5a1080dd-26aa-4d2a-bc96-06ae0f28e71b",
+        "title": "Machine Learning Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749816,
+        "date_posted": 1741749816,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7904851002",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "5e50073c-a3fe-4cf2-9c50-4fe5c1c7ea75",
+        "title": "Innotech Summer Undergraduate Internship - Pharmacy & Consumer Wellness Tech - Software Developer",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749764,
+        "date_posted": 1741749764,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7900897002",
+        "locations": [
+            "Smithfield, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "b11985c1-fe75-46f4-9b47-e55e8b58be7e",
+        "title": "Rockwell Automation \u2013 Intern - Embedded Software Engineering",
+        "active": false,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1741749844,
+        "date_posted": 1741749844,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7889497002",
+        "locations": [
+            "Eden Prairie, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "899e226b-5a37-46ce-be15-3b069ab12fb2",
+        "title": "Investment Analyst Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749800,
+        "date_posted": 1741749800,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7894579002",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "146b66fc-55f1-4aab-a02a-d14fc919723c",
+        "title": "Marketing Analytics Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749818,
+        "date_posted": 1741749818,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7899860002",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "cd4da2cb-76de-418a-a397-9a260204db04",
+        "title": "Product Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749829,
+        "date_posted": 1741749829,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7897382002",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "2f31c132-0f65-4c34-bee0-4f7a9c5a1656",
+        "title": "Machine Learning Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749816,
+        "date_posted": 1741749816,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7895041002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "da387404-9cc0-4e04-88a8-f0b5756ee479",
+        "title": "Data Analyst Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749762,
+        "date_posted": 1741749762,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7887281002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "826ff089-cc7f-435f-9d99-53b76d771ce4",
+        "title": "Innotech Summer Undergraduate Internship - Pharmacy & Consumer Wellness Tech - Software Engineer",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749763,
+        "date_posted": 1741749763,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7900916002",
+        "locations": [
+            "Smithfield, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "cc479918-c2d7-498b-9c30-256ccac24020",
+        "title": "Data Analyst Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749762,
+        "date_posted": 1741749762,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7887285002",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Harmonic",
+        "id": "1f0c7ce4-134d-4b9b-bd06-790489329bee",
+        "title": "Research Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749619,
+        "date_posted": 1741749619,
+        "url": "https://jobs.ashbyhq.com/Harmonic/4c9a9e3e-6ff6-4e08-8a36-6cf57cb3ea1f/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Harmonic-Math",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "0f2e81b9-83ec-4c7a-93bb-faed56fd1af6",
+        "title": "Machine Learning Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749817,
+        "date_posted": 1741749817,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7894667002",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "c06f83fa-65d7-4827-ad80-41360b47798d",
+        "title": "Internship - Aetna Tech - Software Engineer",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749760,
+        "date_posted": 1741749760,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7901101002",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "c88f716f-2217-4e12-b9c2-565d2411a585",
+        "title": "Software Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749850,
+        "date_posted": 1741749850,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7904501002",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "f2ffcaaf-5751-4bc6-930b-47cc2029225a",
+        "title": "Innotech Summer Graduate Internship - Health Care Delivery - Enterprise Engineering",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749761,
+        "date_posted": 1741749761,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7900887002",
+        "locations": [
+            "Smithfield, RI",
+            "Scottsdale, AZ",
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "eb35f5cf-b698-4df5-87bb-daa34476ddfb",
+        "title": "Data Analyst Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749762,
+        "date_posted": 1741749762,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7889386002",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "ea6a0b1c-b419-42c5-9f26-b5d42a3e9dc2",
+        "title": "Machine Learning Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749817,
+        "date_posted": 1741749817,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7895034002",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "a3d8f26a-5c02-4665-ab21-280dcc032142",
+        "title": "Marketing Analytics Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749818,
+        "date_posted": 1741749818,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7899868002",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "feca2d64-aadd-43f5-97e7-4cfdf27ae5e7",
+        "title": "Innotech Summer Undergraduate Internship - Enterprise Delivery",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749764,
+        "date_posted": 1741749764,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7901077002",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "5a217553-8180-4ca4-969e-d3efc49bc3ea",
+        "title": "Product Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749829,
+        "date_posted": 1741749829,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7897453002",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "60c83e31-cea5-4830-ae4b-0b0d743005b4",
+        "title": "Investment Analyst Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749800,
+        "date_posted": 1741749800,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7894561002",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "f09300e7-335b-440a-8e2f-6f3c178f33e0",
+        "title": "Machine Learning Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749818,
+        "date_posted": 1741749818,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7894663002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "1f3099e6-4609-4e77-8864-b1d8afdf8189",
+        "title": "Innotech Summer Undergraduate Internship - Aetna Tech - Aetna Health Digital",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749763,
+        "date_posted": 1741749763,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7901128002",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "7ef523f0-dbf6-463e-9f05-7837f3088539",
+        "title": "Innotech Summer Undergraduate Internship - Enterprise Delivery - Finance Technology & Corporate Systems",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749766,
+        "date_posted": 1741749766,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7900942002",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RippleMatch",
+        "id": "121751f2-a272-481a-84a3-8835b0b62fb6",
+        "title": "Data Analyst Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741749762,
+        "date_posted": 1741749762,
+        "url": "https://job-boards.greenhouse.io/ripplematchinterns/jobs/7887287002",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ByteDance",
+        "id": "57f658a6-3cca-429c-8ebf-c35bb82d13be",
+        "title": "Video Experience Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1741777953,
+        "date_posted": 1741777953,
+        "url": "https://jobs.bytedance.com/en/position/7480762421310392583/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "S&P Global ",
+        "id": "2839fff9-8697-48f3-873c-4130ffc5aa35",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741793978,
+        "date_posted": 1741793978,
+        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Software-Engineer-Intern_312045-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/SP-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "80bc20c5-0745-4616-b019-5d06fc38c232",
+        "title": "2025 Summer Process Integration Engineer Intern - Bachelors",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741778527,
+        "date_posted": 1741778527,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/XMLNAME-2025-Summer-Process-Integration-Engineer-Intern--Bachelors---Santa-Clara--CA_R2511957-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1741801612,
+        "url": "https://www.gd.com/careers/intern-software-engineer-scottsdale-az-us-2025-65492-gdms-opportunity",
+        "company_name": "General Dynamics",
+        "title": "Intern, Software Engineer",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "Shaunak-Sinha-05",
+        "id": "6a5f6380-7601-4c28-ae14-aa47f28afa41",
+        "date_posted": 1741801404,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1741801790,
+        "url": "https://www.gd.com/careers/software-intern-engineer-florham-park-nj-us-2025-65566-gdms-opportunity",
+        "company_name": "General Dynamics",
+        "title": "Software Intern Engineer",
+        "locations": [
+            "Florham Park, NJ"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "Shaunak-Sinha-05",
+        "id": "190cb6f9-db32-4731-bf29-65794d1963e7",
+        "date_posted": 1741801657,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Point72",
+        "id": "973aae71-2f10-4f4c-b282-b65cd85bf3e6",
+        "title": "Data Engineer Internship - Long/Short Equities",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741821294,
+        "date_posted": 1741821294,
+        "url": "https://job-boards.greenhouse.io/point72/jobs/7909020002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Samsung",
+        "id": "70bd9404-e260-4409-af37-83eee7a3e33c",
+        "title": "Samsung Ads \u2013 Intern - Client Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741821162,
+        "date_posted": 1741821162,
+        "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Ads---Intern---Client-Engineer_R101520",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jobber",
+        "id": "88356d69-fc5c-4059-8b6c-5556c699c0a1",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1741821124,
+        "date_posted": 1741821124,
+        "url": "https://boards.greenhouse.io/jobber/jobs/7900058002",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jobber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arrowstreet Capital",
+        "id": "76371c4b-a080-42ca-92cb-995df056e7ef",
+        "title": "Research Systems Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741821820,
+        "date_posted": 1741821820,
+        "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Research-Systems-Software-Engineer-Intern--Summer-2025_R1268",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arrowstreet-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Keysight Technologies, Inc.",
+        "id": "4a951b5b-6a10-4594-83f9-fd72c61f12a2",
+        "title": "R&D Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1741821808,
+        "date_posted": 1741821808,
+        "url": "https://jobs.keysight.com/jobs/47218?lang=en-us&icims=1",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "e172c73a-4611-448a-8bdf-eb9c179157a3",
+        "title": "Robot Platform Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1741821717,
+        "date_posted": 1741821717,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Kitchener-Ontario-Canada/Robot-Platform-Software-Developer-Intern_R25-2157-1",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "C&S Wholesale Grocers",
+        "id": "0967f964-d077-4ba9-9450-e82270e19191",
+        "title": "Supply Chain Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741821706,
+        "date_posted": 1741821706,
+        "url": "https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Keene-NH/Supply-Chain-Analytics-Intern---Summer-2025_R-258942",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CS-Wholesale-Grocers",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sierra Nevada Coporation",
+        "id": "3dbc0f96-5054-4a7e-9177-c06053f332cd",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1741821672,
+        "date_posted": 1741821672,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-Intern_R0026999",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "8415b82a-ff06-4219-b1a2-6f1fca461977",
+        "title": "Automation Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1741822696,
+        "date_posted": 1741822696,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Automation-Engineering-Intern_R-00155303",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "b2988c10-1961-45f3-bf8f-647b4ecc8056",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1741822684,
+        "date_posted": 1741822684,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Engineering-Intern_R-00155352",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Live Nation Entertainment",
+        "id": "d3c16323-940b-4fb5-98b5-59e15643a2b3",
+        "title": "Front End Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741822644,
+        "date_posted": 1741822644,
+        "url": "https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/Beverly-Hills-CA-USA/Front-End-Developer-Intern_JR-77866",
+        "locations": [
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Favor",
+        "id": "242558f9-1504-4bad-8614-748f3e3ef398",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741822525,
+        "date_posted": 1741822525,
+        "url": "https://jobs.lever.co/askfavor/3540e7d0-dd72-4583-94a6-176854b38bdf/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Favor",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RTX",
+        "id": "bafa6696-a035-49ce-8a48-a23dd76833e2",
+        "title": "Software Engineering Intern SEPP",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741822438,
+        "date_posted": 1741822438,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineering-Intern-SEPP--Summer-2025--Onsite-_01755867",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bank of Montreal",
+        "id": "36f022bc-1bb2-4802-932c-bd67489f3f93",
+        "title": "User Experience Operations \u2013 Co-op/Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741821871,
+        "date_posted": 1741821871,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/User-Experience-Operations--Summer-2025--Co-op-Internship----4-Months_R250006356-2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "f4673cc5-11b5-4d75-b66c-e9f0a01338db",
+        "title": "Data Analysis Intern - Sales",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1741821686,
+        "date_posted": 1741821686,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Data-Analysis-Intern---Sales_3148590",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
         "is_visible": true,
         "sponsorship": "Other"
     }
