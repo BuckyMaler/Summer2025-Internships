@@ -96619,7 +96619,7 @@
         "company_name": "SpaceX",
         "id": "47c2dea3-2984-4563-b92b-71218b5180c4",
         "title": "Summer 2025 Software Engineering Internship/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -128400,7 +128400,7 @@
         "company_name": "MKS Instruments",
         "id": "f580cf15-5d11-47b9-b1ed-50874b4d1a3e",
         "title": "2025 Summer-Fall Undergraduate Co-op - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025",
@@ -145289,7 +145289,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "67911557-18e8-46af-802a-ab91e0bb90f6",
         "title": "Corporate Intern - Digital and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -154688,7 +154688,7 @@
         "company_name": "Teledyne",
         "id": "67959b97-7795-4b9f-a8b5-dc2d9932a15d",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -158040,7 +158040,7 @@
         "company_name": "Dexcom",
         "id": "c4b59b60-0a2d-40c9-9d94-d208c5708fcf",
         "title": "Intern II \u2013 Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -160152,7 +160152,7 @@
         "company_name": "Zoox",
         "id": "725b19a6-a3cc-4c2d-b510-17e0c7a9b287",
         "title": "Reliability Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -163523,7 +163523,7 @@
         "company_name": "Banco Bilbao Vizcaya Argentaria",
         "id": "7c502b12-bb92-42fd-b364-8d75b6765201",
         "title": "Trading Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -164024,7 +164024,7 @@
         "company_name": "Leidos",
         "id": "24c03829-3ae1-4c41-8ecc-16327d9eee29",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -168848,7 +168848,7 @@
         "company_name": "GE Vernova",
         "id": "e34a7db8-9d34-453d-a308-a002b6f4afd5",
         "title": "GE Vernova Control Solutions & Services \u2013 Product Management Lifecare Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -168886,7 +168886,7 @@
         "company_name": "GE Vernova",
         "id": "55454fd9-66f9-4392-b0ce-8fb82ad7dc5e",
         "title": "GE Vernova Digital Technology Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -173841,6 +173841,25 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Hermeus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bernhard",
+        "id": "33616b91-0225-4c80-a5c1-e16eac262262",
+        "title": "Utility Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1742067095,
+        "date_posted": 1742067095,
+        "url": "https://careers-bernhard.icims.com/jobs/6846/job",
+        "locations": [
+            "Little Rock, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Bernhard",
         "is_visible": true,
         "sponsorship": "Other"
     }
