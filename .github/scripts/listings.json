@@ -114935,7 +114935,7 @@
         "company_name": "PlayStation Global",
         "id": "b8a2e47b-6839-46b8-9148-0515f9b9937f",
         "title": "Software Engineering Intern - Undergraduate",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -130831,7 +130831,7 @@
         "company_name": "Zoox",
         "id": "8a3fd424-17c0-414b-805e-19b35c04ab88",
         "title": "Test Bench and Data Analysis Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -132930,7 +132930,7 @@
         "company_name": "Brooks Automation",
         "id": "2084b728-7fae-426a-9575-cb4b2a0227a4",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -151292,7 +151292,7 @@
         "company_name": "Samsung Research America",
         "id": "9e43f266-e822-4908-a263-cc80b382e49c",
         "title": "2025 Summer Intern - Open Innovation - Visual Display Partnerships",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -161402,7 +161402,7 @@
         "company_name": "Coral",
         "id": "a579fe8b-c7f9-428b-89fd-b2323d7076fa",
         "title": "Software Engineer Intern - AI Anime Avatar Apps \ud83e\udd16",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -165148,7 +165148,7 @@
         "company_name": "Trepp",
         "id": "a42e28f3-a2d7-45b5-bee0-407303ab769d",
         "title": "Full Stack Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -165265,7 +165265,7 @@
         "company_name": "Block",
         "id": "2773a0a5-4bd4-4449-8260-3955dd7568b1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -168523,7 +168523,7 @@
         "company_name": "Nokia",
         "id": "4fc4c8fe-bcb3-44ea-9759-fb1e3a08ffc2",
         "title": "Sofware Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -168618,7 +168618,7 @@
         "company_name": "Western Digital",
         "id": "e801beef-3205-4c5b-a04b-a8df72097df7",
         "title": "Summer 2025 Intern - Operations Research & Analytics Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -168637,7 +168637,7 @@
         "company_name": "Nokia",
         "id": "c32d831b-dcce-4277-a622-da9fcd49dde9",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -173385,7 +173385,7 @@
         "company_name": "Weld County",
         "id": "71a97a2e-4345-429f-a072-4bfaeb846cdb",
         "title": "Health Education Data Paid Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -173712,7 +173712,7 @@
         "company_name": "SpotHero",
         "id": "aa9d495b-f7ba-42f3-84a3-8356d595324d",
         "title": "Mobile Engineer Intern - Android",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -175534,7 +175534,7 @@
         "company_name": "Veolia",
         "id": "74bfcb2f-0d90-4ee5-9e06-ef63875462af",
         "title": "2025 Summer Intern - Laboratory",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -175706,7 +175706,7 @@
         "company_name": "Sylvera",
         "id": "5c4019af-2daa-4345-9bfe-6b3b0bd5909e",
         "title": "Carbon Science / Geospatial Intern: Client Facing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -175959,7 +175959,7 @@
         "company_name": "Veolia",
         "id": "936ffce9-0a48-4a8d-92d3-a3b9d3cf31db",
         "title": "2025 Summer Intern - Laboratory",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -175970,6 +175970,63 @@
             "Paramus, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Veolia",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1742617675,
+        "url": "https://boards.greenhouse.io/soundcloud71/jobs/7924207002",
+        "company_name": "SoundCloud",
+        "title": "Web Software Engineering Intern",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "8378d276-fdde-4531-86f5-c8cefb7af030",
+        "date_posted": 1742617675,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Block",
+        "id": "f61dc041-7e9c-4f29-8478-e90dd3c2ea99",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1742624968,
+        "date_posted": 1742624968,
+        "url": "http://block.xyz/careers/jobs/4593757008?gh_jid=4593757008",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Block",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "B. Braun Medical Inc",
+        "id": "0e9f434e-5db3-4719-88b7-be89f0897afb",
+        "title": "B Braun PA Intern - Data and Analytics",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1742666231,
+        "date_posted": 1742666231,
+        "url": "https://bbrauncareers-bbraun.icims.com/jobs/25784/job",
+        "locations": [
+            "Allentown, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/B-Braun-Medical-Inc",
         "is_visible": true,
         "sponsorship": "Other"
     }
