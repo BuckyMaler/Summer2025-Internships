@@ -172406,7 +172406,7 @@
         "company_name": "Bank of Montreal",
         "id": "36f022bc-1bb2-4802-932c-bd67489f3f93",
         "title": "User Experience Operations \u2013 Co-op/Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -174245,7 +174245,7 @@
         "company_name": "Moog Inc",
         "id": "cecb9ddd-2310-47cb-bb13-7a454bc9c08a",
         "title": "Intern \u2013 Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -174418,7 +174418,7 @@
         "company_name": "World Kinect",
         "id": "89739c22-bfaf-4cfe-8ff3-1dc65fa2f4a3",
         "title": "Technology Internship Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -176029,5 +176029,24 @@
         "company_url": "https://simplify.jobs/c/B-Braun-Medical-Inc",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1742762589,
+        "url": "https://careers.spglobal.com/jobs/311436",
+        "company_name": "S&P Global",
+        "title": "Security Engineering Intern (Early Careers)",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "dcf8e753-ff36-44a1-8b66-df2927695ba0",
+        "date_posted": 1742762589,
+        "company_url": "",
+        "is_visible": true
     }
 ]
