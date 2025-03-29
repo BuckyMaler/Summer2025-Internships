@@ -8002,7 +8002,7 @@
         "company_name": "WorldQuant ",
         "id": "9fcb6a26-cdd5-48cd-9688-7d2147400498",
         "title": "WQBRAIN Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -98950,7 +98950,7 @@
         "company_name": "Trimble",
         "id": "b3ef5fe9-b9ba-4617-abb6-a51955dc14eb",
         "title": "Geomatics Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -136728,7 +136728,7 @@
         "company_name": "Leidos",
         "id": "9ab3c644-6608-4fcf-9ce9-be87456831d3",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -139508,7 +139508,7 @@
         "company_name": "Illumio",
         "id": "214bbb36-15b0-461e-9b52-92744b5d1cbf",
         "title": "Engineering Intern - Core PPM Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -139585,7 +139585,7 @@
         "company_name": "CACI",
         "id": "4e8f3496-6475-4307-988c-93071ce9e558",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -144626,7 +144626,7 @@
         "company_name": "Zoox",
         "id": "6dc6c35f-3ef9-4ef5-aa19-a27b330caaaa",
         "title": "Software Development in Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -145658,7 +145658,7 @@
         "company_name": "Cadence Design Systems",
         "id": "92f81d03-735f-499f-8207-4a34a8b57eef",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -147910,7 +147910,7 @@
         "company_name": "MongoDB",
         "id": "a27108f0-e64a-4ae2-98a5-4b7adfed3142",
         "title": "Software Engineer Intern - Wics Summit",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -152472,7 +152472,7 @@
         "company_name": "Kargo",
         "id": "fcce438a-f839-43a4-b4aa-eae1e29f956c",
         "title": "Intern \u2013 Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -152648,7 +152648,7 @@
         "company_name": "Salesforce",
         "id": "a88abc3d-a867-4ff3-a3b2-97cf37150490",
         "title": "Summer 2025 Intern - AI Research - Office of the CEO",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -153736,7 +153736,7 @@
         "company_name": "SMX",
         "id": "a6dc7a24-1b40-473a-b097-d11112c629b1",
         "title": "Summer Internship-Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -154650,7 +154650,7 @@
         "company_name": "Ripple",
         "id": "2cce7d30-9ed4-46eb-b08c-4fd95f1f1391",
         "title": "Software Engineer Intern - Stablecoin",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -154669,7 +154669,7 @@
         "company_name": "Ripple",
         "id": "d952b8c8-9b96-4f36-a52f-a463d60e5b32",
         "title": "Frontend Software Engineer Intern - Stablecoin",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -155440,7 +155440,7 @@
         "company_name": "Booz Allen",
         "id": "30590691-9b39-4bd5-a2fe-5ad873c88c86",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -158213,7 +158213,7 @@
         "company_name": "DV Trading",
         "id": "f92c8268-8778-4583-ab29-5a03ded74ba1",
         "title": "2025 Summer Internship - Trading - DV Equities",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -160304,7 +160304,7 @@
         "company_name": "Booz Allen",
         "id": "ff00b06d-b9e7-4aff-ab99-9311ed6aef4a",
         "title": "University \u2013 Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -160650,7 +160650,7 @@
         "company_name": "Legend Biotech",
         "id": "168d5e5e-8360-433e-aa65-9509a51b2c85",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -162579,7 +162579,7 @@
         "company_name": "Targetbase",
         "id": "3ec76696-ab87-49a7-b9ce-dd1d480beb11",
         "title": "Decision Sciences Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -162598,7 +162598,7 @@
         "company_name": "Targetbase",
         "id": "5ece528e-f769-49f5-97a4-8623843fe294",
         "title": "Decision Sciences Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -164546,7 +164546,7 @@
         "company_name": "Eulerity",
         "id": "7d5d9408-3d0e-414e-b692-11201f767f72",
         "title": "Mobile iOS Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -164682,7 +164682,7 @@
         "company_name": "KBR",
         "id": "b8b555d4-2c50-422b-baae-db0afc4d64ee",
         "title": "Power BI Intern - Nss",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -166216,7 +166216,7 @@
         "company_name": "Figure AI",
         "id": "29f569dc-7730-4998-baf0-79017eee5e68",
         "title": "Full-Stack Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -168423,7 +168423,7 @@
         "company_name": "Nokia",
         "id": "17deb094-26a7-4e90-bfb7-0098e17cab43",
         "title": "Platforms Engineering Architecture Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -169041,7 +169041,7 @@
         "company_name": "Booz Allen",
         "id": "b24cf80a-e8fe-42ab-a49c-8130e5a077b9",
         "title": "University \u2013 Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -169060,7 +169060,7 @@
         "company_name": "Booz Allen",
         "id": "a88de9ec-40be-4871-bbda-f30565217924",
         "title": "University \u2013 Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -169640,7 +169640,7 @@
         "company_name": "GE Aerospace",
         "id": "34521c75-fcf6-4436-852f-764fff5c5d7b",
         "title": "GE Aerospace Engineering Engines Computer or Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -172959,7 +172959,7 @@
         "company_name": "Airbus",
         "id": "48e0f998-87bf-4ceb-9904-973852f8d5ec",
         "title": "Summer Internship - Paint Shop Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -172978,7 +172978,7 @@
         "company_name": "Airbus",
         "id": "351dd0d5-e7fd-4bd7-b7c0-4af04b7a99f7",
         "title": "Summer Internship - ADU Shop Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -175842,7 +175842,7 @@
         "company_name": "Moog Inc",
         "id": "a77b0b10-2140-4ed4-b908-8a3e69f8b65c",
         "title": "Intern \u2013 Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -175902,7 +175902,7 @@
         "company_name": "Jones Lang LaSalle (JLL)",
         "id": "306c6579-18bc-4d17-b96e-157dfc6d75e6",
         "title": "Indigenous Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -177719,7 +177719,7 @@
         "company_name": "Northwestern Mutual",
         "id": "140b5cde-70a8-4ba0-aa3b-27006e43acc8",
         "title": "Analytics Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -177875,7 +177875,7 @@
         "company_name": "Booz Allen",
         "id": "165bd7bd-7b50-4db6-ad77-5909f0715d70",
         "title": "University \u2013 Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -177932,7 +177932,7 @@
         "company_name": "Scout Motors",
         "id": "a20ab783-578a-4a35-b4be-3e3db4109ac2",
         "title": "Intern \u2013 Production - Plant Launch",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -177990,7 +177990,7 @@
         "company_name": "RTX",
         "id": "c2209106-432a-4cf5-b1c9-c72c4a29ec2f",
         "title": "Web Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -178009,7 +178009,7 @@
         "company_name": "Cibc",
         "id": "221c444c-3af0-4694-ba32-8954aa1b48f0",
         "title": "Application/Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025"
@@ -178162,7 +178162,7 @@
         "company_name": "Cirkul",
         "id": "4b470b34-3a70-4eae-98d4-47809c9855e4",
         "title": "Data Engineering Coop",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -178173,6 +178173,178 @@
             "Belmont, MA"
         ],
         "company_url": "https://simplify.jobs/c/Cirkul",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IXL Learning",
+        "id": "8bf50f56-4829-4a4a-9455-a4085c8b312e",
+        "title": "Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1743187672,
+        "date_posted": 1743187672,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=7914131002",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "S&P Global ",
+        "id": "4770aa9c-60ac-4c64-bf25-23b6fab84640",
+        "title": "Upstream Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1743188268,
+        "date_posted": 1743188268,
+        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/US---MD---VIRTUAL/Upstream-Intern--GOLD-_312980",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/SP-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Spencer Stuart",
+        "id": "6480ba2b-0c62-4e6e-84cc-f865a7bc8bc9",
+        "title": "Intern \u2013 Data Analysis",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1743192933,
+        "date_posted": 1743192933,
+        "url": "https://spencerstuart.wd5.myworkdayjobs.com/Spencer_Stuart_External_Careers/job/Philadelphia/Intern---Data-Analysis_R4235",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Spencer-Stuart",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Eversource Energy",
+        "id": "b4596a9b-bf57-4c89-9470-f9c1a4481cb9",
+        "title": "Business Process & Data Analysis Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1743193829,
+        "date_posted": 1743193829,
+        "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/XMLNAME-2025-Summer-Business-Process---Data-Analysis-Intern_R-027045",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Eversource-Energy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Intuitive Surgical",
+        "id": "66c375ef-24cc-41f1-9290-e37f841f13ba",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1743196910,
+        "date_posted": 1743196910,
+        "url": "https://jobs.smartrecruiters.com/Intuitive/744000050438061",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuitive-Surgical",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alarm.com",
+        "id": "39fd5fa8-8b10-4634-81f0-657e0c67190a",
+        "title": "Software Engineer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1743201084,
+        "date_posted": 1743201084,
+        "url": "https://job-boards.greenhouse.io/alarmcom/jobs/7934338002",
+        "locations": [
+            "Lawrence, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Alarm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Flipp",
+        "id": "a1e74b8f-a018-465b-90d9-be001889abdf",
+        "title": "Associate Software Engineer \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1743200726,
+        "date_posted": 1743200726,
+        "url": "https://job-boards.greenhouse.io/flipp/jobs/6576405",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Flipp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Genies",
+        "id": "1916527a-81d1-43d8-89f7-39d535ddf9af",
+        "title": "Full Stack Web Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1743200561,
+        "date_posted": 1743200561,
+        "url": "https://job-boards.greenhouse.io/genies/jobs/6524202003",
+        "locations": [
+            "LA",
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Genies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northrop Grumman",
+        "id": "889e9788-978d-4eaf-b609-15ed09af4e0b",
+        "title": "2025 Data Management Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1743200384,
+        "date_posted": 1743200384,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2025-Data-Management-Analyst-Intern---Huntsville-AL_R10191009",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
         "is_visible": true,
         "sponsorship": "Other"
     }
