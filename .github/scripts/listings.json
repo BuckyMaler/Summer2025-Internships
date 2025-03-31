@@ -116259,7 +116259,7 @@
         "company_name": "Marvell",
         "id": "90b42244-c7b5-49dc-8d48-878f70132cc9",
         "title": "Application Engineering Intern - Masters",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -135125,7 +135125,7 @@
         "company_name": "MKS Instruments",
         "id": "1d8be943-3ee1-44b0-b9ce-271b76a2e271",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -138520,7 +138520,7 @@
         "company_name": "Rockwell Automation",
         "id": "3010fd0e-8ffe-4160-a6fb-6f179a0e498a",
         "title": "Co-op \u2013 Embedded Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -145884,7 +145884,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1737178542,
+        "date_updated": 1743367881,
         "url": "https://fa-epcb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3078",
         "company_name": "Verint",
         "title": "Intern, Software Engineer",
@@ -145894,8 +145894,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "GaryZhous",
         "id": "0d0fc10f-bb06-4de7-80ed-3df8f1ff98a5",
         "date_posted": 1737178542,
@@ -155440,7 +155440,7 @@
         "company_name": "Booz Allen",
         "id": "30590691-9b39-4bd5-a2fe-5ad873c88c86",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -159728,7 +159728,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1739924361,
+        "date_updated": 1743367914,
         "url": "https://www.digitalocean.com/careers/position/apply?gh_jid=6635955",
         "company_name": "DigitalOcean",
         "title": "Software Engineer, Intern",
@@ -159738,8 +159738,8 @@
         "terms": [
             "Summer 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "GaryZhous",
         "id": "ba91c932-9c13-447a-9297-07c6a4d81dba",
         "date_posted": 1739924361,
@@ -160304,7 +160304,7 @@
         "company_name": "Booz Allen",
         "id": "ff00b06d-b9e7-4aff-ab99-9311ed6aef4a",
         "title": "University \u2013 Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -161441,7 +161441,7 @@
         "company_name": "Applied Materials",
         "id": "02bdfe50-af10-440a-9356-4076a85590b7",
         "title": "Corporate Strategy Intern - Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -161784,7 +161784,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1740429635,
+        "date_updated": 1743368082,
         "url": "https://maximus.avature.net/careers/FolderDetail/United-States-Intern-AI-Software-Engineering/28377",
         "company_name": "Maximus",
         "title": "AI Software Engineering Intern",
@@ -161795,7 +161795,7 @@
             "Summer 2025"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "BuckyMaler",
         "id": "bef15e32-b568-4544-95ed-b52ec9a76d59",
         "date_posted": 1740429635,
@@ -165609,7 +165609,7 @@
         "company_name": "Robert Half",
         "id": "47441014-0f00-48b2-af84-933811e8d66b",
         "title": "Software Engineer Virtual Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -167598,7 +167598,7 @@
         "company_name": "Roadie",
         "id": "ecf71ca4-eb1a-40a5-870a-4ae0a758dce3",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -169041,7 +169041,7 @@
         "company_name": "Booz Allen",
         "id": "b24cf80a-e8fe-42ab-a49c-8130e5a077b9",
         "title": "University \u2013 Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -169060,7 +169060,7 @@
         "company_name": "Booz Allen",
         "id": "a88de9ec-40be-4871-bbda-f30565217924",
         "title": "University \u2013 Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -174226,7 +174226,7 @@
         "company_name": "Oshkosh",
         "id": "5edca159-0184-462b-a300-14f50603f4b1",
         "title": "Emerging Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -175629,7 +175629,7 @@
         "company_name": "BigHat Biosciences",
         "id": "b5578eb5-ad0d-45fa-9fb1-9a39b2eac840",
         "title": "Intern \u2013 Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -176914,7 +176914,7 @@
         "company_name": "World Kinect",
         "id": "b7ff1cbc-fa47-436b-a965-1a69e88f9404",
         "title": "Technology Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -177875,7 +177875,7 @@
         "company_name": "Booz Allen",
         "id": "165bd7bd-7b50-4db6-ad77-5909f0715d70",
         "title": "University \u2013 Systems Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -178422,6 +178422,179 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ohio State University - Columbus",
+        "id": "07d6789d-0db1-4689-b55b-5ea15839b97a",
+        "title": "Student Intern - Cancer Program Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1743316485,
+        "date_posted": 1743316485,
+        "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Medical-Center-Campus/Student-Intern---Cancer-Program-Analytics_R125616-2",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Ohio-State-University-Columbus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Home Depot",
+        "id": "0e7c3ed5-0cc8-4a11-bbb6-19ccd172f195",
+        "title": "Orangeworks Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1743318712,
+        "date_posted": 1743318712,
+        "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/GEORGIA---VIRTUAL---GA01/OrangeWorks-Software-Engineering-Internship---Fall-2025_Req141300",
+        "locations": [
+            "Georgia"
+        ],
+        "company_url": "https://simplify.jobs/c/00c1909f-a319-4a12-b75e-478061f3ff68",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RTX",
+        "id": "9e06cd44-71c1-4775-8907-18e5bbaf213c",
+        "title": "2025 Intern - Raytheon Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1743318534,
+        "date_posted": 1743318534,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA601-Goleta-EW-Bldg-H01-6380-Hollister-Avenue-Building-H01-Goleta-CA-93117-USA/XMLNAME-2025-Intern---Raytheon-Software-Engineer--Onsite-_01759374",
+        "locations": [
+            "Goleta, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "cbbc70d0-458a-421b-a84c-92578e556c45",
+        "title": "Software Engineering Internship - Emulation",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1743320163,
+        "date_posted": 1743320163,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Engineering-Internship--Emulation--Summer-2025-_R49523-3",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cadence Design Systems",
+        "id": "93ac90a6-6641-4c9c-8725-02c83c12ca59",
+        "title": "SVG Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1743320157,
+        "date_posted": 1743320157,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE-11/SVG-Software-Intern--Summer-2025-_R48486-3",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hydrow",
+        "id": "00b7c46d-8c84-4606-b53e-1d308c6b41f8",
+        "title": "Co-op: Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1743320967,
+        "date_posted": 1743320967,
+        "url": "https://jobs.lever.co/Hydrow/149e503b-5803-4131-9d14-dedfa404f6f0/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hydrow",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nutanix",
+        "id": "323c7ed4-6837-401d-b410-885d068aa599",
+        "title": "Technical Program Management Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1743322368,
+        "date_posted": 1743322368,
+        "url": "https://jobs.jobvite.com/nutanix/job/oalIvfws?nl=1&nl=1&fr=false",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Moog Inc",
+        "id": "9f18a65d-3b3a-4cf0-a44e-8b941c25a915",
+        "title": "Intern \u2013 Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1743322242,
+        "date_posted": 1743322242,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Engineering_R-25-11458",
+        "locations": [
+            "Cheektowaga, NY",
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog-Inc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "SS&C",
+        "id": "063753a4-7aa2-4ab7-96f5-023b19833a71",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1743322051,
+        "date_posted": 1743322051,
+        "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Waltham-MA---10-CityPoint/Software-Engineer--Intern_R32571",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/SSC",
         "is_visible": true,
         "sponsorship": "Other"
     }
