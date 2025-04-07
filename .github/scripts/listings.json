@@ -117445,7 +117445,7 @@
         "company_name": "ibotta",
         "id": "1951c500-3e37-4e95-a8b4-fe45fbd9c7f3",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -128727,7 +128727,7 @@
         "company_name": "X",
         "id": "b1bf3169-e43b-4dfc-8b38-8979380aa4ee",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -161381,7 +161381,7 @@
         "company_name": "Marsh & McLennan",
         "id": "44273502-a80c-4039-845a-a94c3c5557ff",
         "title": "Data Strategy Software Engineering Co-op - College Program 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025",
@@ -163580,7 +163580,7 @@
         "company_name": "Ciena",
         "id": "4ca93e4c-0016-47fe-872b-2d58492aebbe",
         "title": "Wavelogic Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -166140,7 +166140,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "1d29809c-76b1-4284-94eb-443e997bcfed",
         "title": "Sales Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -175340,7 +175340,7 @@
         "company_name": "NCR Voyix",
         "id": "6bdb38c7-b230-4bec-a010-7b4b7c34fb38",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -175457,7 +175457,7 @@
         "company_name": "Cadence Design Systems",
         "id": "6947702f-a0ef-46fb-81c8-5d5f1617d50f",
         "title": "Software Development Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -175591,7 +175591,7 @@
         "company_name": "SoundCloud",
         "id": "831d4a95-b452-4577-bd21-f2bca03ba77a",
         "title": "Marketing Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -177125,7 +177125,7 @@
         "company_name": "Tatari",
         "id": "6d0bf2e0-2341-4470-a299-6f00c260c70f",
         "title": "Data Science Analyst \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -178430,7 +178430,7 @@
         "company_name": "Ohio State University - Columbus",
         "id": "07d6789d-0db1-4689-b55b-5ea15839b97a",
         "title": "Student Intern - Cancer Program Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -180297,7 +180297,7 @@
         "company_name": "Tatari",
         "id": "bbe5a4ce-aa9f-42b1-9748-27840234cce4",
         "title": "Data Science \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -180354,7 +180354,7 @@
         "company_name": "Northrop Grumman",
         "id": "3144abbd-622f-4505-adc9-a3448ede683a",
         "title": "2025 College Intern Admin",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -180500,7 +180500,7 @@
         "company_name": "Comcast",
         "id": "c5fe4604-3fe1-4c74-aeb9-f18bfc6c9762",
         "title": "Comcast Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -180989,5 +180989,43 @@
         "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1743915278,
+        "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Ontario-Toronto/Intern---Technical_R25895",
+        "company_name": "SS&C Technologies",
+        "title": "Intern - Technical",
+        "locations": [
+            "Toronto, Canada"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "071a0b2e-052f-4250-9347-d044f0462d62",
+        "date_posted": 1743915278,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1743915338,
+        "url": "https://jobs.canadalife.com/job/London-Co-op-Student-IT-ON/1189460701",
+        "company_name": "Canada Life",
+        "title": "Co-op Student IT",
+        "locations": [
+            "Toronto, ON"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "ad3c90ae-564f-47dc-a0d4-42e4384c318a",
+        "date_posted": 1743915338,
+        "company_url": "",
+        "is_visible": true
     }
 ]
