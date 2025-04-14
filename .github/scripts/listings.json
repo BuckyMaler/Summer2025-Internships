@@ -151117,7 +151117,7 @@
         "company_name": "Plexus",
         "id": "95ee60f6-72ac-4823-befb-9abece948a70",
         "title": "Intern \u2013 Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -157738,7 +157738,7 @@
         "company_name": "Samsung",
         "id": "962cede2-8c73-46e6-b4a6-891088b62236",
         "title": "MPC Business Insight Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -179276,7 +179276,7 @@
         "company_name": "RTX",
         "id": "b7954eaa-da45-4155-84c7-b5137f2d5f2c",
         "title": "2025 Intern - Digital - Product Lifecycle Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -180337,7 +180337,7 @@
         "company_name": "Primerica",
         "id": "3165c5b9-08cd-4bf7-ad15-ce0ff91c59e1",
         "title": "Software Architect Intern",
-        "active": false,
+        "active": true,
         "terms": [],
         "date_updated": 1743766697,
         "date_posted": 1743766697,
@@ -183221,7 +183221,7 @@
         "company_name": "Moog Inc",
         "id": "0503b1bc-4ef7-45d5-8f54-a5c05165d56b",
         "title": "Intern \u2013 Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -184386,7 +184386,7 @@
         "company_name": "USAA",
         "id": "831d02b4-3e00-47fa-91e4-c9f8df5e6f2c",
         "title": "Data Analyst Intern - Bank Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -184511,6 +184511,44 @@
             "Lewisville, TX"
         ],
         "company_url": "https://simplify.jobs/c/Assurant",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1744522545,
+        "url": "https://careers.siemens-healthineers.com/global/en/job/R-20844/Application-Software-Developer-Intern",
+        "company_name": "Siemens Healthineers",
+        "title": "Application Software Developer Intern",
+        "locations": [
+            "Ottawa, Ontario, Canada"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "ce40e955-b562-417b-9bf8-63a2950a1904",
+        "date_posted": 1744522545,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Atomic Semi",
+        "id": "b595adfe-7a2e-439f-95d5-5fe49ca7312a",
+        "title": "Embedded Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1744524876,
+        "date_posted": 1744524876,
+        "url": "https://jobs.ashbyhq.com/atomicsemi/25580bcb-f36f-4342-97a6-b814a3359b8f/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Atomic-Semi",
         "is_visible": true,
         "sponsorship": "Other"
     }
