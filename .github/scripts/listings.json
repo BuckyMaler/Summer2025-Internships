@@ -153911,7 +153911,7 @@
         "company_name": "Leidos",
         "id": "98b5c007-2851-4f0c-a04c-bb5cee80213e",
         "title": "Formal Methods Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -162518,7 +162518,7 @@
         "company_name": "CVS Health",
         "id": "16e93e3a-c1ee-418e-bb9e-bb1fe63cc74d",
         "title": "Innotech Summer Graduate Internship - Health Care Delivery - Enterprise Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -177430,7 +177430,7 @@
         "company_name": "Artisan Partners",
         "id": "afb0c9eb-d0c4-4db0-b256-68e56fdd9436",
         "title": "Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -177526,7 +177526,7 @@
         "company_name": "Five9",
         "id": "b57265c2-bfbe-4f36-b3d9-591623931c2b",
         "title": "Restful API Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -182348,7 +182348,7 @@
         "company_name": "Booz Allen",
         "id": "45db9801-5f84-4abf-84e9-8f31d420505b",
         "title": "University \u2013 Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -186042,7 +186042,7 @@
         "company_name": "Sila Nanotechnologies",
         "id": "548f4c42-9c8a-45d3-accc-4073d220f0e2",
         "title": "Component R&D \u2013 Battery Modeling Team Internship",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1744963762,
         "date_posted": 1744963762,
@@ -186104,6 +186104,173 @@
             "Huntsville, AL"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1745029184,
+        "url": "https://jobs.jobvite.com/spectralogic/job/oMOSvfwH",
+        "company_name": "Spectra Logic",
+        "title": "Intern - Software",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "aa91696e-895d-4751-8785-63f07eecb8f5",
+        "date_posted": 1745029184,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745035292,
+        "url": "https://www.pgcareers.com/global/en/job/R000129158/Digital-Technologies-Internship-Co-op-Fall-2025---stage-coop-en-technologies-num%25C3%25A9riques-automne-2025",
+        "company_name": "Procter & Gamble",
+        "title": "Digital Technologies Internship/Co-op Fall 2025",
+        "locations": [
+            "TORONTO, Ontario, Canada"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "68f944a9-d742-42f2-ae47-deffc9813159",
+        "date_posted": 1745035292,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1745035406,
+        "url": "https://jobs.sap.com/job/Toronto-SAP-iXp-Intern-Product-Support-ON-M5K-1B7/1188581301",
+        "company_name": "SAP",
+        "title": "SAP iXp Intern - Product Support",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "eef1465d-043e-4ae9-b882-42f2c5fc8c79",
+        "date_posted": 1745035406,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kalderos",
+        "id": "23a9ede1-319b-4a8e-8ded-54d188f5540b",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1745048096,
+        "date_posted": 1745048096,
+        "url": "https://www.kalderos.com/company/job-board/?gh_jid=6548373003",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kalderos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "HarbourVest",
+        "id": "56ec64bc-3f81-4b31-a237-c2c3790b17f0",
+        "title": "Portfolio Analytics Intern",
+        "active": true,
+        "terms": [],
+        "date_updated": 1745078429,
+        "date_posted": 1745078429,
+        "url": "https://harbourvest.wd5.myworkdayjobs.com/hvp/job/Boston/Portfolio-Analytics-Intern_R1838",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/HarbourVest",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Delta Dental",
+        "id": "223d5577-b82f-41bb-adc0-15c4a9def857",
+        "title": "Internship - Data Science",
+        "active": true,
+        "terms": [],
+        "date_updated": 1745077944,
+        "date_posted": 1745077944,
+        "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Data-Science_JR100789",
+        "locations": [
+            "East Lansing, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Delta-Dental",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ankura Consulting Group",
+        "id": "d4e00a1e-2dcb-4060-b9c4-cf57c2bedd65",
+        "title": "University Intern - Ankura.AI Labs",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1745079739,
+        "date_posted": 1745079739,
+        "url": "https://ankura.wd5.myworkdayjobs.com/ankura/job/Virginia/University-Intern---AnkuraAI-Labs_R104031",
+        "locations": [
+            "Virginia"
+        ],
+        "company_url": "https://simplify.jobs/c/Ankura-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "a6ab922b-78fd-40bd-b556-e6db6be67e35",
+        "title": "Software Engineering Intern - Distributed Scientific Computing Libraries",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1745081829,
+        "date_posted": 1745081829,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Distributed-Scientific-Computing-Libraries---Fall-2025_JR1996387",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Baxter International",
+        "id": "ce52c408-b65b-48af-98b9-a68537b044a1",
+        "title": "Intern - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1745072461,
+        "date_posted": 1745072461,
+        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Raleigh-North-Carolina/XMLNAME-2025-Summer-Intern---Software-Engineer_JR-169273-1",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Baxter-International",
         "is_visible": true,
         "sponsorship": "Other"
     }
