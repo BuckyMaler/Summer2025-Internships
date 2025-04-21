@@ -179336,7 +179336,7 @@
         "company_name": "Aristocrat Leisure",
         "id": "91ba91d8-00c0-4a7d-80d3-d6b507c29521",
         "title": "Data and Analysis Intern - Ilottery",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -181652,7 +181652,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "127a34bb-feab-4de9-838a-17a483ab588b",
         "title": "Relationship Manager Commercial Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -183202,7 +183202,7 @@
         "company_name": "Trimble",
         "id": "d4c94525-b747-4fa3-8dbb-e743e727a6c7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -186273,5 +186273,24 @@
         "company_url": "https://simplify.jobs/c/Baxter-International",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1745121685,
+        "url": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000123520EXTERNALENCA/2025-Fall-Student-Opportunities-Capital-Markets-QTS-Software-Developer-4-12-Months",
+        "company_name": "RBC",
+        "title": "2025 Fall Student Opportunities Capital Markets, QTS - Software Developer, 4-12 Months",
+        "locations": [
+            "TORONTO, Ontario, Canada"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "b05e5f33-efab-4bc3-803d-a703ef4abd3c",
+        "date_posted": 1745121685,
+        "company_url": "",
+        "is_visible": true
     }
 ]
