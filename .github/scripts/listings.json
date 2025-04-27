@@ -146425,7 +146425,7 @@
         "company_name": "Woven",
         "id": "b8b95bd5-7381-4f88-a716-fd33253220c4",
         "title": "Software Engineering Intern - Network Performance Measurement - Validation Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -181109,7 +181109,7 @@
         "company_name": "American Cancer Society",
         "id": "dc07bc15-bcec-441a-bcd2-198aa96a054a",
         "title": "Intern \u2013 Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -181821,7 +181821,7 @@
         "company_name": "KBR",
         "id": "2db7ec4c-fe17-4fe2-8397-0d0a484bbf96",
         "title": "National Security Solutions \u2013 Computer Science Internship - Nss",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1741917374,
         "date_posted": 1740529958,
@@ -187462,7 +187462,7 @@
         "company_name": "RTX",
         "id": "ffbae6c4-b29e-4d6b-8f2a-da898a6d9aad",
         "title": "2025 Intern - Digital - Product Lifecycle Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -188051,7 +188051,7 @@
         "company_name": "Business Wire",
         "id": "5d19670a-9c85-49ca-8bbb-05c72ddec5ab",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1745620666,
         "date_posted": 1745620666,
@@ -188147,6 +188147,102 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "23e6564a-17cf-4bd7-b0a9-6b1b06bb312a",
+        "title": "Software Engineering Intern - AI Storage Infrastructure",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1745631626,
+        "date_posted": 1745631626,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--AI-Storage-Infrastructure---Fall-2025_JR1996386",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "60cf2ede-a215-4c89-a129-1aad2aa4bdb7",
+        "title": "Software Engineering Intern - Deep Learning Accelerator",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1745631619,
+        "date_posted": 1745631619,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Deep-Learning-Accelerator---Fall-2025_JR1996923",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Accompany Health",
+        "id": "298560fa-c15c-4e4e-8b91-be0d96957ba2",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [],
+        "date_updated": 1745639277,
+        "date_posted": 1745639277,
+        "url": "https://jobs.lever.co/AccompanyHealth/0575e95b-ff19-4a99-826e-571d7e6d499f/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/AccompanyHealth",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tesla",
+        "id": "3c57dd30-c02d-4128-a6eb-27a1852515a6",
+        "title": "Internship - Analytics Engineering - Thermal & Chassis",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1745646354,
+        "date_posted": 1745646354,
+        "url": "https://www.tesla.com/careers/search/job/242048",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tesla",
+        "id": "2e8ae03b-f1c5-4252-9950-ec0635d5c1ca",
+        "title": "Internship - Frontend Engineer - Applications Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Spring 2025"
+        ],
+        "date_updated": 1745646325,
+        "date_posted": 1745646325,
+        "url": "https://www.tesla.com/careers/search/job/242108",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
         "is_visible": true,
         "sponsorship": "Other"
     }
