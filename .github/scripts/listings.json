@@ -183956,7 +183956,7 @@
         "company_name": "Sentry",
         "id": "aeb88c0c-80c6-4c6f-9187-61577688b313",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -185838,7 +185838,7 @@
         "company_name": "Oklahoma State Government",
         "id": "13fc2988-6e32-40e1-ac31-d948d90ed9a1",
         "title": "Web Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -188607,7 +188607,7 @@
         "company_name": "Jabil",
         "id": "5a74f943-e5e9-47bf-9b29-fe963f404672",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -188983,7 +188983,7 @@
         "company_name": "Applied Materials",
         "id": "1b1f516e-af82-4675-9dab-06f4a822a029",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -190505,6 +190505,81 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Conductor",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American University",
+        "id": "a953bc45-1f10-499d-b1cf-c53cb22adcdd",
+        "title": "Workday Technology Intern-Data Conversion - Student",
+        "active": true,
+        "terms": [],
+        "date_updated": 1746230683,
+        "date_posted": 1746230683,
+        "url": "https://american.wd1.myworkdayjobs.com/au/job/Spring-Valley-Campus-Washington-DC/Workday-Technology-Intern--Data-Conversion--Student-_R2532-1",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-University",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GeoComply",
+        "id": "f753a614-455e-4eb3-b985-2c8dd8de35ce",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [],
+        "date_updated": 1746236935,
+        "date_posted": 1746236935,
+        "url": "https://jobs.lever.co/geocomply-2/b18983f1-bd98-49cb-a150-3277e6f03bf0/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/GeoComply",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1746245878,
+        "url": "https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0425-1278&BRID=1207113&SBDID=943",
+        "company_name": "CGI",
+        "title": "Fall 2025 Co-op: WiSE Junior AI Analyst (8 months)",
+        "locations": [
+            "Toronto, Ontario, Canada"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "ec6a63ce-48ed-4a13-a06b-daab40e85d24",
+        "date_posted": 1746245878,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Verkada",
+        "id": "b985c2e9-afbf-4483-8caf-535dd499e166",
+        "title": "Hardware Engineer",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1746253430,
+        "date_posted": 1746253430,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4321159007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verkada",
         "is_visible": true,
         "sponsorship": "Other"
     }
