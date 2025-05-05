@@ -189579,7 +189579,7 @@
         "company_name": "Leidos",
         "id": "6cb10bc4-7258-4ac0-8964-36e4d6bbd4b7",
         "title": "Software Specialist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -190580,6 +190580,79 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1746331389,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20099",
+        "company_name": "Nokia",
+        "title": "Full Stack Dev Cloud and ML Student",
+        "locations": [
+            "Katana, Ontario, Canada"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "1d263875-64b1-48a0-8d49-6d6d5fdc4dab",
+        "date_posted": 1746331389,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Unisys",
+        "id": "841e8997-23f2-4029-8424-0d177a2ac061",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [],
+        "date_updated": 1746390968,
+        "date_posted": 1746390968,
+        "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Blue-Bell-PA-United-States-of-America/Software-Engineer-Intern_REQ565308",
+        "locations": [
+            "Ambler, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/f36d80a6-23f4-416c-bd74-b85753adb3b7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Unisys",
+        "id": "c53ebde2-c99f-48eb-a414-b2f1714f5260",
+        "title": "Software Engineer",
+        "active": true,
+        "terms": [],
+        "date_updated": 1746394346,
+        "date_posted": 1746394346,
+        "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Blue-Bell-PA-United-States-of-America/Software-Engineer-Drexel-Co-op_REQ565136",
+        "locations": [
+            "Ambler, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/f36d80a6-23f4-416c-bd74-b85753adb3b7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Unisys",
+        "id": "7dbb3cee-67bc-4a70-a44e-f7fe074afe3d",
+        "title": "Software Engineer",
+        "active": true,
+        "terms": [],
+        "date_updated": 1746394509,
+        "date_posted": 1746394509,
+        "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Blue-Bell-PA-United-States-of-America/Software-Engineer-Drexel-Co-op_REQ565137",
+        "locations": [
+            "Ambler, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/f36d80a6-23f4-416c-bd74-b85753adb3b7",
         "is_visible": true,
         "sponsorship": "Other"
     }
