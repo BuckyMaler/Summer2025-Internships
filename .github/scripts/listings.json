@@ -81285,7 +81285,7 @@
         "company_name": "D2L",
         "id": "fd22c957-25d4-4872-b65c-0c52115d00f9",
         "title": "Software Developer \u2013 Fall 2024 Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
@@ -109297,7 +109297,7 @@
         "company_name": "Wing",
         "id": "b45b7a81-c9a5-44b3-86ff-de2260141d3e",
         "title": "Simulation Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024"
@@ -109490,7 +109490,7 @@
         "company_name": "SeatGeek",
         "id": "ba43a853-4c70-4df0-8471-57b700afafb2",
         "title": "Software Engineer \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -116357,7 +116357,7 @@
         "company_name": "DV Trading",
         "id": "0569a274-4559-4f26-915b-743e8515c9da",
         "title": "2025 Summer Internship - Software Development - DV Energy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -131729,7 +131729,7 @@
         "company_name": "MKS Instruments",
         "id": "4105afdf-2511-4cd8-828b-0d035bf3c45b",
         "title": "Undergraduate Intern/Co-op - IT BI/Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -139202,7 +139202,7 @@
         "company_name": "Elevance Health",
         "id": "9432743e-7ee6-44b7-80ae-b281360198ed",
         "title": "Technical Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -149488,7 +149488,7 @@
         "company_name": "Verkada",
         "id": "1de83583-c370-46c0-8314-476ac3f0ee08",
         "title": "Software Engineering Intern - Mobile",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -154460,7 +154460,7 @@
         "company_name": "Cadence Design Systems",
         "id": "0656abcf-5cea-490a-a1fe-a1c7dee09ac7",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -155269,7 +155269,7 @@
         "company_name": "Resmed",
         "id": "3582753a-c69e-4969-8f8e-e72f772cc277",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -162939,7 +162939,7 @@
         "company_name": "HARMAN International",
         "id": "0a3af642-2f46-45a4-ae84-0f9cede423c5",
         "title": "Summer Intern-Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -164157,7 +164157,7 @@
         "company_name": "Magna",
         "id": "dde7cf19-54cd-4138-b30a-31f30bb46676",
         "title": "Supply Chain Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -167924,7 +167924,7 @@
         "company_name": "Thousand Eyes",
         "id": "6231a739-1c47-4e1e-9dba-be2514de3e30",
         "title": "Software Engineering Intern - Integrations Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -174725,7 +174725,7 @@
         "company_name": "Resmed",
         "id": "61d4d8a8-6293-4976-a0f1-c613c4f857d2",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -177659,7 +177659,7 @@
         "company_name": "Actian",
         "id": "7a17a88a-721d-40d9-be7b-8c7300928fdb",
         "title": "Data Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -178930,7 +178930,7 @@
         "company_name": "BorgWarner",
         "id": "d27e6985-bf5e-45d2-995f-7371a9b1e696",
         "title": "Application Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -181802,7 +181802,7 @@
         "company_name": "Uhaul",
         "id": "6edb2bec-80e2-45f5-850a-7c4a4ad2d422",
         "title": "Software Development Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -181905,7 +181905,7 @@
         "company_name": "Coalition",
         "id": "4e4423e0-e931-46c8-8e5c-f12e473dea95",
         "title": "Backend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -183862,7 +183862,7 @@
         "company_name": "Mill",
         "id": "f2ef3744-4d37-4dbb-8c27-944d59ac5066",
         "title": "Firmware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1744355338,
         "date_posted": 1744355338,
@@ -185130,7 +185130,7 @@
         "company_name": "American Cancer Society",
         "id": "44266ac2-f0ad-4d2b-9996-9b6a8fd9c5e8",
         "title": "IT \u2013 Intern - MS365/Data Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -185670,7 +185670,7 @@
         "company_name": "Cox",
         "id": "fde7fbb0-a83b-4007-b634-2d0f75d494a9",
         "title": "Data Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Summer 2026",
@@ -186205,7 +186205,7 @@
         "company_name": "Delta Dental",
         "id": "223d5577-b82f-41bb-adc0-15c4a9def857",
         "title": "Internship - Data Science",
-        "active": false,
+        "active": true,
         "terms": [],
         "date_updated": 1745077944,
         "date_posted": 1745077944,
@@ -187109,7 +187109,7 @@
         "company_name": "Tesla",
         "id": "ba0be119-29f3-47b4-80dc-cd565f8e8bbf",
         "title": "Internship - Backend Engineer - Cell Manufacturing Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2026",
@@ -187325,7 +187325,7 @@
         "company_name": "Leidos",
         "id": "60f64adb-d212-457e-a256-0a16802b048e",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -187363,7 +187363,7 @@
         "company_name": "Adobe",
         "id": "f69034c4-21b7-4739-88fb-4f4b895a3056",
         "title": "2025 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -187704,7 +187704,7 @@
         "company_name": "The Federal Reserve System",
         "id": "34eae332-98f6-409b-8279-50526b9a5199",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -188136,7 +188136,7 @@
         "company_name": "KLA",
         "id": "14f6b9c6-1f5f-417c-b5ea-67923565afb6",
         "title": "Applications Development Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -188926,7 +188926,7 @@
         "company_name": "BlueCross BlueShied of Tennessee",
         "id": "9a007194-038f-4d2e-8fff-6f7f12292dbe",
         "title": "Provider Data Reporting Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1745957000,
         "date_posted": 1745957000,
@@ -188963,7 +188963,7 @@
         "company_name": "Adobe",
         "id": "559bdfee-3f5f-44c2-8e77-67ae03b81a9c",
         "title": "2025 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -189247,7 +189247,7 @@
         "company_name": "Verana Health",
         "id": "0c07b493-36cf-4ca5-8650-341b01cb18ab",
         "title": "Data Engineer Co-Op",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1745955235,
         "date_posted": 1745955235,
@@ -189427,7 +189427,7 @@
         "company_name": "Salesforce",
         "id": "9e5f075a-9b8a-4747-974b-c5e03a608bd4",
         "title": "Intern - Competitive Intelligence Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -189523,7 +189523,7 @@
         "company_name": "Tesla",
         "id": "9f3fd448-d82d-4abe-b364-0b7862c157aa",
         "title": "Internship - C++ Robotics Software Engineer - Optimus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -189543,7 +189543,7 @@
         "company_name": "Tyson Foods",
         "id": "e872c532-ddc5-4d42-8d5f-2c2a1dd09976",
         "title": "Tech@Tyson Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -189562,7 +189562,7 @@
         "company_name": "Autodesk",
         "id": "7a6cc4fd-04b5-43eb-bca5-b3b9561138a8",
         "title": "Intern \u2013 AI Developer / Stagiaire en d\u00e9veloppement IA",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746116462,
         "date_posted": 1746116462,
@@ -189900,7 +189900,7 @@
         "company_name": "Marvell",
         "id": "2130373a-f51c-4465-b22f-4a8b7b768159",
         "title": "System Hardware Engineer Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1741917134,
         "date_posted": 1730145190,
@@ -190145,7 +190145,7 @@
         "company_name": "CACI",
         "id": "9b74363a-2e06-4ce1-83cc-83f66c95b4a4",
         "title": "Systems/Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -190186,7 +190186,7 @@
         "company_name": "Leidos",
         "id": "c72feeef-f417-4e54-99c2-8ae5e789c696",
         "title": "Computer Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -190319,7 +190319,7 @@
         "company_name": "Skyryse",
         "id": "ceaf98fe-31a9-41f5-a259-4a7f6e010348",
         "title": "Software Engineer Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -190359,7 +190359,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "2484c73e-67dc-494a-974e-9265861f9c29",
         "title": "Digital and Transformation Software Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -190397,7 +190397,7 @@
         "company_name": "C&S Wholesale Grocers",
         "id": "549bac53-685d-4bd4-960f-3b5e2f820a45",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -190496,7 +190496,7 @@
         "company_name": "Conductor",
         "id": "0712dba2-1aad-416b-9704-5b5dc4bc1757",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746229939,
         "date_posted": 1746229939,
@@ -190608,7 +190608,7 @@
         "company_name": "Unisys",
         "id": "841e8997-23f2-4029-8424-0d177a2ac061",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746390968,
         "date_posted": 1746390968,
@@ -190626,7 +190626,7 @@
         "company_name": "Unisys",
         "id": "c53ebde2-c99f-48eb-a414-b2f1714f5260",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746394346,
         "date_posted": 1746394346,
@@ -190644,7 +190644,7 @@
         "company_name": "Unisys",
         "id": "7dbb3cee-67bc-4a70-a44e-f7fe074afe3d",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746394509,
         "date_posted": 1746394509,
@@ -190653,6 +190653,538 @@
             "Ambler, PA"
         ],
         "company_url": "https://simplify.jobs/c/f36d80a6-23f4-416c-bd74-b85753adb3b7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1746424134,
+        "url": "https://jobs.bombardier.com/job/Dorval-Intern-in-Information-Technology-%28Summer-2025%29-Qu%C3%A9b-H4S-2A3/1165981501",
+        "company_name": "Bombardier",
+        "title": "Intern in Information Technology (Summer 2025)",
+        "locations": [
+            "Dorval, Qu\u00e9bec, Canada"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "887de1e1-cf59-4470-8319-ff0d6c46a3c8",
+        "date_posted": 1746424134,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ontario Teachers' Pension Plan",
+        "id": "dc51aba2-9c06-433b-bf1a-9d879d0c9c41",
+        "title": "Intern \u2013 Product Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1746430574,
+        "date_posted": 1746430574,
+        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Product-Engineering--September-2025---12-months-_6385",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PDI Technologies",
+        "id": "1ba09c06-0983-44d5-abd3-6aeef80895cf",
+        "title": "Software Engineer Intern",
+        "active": false,
+        "terms": [],
+        "date_updated": 1746466499,
+        "date_posted": 1746466499,
+        "url": "https://jobs.lever.co/pditechnologies/cf75e730-84c7-4d43-85a8-ccb6e613b008/apply",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/c202599e-d952-4aab-a921-e4ecf64a1dea",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "6fddd4b8-f091-453b-97fc-3918f85157cd",
+        "title": "Intern \u2013 Full Stack Software Engineer - Customer Acquisitions",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1746456530,
+        "date_posted": 1746456530,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Customer-Acquisitions---Fall-2025_R215347",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Aledade",
+        "id": "f0827bfc-550c-4c6f-98f1-4d4ea72bdf96",
+        "title": "Internship - AI Analyst",
+        "active": true,
+        "terms": [],
+        "date_updated": 1746471694,
+        "date_posted": 1746471694,
+        "url": "https://jobs.lever.co/aledade/297fadfd-8563-4cfa-9b59-7645e4c2fbb2/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aledade",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "80553404-d37d-44b8-ae64-2f5c443b3500",
+        "title": "Intern \u2013 Backend Software Engineer",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1746456531,
+        "date_posted": 1746456531,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Canusa-Street---Fall-2025_R215346",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "6201ffc1-3189-45dc-a44b-7c3c8b214dc6",
+        "title": "Intern \u2013 Backend Software Engineer - Team Arcus",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1746456530,
+        "date_posted": 1746456530,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Arcus---Fall-2025_R215514",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "043a1716-ccbc-4525-9cfb-c68cc026148d",
+        "title": "Intern \u2013 IOS Software Engineer - Team Capital One Travel",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1746456530,
+        "date_posted": 1746456530,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--iOS-Software-Engineer---Team-Capital-One-Travel---Fall-2025_R215356",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "f0cb3639-6dc7-4a9f-9eeb-e3f0abc14d27",
+        "title": "Embedded C/C++ SW Developer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1746472692,
+        "date_posted": 1746472692,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20364",
+        "locations": [
+            "Kanata, Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "71177361-4df4-4c8f-ab38-ffee6d3669b3",
+        "title": "DSP Firmware Engineering Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1746472681,
+        "date_posted": 1746472681,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20313",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital One",
+        "id": "9139048c-1afb-4c8e-996f-e66f67c6ea31",
+        "title": "Intern \u2013 Data Scientist",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1746472519,
+        "date_posted": 1746472519,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist--Fall-2025-_R214895",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "c98d98bc-cd59-4fef-bd06-c97b6e61b2c4",
+        "title": "Intern \u2013 Full Stack Software Engineer - Team Cia",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1746472507,
+        "date_posted": 1746472507,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-CIA---Fall-2025_R215349",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "ab964c01-867c-4a94-8329-d4587739dccf",
+        "title": "Intern \u2013 Full Stack Software Engineer - Team The6Ix",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1746472505,
+        "date_posted": 1746472505,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-The6ix---Fall-2025_R215348",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "840acf05-df8b-4618-91fe-b70815f1be5a",
+        "title": "Intern \u2013 Full Stack Software Engineer - Team Velocity Black",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1746472509,
+        "date_posted": 1746472509,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Velocity-Black---Fall-2025_R215353",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "bacef4b9-db33-4826-b75b-67181e9a7907",
+        "title": "Software Developer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1746456803,
+        "date_posted": 1746456803,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19365",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "TD Bank",
+        "id": "4f66d7db-dbf0-4d23-849c-ae6c203e8e3a",
+        "title": "Global Markets Intern/Co-op - Fx - FI & Precious Metals Distribution",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1746474179,
+        "date_posted": 1746474179,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Intern-Co-op---FX--FI---Precious-Metals-Distribution--Fall-2025-_R_1418689",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GeoComply",
+        "id": "cce162be-73fa-408a-b7a3-ae7c1f2c7298",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [],
+        "date_updated": 1746473822,
+        "date_posted": 1746473822,
+        "url": "https://jobs.lever.co/geocomply-2/f99c826c-8a04-4384-b773-3bb97f900097/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/GeoComply",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Super",
+        "id": "d00d6713-5585-469b-85e1-b67e606e3411",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1746477599,
+        "date_posted": 1746477599,
+        "url": "https://jobs.lever.co/super-com/119e5a3d-af46-4602-aaa1-35f9f7fce4fc/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Super",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "f3aa84ce-e3f1-4558-81ad-e8854ad77b45",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1746479053,
+        "date_posted": 1746479053,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Petersburg-FL/Software-Engineer-Intern_R-00158666",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Western Digital",
+        "id": "47a1f9a4-8c0c-4e2a-a9da-51d671c56120",
+        "title": "Summer 2025 Intern - Applications Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1746483444,
+        "date_posted": 1746483444,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000057639220",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Activision-Blizzard",
+        "id": "325307a3-6c7a-4e53-93bd-5afd5ace092d",
+        "title": "Machine Learning Security Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1746484761,
+        "date_posted": 1746484761,
+        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Sherman-Oaks/Machine-Learning-Security-Intern_R024774-1",
+        "locations": [
+            "Sherman Oaks, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "fcfdddd1-c695-43b4-aecc-b62faa50f107",
+        "title": "Internship - Fullstack Engineer - Infrastructure Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Spring 2026"
+        ],
+        "date_updated": 1746487090,
+        "date_posted": 1746487090,
+        "url": "https://www.tesla.com/careers/search/job/242326",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Bridgewater Associates",
+        "id": "890627b8-5826-4197-a822-73b580bed8fa",
+        "title": "Campus Investment Engineer Intern",
+        "active": true,
+        "terms": [],
+        "date_updated": 1746486909,
+        "date_posted": 1746486909,
+        "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/7950099002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bridgewater-Associates",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cognito Therapeutics",
+        "id": "05501935-7a30-4673-aaf2-abdc2cf64e8c",
+        "title": "AI Solutions Intern",
+        "active": true,
+        "terms": [],
+        "date_updated": 1746487991,
+        "date_posted": 1746487991,
+        "url": "https://job-boards.greenhouse.io/cognitotherapeutics/jobs/4565095006",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/4b35c3db-827b-4165-9087-46cd60a53959",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital One",
+        "id": "5574a5f2-05e6-4848-9df0-c1b66d660c27",
+        "title": "Intern \u2013 Data Analytics Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1746487958,
+        "date_posted": 1746487958,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Analytics-Engineering---Fall-2025_R215757",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Verkada",
+        "id": "9441c8b9-6a9a-45d2-ab82-1705d77fd1c5",
+        "title": "Software Engineering Intern - Backend",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1746487483,
+        "date_posted": 1746487483,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4726446007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TD Bank",
+        "id": "883ae211-ea5c-4c5b-b415-1ba08cc20d7f",
+        "title": "Certification Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1746489601,
+        "date_posted": 1746489601,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mississauga-Ontario/Certification-Intern-Co-op_R_1418330-1",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
         "is_visible": true,
         "sponsorship": "Other"
     }
