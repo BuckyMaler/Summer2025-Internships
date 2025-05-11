@@ -160631,7 +160631,7 @@
         "company_name": "Legend Biotech",
         "id": "5f5d6930-1cc3-441d-b04e-8b55cd9de9a3",
         "title": "Analytical Data Science \u2013 CMC Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -180280,7 +180280,7 @@
         "company_name": "SWBC",
         "id": "c5536885-9217-4fac-8d7f-334b37cf1ba3",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1743756944,
         "date_posted": 1743756944,
@@ -190959,7 +190959,7 @@
         "company_name": "TD Bank",
         "id": "4f66d7db-dbf0-4d23-849c-ae6c203e8e3a",
         "title": "Global Markets Intern/Co-op - Fx - FI & Precious Metals Distribution",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -191754,7 +191754,7 @@
         "company_name": "TransUnion",
         "id": "06d573b8-0261-46fd-9d42-5a668196fa74",
         "title": "Identity Analytics Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -192795,7 +192795,7 @@
         "company_name": "Comcast",
         "id": "1c891014-9a4c-4701-b98f-1a4e30b2693c",
         "title": "Comcast Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2026",
@@ -192950,7 +192950,7 @@
         "company_name": "Lowe's ",
         "id": "54be3dff-1b76-4ec3-9a16-6399df0a09ac",
         "title": "Corporate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -192999,6 +192999,121 @@
             "Detroit, MI"
         ],
         "company_url": "https://simplify.jobs/c/American-Axle-And-Manufacturing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Commure",
+        "id": "347065aa-15f4-4573-a2c6-71e3dd129d1f",
+        "title": "Software Engineering Intern - Rcm Core",
+        "active": true,
+        "terms": [],
+        "date_updated": 1746846561,
+        "date_posted": 1746846561,
+        "url": "https://jobs.ashbyhq.com/Commure-Athelas/b48a9b63-c86d-4ddb-8212-32d598bdbecd/application",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Commure",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Altera Corporation",
+        "id": "3fc3816e-8f1a-4523-8ca2-36c0e6b4b104",
+        "title": "FPGA IP Software Development Engineer-Intern",
+        "active": true,
+        "terms": [],
+        "date_updated": 1746833673,
+        "date_posted": 1746833673,
+        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/California-United-States-Remote/FPGA-IP-Software-Development-Engineer-Intern_R00764",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Altera-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lightcast",
+        "id": "6aef88a5-5ce7-4e67-958a-7747d93b9dac",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [],
+        "date_updated": 1746833108,
+        "date_posted": 1746833108,
+        "url": "https://jobs.lever.co/economicmodeling/4d61f491-69d0-498c-891f-7833b0f09368/apply",
+        "locations": [
+            "Moscow, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Lightcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Activision-Blizzard",
+        "id": "9d2af5f7-3875-4228-8e42-009a484801c6",
+        "title": "2025 Summer Internships - AI Engineering - Infinity Ward",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1746833141,
+        "date_posted": 1746833141,
+        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Woodland-Hills/XMLNAME-2025-US-Summer-Internships---AI-Engineering---Infinity-Ward_R025309",
+        "locations": [
+            "Canoga Park, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Robinhood",
+        "id": "1755cada-9e4f-49ef-823d-82b93fe9be4e",
+        "title": "Software Developer Intern/Co-op - Backend",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1746822525,
+        "date_posted": 1746822525,
+        "url": "https://boards.greenhouse.io/robinhood/jobs/6860546",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Robinhood",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "d6a5c972-927f-4cf0-8442-d9518af88ce2",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1746839635,
+        "date_posted": 1746839635,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00159046",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
     }
