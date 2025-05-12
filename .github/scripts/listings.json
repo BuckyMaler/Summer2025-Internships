@@ -147272,7 +147272,7 @@
         "company_name": "S&P Global ",
         "id": "932bfb9a-5c76-41a9-969a-f64c233b7a48",
         "title": "Software Engineer Intern - Data Services - Early Careers",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -180280,7 +180280,7 @@
         "company_name": "SWBC",
         "id": "c5536885-9217-4fac-8d7f-334b37cf1ba3",
         "title": "Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [],
         "date_updated": 1743756944,
         "date_posted": 1743756944,
@@ -181597,7 +181597,7 @@
         "company_name": "Uhaul",
         "id": "a2a2b1f7-989c-4583-93e3-18a7e9b9dd72",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1744101187,
         "date_posted": 1744101187,
@@ -189207,7 +189207,7 @@
         "company_name": "Brunswick",
         "id": "bdee494a-dcde-46c4-a4d1-15064d68aeab",
         "title": "Computer Graphics Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -192629,7 +192629,7 @@
         "company_name": "Exact Sciences",
         "id": "b6d7c825-6966-4d69-9c44-bf6f54a4a254",
         "title": "PO Marketing Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746732666,
         "date_posted": 1746732666,
@@ -192912,7 +192912,7 @@
         "company_name": "Intel",
         "id": "2acd1920-ec5f-4d92-a29f-b0e4a14c3383",
         "title": "AI Research Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746825039,
         "date_posted": 1746825039,
@@ -193114,6 +193114,88 @@
             "Arlington, VA"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1746936163,
+        "url": "https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R003484",
+        "company_name": "Entrust",
+        "title": "Intern \u2013 Software Development",
+        "locations": [
+            "Ottawa, Ontario, Canada"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "3d9a8e8b-9036-48f5-ab94-ee151b4728d9",
+        "date_posted": 1746936163,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Snowflake",
+        "id": "5dda7456-42fc-4491-bb92-951c209d5305",
+        "title": "Software Engineer Intern - Infrastructure Automation",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1746988695,
+        "date_posted": 1746988695,
+        "url": "https://jobs.ashbyhq.com/snowflake/f823b018-3c74-4496-87af-a64824ea577c/application",
+        "locations": [
+            "Menlo Park, CA",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Snowflake",
+        "id": "d0eac7e8-168e-442f-8e5c-9aa2435cb12a",
+        "title": "Software Engineer Intern - Database Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1746988694,
+        "date_posted": 1746988694,
+        "url": "https://jobs.ashbyhq.com/snowflake/7833663e-efb0-4530-b658-b9139ee48753/application",
+        "locations": [
+            "Menlo Park, CA",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Snowflake",
+        "id": "8908bc7c-845d-4be9-a818-9d1707be4465",
+        "title": "Software Engineer Intern - Core Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1746988692,
+        "date_posted": 1746988692,
+        "url": "https://jobs.ashbyhq.com/snowflake/d606671f-ab0c-4305-b901-cdd4e66dea76/application",
+        "locations": [
+            "Menlo Park, CA",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Snowflake",
         "is_visible": true,
         "sponsorship": "Other"
     }
