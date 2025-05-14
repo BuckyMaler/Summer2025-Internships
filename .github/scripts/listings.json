@@ -47363,7 +47363,7 @@
         "company_name": "Ramp",
         "id": "094007c3-3fe3-4732-804a-d8d95105d434",
         "title": "Software Engineer Internship - IOS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -81285,7 +81285,7 @@
         "company_name": "D2L",
         "id": "fd22c957-25d4-4872-b65c-0c52115d00f9",
         "title": "Software Developer \u2013 Fall 2024 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -86285,7 +86285,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "37a800c5-c4cc-48aa-929e-1801d49f465d",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -88610,7 +88610,7 @@
         "company_name": "Teleo",
         "id": "a0117387-55c8-4681-873a-1ea19836a5cd",
         "title": "Firmware Engineer Internship/Co-op - Fall 2024",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2024"
         ],
@@ -113834,7 +113834,7 @@
         "company_name": "Adobe",
         "id": "57933f43-8064-4207-aff2-419bf5914f24",
         "title": "2025 Intern - Software Development Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -151193,7 +151193,7 @@
         "company_name": "Carrier Global",
         "id": "ee533dd5-7c5d-4fbc-af7d-43ef2f2ab645",
         "title": "Enterprise Business System Intern-Spring",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -153246,7 +153246,7 @@
         "company_name": "Wayfair",
         "id": "5e862d98-bc89-4288-9887-47fd2e24db4a",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -168983,7 +168983,7 @@
         "company_name": "Reveleer",
         "id": "3dcfb9a5-a466-4db2-8842-3769691b1e45",
         "title": "Applied Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -169800,7 +169800,7 @@
         "company_name": "Copart",
         "id": "cb193373-5615-4c80-a2c5-58a7e605922d",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -174859,7 +174859,7 @@
         "company_name": "The Federal Reserve System",
         "id": "2d123603-a1f7-4195-8948-77380bc4412d",
         "title": "BTS Innovation Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -176781,7 +176781,7 @@
         "company_name": "Athena Health",
         "id": "8710ae9c-5dd3-4813-86e7-8d6fb7886948",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -183071,7 +183071,7 @@
         "company_name": "IDEXX",
         "id": "8478a030-0162-49dd-92b4-a6726e8ae430",
         "title": "IT Data Engineering Support Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1744242620,
         "date_posted": 1744242620,
@@ -185651,7 +185651,7 @@
         "company_name": "Expedition Technology",
         "id": "75d8654a-b81c-4a02-8dfd-c2bc5c8fe0ae",
         "title": "Internship in Deep Learning and Computer Vision",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -185915,7 +185915,7 @@
         "company_name": "Magna",
         "id": "2000c3e6-7a28-49e9-8006-f41e5ce2c226",
         "title": "Industry Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1744914504,
         "date_posted": 1744914504,
@@ -186752,7 +186752,7 @@
         "company_name": "Nokia",
         "id": "525e6533-1c04-4bf0-8e7c-0c35ba0a9896",
         "title": "Web Developer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -190283,7 +190283,7 @@
         "company_name": "Fifth Third Bank",
         "id": "93cefd40-6de7-4f3c-8a9e-68f3a052c081",
         "title": "2026 Capital Markets Fixed Income \u2013 Currencies and Commodities Sales & Trading internship",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746204673,
         "date_posted": 1746204673,
@@ -190719,7 +190719,7 @@
         "company_name": "Capital One",
         "id": "6fddd4b8-f091-453b-97fc-3918f85157cd",
         "title": "Intern \u2013 Full Stack Software Engineer - Customer Acquisitions",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -190757,7 +190757,7 @@
         "company_name": "Capital One",
         "id": "80553404-d37d-44b8-ae64-2f5c443b3500",
         "title": "Intern \u2013 Backend Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -190777,7 +190777,7 @@
         "company_name": "Capital One",
         "id": "6201ffc1-3189-45dc-a44b-7c3c8b214dc6",
         "title": "Intern \u2013 Backend Software Engineer - Team Arcus",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -191134,7 +191134,7 @@
         "company_name": "Capital One",
         "id": "5574a5f2-05e6-4848-9df0-c1b66d660c27",
         "title": "Intern \u2013 Data Analytics Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -191655,7 +191655,7 @@
         "company_name": "Cadence Design Systems",
         "id": "fd680140-afdb-426d-81de-6164c2f2ff40",
         "title": "Finance Transformation: Data & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746575702,
         "date_posted": 1746575702,
@@ -192554,7 +192554,7 @@
         "company_name": "Ultra",
         "id": "89150ba7-d369-4b20-915f-4dc03e53982f",
         "title": "Production Apprentice - Wireperson",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746714316,
         "date_posted": 1746714316,
@@ -193363,7 +193363,7 @@
         "company_name": "Cibc",
         "id": "75727fe3-e645-4818-ad38-970a173870da",
         "title": "Application Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -193457,7 +193457,7 @@
         "company_name": "Cibc",
         "id": "d273b330-9d39-49a3-b375-a4c4937012bc",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -193468,6 +193468,237 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Cibc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1747104015,
+        "url": "https://job-boards.greenhouse.io/coop/jobs/5534188004",
+        "company_name": "theScore",
+        "title": "Android Developer, Coop - F2025",
+        "locations": [
+            "Toronto"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "karimaljundi",
+        "id": "3376251e-2a5a-45a8-9e8e-9a1c41760016",
+        "date_posted": 1747104015,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EarnIn",
+        "id": "624fb675-ce97-4350-9424-7902dba105ec",
+        "title": "Machine Learning Intern - Infra",
+        "active": true,
+        "terms": [],
+        "date_updated": 1747166036,
+        "date_posted": 1747166036,
+        "url": "https://job-boards.greenhouse.io/earnin/jobs/6884689",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Earnin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cibc",
+        "id": "17c8c3e8-3e1f-4a7c-b1b6-87ef160fb3d0",
+        "title": "Data Analyst Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1747162051,
+        "date_posted": 1747162051,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analyst-Co-op----8-months-_2422552",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cibc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ZOLL Medical Corporation",
+        "id": "f64ace8f-6d15-43f2-b199-056b7adaf4a1",
+        "title": "Engineering Co-op - Human Factors and Usability",
+        "active": true,
+        "terms": [],
+        "date_updated": 1747161556,
+        "date_posted": 1747161556,
+        "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Pittsburgh-PA/Engineering-Co-op---Human-Factors-and-Usability_R15668",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/ee618baa-00a6-40a4-a272-ee5c1f9a73dd",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Everstream Analytics",
+        "id": "72b55ad6-3aaf-4f96-8a09-dbab9cc87a6d",
+        "title": "Internship - Data Scientist",
+        "active": true,
+        "terms": [],
+        "date_updated": 1747156732,
+        "date_posted": 1747156732,
+        "url": "https://everstream.ai/careers/jobs/?gh_jid=5539711004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/EverstreamAnalytics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "471d9b67-bcac-4b4b-896f-df6139930c67",
+        "title": "NPI Product Engineer Coop",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1747155971,
+        "date_posted": 1747155971,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/NPI-Product-Engineer-Coop--Summer-2025-_R027926",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "9d84c0fd-d1d7-4ef3-af6e-593b60e4c516",
+        "title": "Discrete Graphics Validation Internship",
+        "active": true,
+        "terms": [],
+        "date_updated": 1747097944,
+        "date_posted": 1747097944,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Discrete-Graphics-Validation-Internship_JR0274076",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cibc",
+        "id": "f15359fa-b701-49d1-a79b-589ac88c3082",
+        "title": "Application/Software Developer Co-op - Personal Banking - Simplii & Direct Investing Technology",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1747097447,
+        "date_posted": 1747097447,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op---Personal-Banking--Simplii---Direct-Investing-Technology_2511348",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cibc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cibc",
+        "id": "0b626d73-f595-40ea-b3f9-a789080545c7",
+        "title": "Production Application Support Co-op - Capital Markets Technology",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1747107417,
+        "date_posted": 1747107417,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Production-Application-Support-Co-op---Capital-Markets-Technology_2511388",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cibc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cibc",
+        "id": "e9846664-7d77-4a6f-882d-9678a92dd8ca",
+        "title": "Data Scientist Co-op - Enterprise Technology and Business Management",
+        "active": true,
+        "terms": [
+            "Spring 2025"
+        ],
+        "date_updated": 1747107411,
+        "date_posted": 1747107411,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Scientist-Co-op---Enterprise-Technology-and-Business-Management_2511395",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cibc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ripple",
+        "id": "f091d113-33fe-40d2-ab2e-880b8c7a42b2",
+        "title": "Software Engineer Intern - Custody",
+        "active": true,
+        "terms": [],
+        "date_updated": 1747169247,
+        "date_posted": 1747169247,
+        "url": "https://ripple.com/careers/all-jobs/job/6858576?gh_jid=6858576",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Ripple",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "c4f5030a-0021-41c3-92d1-1f6c38d9de0d",
+        "title": "Analyste de Donn\u00e9es / Internship - Data Analyst",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1747162641,
+        "date_posted": 1747162641,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/LOC13052-1000-Boul-Marie-VictorinLongueuilQuebecJ4G-1A1Canada/Stage-Automne-2025---Analyste-de-Donnes---Internship-Fall-2025---Data-Analyst_01767891",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other"
     }
