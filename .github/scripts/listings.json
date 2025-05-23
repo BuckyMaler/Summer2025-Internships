@@ -115753,7 +115753,7 @@
         "company_name": "Amazon",
         "id": "6115baff-e2c4-454b-8106-fd5f11f03242",
         "title": "2025 Business Intelligence Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -157524,7 +157524,7 @@
         "company_name": "BillionToOne",
         "id": "6d79ffd3-5dfa-4696-bd06-f3ebd7b96cbe",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -182687,7 +182687,7 @@
         "company_name": "Xpansiv",
         "id": "52bd78eb-abbc-4567-8ed0-878943e323ca",
         "title": "Power Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -190206,7 +190206,7 @@
         "company_name": "Nokia",
         "id": "99513e25-45fc-4fd3-8e04-f44403a5d1b2",
         "title": "Automation & AI/ML Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -192167,7 +192167,7 @@
         "company_name": "Comcast",
         "id": "9c3e4a1f-200d-4ebc-a0e6-373e75f18994",
         "title": "Comcast Automation Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Spring 2026"
@@ -192188,7 +192188,7 @@
         "company_name": "Comcast",
         "id": "98e403cc-02bb-49e3-a7ea-7776f078a0f0",
         "title": "Comcast Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2026",
@@ -192294,7 +192294,7 @@
         "company_name": "Comcast",
         "id": "7c30f87c-a844-4404-ad91-7dd95002ac07",
         "title": "Comcast Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Spring 2026"
@@ -192732,7 +192732,7 @@
         "company_name": "Comcast",
         "id": "ae23abdf-db11-4483-8781-c6c37ee35486",
         "title": "Data Architecture and Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Spring 2026"
@@ -192774,7 +192774,7 @@
         "company_name": "Comcast",
         "id": "51e09e3f-17c5-4f51-99fb-3751d7a6a1c0",
         "title": "Data Architecture and Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Spring 2026"
@@ -192795,7 +192795,7 @@
         "company_name": "Comcast",
         "id": "1c891014-9a4c-4701-b98f-1a4e30b2693c",
         "title": "Comcast Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2026",
@@ -193008,7 +193008,7 @@
         "company_name": "Commure",
         "id": "347065aa-15f4-4573-a2c6-71e3dd129d1f",
         "title": "Software Engineering Intern - Rcm Core",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746846561,
         "date_posted": 1746846561,
@@ -193263,7 +193263,7 @@
         "company_name": "Maxar Technologies",
         "id": "54190050-0087-491b-a031-788916147643",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -193284,7 +193284,7 @@
         "company_name": "Cibc",
         "id": "366b8c85-edf9-4f0e-af27-9ebd557848c1",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -193591,7 +193591,7 @@
         "company_name": "Intel",
         "id": "9d84c0fd-d1d7-4ef3-af6e-593b60e4c516",
         "title": "Discrete Graphics Validation Internship",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1747097944,
         "date_posted": 1747097944,
@@ -194384,7 +194384,7 @@
         "company_name": "United Parcel Service (UPS)",
         "id": "82d9beec-5891-4c8a-889d-98bdebe59e34",
         "title": "Software & Data Systems Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -194628,7 +194628,7 @@
         "company_name": "Keyrock",
         "id": "51b82aae-157e-4d8c-8bf0-9f67c492f675",
         "title": "Trading Operations Specialist",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -194849,7 +194849,7 @@
         "company_name": "Envoy",
         "id": "0d017010-c888-4a87-b43d-3b1d2d5abc6b",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025",
@@ -195338,7 +195338,7 @@
         "company_name": "Snowflake",
         "id": "b342a409-8748-4065-80bb-9318db8bf153",
         "title": "Software Engineer Intern - Infrastructure Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -195481,7 +195481,7 @@
         "company_name": "Tinder",
         "id": "8f446db2-c0f4-42b2-a41e-dcbd26681b66",
         "title": "Android Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -195552,6 +195552,311 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intermountain Healthcare",
+        "id": "99908662-eb93-491f-be95-ab6cf569a8c0",
+        "title": "Data Science Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1747868062,
+        "date_posted": 1747868062,
+        "url": "https://imh.wd5.myworkdayjobs.com/en-US/IntermountainCareers/job/Key-Bank-Tower/Data-Science-Intern_R132466",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/be06ebc5-6942-48ad-b691-821e84f30f2b",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wealthsimple",
+        "id": "df8c5f65-7184-4195-ad92-67435fe4269a",
+        "title": "Intern \u2013 Software Development",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1747871031,
+        "date_posted": 1747871031,
+        "url": "https://jobs.lever.co/wealthsimple/b45bca8b-e224-45e8-b94f-62b83b0452af/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Wealthsimple",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "1370609f-94b6-47cf-bdba-63cdfb8801f3",
+        "title": "Frontend Software Engineer Intern - Product RD and Infrastructure-Global E-Commerce Content - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1747898180,
+        "date_posted": 1747898180,
+        "url": "https://jobs.bytedance.com/en/position/7506998463540857095/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "190aa9ea-f702-40d4-8ab8-0a3ecc7b8be0",
+        "title": "Frontend Software Engineer Intern - Product RD and Infrastructure-Global E-Commerce Seller Business - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1747898179,
+        "date_posted": 1747898179,
+        "url": "https://jobs.bytedance.com/en/position/7507007343654504712/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "f5bc0e9d-d051-4a2b-b4c1-3eaf9361647d",
+        "title": "Backend Software Engineer Intern - Product RD and Infrastructure-Global E-Commerce Seller Business",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1747902522,
+        "date_posted": 1747902522,
+        "url": "https://jobs.bytedance.com/en/position/7507000144987769095/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "QuinStreet",
+        "id": "2116cc68-792b-4116-9fff-9dd36aca1488",
+        "title": "Full Stack Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1747930675,
+        "date_posted": 1747930675,
+        "url": "https://www.quinstreet.com/careers/?gh_jid=6891914",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/2899ea2e-f1cb-4ba2-aebd-2e61c21eef95",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LabCorp",
+        "id": "9fdf0c1b-610d-46cc-a592-188c7d165e6e",
+        "title": "Business Intelligence Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1747931133,
+        "date_posted": 1747931133,
+        "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Business-Intelligence-Intern_2516321",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/LabCorp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KBR",
+        "id": "542c49db-1d9f-4392-bd5d-bbd09af9829e",
+        "title": "Technical Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1747933949,
+        "date_posted": 1747933949,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Crane-Indiana/Technical-Intern_R2106784",
+        "locations": [
+            "Bedford, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CSL",
+        "id": "7608f132-34db-4719-82c5-a370e61af6b7",
+        "title": "Enterprise AI Platform Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1747941173,
+        "date_posted": 1747941173,
+        "url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-PA-King-of-Prussia-CSL-Behring/Enterprise-AI-Platform-Drexel-Co-Op_R-253132",
+        "locations": [
+            "King of Prussia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/CSL",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CSL",
+        "id": "95cb2738-2425-42a4-b3ea-7eb9fda04054",
+        "title": "AI Automation Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1747941169,
+        "date_posted": 1747941169,
+        "url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-PA-King-of-Prussia-CSL-Behring/AI-Automation-Co-op_R-253072",
+        "locations": [
+            "King of Prussia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/CSL",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CSL",
+        "id": "1873bbe6-708f-47d5-9f6e-8ffffb46d732",
+        "title": "Data Science Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1747941156,
+        "date_posted": 1747941156,
+        "url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-PA-King-of-Prussia-CSL-Behring/Data-Science-Co-op_R-253222",
+        "locations": [
+            "King of Prussia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/CSL",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fractal",
+        "id": "91faad6a-4a8d-412e-bd8f-f8d5027c5843",
+        "title": "Data & AI Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1747926513,
+        "date_posted": 1747926513,
+        "url": "https://fractal.wd1.myworkdayjobs.com/en-US/Careers/job/California/Data---AI-Intern_SR-32362",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fractal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CSL",
+        "id": "f61a8255-c063-44cf-b346-e13298f28bc9",
+        "title": "Development Engineer in Test Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1747928671,
+        "date_posted": 1747928671,
+        "url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-PA-King-of-Prussia-CSL-Behring/Development-Engineer-in-Test-Co-op_R-253173",
+        "locations": [
+            "King of Prussia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/CSL",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OpenAI",
+        "id": "c4d0439b-5712-4b5f-9b33-f7802b2f9c23",
+        "title": "Software Engineer Internship/Co-op - Applied Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1747953532,
+        "date_posted": 1747953532,
+        "url": "https://jobs.ashbyhq.com/openai/a04c133d-f969-4ce0-9217-b639232a1f09/application",
+        "locations": [
+            "Seattle, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenAI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fortra",
+        "id": "61f09a6d-081d-4f09-a3ad-32db646fbc1e",
+        "title": "Software Development Intern - Python and Linux",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1747958240,
+        "date_posted": 1747958240,
+        "url": "https://job-boards.greenhouse.io/fortra/jobs/4570629006",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Fortra",
         "is_visible": true,
         "sponsorship": "Other"
     }
