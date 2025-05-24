@@ -94432,7 +94432,7 @@
         "company_name": "Squarepoint Capital",
         "id": "3ec91fbf-4e9b-4ad8-a8e9-0878aa80cad8",
         "title": "Intern Software Developer - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -113165,7 +113165,7 @@
         "company_name": "Symphony",
         "id": "916e0948-c9b3-41f3-91f4-87d39641fac8",
         "title": "Intern \u2013 Product & Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -116202,7 +116202,7 @@
         "company_name": "CACI",
         "id": "a5b71bc8-dc6a-4a3f-a95b-c3cb43f3dd0e",
         "title": "Summer Internship 2025 - Msu",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -131558,7 +131558,7 @@
         "company_name": "Crowdstrike",
         "id": "8540da83-e38f-4c8a-b007-e210a6664ad2",
         "title": "Data Science Intern - Intelligence Automation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -146367,7 +146367,7 @@
         "company_name": "Acorns",
         "id": "bda7ac09-b8ba-4bc8-917e-97d2e37d336a",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -157524,7 +157524,7 @@
         "company_name": "BillionToOne",
         "id": "6d79ffd3-5dfa-4696-bd06-f3ebd7b96cbe",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -167636,7 +167636,7 @@
         "company_name": "EnergyHub",
         "id": "bb1e65ec-b475-4c8d-beb0-133ab3bec85d",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -168462,7 +168462,7 @@
         "company_name": "Tamr",
         "id": "666645b9-5b50-40a0-bbc4-819ed6014b42",
         "title": "Software Development Engineer in Test Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025",
@@ -173868,7 +173868,7 @@
         "company_name": "Early Warning",
         "id": "5872fcc5-751b-418f-bff9-9bcefe1795b1",
         "title": "Intern \u2013 Devops/Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -177011,7 +177011,7 @@
         "company_name": "Actian",
         "id": "d55a7340-765c-4242-a8e7-0072a883d727",
         "title": "Informix Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -177488,7 +177488,7 @@
         "company_name": "PlusAI",
         "id": "78b59bc0-957f-4997-9660-2deedb3169c4",
         "title": "Intern-Technical Program Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -178048,7 +178048,7 @@
         "company_name": "Delta Dental",
         "id": "3e39cc85-8e50-4f58-8acf-fafdd5fdeee2",
         "title": "Internship - Application Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -181888,7 +181888,7 @@
         "company_name": "KBR",
         "id": "f28a8399-7a32-4d82-bfae-0e6fcab82629",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1740530480,
         "date_posted": 1740530480,
@@ -181925,7 +181925,7 @@
         "company_name": "EnergyHub",
         "id": "22abeebc-cbed-4b73-8826-04654a8b6d81",
         "title": "Engineering Intern - Client Connections",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -183898,7 +183898,7 @@
         "company_name": "MoneyLion",
         "id": "bd83f946-0ab4-4874-89ac-73e80c9d2646",
         "title": "Backend Java Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Summer 2025"
@@ -189778,7 +189778,7 @@
         "company_name": "Altera Corporation",
         "id": "42d5fc20-b8e7-4344-a14f-b53c6580674f",
         "title": "FPGA Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -191037,7 +191037,7 @@
         "company_name": "Western Digital",
         "id": "47a1f9a4-8c0c-4e2a-a9da-51d671c56120",
         "title": "Summer 2025 Intern - Applications Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -193304,7 +193304,7 @@
         "company_name": "Cibc",
         "id": "7eab18a3-c7f1-4587-a321-a25c6eb2165a",
         "title": "Mainframe Application Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -193728,7 +193728,7 @@
         "company_name": "Early Warning",
         "id": "dbf0eba7-fbdf-48f5-8c05-b414e5899bfd",
         "title": "Intern \u2013 Devops/Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -193751,7 +193751,7 @@
         "company_name": "Early Warning",
         "id": "7e2a7268-a61d-47ca-8163-bec0e1dcaab8",
         "title": "Intern \u2013 Devops/Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -194099,7 +194099,7 @@
         "company_name": "Manulife",
         "id": "7446da85-9c9f-4ab9-8dba-b24eb8a02fc0",
         "title": "Business Intelligence Analyst Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -194302,7 +194302,7 @@
         "company_name": "Amgen",
         "id": "ce4bd948-2c14-46f1-a057-d5875bcd7e9a",
         "title": "Undergraduate / Graduate Co-op Student - Software Engineer - Large Molecule Discovery - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Spring 2026"
@@ -194344,7 +194344,7 @@
         "company_name": "Delta Dental",
         "id": "46c759eb-2144-4a2b-9dc2-4172dd81f292",
         "title": "Internship-Application Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -194506,7 +194506,7 @@
         "company_name": "NVIDIA",
         "id": "0ab38358-eb77-44ef-b7b4-25370409a428",
         "title": "Camera Systems Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -195011,7 +195011,7 @@
         "company_name": "Leidos",
         "id": "c78ccc38-20aa-48d3-b25d-49bd3965384a",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -195857,6 +195857,209 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/Fortra",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "386ccda1-8096-48c7-ab2d-dfd047b935cc",
+        "title": "Data Scientist Intern - Tiktok Ads",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1747984989,
+        "date_posted": 1747984989,
+        "url": "https://jobs.bytedance.com/en/position/7507366175711348999/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "f2800390-ace4-4621-8f74-37d6e4672a2c",
+        "title": "Backend Software Engineer Intern - Product RD and Infrastructure-Global E-Commerce Customer Business - 2025 Fall - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1747984967,
+        "date_posted": 1747984967,
+        "url": "https://jobs.bytedance.com/en/position/7507012740722166023/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ntrepid Corporation",
+        "id": "c86b4736-0586-4ede-8f22-2e22aa5f4f6f",
+        "title": "Product Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748017541,
+        "date_posted": 1748017541,
+        "url": "https://careers-ntrepidcorp.icims.com/jobs/1801/job",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ntrepid-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Skydio",
+        "id": "20c372e3-f497-4d47-ba47-ebc0c3f25753",
+        "title": "People Operations Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748030928,
+        "date_posted": 1748030928,
+        "url": "https://www.skydio.com/jobs/6585180003?gh_jid=6585180003",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skydio",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bonterra",
+        "id": "2ab8fa20-aa53-4920-bd78-6993e228b29a",
+        "title": "R&D Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748032119,
+        "date_posted": 1748032119,
+        "url": "https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/R-D-Engineering-Intern_R2025-0190",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bonterra",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "21a470dd-2545-4ea0-8e55-423dc488e32e",
+        "title": "Optical Modem Hardware Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1748031914,
+        "date_posted": 1748031914,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Modem-Hardware-Intern--Fall-2025-_R028097",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "88d5c83b-74b9-4e65-8636-5d7c79d49f94",
+        "title": "Hardware \u2013 Design and Verification Co-op - Pcba",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1748031894,
+        "date_posted": 1748031894,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Co-op--Fall-2025-_R028061",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "b1140d8b-0911-465c-9c7b-3764112d51ee",
+        "title": "THW Client Intern/Co-op - Undergrad",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1748034881,
+        "date_posted": 1748034881,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/THW-Client-Intern-Co-op---Undergrad--Fall-2025-_R028076",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "93db84d8-56d6-44d3-88e1-a2ea95d057f9",
+        "title": "Hardware Design Intern-Interconnect/Signal Integrity",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1748036337,
+        "date_posted": 1748036337,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Design-Intern--Interconnect-Signal-Integrity--Fall-2025-_R028058",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Proofpoint",
+        "id": "cde781ff-aa17-4248-b2af-21a9b413b5b0",
+        "title": "Message Intelligence Services Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748039720,
+        "date_posted": 1748039720,
+        "url": "https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Sunnyvale-CA/Message-Intelligence-Services-Intern_R12380",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/proofpoint",
         "is_visible": true,
         "sponsorship": "Other"
     }
