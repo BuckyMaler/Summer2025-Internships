@@ -188068,7 +188068,7 @@
         "company_name": "Blockhouse",
         "id": "512d43a3-9115-4ddd-8ddb-df29faa3e6e2",
         "title": "Quantitative Research Internship",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1745622661,
         "date_posted": 1745622661,
@@ -195684,7 +195684,7 @@
         "company_name": "LabCorp",
         "id": "9fdf0c1b-610d-46cc-a592-188c7d165e6e",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
