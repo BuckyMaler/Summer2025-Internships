@@ -180127,7 +180127,7 @@
         "company_name": "Curtiss-Wright Corporation",
         "id": "92b8b73c-d67c-4158-82f8-49ff5f7e022d",
         "title": "Product Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -189798,7 +189798,7 @@
         "company_name": "Kepler Communications",
         "id": "a0dbf269-8edb-4fa0-9f0d-4f7050fd0354",
         "title": "FPGA Digital Design Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -193609,7 +193609,7 @@
         "company_name": "Cibc",
         "id": "f15359fa-b701-49d1-a79b-589ac88c3082",
         "title": "Application/Software Developer Co-op - Personal Banking - Simplii & Direct Investing Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -194404,7 +194404,7 @@
         "company_name": "Cibc",
         "id": "eb34ab8a-c084-4119-888f-a0ca63cd012c",
         "title": "Production Application Support Co-op - Distribution & Cards Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -195704,7 +195704,7 @@
         "company_name": "KBR",
         "id": "542c49db-1d9f-4392-bd5d-bbd09af9829e",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -196121,6 +196121,47 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "5465bad1-1227-4018-a11d-1ea0735cec19",
+        "title": "Software Development Engineer Intern in Test",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1748248231,
+        "date_posted": 1748248231,
+        "url": "https://jobs.bytedance.com/en/position/7507866337907263752/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "a90c0d85-e73a-4496-9f7c-f86eac919441",
+        "title": "Analyste syst\u00e8mes d\u2019affaires et transformation - Analyst Business Systems and Transformation",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1748299331,
+        "date_posted": 1748299331,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/LOC13052-1000-Boul-Marie-VictorinLongueuilQuebecJ4G-1A1Canada/Stage-Automne-2025---Analyste-systmes-d-affaires-et-transformation---Internship-Fall-2025---Analyst-Business-Systems-and-Transformation_01770367",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other"
     }
