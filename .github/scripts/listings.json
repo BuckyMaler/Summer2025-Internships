@@ -97063,7 +97063,7 @@
         "company_name": "Matroid",
         "id": "5b88431b-c2d7-4bde-9683-761298005dba",
         "title": "Full Stack Engineer Intern for Computer Vision Products - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -98810,7 +98810,7 @@
         "company_name": "Epic Games",
         "id": "fc20b50e-c7c7-44e6-8b6c-2c8e5959900f",
         "title": "Engine Programmer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -98950,7 +98950,7 @@
         "company_name": "Trimble",
         "id": "b3ef5fe9-b9ba-4617-abb6-a51955dc14eb",
         "title": "Geomatics Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -106032,7 +106032,7 @@
         "company_name": "Badger Meter",
         "id": "678f91c5-adab-4e00-aed9-f83412b1efba",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -156830,7 +156830,7 @@
         "company_name": "ByteDance",
         "id": "211b2333-ae97-4252-a11f-53e0e97aead1",
         "title": "Backend Software Engineer Intern - Product RD and Infrastructure-Global E-Commerce - 2025 Summer - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -156849,7 +156849,7 @@
         "company_name": "ByteDance",
         "id": "3f987023-7586-48d3-8975-6afe890fb434",
         "title": "Backend Software Engineer Intern - Product RD and Infrastructure-Global E-Commerce - 2025 Summer - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -166159,7 +166159,7 @@
         "company_name": "AssetMark",
         "id": "0090fb87-54ba-43e3-9e9f-9855a53018b7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -177564,7 +177564,7 @@
         "company_name": "Actian",
         "id": "41ad0f11-0b33-4c89-8d17-8d5e5144ca7c",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -181189,7 +181189,7 @@
         "company_name": "Primerica",
         "id": "8578575c-3379-42ac-9265-02fd4ff609e9",
         "title": "Appdev \u2013 Python Scripting Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1744044501,
         "date_posted": 1744044501,
@@ -181466,7 +181466,7 @@
         "company_name": "Cadence Design Systems",
         "id": "6edd14ec-bc51-43a8-9a3e-0ae57e678b19",
         "title": "Software Architect Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -182480,7 +182480,7 @@
         "company_name": "Onto Innovation",
         "id": "28482560-5f35-4ebc-a81e-d7a62f7d9f1b",
         "title": "Software Engineer 1 \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -184183,7 +184183,7 @@
         "company_name": "Nokia",
         "id": "37f5c549-390e-4613-b9c6-166cd62f7617",
         "title": "SW Tools Development Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -184242,7 +184242,7 @@
         "company_name": "Scale AI",
         "id": "f56fa945-fa86-40ee-99bf-6ac7bde48751",
         "title": "Technical Advisor Intern - GenAI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -189376,7 +189376,7 @@
         "company_name": "Businessolver",
         "id": "0799c405-f3c2-49e4-92d5-f1a26b876572",
         "title": "Business Intelligence Internship",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746044509,
         "date_posted": 1746044509,
@@ -189697,7 +189697,7 @@
         "company_name": "Ciena",
         "id": "cf3bb74a-ae9f-49a6-a0cf-aaed09a977d9",
         "title": "Hardware \u2013 Design and Verification Co-op - Pcba",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -193609,7 +193609,7 @@
         "company_name": "Cibc",
         "id": "f15359fa-b701-49d1-a79b-589ac88c3082",
         "title": "Application/Software Developer Co-op - Personal Banking - Simplii & Direct Investing Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -194527,7 +194527,7 @@
         "company_name": "NVIDIA",
         "id": "d3e667d6-30d5-4980-8bfd-210d4e189816",
         "title": "Systems Software Engineering Intern - GPU Virtualization",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -194607,7 +194607,7 @@
         "company_name": "RTX",
         "id": "a70cb287-d1a0-41fb-a71f-7b8a9ea0fc15",
         "title": "Stage Automne-Support aux projets Donn\u00e9es Clients / Internship Fall-Support to Customer Master",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -194789,7 +194789,7 @@
         "company_name": "NVIDIA",
         "id": "8b897957-ab38-426a-b656-6ebaa6f51deb",
         "title": "Compute Systems Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -194829,7 +194829,7 @@
         "company_name": "NVIDIA",
         "id": "52dcd048-8054-4e36-a696-e7689169c9c0",
         "title": "Deep Learning Server Software Intern - Dgx",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -194991,7 +194991,7 @@
         "company_name": "KION",
         "id": "ea3102c0-b2dc-4dd2-91c6-df6b32105b1c",
         "title": "GenAI Agent Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -195278,7 +195278,7 @@
         "company_name": "Commure",
         "id": "2e1a315d-3b18-4668-b6ec-9ea32a15dd58",
         "title": "Software Engineering Intern-EHR",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -195379,7 +195379,7 @@
         "company_name": "Copart",
         "id": "078e6609-ddf3-47cd-ab2c-b223179e14b8",
         "title": "Data Analytics Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -195521,7 +195521,7 @@
         "company_name": "Jabil",
         "id": "ad248954-91de-4d4c-9722-be6beede4020",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -196049,7 +196049,7 @@
         "company_name": "Proofpoint",
         "id": "cde781ff-aa17-4248-b2af-21a9b413b5b0",
         "title": "Message Intelligence Services Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -196162,6 +196162,166 @@
             "Longueuil, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Plusgrade",
+        "id": "bcc6fb7a-aaf0-4271-941d-654369d18111",
+        "title": "Int\u00e9grateur Web \u2013 Intern - Stagiaire/Web Integrator",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748314161,
+        "date_posted": 1748314161,
+        "url": "https://jobs.lever.co/plusgrade/31363920-778e-473f-a472-2c2fe3f7053c/apply",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Plusgrade",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cubic",
+        "id": "36d8208d-4228-407a-8e54-8d04e3cb834c",
+        "title": "Innovation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748366151,
+        "date_posted": 1748366151,
+        "url": "https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Baker-Street-London/Innovation-Intern_REQ_44422",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cubic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "BorgWarner",
+        "id": "1286701b-d5af-4b30-af3b-78892c8bed04",
+        "title": "Application Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748374739,
+        "date_posted": 1748374739,
+        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Application-Engineering-Intern_R2025-2117",
+        "locations": [
+            "Auburn Hills, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/BorgWarner",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "89f4e327-ca74-43cb-8e77-eba47f545b6b",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1748375886,
+        "date_posted": 1748375886,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-dveloppement-de-logiciels--Software-Developer-Intern_25WD89017-1",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cubic",
+        "id": "4d76bbca-fcb4-4808-9995-ab12f14a5853",
+        "title": "Innovation Intern AI",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748378091,
+        "date_posted": 1748378091,
+        "url": "https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Salfords-Surrey/Innovation-Intern-AI_REQ_44533",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cubic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Unlikely AI",
+        "id": "3750fba1-bb69-4778-8c91-4b85e31c8263",
+        "title": "Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748384142,
+        "date_posted": 1748384142,
+        "url": "https://jobs.lever.co/unlikely/3572f2af-d7de-466a-bcb6-bbbac92860ec/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/UnlikelyAI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Unlikely AI",
+        "id": "71c144c6-0f8c-40e2-b084-0e34fb72bb12",
+        "title": "Machine Learning Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748384139,
+        "date_posted": 1748384139,
+        "url": "https://jobs.lever.co/unlikely/24deb831-4b0a-4245-8fcf-bd1d6ab04f4c/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/UnlikelyAI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ATPCO",
+        "id": "035a57c0-ccc8-4b71-b1df-c5dfe92e8882",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748385055,
+        "date_posted": 1748385055,
+        "url": "https://jobs.smartrecruiters.com/ATPCO1/744000061710798",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
         "is_visible": true,
         "sponsorship": "Other"
     }
