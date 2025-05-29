@@ -130888,7 +130888,7 @@
         "company_name": "The Washington Post",
         "id": "f0092aa9-f44e-4df1-a485-cc9e8c72c474",
         "title": "Summer Intern - Android Apps",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -160057,7 +160057,7 @@
         "company_name": "Cerebras",
         "id": "e6e3a1d3-5603-4aa7-9f04-1e6745d216a1",
         "title": "Distributed Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -160746,7 +160746,7 @@
         "company_name": "Xometry",
         "id": "3f2be1b6-8fa0-4ced-a328-858306feb42b",
         "title": "Machine Learning Platform Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -160918,7 +160918,7 @@
         "company_name": "Xometry",
         "id": "c7d85cc0-5561-4f2a-9091-5a753de420d0",
         "title": "Machine Learning Platform Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -173634,7 +173634,7 @@
         "company_name": "Xometry",
         "id": "a8e5447b-dbbb-4581-8f08-0eaf8c4be0cf",
         "title": "Machine Learning Platform Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -180108,7 +180108,7 @@
         "company_name": "Curtiss-Wright Corporation",
         "id": "690e0893-f6e7-4ac2-be30-7063bd4372d4",
         "title": "Product Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -183278,7 +183278,7 @@
         "company_name": "Bridgewater Associates",
         "id": "2657eea0-282d-46fe-b882-d8696693245e",
         "title": "Campus Investment Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -183316,7 +183316,7 @@
         "company_name": "Alo Yoga",
         "id": "2fff27a3-530e-4ffe-8809-624841eb4d5c",
         "title": "Software Engineering \u2013 HRIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -191098,7 +191098,7 @@
         "company_name": "Bridgewater Associates",
         "id": "890627b8-5826-4197-a822-73b580bed8fa",
         "title": "Campus Investment Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746486909,
         "date_posted": 1746486909,
@@ -192188,7 +192188,7 @@
         "company_name": "Comcast",
         "id": "98e403cc-02bb-49e3-a7ea-7776f078a0f0",
         "title": "Comcast Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2026",
@@ -195031,7 +195031,7 @@
         "company_name": "Nextiva",
         "id": "9ec67b14-277d-4125-bf7b-d1618e3cd0fc",
         "title": "Marketing Intern - LLM Optimization - AI SEO / GEO",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -195212,7 +195212,7 @@
         "company_name": "Harris Computer",
         "id": "3eaf235d-a3a9-4b53-b010-79aae08eed89",
         "title": "Apprentice Software Support Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -195581,7 +195581,7 @@
         "company_name": "Wealthsimple",
         "id": "df8c5f65-7184-4195-ad92-67435fe4269a",
         "title": "Intern \u2013 Software Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -195948,7 +195948,7 @@
         "company_name": "Bonterra",
         "id": "2ab8fa20-aa53-4920-bd78-6993e228b29a",
         "title": "R&D Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -196069,7 +196069,7 @@
         "company_name": "LiveRamp",
         "id": "8c19aaed-2fe5-4561-95d0-e1c86fc18eae",
         "title": "Co-Op \u2013 Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -196110,7 +196110,7 @@
         "company_name": "NVIDIA",
         "id": "b1f8c941-1cfb-4ca2-97b8-caa8d2d4fbe5",
         "title": "Backend Compiler Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -196322,6 +196322,329 @@
             "Reston, VA"
         ],
         "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital Power",
+        "id": "54ac6b70-6266-44dc-ac8c-756e3243f584",
+        "title": "Engineering \u2013 Student Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748391063,
+        "date_posted": 1748391063,
+        "url": "https://capitalpower.wd10.myworkdayjobs.com/External/job/Calgary-AB/Engineering--Student-Intern_JR806458",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-Power",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "a14675e7-5562-4624-8050-e582ee90eec4",
+        "title": "Stage \u2013 Centre Priorit\u00e9 Clients / Internship - Customer First Centre-Technical helpdesk",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1748392384,
+        "date_posted": 1748392384,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/LOC13052-1000-Boul-Marie-VictorinLongueuilQuebecJ4G-1A1Canada/Stage---Automne-2025---Centre-Priorit-Clients---Internship---Fall-2025---Customer-First-Centre-Technical-helpdesk_01768836",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qrypt",
+        "id": "fce8088b-6938-40c5-a79c-442f445e1422",
+        "title": "Embedded Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748392882,
+        "date_posted": 1748392882,
+        "url": "https://jobs.lever.co/qrypt/1c9091e4-98a3-4e92-987d-92fda17c901c/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Qrypt",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HARMAN International",
+        "id": "e664d999-4516-4f78-8340-09d6d733a438",
+        "title": "Summer Intern - AI/ML Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748394267,
+        "date_posted": 1748394267,
+        "url": "https://harman.wd3.myworkdayjobs.com/HARMAN/job/Bellevue---Washington-USA/Summer-Intern---AI-ML-Engineer_R-44864-2025",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/HARMAN-International",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "b603873b-1e73-4033-9c5d-72e707e58901",
+        "title": "Deepfield Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1748393811,
+        "date_posted": 1748393811,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21345",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Proofpoint",
+        "id": "f8ac6b4d-e8ed-462c-b913-9f294b32f1bd",
+        "title": "Marketing Performance & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748393758,
+        "date_posted": 1748393758,
+        "url": "https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Sunnyvale-CA/Marketing-Performance---Analytics-Intern_R12386",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/proofpoint",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Motive",
+        "id": "0ac6040d-cca1-48d6-9aee-5f1c50a04d8d",
+        "title": "Embedded Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748394610,
+        "date_posted": 1748394610,
+        "url": "https://job-boards.greenhouse.io/gomotive/jobs/7994952002",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Motive",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "499782f3-7d5e-40ab-9990-8ab75f5be7df",
+        "title": "Services de pi\u00e8ces de rechange / Internship - Analyste de donn\u00e9es - Data Analyst - Spare Parts Services",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1748396218,
+        "date_posted": 1748396218,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/LOC13052-1000-Boul-Marie-VictorinLongueuilQuebecJ4G-1A1Canada/Stage-Automne-2025---Analyste-de-donnes--Services-de-pices-de-rechange---Internship-Fall-2025---Data-Analyst--Spare-Parts-Services_01768843",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SprintRay",
+        "id": "7e10f3a8-b6b7-4617-bd1f-e92b8e81f9a1",
+        "title": "Software Development Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748397705,
+        "date_posted": 1748397705,
+        "url": "https://job-boards.greenhouse.io/sprintray/jobs/4553553006",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/193f6761-cde2-449c-982a-25101abe1d9f",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Samsung",
+        "id": "f265daa1-f51c-4ceb-ac9a-64f4ab2bab20",
+        "title": "Intern \u2013 Data Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748403916,
+        "date_posted": 1748403916,
+        "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/6590420003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BorgWarner",
+        "id": "5504b001-fdc3-4611-87a1-61cba90f26f2",
+        "title": "Shop Floor Systems Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748451959,
+        "date_posted": 1748451959,
+        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Shop-Floor-Systems-Developer-Intern_R2025-2181",
+        "locations": [
+            "Kokomo, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/BorgWarner",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1748455696,
+        "url": "https://jobs.ashbyhq.com/cluely/89809243-a79a-4a8f-a394-8e8b12743108",
+        "company_name": "Cluely",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Francisco, CA",
+            "In-person"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "ibttf",
+        "id": "79eb1afe-a512-4460-b39d-e47ff49d4245",
+        "date_posted": 1748455696,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Comcast",
+        "id": "79a8b736-bd3f-473c-9fe9-99ca3a8b680c",
+        "title": "Comcast Data Scientist Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Spring 2026"
+        ],
+        "date_updated": 1748456019,
+        "date_posted": 1748456019,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Data-Scientist-Co-op_R413263",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cibc",
+        "id": "5a9d90e4-8e26-49fc-a15c-dc2b8540b73a",
+        "title": "Data Analytics Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748460995,
+        "date_posted": 1748460995,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analytics-Co-op_2512629-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cibc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Curtiss-Wright Corporation",
+        "id": "5ee710f4-1e45-463a-beda-176caab6bd71",
+        "title": "Database Creation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748469038,
+        "date_posted": 1748469038,
+        "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-NY-East-Farmingdale-TR/Database-Creation-Intern_JR8875-1",
+        "locations": [
+            "Plainview, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Curtiss-Wright",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JMA Wireless",
+        "id": "a34c9e05-9941-4fa8-b34f-f04f07915816",
+        "title": "Intern \u2013 Data and Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748476084,
+        "date_posted": 1748476084,
+        "url": "https://jobs.lever.co/jmawireless/7ad212ea-c0dd-4565-b691-ed8a8b6344ee/apply",
+        "locations": [
+            "Syracuse, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/JMA-Wireless",
         "is_visible": true,
         "sponsorship": "Other"
     }
