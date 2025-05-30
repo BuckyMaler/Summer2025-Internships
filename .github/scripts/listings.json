@@ -1993,7 +1993,7 @@
         "company_name": "Ekimetrics",
         "id": "97964cb8-fdda-4a97-a78d-19c194e59388",
         "title": "6 months Internship in Strategy & Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -54331,7 +54331,7 @@
         "company_name": "TripAdvisor",
         "id": "f1544c33-c025-4f4a-9beb-3f7ada8f981c",
         "title": "Software Engineering Intern x5 - Viator",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024",
             "Fall 2024"
@@ -131558,7 +131558,7 @@
         "company_name": "Crowdstrike",
         "id": "8540da83-e38f-4c8a-b007-e210a6664ad2",
         "title": "Data Science Intern - Intelligence Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -139355,7 +139355,7 @@
         "company_name": "Live Ramp",
         "id": "d821b698-2578-48dd-9bac-f59ea14445e7",
         "title": "Data Science Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -152415,7 +152415,7 @@
         "company_name": "Kargo",
         "id": "bb101caa-16a5-43be-9e75-7605555785f7",
         "title": "Intern \u2013 Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -174226,7 +174226,7 @@
         "company_name": "Oshkosh",
         "id": "5edca159-0184-462b-a300-14f50603f4b1",
         "title": "Emerging Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025"
         ],
@@ -178410,7 +178410,7 @@
         "company_name": "ByteDance",
         "id": "24a645f9-c572-451f-b438-ee47c17721fe",
         "title": "Software Engineer Intern - CDN/Edge/Traffic Platform - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -180656,7 +180656,7 @@
         "company_name": "Diligent Corporation",
         "id": "a69a4953-f6a4-41aa-b096-59cef8fb1b60",
         "title": "Data Journalist/Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -187520,7 +187520,7 @@
         "company_name": "Mercedes-Benz",
         "id": "933ae394-1268-4977-81d6-f8db7c2c36be",
         "title": "Speech AI Intern - Speech Product Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -189321,7 +189321,7 @@
         "company_name": "DeepIntent",
         "id": "28bf94ed-aece-44f3-9c5e-c662c61c07f2",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -195031,7 +195031,7 @@
         "company_name": "Nextiva",
         "id": "9ec67b14-277d-4125-bf7b-d1618e3cd0fc",
         "title": "Marketing Intern - LLM Optimization - AI SEO / GEO",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -195501,7 +195501,7 @@
         "company_name": "Wealthsimple",
         "id": "41aec6b9-601d-41d8-8361-bd4474d0ccd7",
         "title": "Intern \u2013 Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -195825,7 +195825,7 @@
         "company_name": "OpenAI",
         "id": "c4d0439b-5712-4b5f-9b33-f7802b2f9c23",
         "title": "Software Engineer Internship/Co-op - Applied Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -196634,7 +196634,7 @@
         "company_name": "JMA Wireless",
         "id": "a34c9e05-9941-4fa8-b34f-f04f07915816",
         "title": "Intern \u2013 Data and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -196645,6 +196645,353 @@
             "Syracuse, NY"
         ],
         "company_url": "https://simplify.jobs/c/JMA-Wireless",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Samsung",
+        "id": "48f60e89-b041-4da7-9421-ff81282130b3",
+        "title": "Applied AI Engineer \u2013 Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748481419,
+        "date_posted": 1748481419,
+        "url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Applied-AI-Engineer--Intern_R104533",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsung",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boston Consulting Group",
+        "id": "a6728b9c-aa5b-4b52-a197-7a4d715d6d1d",
+        "title": "Female Talent Internship - BCG Platinion",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1748481985,
+        "date_posted": 1748481985,
+        "url": "https://careers.bcg.com/global/en/job/695",
+        "locations": [
+            "Wenden, Germany",
+            "Hamburg, Germany",
+            "Neukirchen-Vluyn, Germany",
+            "Frankfurt, Germany",
+            "Stuttgart, Germany",
+            "Berlin, Germany",
+            "Munich, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nextracker",
+        "id": "80a863d2-12e4-4cf3-b405-f5680d3b419b",
+        "title": "AI Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748484787,
+        "date_posted": 1748484787,
+        "url": "https://nextracker.wd5.myworkdayjobs.com/nextracker_careers/job/Fremont-South-Bldg-California---USA/AI-Software-Engineering-Intern_NX-1912",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nextracker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bombora",
+        "id": "18be1d80-6f2c-4cc3-846b-223ba1e2b889",
+        "title": "Business Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748492171,
+        "date_posted": 1748492171,
+        "url": "https://bombora.com/about/bombora-careers?gh_jid=8015606002",
+        "locations": [
+            "Reno, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Bombora",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1748494960,
+        "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4454109006?gh_src=5874d0446us",
+        "company_name": "Wurl",
+        "title": "Full Stack Software Engineer Intern",
+        "locations": [
+            "Remote in United States"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "a6816326-091b-4e8c-a9e6-2d6a7ebe31d9",
+        "date_posted": 1748494960,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cibc",
+        "id": "f8b6942d-6c5d-4c5d-bc7f-95bab1a35b8c",
+        "title": "Technical Systems Analyst Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1748550772,
+        "date_posted": 1748550772,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Technical-Systems-Analyst-Co-op---8-Months_2512745-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cibc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LiveRamp",
+        "id": "07331610-c980-4c31-b0d7-38ebf7c15cb7",
+        "title": "Software Engineer \u2013 Co-op - Clean Rooms",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748539805,
+        "date_posted": 1748539805,
+        "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Software-Engineer--Co-op---Clean-Rooms_JR011637",
+        "locations": [
+            "SF",
+            "Little Rock, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/LiveRamp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howard University",
+        "id": "cf3fa252-591e-4512-bce0-eeb9980fe948",
+        "title": "DDOT Intern-6",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748544614,
+        "date_posted": 1748537412,
+        "url": "https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/DDOT-Intern-6_JR107055-2",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Howard-University",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howard University",
+        "id": "9f0cb8fe-6787-4afa-b598-8842fe1ce392",
+        "title": "DDOT Intern-9",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748537417,
+        "date_posted": 1748537417,
+        "url": "https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/DDOT-Intern-9_JR107059-1",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Howard-University",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "IKO",
+        "id": "34b638ec-fbe9-4373-873b-21a3fd0027fa",
+        "title": "BI Developer Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748539463,
+        "date_posted": 1748539463,
+        "url": "https://iko.wd3.myworkdayjobs.com/IKO_Careers/job/Mississauga-ON/BI-Developer-Co-Op_REQ-10856",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/IKO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howard University",
+        "id": "438e7ce1-9a21-492f-bf14-3d3ff8f3f577",
+        "title": "DDOT Intern-8",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748537418,
+        "date_posted": 1748537418,
+        "url": "https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/DDOT-Intern-8_JR107058-1",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Howard-University",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howard University",
+        "id": "65a5b042-5f41-4922-bd4d-14c6be26964e",
+        "title": "DDOT Intern-4",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748537417,
+        "date_posted": 1748537417,
+        "url": "https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/DDOT-Intern-4_JR107053-1",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Howard-University",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howard University",
+        "id": "66e0cc95-a899-446d-9591-91cef066fb66",
+        "title": "DDOT Intern-1",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748537421,
+        "date_posted": 1748537421,
+        "url": "https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/DDOT-Intern-1_JR107050-1",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Howard-University",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howard University",
+        "id": "78168806-19d1-43ba-8d4e-a76fb5838db6",
+        "title": "DDOT Intern-5",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748537415,
+        "date_posted": 1748537415,
+        "url": "https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/DDOT-Intern-5_JR107054-1",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Howard-University",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howard University",
+        "id": "68f5ac33-2bc0-4cc2-9e15-3c4e5a218661",
+        "title": "DDOT Intern-11",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748537416,
+        "date_posted": 1748537416,
+        "url": "https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/DDOT-Intern-11_JR107060-1",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Howard-University",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howard University",
+        "id": "0066a050-503d-4f7c-a345-3c3e74b0322a",
+        "title": "DDOT Intern-7",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748537413,
+        "date_posted": 1748537413,
+        "url": "https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/DDOT-Intern-7_JR107056-1",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Howard-University",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howard University",
+        "id": "01789cd2-1dab-4cdc-82db-ab3655f5182b",
+        "title": "DDOT Intern-3",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748537428,
+        "date_posted": 1748537428,
+        "url": "https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/DDOT-Intern-3_JR107051-1",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Howard-University",
         "is_visible": true,
         "sponsorship": "Other"
     }
