@@ -174226,7 +174226,7 @@
         "company_name": "Oshkosh",
         "id": "5edca159-0184-462b-a300-14f50603f4b1",
         "title": "Emerging Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -180862,7 +180862,7 @@
         "company_name": "Nokia",
         "id": "a20ac0b7-f489-4752-a723-876700e8bbd6",
         "title": "Software Design Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -187051,7 +187051,7 @@
         "company_name": "Becton Dickinson",
         "id": "861cf02a-de3b-46b1-a9f9-a7a9d4a3dbbf",
         "title": "Intern Project Coordinator - Software Engineering Project and Program Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -187403,7 +187403,7 @@
         "company_name": "Nokia",
         "id": "886c5392-b177-43ef-9baa-60e47b4cc01f",
         "title": "Software Support Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -190339,7 +190339,7 @@
         "company_name": "Rocket Lawyer",
         "id": "f18d78b3-ed72-4b87-a89a-fee2d8f19128",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -190858,7 +190858,7 @@
         "company_name": "Capital One",
         "id": "9139048c-1afb-4c8e-996f-e66f67c6ea31",
         "title": "Intern \u2013 Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -191134,7 +191134,7 @@
         "company_name": "Capital One",
         "id": "5574a5f2-05e6-4848-9df0-c1b66d660c27",
         "title": "Intern \u2013 Data Analytics Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -193044,7 +193044,7 @@
         "company_name": "Lightcast",
         "id": "6aef88a5-5ce7-4e67-958a-7747d93b9dac",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746833108,
         "date_posted": 1746833108,
@@ -193514,7 +193514,7 @@
         "company_name": "Cibc",
         "id": "17c8c3e8-3e1f-4a7c-b1b6-87ef160fb3d0",
         "title": "Data Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -193996,7 +193996,7 @@
         "company_name": "Cibc",
         "id": "d5c7f4a3-a3f7-43a3-86e4-523c694d16e1",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -194016,7 +194016,7 @@
         "company_name": "Cibc",
         "id": "c73bb065-6740-418b-87bc-5e1095edabba",
         "title": "Systems and Process Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -194119,7 +194119,7 @@
         "company_name": "SentinelOne",
         "id": "51445576-fb3d-44a0-96ea-90b92c7aafc3",
         "title": "TA Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -194139,7 +194139,7 @@
         "company_name": "Cibc",
         "id": "7bfe7822-eb47-40a5-8106-72ad51aae638",
         "title": "Analytics Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -194323,7 +194323,7 @@
         "company_name": "Nokia",
         "id": "964ed828-92ba-4a44-b68a-de6b78f9af6b",
         "title": "Data Intelligence Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -194769,7 +194769,7 @@
         "company_name": "Bank of Montreal",
         "id": "6ebec920-a6c8-4cca-900f-5733cbd93e5e",
         "title": "Analyst \u2013 Co-op/Internship - People Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -195258,7 +195258,7 @@
         "company_name": "KBR",
         "id": "7032f212-63fb-491b-9661-df5a40b9ab86",
         "title": "National Security Solutions \u2013 Internship - Nss - Autonomous Air Capabilities Development IRAD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -195724,7 +195724,7 @@
         "company_name": "CSL",
         "id": "7608f132-34db-4719-82c5-a370e61af6b7",
         "title": "Enterprise AI Platform Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -195744,7 +195744,7 @@
         "company_name": "CSL",
         "id": "95cb2738-2425-42a4-b3ea-7eb9fda04054",
         "title": "AI Automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -195805,7 +195805,7 @@
         "company_name": "CSL",
         "id": "f61a8255-c063-44cf-b346-e13298f28bc9",
         "title": "Development Engineer in Test Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -196372,7 +196372,7 @@
         "company_name": "Qrypt",
         "id": "fce8088b-6938-40c5-a79c-442f445e1422",
         "title": "Embedded Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -196992,6 +196992,210 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/Howard-University",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sysco",
+        "id": "093a212b-1407-40e0-a2b2-cab1355d864a",
+        "title": "Functional Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748568291,
+        "date_posted": 1748568291,
+        "url": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-Corporate/Functional-Analyst-Intern_R202044",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Sysco",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "St. Jude Children's Research Hospital",
+        "id": "166bd487-a42e-466b-a608-4beb446ff4da",
+        "title": "Intern \u2013 Data Science",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1748570099,
+        "date_posted": 1748570099,
+        "url": "https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Intern---Data-Science---Memphis--TN-or-Remote-_R0009812",
+        "locations": [
+            "Remote in USA",
+            "Memphis, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/St-Jude-Childrens-Research-Hospital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "ade73e38-88e9-4fee-9ca2-aed463b668b7",
+        "title": "Data Analytics and Reporting \u2013 Co-op/Internship",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1748572045,
+        "date_posted": 1748572045,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Analytics-and-Reporting---Fall-2025--Co-op-Internship----4-Months_R250014092",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comscore",
+        "id": "697a53d6-e1da-4715-a6f4-2e5410905615",
+        "title": "Software Engineer Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748571831,
+        "date_posted": 1748571831,
+        "url": "https://comscore.wd5.myworkdayjobs.com/en-US/External/job/VA---Reston/Software-Engineer-Intern_REQ1461",
+        "locations": [
+            "Remote in USA",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/35c46844-c46b-40a6-9ed6-25a554223d8b",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "0c6dfff3-0234-4e98-a564-54d2ace49051",
+        "title": "Networking Software Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1748573304,
+        "date_posted": 1748573304,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Networking-Software-Intern--Fall--2025_JR1998188",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1748577845,
+        "url": "https://recruiting.ultipro.ca/INF5000IFTC/JobBoard/2526a5be-e33e-4de9-90ae-3b23d42b9441/OpportunityDetail?opportunityId=d11cb2fc-e1e3-4809-bd02-5dcdc9db7bb1",
+        "company_name": "Info-Tech Research Group",
+        "title": "Co-op Software Developer",
+        "locations": [
+            "Remote in Ontario Canada"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "b4a6ebd7-dc7e-4791-bca6-59c9d6601c60",
+        "date_posted": 1748577845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Inmar Intelligence",
+        "id": "340fa61d-370e-4219-a319-d88c6733bac0",
+        "title": "Intern \u2013 Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748632676,
+        "date_posted": 1748632676,
+        "url": "https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Intern--Software-Engineer_JY2526260",
+        "locations": [
+            "Winston-Salem, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Inmar-Intelligence",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "fb514be0-d8f4-42b6-9782-4cd8ccb0a51f",
+        "title": "SDE Intern - Summer",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748635168,
+        "date_posted": 1748635168,
+        "url": "https://amazon.jobs/en/jobs/2996393/sde-intern-summer",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "Redmond, WA",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "382debb4-35a8-43e7-ba07-b0a0c3a570eb",
+        "title": "Software Engineering Intern - AI Tools Analysis",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748642308,
+        "date_posted": 1748642308,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--AI-Tools-Analysis---2025_JR1998233",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Inmar Intelligence",
+        "id": "ece32a75-734e-49fe-b512-4de80d65e484",
+        "title": "Intern \u2013 Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748643838,
+        "date_posted": 1748643838,
+        "url": "https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Intern--Software-Engineer_JY2526259",
+        "locations": [
+            "Winston-Salem, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Inmar-Intelligence",
         "is_visible": true,
         "sponsorship": "Other"
     }
