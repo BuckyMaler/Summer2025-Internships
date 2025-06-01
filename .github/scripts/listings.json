@@ -185989,7 +185989,7 @@
         "company_name": "Qualtrics",
         "id": "8f26aa92-60fb-4907-8d91-225cda5b405b",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [],
         "date_updated": 1744959167,
         "date_posted": 1744959167,
@@ -193976,7 +193976,7 @@
         "company_name": "The Joint Commission",
         "id": "69057b14-77c5-4622-b0d7-97993f0b5143",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -194748,7 +194748,7 @@
         "company_name": "RTX",
         "id": "dc94a419-8585-49e8-b7c8-816d37dfa23e",
         "title": "Stage \u2013 Gestion de projets et d\u00e9veloppement d'outils d'analyse en qualit\u00e9 - Quality Project management and data analysis tool development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -196573,7 +196573,7 @@
         "company_name": "Comcast",
         "id": "79a8b736-bd3f-473c-9fe9-99ca3a8b680c",
         "title": "Comcast Data Scientist Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Spring 2026"
@@ -197001,7 +197001,7 @@
         "company_name": "Sysco",
         "id": "093a212b-1407-40e0-a2b2-cab1355d864a",
         "title": "Functional Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -197196,6 +197196,146 @@
             "Winston-Salem, NC"
         ],
         "company_url": "https://simplify.jobs/c/Inmar-Intelligence",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Energy Recovery",
+        "id": "2c1fbad7-6bd9-48e1-866d-aff16376e1b0",
+        "title": "Mechanical Engineering Intern - Product Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748653027,
+        "date_posted": 1748653027,
+        "url": "https://jobs.lever.co/energyrecovery/d60543e8-f18b-45da-b826-2a57c94071c3/apply",
+        "locations": [
+            "San Leandro, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Energy-Recovery",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Scout AI",
+        "id": "acd41f3e-a666-4733-81a8-71fc1edc9611",
+        "title": "AI Engineer Intern - Fury Team",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748654250,
+        "date_posted": 1748654250,
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/4742787008",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Scout-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Scout AI",
+        "id": "6effc68e-ae06-46c8-8639-03a124d2dcf6",
+        "title": "AI Engineer Intern - Fury Team",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1748654249,
+        "date_posted": 1748654249,
+        "url": "https://job-boards.greenhouse.io/scoutai/jobs/4742812008",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Scout-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "19e5699f-d559-4b58-b6f0-543d940d5bda",
+        "title": "Data Analytics & Reporting Analyst \u2013 Co-op/Internship",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1748660458,
+        "date_posted": 1748660458,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Analytics---Reporting-Analyst---Fall-2025--Co-op-Internship----8-Months_R250014159",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Motors",
+        "id": "4f5e5e01-df2c-4d4c-8c30-200109a90442",
+        "title": "2025 Summer Intern - ADAS Insights",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748660039,
+        "date_posted": 1748660039,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2025-Summer-Intern---ADAS-Insights_JR-202509506",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HeyGen",
+        "id": "c1b50b62-a034-444a-8294-d02e8b74ebce",
+        "title": "Growth Automation Intern - Community",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748659196,
+        "date_posted": 1748659196,
+        "url": "https://job-boards.greenhouse.io/heygen/jobs/4748402007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/HeyGen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Point72",
+        "id": "40191c78-13b8-4a10-a98b-9e59b67b2d9d",
+        "title": "Quantitative Research Intern - NLP",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1748712249,
+        "date_posted": 1748712249,
+        "url": "https://boards.greenhouse.io/point72/jobs/8018862002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
         "is_visible": true,
         "sponsorship": "Other"
     }
