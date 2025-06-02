@@ -193609,7 +193609,7 @@
         "company_name": "Cibc",
         "id": "f15359fa-b701-49d1-a79b-589ac88c3082",
         "title": "Application/Software Developer Co-op - Personal Banking - Simplii & Direct Investing Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -197122,7 +197122,7 @@
         "company_name": "Inmar Intelligence",
         "id": "340fa61d-370e-4219-a319-d88c6733bac0",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -197185,7 +197185,7 @@
         "company_name": "Inmar Intelligence",
         "id": "ece32a75-734e-49fe-b512-4de80d65e484",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -197336,6 +197336,26 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blue Origin",
+        "id": "545c1ba4-aad0-4d0a-8062-462629f0715e",
+        "title": "Avionics Software Engineering Intern - Undergraduate",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1748795783,
+        "date_posted": 1748795783,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Spring-2026-Avionics-Software-Engineering-Intern---Undergraduate_R52403",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
         "is_visible": true,
         "sponsorship": "Other"
     }
