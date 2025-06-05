@@ -156075,7 +156075,7 @@
         "company_name": "Qualcomm",
         "id": "9bcfca5b-17f7-43b7-aa33-b86c35c06619",
         "title": "Embedded Engineering Internship - Interim Engineering Intern - SW",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -156094,7 +156094,7 @@
         "company_name": "Qualcomm",
         "id": "2693178f-7d0d-432f-b4d5-9cea316dc4c2",
         "title": "Multimedia Engineering Internship - Interim Engineering Intern - SW",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -156113,7 +156113,7 @@
         "company_name": "Qualcomm",
         "id": "6edf93f9-ed81-4454-b4f5-296988079a9c",
         "title": "FY25 Intern \u2013 GenAI Evaluation and Benchmarking Internship - Interim Engineering Intern - HW",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025"
@@ -156791,7 +156791,7 @@
         "company_name": "ByteDance",
         "id": "63780bb3-7f84-4ccb-993a-2858d58db157",
         "title": "Backend Software Engineer Intern - Pdi-Csp-Fe-i18n - 2025 Summer - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -163694,7 +163694,7 @@
         "company_name": "Qualcomm",
         "id": "25ec8cad-7671-4c2f-8317-096939cfc127",
         "title": "QGOV Engineering Internship - Summer 2025 - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -168365,7 +168365,7 @@
         "company_name": "Qualcomm",
         "id": "ec59cbf1-4ca6-4c3b-8e6f-d81367a45087",
         "title": "Machine Learning & Artificial Intelligence Engineering Internship - Interim Engineering Intern - SW",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -168964,7 +168964,7 @@
         "company_name": "Reveleer",
         "id": "90e8e019-60bd-443d-8926-57e499dafc31",
         "title": "Engineering Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -180051,7 +180051,7 @@
         "company_name": "Primerica",
         "id": "d205ec32-de25-4d67-a4f5-6a049f09755b",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -182499,7 +182499,7 @@
         "company_name": "Nokia",
         "id": "ff3b75cb-9add-422e-a6a6-e2ff50dd7ee9",
         "title": "Support Software Developer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -186315,7 +186315,7 @@
         "company_name": "Ursa Major",
         "id": "97615dff-dda5-4006-ac88-b6d59fb83973",
         "title": "Avionics Embedded Software Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1745260109,
         "date_posted": 1745260109,
@@ -187794,7 +187794,7 @@
         "company_name": "KBR",
         "id": "d91ddf61-a490-4dfa-8324-c12ffc4fe0a2",
         "title": "Intern for Total Operational Weather Readiness-Satellites - Towr-S",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1745533453,
         "date_posted": 1745533453,
@@ -189562,7 +189562,7 @@
         "company_name": "Autodesk",
         "id": "7a6cc4fd-04b5-43eb-bca5-b3b9561138a8",
         "title": "Intern \u2013 AI Developer / Stagiaire en d\u00e9veloppement IA",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746116462,
         "date_posted": 1746116462,
@@ -189838,7 +189838,7 @@
         "company_name": "Astranis",
         "id": "343b085f-1559-4cc4-9807-2a0dc98646e7",
         "title": "RF Hardware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -190026,7 +190026,7 @@
         "company_name": "Qualcomm",
         "id": "03e4caa3-ebe8-4250-94c3-ac83829757ac",
         "title": "FY25 Intern - ASIC Digital IC Design",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -190046,7 +190046,7 @@
         "company_name": "Qualcomm",
         "id": "7910919b-f1ab-4340-8b70-9fc3cafe1391",
         "title": "Hardware \u2013 Engineering Internship - CPU - Gpu - SoC - Digital Design - DV",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -190797,7 +190797,7 @@
         "company_name": "Capital One",
         "id": "043a1716-ccbc-4525-9cfb-c68cc026148d",
         "title": "Intern \u2013 IOS Software Engineer - Team Capital One Travel",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -193553,7 +193553,7 @@
         "company_name": "Everstream Analytics",
         "id": "72b55ad6-3aaf-4f96-8a09-dbab9cc87a6d",
         "title": "Internship - Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1747156732,
         "date_posted": 1747156732,
@@ -194891,7 +194891,7 @@
         "company_name": "NVIDIA",
         "id": "4223e23c-1766-4f6f-a307-912f29f279bf",
         "title": "System Software Intern - Power Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -195238,7 +195238,7 @@
         "company_name": "KBR",
         "id": "d53347cd-9167-4f69-8ee4-9990d6a54328",
         "title": "National Security Solutions \u2013 Internship - Nss - Integrated Toolset for Mission & Systems Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -195846,7 +195846,7 @@
         "company_name": "Fortra",
         "id": "61f09a6d-081d-4f09-a3ad-32db646fbc1e",
         "title": "Software Development Intern - Python and Linux",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -196700,7 +196700,7 @@
         "company_name": "Nextracker",
         "id": "80a863d2-12e4-4cf3-b405-f5680d3b419b",
         "title": "AI Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -197667,7 +197667,7 @@
         "company_name": "Blue Yonder",
         "id": "59190d35-f279-4c6a-8145-a299f858e36b",
         "title": "GenAI Prompt Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -197708,7 +197708,7 @@
         "company_name": "Blue Yonder",
         "id": "3ab823fd-9f9e-4da1-903b-09ba9bd659ee",
         "title": "Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -197720,6 +197720,168 @@
             "Dallas, TX"
         ],
         "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trimble",
+        "id": "a0e20265-4388-4929-9b6c-38858e0554b7",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749004218,
+        "date_posted": 1749004218,
+        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Engineering-Intern_R49686",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Trimble",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kabam",
+        "id": "12aad2ba-176f-4115-8e62-1ad5f89c9b91",
+        "title": "Backend Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749005027,
+        "date_posted": 1749005027,
+        "url": "https://jobs.lever.co/kabam/221155bc-928a-42e1-be9e-0b32d3137fbf/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kabam",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "TransMarket Group",
+        "id": "cf412da4-1f1d-43aa-8f7d-135ac859dfdf",
+        "title": "Algorithmic Trader Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2027"
+        ],
+        "date_updated": 1749008803,
+        "date_posted": 1749008803,
+        "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749906007?gh_jid=4749906007",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/TransMarket-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Envista",
+        "id": "5056b313-06b8-4dbd-845f-a7d6333b24c1",
+        "title": "R&D Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749013527,
+        "date_posted": 1749013527,
+        "url": "https://envista.wd1.myworkdayjobs.com/en-US/envistacareers/job/United-States-of-America--California--Brea/R-D-Data-Scientist-Intern_R5023208",
+        "locations": [
+            "Brea, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/c9b225d7-42b2-484d-8b87-07460b8496fb",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "TransMarket Group",
+        "id": "4f91f9ad-06fc-4170-9f01-5a7b006d0539",
+        "title": "Quantitative Trader Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749015989,
+        "date_posted": 1749015989,
+        "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749915007?gh_jid=4749915007",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/TransMarket-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ASML",
+        "id": "cbdf0a7e-972e-4770-a990-a667d32260c0",
+        "title": "Co-op \u2013 Internship - Feature Detection and Data Science",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1749067511,
+        "date_posted": 1749067511,
+        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Fall-2025-Co-op---Feature-Detection-and-Data-Science--Internship--_J-00321843",
+        "locations": [
+            "Wilton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/ASML",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Allstate Insurance Company",
+        "id": "8e9ef1ff-d870-476f-a728-393baf90a0d7",
+        "title": "Data Governance Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749072097,
+        "date_posted": 1749072097,
+        "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/CAN---ON-GTA-Remote/Data-Governance-Co-op_R17989",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Allstate-Insurance-Company",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ciena",
+        "id": "74e6aaf3-7129-45a9-adc5-e29c671626f4",
+        "title": "Photonics Program Management Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1749080821,
+        "date_posted": 1749080821,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonics-Program-Management-Co-op--May-Aug-2025-_R027982",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
         "is_visible": true,
         "sponsorship": "Other"
     }
