@@ -89520,7 +89520,7 @@
         "company_name": "Pison",
         "id": "1585093a-69dd-4004-97e1-ad05820646ac",
         "title": "Data Collection Fall Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2024"
         ],
@@ -122649,7 +122649,7 @@
         "company_name": "Amazon",
         "id": "536a759a-692b-493d-988a-ba2e26cfb95f",
         "title": "2025 Software Development Engineer Intern - Embedded Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -140747,7 +140747,7 @@
         "company_name": "Autodesk",
         "id": "e6fa7473-b034-4185-8dbc-3ad2fa38021a",
         "title": "Intern \u2013 Frontend Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -178314,7 +178314,7 @@
         "company_name": "Genies",
         "id": "1916527a-81d1-43d8-89f7-39d535ddf9af",
         "title": "Full Stack Web Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -181373,7 +181373,7 @@
         "company_name": "Pison",
         "id": "8e147ac9-5719-46b9-a36d-8b150ea14b01",
         "title": "Algo Productions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -187481,7 +187481,7 @@
         "company_name": "TripleRing",
         "id": "06b6d63d-c42c-4701-ad4c-c4886be24531",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1745459006,
         "date_posted": 1745459006,
@@ -189739,7 +189739,7 @@
         "company_name": "Nokia",
         "id": "c37b86ec-9d7e-4231-8715-99d452ad6089",
         "title": "Hardware Developer Eng Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -190569,7 +190569,7 @@
         "company_name": "Verkada",
         "id": "b985c2e9-afbf-4483-8caf-535dd499e166",
         "title": "Hardware Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -192514,7 +192514,7 @@
         "company_name": "Later",
         "id": "51782ea9-26cd-46a6-b0b5-56b6faca29e2",
         "title": "Data Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -192611,7 +192611,7 @@
         "company_name": "Pison",
         "id": "1e4f9199-f2a1-426e-9ada-6141e6d73a46",
         "title": "ML/Algo Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746733884,
         "date_posted": 1746733884,
@@ -194424,7 +194424,7 @@
         "company_name": "S&P Global ",
         "id": "5959704a-920a-4913-a38b-2e016c8d2136",
         "title": "AI Product Analyst Intern - Early Careers",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -195541,7 +195541,7 @@
         "company_name": "Bank of Montreal",
         "id": "8781fd4d-c5a7-461d-933f-e3a59efdb0ba",
         "title": "Software Developer \u2013 Co-op/Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -196700,7 +196700,7 @@
         "company_name": "Nextracker",
         "id": "80a863d2-12e4-4cf3-b405-f5680d3b419b",
         "title": "AI Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -196941,7 +196941,7 @@
         "company_name": "Howard University",
         "id": "68f5ac33-2bc0-4cc2-9e15-3c4e5a218661",
         "title": "DDOT Intern-11",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -197285,7 +197285,7 @@
         "company_name": "General Motors",
         "id": "4f5e5e01-df2c-4d4c-8c30-200109a90442",
         "title": "2025 Summer Intern - ADAS Insights",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -197564,7 +197564,7 @@
         "company_name": "Leidos",
         "id": "22d034d8-713c-429f-bda1-2f2a651ff1d0",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -197645,7 +197645,7 @@
         "company_name": "KION",
         "id": "f8cc8580-bb12-475a-940c-1fb79a41a605",
         "title": "Software Consultant Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -197882,6 +197882,147 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Splunk",
+        "id": "e1ef754e-ab09-4055-ac8f-27e800a69b8f",
+        "title": "Software Engineer Intern - Frontend",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1749089147,
+        "date_posted": 1749089147,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/ofq7vfw1?nl=1&nl=1&fr=false",
+        "locations": [
+            "Colorado",
+            "North Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kion Group",
+        "id": "42901b8c-c76f-4371-ae4a-3f9ded293a3a",
+        "title": "GenAI Agent Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749091073,
+        "date_posted": 1749091073,
+        "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/GenAI-Agent-Development-Intern_JR-0077166-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kion-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Becton Dickinson",
+        "id": "bb9163f0-b044-4a13-9e96-7bd5cdb6116c",
+        "title": "Software Vision Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749092214,
+        "date_posted": 1749092214,
+        "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NC---Durham---Roche-Drive/Software-Vision-Engineer-Intern_R-517300-1",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "8c15e863-9761-4fd7-8e3d-8a6d45e2a524",
+        "title": "Wavelogic Software Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749092049,
+        "date_posted": 1749092049,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern_R027872",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "eee355b4-e14b-4d4d-b563-c5ad23611e2c",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749098885,
+        "date_posted": 1749098885,
+        "url": "https://wd5.myworkdaysite.com/en-US/recruiting/microchiphr/External/job/CA---San-Jose---3870-N-First-St/Intern_R562-25-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Bank of Montreal",
+        "id": "01a5cd25-7d67-4b65-b1db-7e14805710fe",
+        "title": "Junior Engineer \u2013 Co-op/Internship - Electronic Trading Infrastructure",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1749127643,
+        "date_posted": 1749127643,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/REMOTETELETRAVAIL-ON-CAN/Junior-Engineer--Electronic-Trading-Infrastructure--Fall-2025--Co-op-Internship----8-months_R250014438",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "e85206d2-b510-41d1-9b0a-0638d73d1d93",
+        "title": "Windows AI Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1749161925,
+        "date_posted": 1749161925,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Windows-AI-Engineering-Intern---Fall-2025_JR1998337",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
     }
