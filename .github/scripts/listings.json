@@ -130888,7 +130888,7 @@
         "company_name": "The Washington Post",
         "id": "f0092aa9-f44e-4df1-a485-cc9e8c72c474",
         "title": "Summer Intern - Android Apps",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -134816,7 +134816,7 @@
         "company_name": "Xometry",
         "id": "4bd17257-2d73-4b4f-bf56-94d3145aa834",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -134836,7 +134836,7 @@
         "company_name": "Xometry",
         "id": "79248506-3984-477a-b584-cda3657cfbaa",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -139508,7 +139508,7 @@
         "company_name": "Illumio",
         "id": "214bbb36-15b0-461e-9b52-92744b5d1cbf",
         "title": "Engineering Intern - Core PPM Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -144984,7 +144984,7 @@
         "company_name": "Woven",
         "id": "77cff15e-c2e0-48b2-bbd8-646f915fd2c0",
         "title": "Software Engineering Intern - Arene Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -158665,7 +158665,7 @@
         "company_name": "Daniel J Edelman Holdings",
         "id": "fcaa76f2-c8f4-4b46-bef3-7e596395d011",
         "title": "Intern \u2013 Predictive Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -168945,7 +168945,7 @@
         "company_name": "Reveleer",
         "id": "023b8d1c-b9d6-49cc-af35-ff605547b2d3",
         "title": "Data Warehouse Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -178143,7 +178143,7 @@
         "company_name": "Copart",
         "id": "4433b4ae-bade-4639-9e31-4a231475fdbc",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -181356,7 +181356,7 @@
         "company_name": "Articul8",
         "id": "762e8c11-8679-4c81-89b3-9792cfe1f1a2",
         "title": "Intern \u2013 Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1744093323,
         "date_posted": 1744093323,
@@ -183733,7 +183733,7 @@
         "company_name": "Nokia",
         "id": "ea8de79b-7f71-4bc6-85fa-36c64c89922c",
         "title": "Software Designer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -183752,7 +183752,7 @@
         "company_name": "Nokia",
         "id": "834e7cf2-7b51-48d8-b109-5e730071653f",
         "title": "UI Web Developer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -189264,7 +189264,7 @@
         "company_name": "Articul8",
         "id": "db1d37fd-45b2-4523-89e5-b4506f0352a0",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1745979506,
         "date_posted": 1745979506,
@@ -192647,7 +192647,7 @@
         "company_name": "Lumentum",
         "id": "d7a9b45f-79d0-40f3-a507-73be684862e2",
         "title": "Embedded Software Engineer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Spring 2026"
@@ -193345,7 +193345,7 @@
         "company_name": "Cibc",
         "id": "7c16d83a-ac66-40ce-80ce-54b6b0947769",
         "title": "Application/Software Developer Co-op - Commercial Banking and Payments Technology",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1747086668,
         "date_posted": 1747086668,
@@ -195399,7 +195399,7 @@
         "company_name": "World Surf League",
         "id": "1cf60aac-f093-4edc-9d14-1642b6ab9a9a",
         "title": "Intern \u2013 Digital",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -196271,7 +196271,7 @@
         "company_name": "Unlikely AI",
         "id": "3750fba1-bb69-4778-8c91-4b85e31c8263",
         "title": "Software Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -196291,7 +196291,7 @@
         "company_name": "Unlikely AI",
         "id": "71c144c6-0f8c-40e2-b084-0e34fb72bb12",
         "title": "Machine Learning Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -196453,7 +196453,7 @@
         "company_name": "Motive",
         "id": "0ac6040d-cca1-48d6-9aee-5f1c50a04d8d",
         "title": "Embedded Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -196594,7 +196594,7 @@
         "company_name": "Cibc",
         "id": "5a9d90e4-8e26-49fc-a15c-dc2b8540b73a",
         "title": "Data Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -196759,7 +196759,7 @@
         "company_name": "Cibc",
         "id": "f8b6942d-6c5d-4c5d-bc7f-95bab1a35b8c",
         "title": "Technical Systems Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -197404,7 +197404,7 @@
         "company_name": "Rockwell Automation",
         "id": "a2c75ed4-c93b-4293-a5b3-471049fe24ab",
         "title": "Software Test & Developer Experience Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -197850,7 +197850,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "8e9ef1ff-d870-476f-a728-393baf90a0d7",
         "title": "Data Governance Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -198023,6 +198023,207 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howard University",
+        "id": "eb0799f5-4758-4bc2-96b1-d3c5cd5c314e",
+        "title": "DDOT Intern-10",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749154361,
+        "date_posted": 1749154361,
+        "url": "https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/DDOT-Intern-10_JR107087-1",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Howard-University",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howard University",
+        "id": "5829f295-f5d5-4ff9-b196-f05f1f93521d",
+        "title": "DDOT Intern-2",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749154295,
+        "date_posted": 1749154295,
+        "url": "https://howard.wd1.myworkdayjobs.com/HU/job/Downing-Hall-College-of-Engineering/DDOT-Intern-2_JR107086-1",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Howard-University",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "27f8639f-8212-4706-8a00-2bc51f8fb75a",
+        "title": "Data Science and Insights Intern - Omniverse",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1749181791,
+        "date_posted": 1749181791,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Data-Science-and-Insights-Intern--Omniverse---Fall-2025_JR1996816",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rockwell Automation",
+        "id": "cb189380-9960-4e7c-be7f-735f7bf4bed0",
+        "title": "Software Developer Co-op - OS Team",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1749181779,
+        "date_posted": 1749181779,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Kitchener-Ontario-Canada/Software-Developer-Co-op--OS-Team-_R25-3862",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "4569e658-7b05-4a2f-b1f3-836f396982de",
+        "title": "Software Engineering Intern - LLM NIM Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1749185759,
+        "date_posted": 1749185759,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--LLM-NIM-Engineering---Fall-2025_JR1990733",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rockwell Automation",
+        "id": "afb55896-cc00-43a3-bf36-52a3c08493a4",
+        "title": "Perception Developer Coop - Slam",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1749186606,
+        "date_posted": 1749186606,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Kitchener-Ontario-Canada/Perception-Developer-Coop--SLAM-_R25-4384",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bank of Montreal",
+        "id": "816c5f54-a0d1-4843-bc9d-7392250f4e42",
+        "title": "Junior Software Developer \u2013 Internship",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1749186443,
+        "date_posted": 1749186443,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/New-York-NY-USA/Junior-Software-Developer--Fall-2025--Internship----4-months_R250013865",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "d6ba9f48-5f34-4788-9098-3427d9339420",
+        "title": "Ams CAD Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749247127,
+        "date_posted": 1749247127,
+        "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/AMS-CAD-Intern---Bachelor-s-degree_2501306",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/80961b05-9ed3-462d-aef9-4b418c7fb796",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KBR",
+        "id": "cdb7fb94-7b0b-46b5-8289-dc6515c5d919",
+        "title": "UAS Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749251392,
+        "date_posted": 1749251392,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Moffett-Field-California/UAS-Software-Development-Intern_R2107629",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "45ad4aed-0404-4d4c-a870-5dfceccda637",
+        "title": "Analyst \u2013 Co-op/Internship - Risk Data Infrastructure & Technology",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1749253249,
+        "date_posted": 1749253249,
+        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Analyst--Risk-Data-Infrastructure---Technology---Fall-2025--Co-op-Internship----4-Months_R250014729",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
         "is_visible": true,
         "sponsorship": "Other"
     }
