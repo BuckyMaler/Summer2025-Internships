@@ -112129,7 +112129,7 @@
         "terms": [
             "Winter 2025"
         ],
-        "date_updated": 1728530013,
+        "date_updated": 1749263904,
         "date_posted": 1728530013,
         "url": "https://jobs.ashbyhq.com/Kognitos/0494f0ce-1019-469b-bd38-73775d108a8e/application",
         "locations": [
@@ -129668,14 +129668,14 @@
         "terms": [
             "Spring 2025"
         ],
-        "date_updated": 1732536553,
+        "date_updated": 1749319989,
         "date_posted": 1732536553,
         "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Software-Engineer-Co-Op_JR010161",
         "locations": [
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Live-Ramp",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -131558,7 +131558,7 @@
         "company_name": "Crowdstrike",
         "id": "8540da83-e38f-4c8a-b007-e210a6664ad2",
         "title": "Data Science Intern - Intelligence Automation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -152027,14 +152027,14 @@
         "terms": [
             "Fall 2025"
         ],
-        "date_updated": 1738383032,
+        "date_updated": 1749320098,
         "date_posted": 1738383032,
         "url": "https://jobs.ashbyhq.com/deductive/f391540a-8742-4455-89d5-0022a9ac6f9d/application",
         "locations": [
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Deductive-AI",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -181202,7 +181202,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1744150139,
+        "date_updated": 1749264930,
         "url": "https://www.shopify.com/careers/engineering-internships-fall-2025-canada_06dec40f-4885-4b5c-bb03-1834abdaa30a",
         "company_name": "Shopify",
         "title": "Engineering Internships, Fall 2025 - Canada",
@@ -181212,8 +181212,8 @@
         "terms": [
             "Fall 2025"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "GaryZhous",
         "id": "a26b9b57-c723-4eda-851d-84c4999a34ed",
         "date_posted": 1744053478,
@@ -181259,7 +181259,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1744053797,
+        "date_updated": 1749265759,
         "url": "https://www.shopify.com/careers/engineering-internships-fall-2025-usa_a1cdd252-7fb2-4212-863f-367dd5799bc7",
         "company_name": "Shopify",
         "title": "Engineering Internships, Fall 2025 - USA",
@@ -181269,8 +181269,8 @@
         "terms": [
             "Fall 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "GaryZhous",
         "id": "4e3a7778-9cbe-49dc-ab96-fb6060733521",
         "date_posted": 1744053797,
@@ -182522,7 +182522,7 @@
         "terms": [
             "Fall 2025"
         ],
-        "date_updated": 1744239796,
+        "date_updated": 1749268692,
         "date_posted": 1744239796,
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/19279",
         "locations": [
@@ -183652,7 +183652,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1744346210,
+        "date_updated": 1749320302,
         "url": "https://job-boards.greenhouse.io/sentry/jobs/6793872/",
         "company_name": "Sentry",
         "title": "Software Engineer, Intern (Fall 2025)",
@@ -183662,8 +183662,8 @@
         "terms": [
             "Fall 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "GaryZhous",
         "id": "879333a4-f61b-46d1-8902-39f4dbf0de10",
         "date_posted": 1744346210,
@@ -184028,7 +184028,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1744432908,
+        "date_updated": 1749268602,
         "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5509/fall-intern%2c-technology-engineering/job",
         "company_name": "Mackenzie Investments",
         "title": "Fall Intern, Technology Engineering",
@@ -184038,8 +184038,8 @@
         "terms": [
             "Fall 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "GaryZhous",
         "id": "0a65f39f-f22c-4d04-9d6b-fe7ca7740202",
         "date_posted": 1744432908,
@@ -184208,7 +184208,7 @@
             "Fall 2025",
             "Winter 2025"
         ],
-        "date_updated": 1744438863,
+        "date_updated": 1749320247,
         "date_posted": 1744438863,
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/job/18855",
         "locations": [
@@ -184242,7 +184242,7 @@
         "company_name": "Scale AI",
         "id": "f56fa945-fa86-40ee-99bf-6ac7bde48751",
         "title": "Technical Advisor Intern - GenAI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -185317,7 +185317,7 @@
         "company_name": "United Parcel Service (UPS)",
         "id": "d9b7c2ac-fa75-4c3c-b8e3-b18670dd44a2",
         "title": "ISM Co-op",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1744788311,
         "date_posted": 1744788311,
@@ -186127,7 +186127,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1745035292,
+        "date_updated": 1749320195,
         "url": "https://www.pgcareers.com/global/en/job/R000129158/Digital-Technologies-Internship-Co-op-Fall-2025---stage-coop-en-technologies-num%25C3%25A9riques-automne-2025",
         "company_name": "Procter & Gamble",
         "title": "Digital Technologies Internship/Co-op Fall 2025",
@@ -186137,8 +186137,8 @@
         "terms": [
             "Fall 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "GaryZhous",
         "id": "68f944a9-d742-42f2-ae47-deffc9813159",
         "date_posted": 1745035292,
@@ -186275,7 +186275,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1745121685,
+        "date_updated": 1749264190,
         "url": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000123520EXTERNALENCA/2025-Fall-Student-Opportunities-Capital-Markets-QTS-Software-Developer-4-12-Months",
         "company_name": "RBC",
         "title": "2025 Fall Student Opportunities Capital Markets, QTS - Software Developer, 4-12 Months",
@@ -186285,8 +186285,8 @@
         "terms": [
             "Fall 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "GaryZhous",
         "id": "b05e5f33-efab-4bc3-803d-a703ef4abd3c",
         "date_posted": 1745121685,
@@ -194236,7 +194236,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1747281975,
+        "date_updated": 1749265725,
         "url": "https://careers-cadent.icims.com/jobs/1186/backend-engineer-intern/job",
         "company_name": "Cadent",
         "title": "Backend Engineer Intern",
@@ -194246,8 +194246,8 @@
         "terms": [
             "Fall 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "GaryZhous",
         "id": "8ec93f77-38f3-4159-89c4-8e6aa8e83ddb",
         "date_posted": 1747281975,
@@ -194809,7 +194809,7 @@
         "company_name": "NVIDIA",
         "id": "60b1539d-576c-483b-8305-b360b7fcfaf2",
         "title": "Software Engineer \u2013 Fleet Health Instrumentation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -197098,7 +197098,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1748577845,
+        "date_updated": 1749266440,
         "url": "https://recruiting.ultipro.ca/INF5000IFTC/JobBoard/2526a5be-e33e-4de9-90ae-3b23d42b9441/OpportunityDetail?opportunityId=d11cb2fc-e1e3-4809-bd02-5dcdc9db7bb1",
         "company_name": "Info-Tech Research Group",
         "title": "Co-op Software Developer",
@@ -197108,8 +197108,8 @@
         "terms": [
             "Fall 2025"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "GaryZhous",
         "id": "b4a6ebd7-dc7e-4791-bca6-59c9d6601c60",
         "date_posted": 1748577845,
@@ -197360,7 +197360,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1748841670,
+        "date_updated": 1749268060,
         "url": "https://jobs.ericsson.com/careers/job/563121764413390?domain=ericsson.com",
         "company_name": "Ericsson",
         "title": "WebDeveloper Intern",
@@ -197370,8 +197370,8 @@
         "terms": [
             "Fall 2025"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "GaryZhous",
         "id": "6be9981a-007e-46f6-a3e2-7daecd6621f4",
         "date_posted": 1748841670,
@@ -197912,7 +197912,7 @@
         "company_name": "Kion Group",
         "id": "42901b8c-c76f-4371-ae4a-3f9ded293a3a",
         "title": "GenAI Agent Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -198224,6 +198224,128 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Financial Group",
+        "id": "f3629439-d25d-408e-8e90-51897922d12d",
+        "title": "Catastrophe Modeling & Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1749241690,
+        "date_posted": 1749241690,
+        "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Catastrophe-Modeling---Data-Analytics-Intern--Fall-2025-_R7626-1",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Madhive",
+        "id": "26ee84d3-0c47-417d-95e5-80fa2164a00a",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749265188,
+        "date_posted": 1749265188,
+        "url": "https://jobs.ashbyhq.com/madhive/68452aa3-5ca8-4da5-8fcf-9d11be700e66/application",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Madhive",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "United Parcel Service (UPS)",
+        "id": "8d574959-501d-4917-9a26-884149db7bda",
+        "title": "Ism Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749265727,
+        "date_posted": 1749265727,
+        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-PARSIPPANY-NJPRS/ISM-Co-Op_R25015025",
+        "locations": [
+            "Parsippany-Troy Hills, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "United Parcel Service (UPS)",
+        "id": "97c78a04-9659-4c0b-98c7-070b2fb5335b",
+        "title": "ISM Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749265709,
+        "date_posted": 1749265709,
+        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-PARSIPPANY-NJPRS/ISM-Co-op_R25015026",
+        "locations": [
+            "Parsippany-Troy Hills, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Safari AI",
+        "id": "f9b45ac2-0f18-468b-a004-3d7a1a946a6b",
+        "title": "8 Month CV/ML Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Spring 2026"
+        ],
+        "date_updated": 1749268403,
+        "date_posted": 1749268403,
+        "url": "https://job-boards.greenhouse.io/safariai/jobs/4149405007",
+        "locations": [
+            "Washington, DC",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/0c3af1a9-1c35-4995-b55c-a026ff35f29c",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GP Fund Solutions",
+        "id": "8b3619dc-cdc6-4060-99e7-df43e180b380",
+        "title": "Data Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1749317526,
+        "date_posted": 1748914688,
+        "url": "https://gpfs.breezy.hr/p/9e9b53db75d7/apply",
+        "locations": [
+            "Latham, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GP-Fund-Solutions",
         "is_visible": true,
         "sponsorship": "Other"
     }
