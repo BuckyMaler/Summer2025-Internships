@@ -18339,7 +18339,7 @@
         "company_name": "Perpay",
         "id": "2d992297-70f1-4f62-852b-75acf2b9ef3b",
         "title": "Strategic Analytics Internship - 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -131558,7 +131558,7 @@
         "company_name": "Crowdstrike",
         "id": "8540da83-e38f-4c8a-b007-e210a6664ad2",
         "title": "Data Science Intern - Intelligence Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -140747,7 +140747,7 @@
         "company_name": "Autodesk",
         "id": "e6fa7473-b034-4185-8dbc-3ad2fa38021a",
         "title": "Intern \u2013 Frontend Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -163947,7 +163947,7 @@
         "company_name": "Cadence Design Systems",
         "id": "f7bfb34b-837f-4a54-8c0c-e1994f116d83",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -174475,7 +174475,7 @@
         "company_name": "Werfen",
         "id": "dc620ed7-aa34-4eb2-807f-064098137558",
         "title": "Data Scientist Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -185896,7 +185896,7 @@
         "company_name": "Sylvera",
         "id": "f542294f-1f7d-415d-8919-c35d8a4f977f",
         "title": "Graduate Carbon Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -192534,7 +192534,7 @@
         "company_name": "KION",
         "id": "12c57dc7-87bf-49ae-829c-d15036d3d6e7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -193629,7 +193629,7 @@
         "company_name": "Cibc",
         "id": "0b626d73-f595-40ea-b3f9-a789080545c7",
         "title": "Production Application Support Co-op - Capital Markets Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -193649,7 +193649,7 @@
         "company_name": "Cibc",
         "id": "e9846664-7d77-4a6f-882d-9678a92dd8ca",
         "title": "Data Scientist Co-op - Enterprise Technology and Business Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -196533,7 +196533,7 @@
         "company_name": "BorgWarner",
         "id": "5504b001-fdc3-4611-87a1-61cba90f26f2",
         "title": "Shop Floor Systems Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -196921,7 +196921,7 @@
         "company_name": "Howard University",
         "id": "78168806-19d1-43ba-8d4e-a76fb5838db6",
         "title": "DDOT Intern-5",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -197404,7 +197404,7 @@
         "company_name": "Rockwell Automation",
         "id": "a2c75ed4-c93b-4293-a5b3-471049fe24ab",
         "title": "Software Test & Developer Experience Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -197424,7 +197424,7 @@
         "company_name": "Splunk",
         "id": "02a12f0e-4200-428b-ad15-035565fad706",
         "title": "Software Engineer Co-Op - Backend/Full-stack",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -197729,7 +197729,7 @@
         "company_name": "Trimble",
         "id": "a0e20265-4388-4929-9b6c-38858e0554b7",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -198366,6 +198366,26 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Drivetrain",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WorldQuant",
+        "id": "1f8653cb-7f3f-401b-9f83-4af48decf575",
+        "title": "Software Engineer Intern - AI/LLM Initiative",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749488501,
+        "date_posted": 1749488501,
+        "url": "https://job-boards.greenhouse.io/worldquant/jobs/4574082006",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/WorldQuant",
         "is_visible": true,
         "sponsorship": "Other"
     }
