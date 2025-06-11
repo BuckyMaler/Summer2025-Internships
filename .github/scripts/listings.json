@@ -179255,7 +179255,7 @@
         "company_name": "Lumentum",
         "id": "11ea446a-9aaf-4366-a316-5df86a21b3c5",
         "title": "Optical Algorithms & Analytics Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2026",
@@ -186352,7 +186352,7 @@
         "company_name": "American Axle & Manufacturing",
         "id": "99dc65fc-e7b5-4ded-98c8-aa000309754f",
         "title": "Product Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1745247001,
         "date_posted": 1745247001,
@@ -186633,7 +186633,7 @@
         "company_name": "Nokia",
         "id": "1bd8cabd-eeb4-4ebb-8e2a-a3f2c6b5e7fe",
         "title": "Web Portal Dev Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -187286,7 +187286,7 @@
         "company_name": "Lumentum",
         "id": "a9621a7e-b43d-4797-be6a-fd4c9f8e463d",
         "title": "Process Automation Software Engineer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2026",
@@ -187758,7 +187758,7 @@
         "company_name": "SWBC",
         "id": "350750f5-5231-4d66-a632-b2c84f0a9405",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1745523199,
         "date_posted": 1745523199,
@@ -188119,7 +188119,7 @@
         "company_name": "NICE ",
         "id": "18a9bb2b-a6e9-4db7-aa57-736884274d82",
         "title": "Associate Software Engineer \u2013 Student Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1745624305,
         "date_posted": 1745624305,
@@ -188291,7 +188291,7 @@
         "company_name": "TD Bank",
         "id": "36b78112-3626-4b7a-87ae-d71a0bc38328",
         "title": "Software Engineer Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -188351,7 +188351,7 @@
         "company_name": "TD Bank",
         "id": "5b7d2323-dedc-407c-a8fa-269674475dd8",
         "title": "Data Analyst Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -195111,7 +195111,7 @@
         "company_name": "Bloom Energy",
         "id": "58f3f1bd-0812-4b70-be51-72b9023d0c7a",
         "title": "Advanced Process Controls Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024",
             "Summer 2026"
@@ -196881,7 +196881,7 @@
         "company_name": "Howard University",
         "id": "65a5b042-5f41-4922-bd4d-14c6be26964e",
         "title": "DDOT Intern-4",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -197083,7 +197083,7 @@
         "company_name": "NVIDIA",
         "id": "0c6dfff3-0234-4e98-a564-54d2ace49051",
         "title": "Networking Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -197932,7 +197932,7 @@
         "company_name": "Becton Dickinson",
         "id": "bb9163f0-b044-4a13-9e96-7bd5cdb6116c",
         "title": "Software Vision Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -197972,7 +197972,7 @@
         "company_name": "Microchip Technology",
         "id": "eee355b4-e14b-4d4d-b563-c5ad23611e2c",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -198092,7 +198092,7 @@
         "company_name": "Rockwell Automation",
         "id": "cb189380-9960-4e7c-be7f-735f7bf4bed0",
         "title": "Software Developer Co-op - OS Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -198132,7 +198132,7 @@
         "company_name": "Rockwell Automation",
         "id": "afb55896-cc00-43a3-bf36-52a3c08493a4",
         "title": "Perception Developer Coop - Slam",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -198193,7 +198193,7 @@
         "company_name": "KBR",
         "id": "cdb7fb94-7b0b-46b5-8289-dc6515c5d919",
         "title": "UAS Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -198253,7 +198253,7 @@
         "company_name": "Madhive",
         "id": "26ee84d3-0c47-417d-95e5-80fa2164a00a",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -198386,6 +198386,169 @@
             "Stamford, CT"
         ],
         "company_url": "https://simplify.jobs/c/WorldQuant",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kabam",
+        "id": "5f5bc525-b743-4891-a08f-ddf5df85d398",
+        "title": "Data Science Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749591501,
+        "date_posted": 1749591501,
+        "url": "https://jobs.lever.co/kabam/710ff74a-208d-43ba-aa05-69cf8ad199a3/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kabam",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Caterpillar Inc.",
+        "id": "189ca38d-7a57-4de8-8dc1-1c99abf4b886",
+        "title": "Stagiaire en conception de logiciels/Software Designer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1749545036,
+        "date_posted": 1749545036,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Laval-Quebec/Stagiaire-en-conception-de-logiciels-Software-Designer-Intern_R0000308673",
+        "locations": [
+            "Laval, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Cibc",
+        "id": "7da7fb12-a0da-422e-8ef0-50a5727ba6c1",
+        "title": "Quantitative Analyst - Pension Investment Management",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1749526571,
+        "date_posted": 1749526571,
+        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Quantitative-Analyst--Pension-Investment-Management--Fall-2025-Co-Op-_2513753",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cibc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "84.51 Degrees",
+        "id": "9e102733-6e80-40f3-831f-4022ad7667e7",
+        "title": "Agile Delivery \u2013 Co-op Program",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1749517092,
+        "date_posted": 1749517092,
+        "url": "https://job-boards.greenhouse.io/8451university/jobs/8028712002",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/84-51",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "84.51 Degrees",
+        "id": "1741605d-c69c-4d72-8dd5-1ebcc23c70ef",
+        "title": "Software Engineer \u2013 Co-op Program",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749517089,
+        "date_posted": 1749517089,
+        "url": "https://job-boards.greenhouse.io/8451university/jobs/8028856002",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/84-51",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ATPCO",
+        "id": "6be97c1c-8cee-4d2e-abcb-fc7c8d56fdc7",
+        "title": "Platform Capability Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749594363,
+        "date_posted": 1749594363,
+        "url": "https://jobs.smartrecruiters.com/ATPCO1/744000064390815",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "79cc3d09-db6b-4700-b963-0ec6ff0cd863",
+        "title": "University \u2013 Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749596051,
+        "date_posted": 1749596051,
+        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/University--Systems-Engineer-Intern_R0220867",
+        "locations": [
+            "Lexington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Standard",
+        "id": "60f8fadd-db14-47a0-856d-52b2cd2c0291",
+        "title": "AI Engineering Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749598004,
+        "date_posted": 1749598004,
+        "url": "https://standard.wd1.myworkdayjobs.com/en-US/Search/job/Remote-USA/AI-Engineering-Engineer-Intern_REQ005730",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/ed75a625-1c49-4b0c-8ed2-74eb1262137d",
         "is_visible": true,
         "sponsorship": "Other"
     }
