@@ -168483,7 +168483,7 @@
         "company_name": "Tamr",
         "id": "3262732a-c37c-4cfb-9571-dae2e4d076eb",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025",
@@ -185972,7 +185972,7 @@
         "company_name": "WeaveGrid",
         "id": "655b9d31-5afc-4b9c-ab20-8d7d4ecc6aee",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1744957569,
         "date_posted": 1744957569,
@@ -188351,7 +188351,7 @@
         "company_name": "TD Bank",
         "id": "5b7d2323-dedc-407c-a8fa-269674475dd8",
         "title": "Data Analyst Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -190206,7 +190206,7 @@
         "company_name": "Nokia",
         "id": "99513e25-45fc-4fd3-8e04-f44403a5d1b2",
         "title": "Automation & AI/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -191868,7 +191868,7 @@
         "company_name": "Copart",
         "id": "1dfcd311-abb2-4841-bb2b-76f15dca8ba7",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746661449,
         "date_posted": 1746661449,
@@ -194911,7 +194911,7 @@
         "company_name": "NVIDIA",
         "id": "709e0beb-1d4e-43f7-a5f1-2362be53075d",
         "title": "Vulkan Driver Performance Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -197461,44 +197461,6 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1748897489,
-        "url": "https://www.thirdlayer.inc/careers/ai-engineer",
-        "company_name": "Dex (YC W25)",
-        "title": "AI Engineer Intern",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "source": "harley-zhang",
-        "id": "f4143266-0194-4974-9af0-0296a8d78289",
-        "date_posted": 1748897489,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1748897553,
-        "url": "https://www.thirdlayer.inc/careers/software-engineer",
-        "company_name": "Dex (YC W25)",
-        "title": "Full-Stack Engineer Intern",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "source": "harley-zhang",
-        "id": "fc1168c0-f292-4f62-aa70-0fea7dfcf383",
-        "date_posted": 1748897553,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "ATPCO",
@@ -198112,7 +198074,7 @@
         "company_name": "NVIDIA",
         "id": "4569e658-7b05-4a2f-b1f3-836f396982de",
         "title": "Software Engineering Intern - LLM NIM Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -198538,7 +198500,7 @@
         "company_name": "The Standard",
         "id": "60f8fadd-db14-47a0-856d-52b2cd2c0291",
         "title": "AI Engineering Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -198549,6 +198511,125 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/ed75a625-1c49-4b0c-8ed2-74eb1262137d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nextracker",
+        "id": "4b556378-9c85-4adf-985d-4b2cb977e4cc",
+        "title": "Front-end Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749601034,
+        "date_posted": 1749601034,
+        "url": "https://nextracker.wd5.myworkdayjobs.com/nextracker_careers/job/Fremont-North-Bldg-California---USA/Front-end-Software-Developer-Intern_NX-2025",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nextracker",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tulip Interfaces",
+        "id": "25591c29-de18-4a7b-989f-dc30f95dd2ae",
+        "title": "AI / Automation Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749602716,
+        "date_posted": 1749602716,
+        "url": "https://tulip.co/careers/job-posting/?gh_jid=6583630003",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tulip-Interfaces",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AES",
+        "id": "9bd9e918-41bd-48d8-8bc8-cef9d17ba1aa",
+        "title": "Advanced Analytics and Visualization Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749603779,
+        "date_posted": 1749603779,
+        "url": "https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Louisville-CO/Advanced-Analytics-and-Visualization-Intern_R1060482-1",
+        "locations": [
+            "Lafayette, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/AES",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital One",
+        "id": "375ab227-8362-4cb7-9a0d-a675e86f8fbc",
+        "title": "Intern \u2013 Data Scientist",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1749605366,
+        "date_posted": 1749605366,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist--Winter-2026-_R218557",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1749614655,
+        "url": "https://jobs.bombardier.com/job/Dorval-Intern%2C-Programmer-%28Fall-2025%29-Qu%C3%A9b-H4S-1Y9/1212251301",
+        "company_name": "Bombardier",
+        "title": "Intern, Programmer",
+        "locations": [
+            "Dorval, Qu\u00e9bec, Canada"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "b50f4695-ca31-4a4b-b26b-6710666f8da4",
+        "date_posted": 1749614655,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "TD Bank",
+        "id": "9ef9e7e7-5382-489c-bc2a-669308ec2670",
+        "title": "Global Markets Intern/Co-op - Asset Securitization",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749657405,
+        "date_posted": 1749657405,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Intern-Co-op---Asset-Securitization--Fall-2025-_R_1425932",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
         "is_visible": true,
         "sponsorship": "Other"
     }
