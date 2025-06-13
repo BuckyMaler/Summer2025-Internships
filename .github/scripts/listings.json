@@ -177277,7 +177277,7 @@
         "company_name": "Copart",
         "id": "c100e296-5f5e-4b89-9b53-ce606d2e3eae",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -179255,7 +179255,7 @@
         "company_name": "Lumentum",
         "id": "11ea446a-9aaf-4366-a316-5df86a21b3c5",
         "title": "Optical Algorithms & Analytics Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2026",
@@ -192855,7 +192855,7 @@
         "company_name": "Nokia",
         "id": "740a26ac-ced3-4d48-90b0-463d9fbf34a8",
         "title": "Hardware Development Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -193535,7 +193535,7 @@
         "company_name": "ZOLL Medical Corporation",
         "id": "f64ace8f-6d15-43f2-b199-056b7adaf4a1",
         "title": "Engineering Co-op - Human Factors and Usability",
-        "active": false,
+        "active": true,
         "terms": [],
         "date_updated": 1747161556,
         "date_posted": 1747161556,
@@ -196412,7 +196412,7 @@
         "company_name": "Nokia",
         "id": "b603873b-1e73-4033-9c5d-72e707e58901",
         "title": "Deepfield Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -196614,7 +196614,7 @@
         "company_name": "Curtiss-Wright Corporation",
         "id": "5ee710f4-1e45-463a-beda-176caab6bd71",
         "title": "Database Creation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -197731,7 +197731,7 @@
         "company_name": "TransMarket Group",
         "id": "cf412da4-1f1d-43aa-8f7d-135ac859dfdf",
         "title": "Algorithmic Trader Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2027"
@@ -197792,7 +197792,7 @@
         "company_name": "ASML",
         "id": "cbdf0a7e-972e-4770-a990-a667d32260c0",
         "title": "Co-op \u2013 Internship - Feature Detection and Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -197994,7 +197994,7 @@
         "company_name": "Howard University",
         "id": "eb0799f5-4758-4bc2-96b1-d3c5cd5c314e",
         "title": "DDOT Intern-10",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -198014,7 +198014,7 @@
         "company_name": "Howard University",
         "id": "5829f295-f5d5-4ff9-b196-f05f1f93521d",
         "title": "DDOT Intern-2",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -198275,7 +198275,7 @@
         "company_name": "Safari AI",
         "id": "f9b45ac2-0f18-468b-a004-3d7a1a946a6b",
         "title": "8 Month CV/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Spring 2026"
@@ -198520,7 +198520,7 @@
         "company_name": "Nextracker",
         "id": "4b556378-9c85-4adf-985d-4b2cb977e4cc",
         "title": "Front-end Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -198630,6 +198630,311 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Activision-Blizzard",
+        "id": "1aed8473-cf4e-4d3e-9775-d42f0c190434",
+        "title": "Software Development Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749693512,
+        "date_posted": 1749693512,
+        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Vancouver---Activision---Demonware/Software-Development-Co-op_R025483",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Root",
+        "id": "2b8464e3-94f3-47ff-8980-fe23b610544d",
+        "title": "Data Mining and Research Intern",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749694035,
+        "date_posted": 1749694035,
+        "url": "https://joinroot.wd1.myworkdayjobs.com/joinroot/job/HQ---US---Columbus/Data-Mining-and-Research-Intern_JR101899",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Root",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "db09e4bf-e5b7-40fa-999a-4173f1f27773",
+        "title": "Co-Op: Computer Science Project",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749695250,
+        "date_posted": 1749695250,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PW108-Springdale-AR-275-E-Robinson-Avenue-Springdale-AR-72764-USA/Co-Op--Computer-Science-Project--Onsite-_01771588",
+        "locations": [
+            "Springdale, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Signify",
+        "id": "e171bec3-c3a6-4130-871b-aa6532fc5f69",
+        "title": "Firmware Development Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1749695198,
+        "date_posted": 1749695198,
+        "url": "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Atlanta/Firmware-Development-Engineering-Intern---Fall-2025_359265",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Signify",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "4c42a6cc-7ab2-4c36-ad18-20884856da75",
+        "title": "Embedded C/C++ Software Dev Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1749697210,
+        "date_posted": 1749697210,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21612",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Motors",
+        "id": "8c55acbe-eee0-4416-b8bf-0e3a71289490",
+        "title": "co-op Data Science Analyst",
+        "active": false,
+        "terms": [
+            "Fall 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1749699853,
+        "date_posted": 1749699853,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Oshawa-Ontario-Canada/XMLNAME-2025-Fall-co-op-Data-Science-Analyst_JR-202510078",
+        "locations": [
+            "Oshawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Live Nation Entertainment",
+        "id": "0dc82e5b-df8c-411c-8609-0cc567b5824e",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749700996,
+        "date_posted": 1749700996,
+        "url": "https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/Beverly-Hills-CA-USA/Data-Analytics-Intern_JR-81004",
+        "locations": [
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "be12ab9f-8271-466a-8b98-4f4070d08cc7",
+        "title": "Photonics Software Developer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1749700238,
+        "date_posted": 1749700238,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonics-Software-Developer-Co-op--Fall-2025-_R028238",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "44573ccf-dbd1-4ecd-9ed2-d2709baa87e7",
+        "title": "Software Engineering Intern - Networking",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1749701839,
+        "date_posted": 1749701839,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Networking---Fall-2025_JR1998711-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Warp Payroll",
+        "id": "e17e548e-6210-4f6e-ab58-6a7dea2136f2",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749701151,
+        "date_posted": 1749701151,
+        "url": "https://jobs.ashbyhq.com/warp/4fc9265b-0728-4565-bb3f-b9928689b377/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Warp-HR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Aerospace",
+        "id": "80f8764a-9657-44c1-915d-771de2ef6ce9",
+        "title": "Analytics Co-op - Tableau Dashboard Development",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749701072,
+        "date_posted": 1749701072,
+        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Boston/Analytics-Co-op---Tableau-Dashboard-Development_R5011681-1",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Activision-Blizzard",
+        "id": "dc450ad1-3e69-4a11-9ef8-dd0c7b363a69",
+        "title": "Software Development Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749693512,
+        "date_posted": 1749693512,
+        "url": "https://activision.wd1.myworkdayjobs.com/External/job/Vancouver/Software-Development-Co-op_R025492",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Activision-Blizzard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BorgWarner",
+        "id": "7d5f5e29-99a4-4d5f-9f88-f69481f4f873",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1749757564,
+        "date_posted": 1749757564,
+        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Data-Analytics-Intern_R2025-2345",
+        "locations": [
+            "Auburn Hills, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/BorgWarner",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Behaviour Interactive",
+        "id": "bc5a03b6-30db-4819-85ba-e760ef57779f",
+        "title": "Technical Designer - Concepteur\u00b7trice technique",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1749761223,
+        "date_posted": 1749761223,
+        "url": "https://jobs.lever.co/bhvr/a23e545c-0e80-4d40-981b-05c12aac2cb3/apply",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Behaviour-Interactive",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Freudenberg Group",
+        "id": "381fec0a-0820-4bb3-814f-20dfe3a4afe5",
+        "title": "R&D Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749751250,
+        "date_posted": 1749751250,
+        "url": "https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Plymouth-MI/R---D-Engineer-Intern--New-Product-Development_R_00081799",
+        "locations": [
+            "Plymouth, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Freudenberg-Group",
         "is_visible": true,
         "sponsorship": "Other"
     }
