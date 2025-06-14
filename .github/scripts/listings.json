@@ -169680,7 +169680,7 @@
         "company_name": "GE Aerospace",
         "id": "13e7baef-caae-4048-b9d1-98940c64a36f",
         "title": "Engineering Engines Intern - Computer or Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -169720,7 +169720,7 @@
         "company_name": "GE Aerospace",
         "id": "428a9796-35b6-495d-89bf-101a1f45ef19",
         "title": "Digital Technology Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -169740,7 +169740,7 @@
         "company_name": "GE Aerospace",
         "id": "23a6a187-d8d4-4014-97bd-e1c3ba5a5182",
         "title": "Digital Technology Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -169760,7 +169760,7 @@
         "company_name": "GE Aerospace",
         "id": "0fba8338-ebe0-4c46-92cd-3a95ce3bdc3c",
         "title": "Engineering Engines Co-op - Computer or Software Engineering - Returning Students",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -176494,7 +176494,7 @@
         "company_name": "GE Aerospace",
         "id": "8bf72298-c5e4-44f3-860f-bc30c99704b9",
         "title": "Digital Technology Intern - Returning Students",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -187208,7 +187208,7 @@
         "company_name": "Lumentum",
         "id": "075fc119-e012-4e96-9e99-74ab104a95b2",
         "title": "Process Automation Software Engineer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025",
@@ -187960,7 +187960,7 @@
         "company_name": "NVIDIA",
         "id": "3425c8c3-9634-487c-ba5f-e361269a62cf",
         "title": "Robotics Software Intern - Robotics Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -188291,7 +188291,7 @@
         "company_name": "TD Bank",
         "id": "36b78112-3626-4b7a-87ae-d71a0bc38328",
         "title": "Software Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -189207,7 +189207,7 @@
         "company_name": "Brunswick",
         "id": "bdee494a-dcde-46c4-a4d1-15064d68aeab",
         "title": "Computer Graphics Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025",
             "Summer 2025",
@@ -190437,7 +190437,7 @@
         "company_name": "Kepler Communications",
         "id": "f50837a3-b771-488a-a12c-c5073bf4abbf",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -197042,7 +197042,7 @@
         "company_name": "Bank of Montreal",
         "id": "ade73e38-88e9-4fee-9ca2-aed463b668b7",
         "title": "Data Analytics and Reporting \u2013 Co-op/Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -197265,7 +197265,7 @@
         "company_name": "Bank of Montreal",
         "id": "19e5699f-d559-4b58-b6f0-543d940d5bda",
         "title": "Data Analytics & Reporting Analyst \u2013 Co-op/Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -197974,7 +197974,7 @@
         "company_name": "NVIDIA",
         "id": "e85206d2-b510-41d1-9b0a-0638d73d1d93",
         "title": "Windows AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -198034,7 +198034,7 @@
         "company_name": "NVIDIA",
         "id": "27f8639f-8212-4706-8a00-2bc51f8fb75a",
         "title": "Data Science and Insights Intern - Omniverse",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -198275,7 +198275,7 @@
         "company_name": "Safari AI",
         "id": "f9b45ac2-0f18-468b-a004-3d7a1a946a6b",
         "title": "8 Month CV/ML Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025",
             "Spring 2026"
@@ -198480,7 +198480,7 @@
         "company_name": "Booz Allen",
         "id": "79cc3d09-db6b-4700-b963-0ec6ff0cd863",
         "title": "University \u2013 Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -198580,7 +198580,7 @@
         "company_name": "Capital One",
         "id": "375ab227-8362-4cb7-9a0d-a675e86f8fbc",
         "title": "Intern \u2013 Data Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -198740,7 +198740,7 @@
         "company_name": "General Motors",
         "id": "8c55acbe-eee0-4416-b8bf-0e3a71289490",
         "title": "co-op Data Science Analyst",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -198801,7 +198801,7 @@
         "company_name": "NVIDIA",
         "id": "44573ccf-dbd1-4ecd-9ed2-d2709baa87e7",
         "title": "Software Engineering Intern - Networking",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -198861,7 +198861,7 @@
         "company_name": "Activision-Blizzard",
         "id": "dc450ad1-3e69-4a11-9ef8-dd0c7b363a69",
         "title": "Software Development Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -198935,6 +198935,146 @@
             "Plymouth, MI"
         ],
         "company_url": "https://simplify.jobs/c/Freudenberg-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Red Cross",
+        "id": "d35e3d6e-81eb-4ff0-af8d-573e6f205728",
+        "title": "Intern \u2013 Innovation - IT",
+        "active": false,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749784280,
+        "date_posted": 1749784280,
+        "url": "https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Statewide-VA/Intern---Innovation--IT-_RC81766",
+        "locations": [
+            "Virginia"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Red-Cross",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JPI",
+        "id": "9cda8fa4-46fb-4f87-8397-3e9f5d9f85d0",
+        "title": "Digital Workflows Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749785578,
+        "date_posted": 1749785578,
+        "url": "https://jpi.wd1.myworkdayjobs.com/jpicareers/job/Dallas-Office/Digital-Workflows-Intern_JR100993",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/JPI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "731a7712-6c7a-400d-8931-435678ff09b8",
+        "title": "Computer Graphics Technology Intern - Data Science",
+        "active": false,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1749796196,
+        "date_posted": 1749796196,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Vancouver-BC-Canada/Computer-Graphics-Technology-Intern---Data-Science--Fall-2025-_10124359",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ciena",
+        "id": "86a281b9-be8d-4f04-b246-faa021f43e63",
+        "title": "Product Verification Automation Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1749785384,
+        "date_posted": 1749785384,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Product-Verification-Automation-Co-op--Fall-2025-_R026258",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Echo Global Logistics",
+        "id": "1ffeb575-58e8-4b2d-a3e3-23f8d34ae8d6",
+        "title": "RPA Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749782531,
+        "date_posted": 1749782531,
+        "url": "https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Chicago-IL/Intern_R3533",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/02d318d6-1b68-4674-a557-5095f957451e",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Blockhouse",
+        "id": "e5faa8c6-2682-4449-8981-18a5f12176f6",
+        "title": "Quantitative Developer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749777033,
+        "date_posted": 1749777033,
+        "url": "https://jobs.ashbyhq.com/blockhouse/472d641d-36a5-4631-b251-1999e89fc83f/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Blockhouse",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ATPCO",
+        "id": "d13103aa-3597-4a98-8c36-81e1c36c7495",
+        "title": "Platform Capability Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1749853305,
+        "date_posted": 1749853305,
+        "url": "https://jobs.smartrecruiters.com/ATPCO1/744000065082135",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
         "is_visible": true,
         "sponsorship": "Other"
     }
