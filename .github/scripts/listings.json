@@ -160400,7 +160400,7 @@
         "company_name": "Legend Biotech",
         "id": "c252a216-a678-4581-815b-4d527869ba26",
         "title": "Sap Btp Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -186188,7 +186188,7 @@
         "company_name": "HarbourVest",
         "id": "56ec64bc-3f81-4b31-a237-c2c3790b17f0",
         "title": "Portfolio Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [],
         "date_updated": 1745078429,
         "date_posted": 1745078429,
@@ -197384,7 +197384,7 @@
         "company_name": "LiveRamp",
         "id": "b7d2e5a0-5c5d-4ca7-b2db-59d9366661d1",
         "title": "Co-Op \u2013 Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -198639,7 +198639,7 @@
         "company_name": "Activision-Blizzard",
         "id": "1aed8473-cf4e-4d3e-9775-d42f0c190434",
         "title": "Software Development Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -198781,7 +198781,7 @@
         "company_name": "Ciena",
         "id": "be12ab9f-8271-466a-8b98-4f4070d08cc7",
         "title": "Photonics Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -198924,7 +198924,7 @@
         "company_name": "Freudenberg Group",
         "id": "381fec0a-0820-4bb3-814f-20dfe3a4afe5",
         "title": "R&D Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -199024,7 +199024,7 @@
         "company_name": "Echo Global Logistics",
         "id": "1ffeb575-58e8-4b2d-a3e3-23f8d34ae8d6",
         "title": "RPA Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -199196,6 +199196,47 @@
             "Halifax Regional Municipality, NS, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Global-Relay",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Applied Materials",
+        "id": "8e490d3a-37c9-49c8-8059-4a12646b8b9b",
+        "title": "Install Automation Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1750061896,
+        "date_posted": 1750061896,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Install-Automation-Engineer-Intern_R2514429",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Baxter International",
+        "id": "e414f853-38cb-49d2-b667-6a8426642fcb",
+        "title": "Associate Software Engineer \u2013 Co-Op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1750102449,
+        "date_posted": 1750102449,
+        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Skaneateles-NY/Associate-Software-Engineer---Co-Op-_JR-174570",
+        "locations": [
+            "Auburn, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Baxter-International",
         "is_visible": true,
         "sponsorship": "Other"
     }
