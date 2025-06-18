@@ -1993,7 +1993,7 @@
         "company_name": "Ekimetrics",
         "id": "97964cb8-fdda-4a97-a78d-19c194e59388",
         "title": "6 months Internship in Strategy & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -107342,7 +107342,7 @@
         "company_name": "Marvell",
         "id": "bc216ec6-ddae-4e7e-abff-cb9abae85a24",
         "title": "Software Engineer Intern - Bachelors",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -181728,7 +181728,7 @@
         "company_name": "Entegris",
         "id": "5561ab5b-80f1-4b4c-8273-5c86f28c462d",
         "title": "Data Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -189718,7 +189718,7 @@
         "company_name": "Nokia",
         "id": "a14842ce-a120-4e7a-a371-d30522cf3d81",
         "title": "Electromechanical Assembly Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -190532,7 +190532,7 @@
         "company_name": "GeoComply",
         "id": "f753a614-455e-4eb3-b985-2c8dd8de35ce",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746236935,
         "date_posted": 1746236935,
@@ -190569,7 +190569,7 @@
         "company_name": "Verkada",
         "id": "b985c2e9-afbf-4483-8caf-535dd499e166",
         "title": "Hardware Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -190979,7 +190979,7 @@
         "company_name": "GeoComply",
         "id": "cce162be-73fa-408a-b7a3-ae7c1f2c7298",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746473822,
         "date_posted": 1746473822,
@@ -191335,7 +191335,7 @@
         "company_name": "GeoComply",
         "id": "669a0773-ee6b-4ec4-ad3c-ddf4f6254706",
         "title": "ML Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746557228,
         "date_posted": 1746557228,
@@ -192592,7 +192592,7 @@
         "company_name": "KION",
         "id": "be47dfe7-172a-4e66-97b5-f3e354c46286",
         "title": "Software Engineer Intern/Co-Op",
-        "active": false,
+        "active": true,
         "terms": [],
         "date_updated": 1746735656,
         "date_posted": 1746735656,
@@ -192688,7 +192688,7 @@
         "company_name": "Activision-Blizzard",
         "id": "b614c210-3b53-4a02-aaf7-e01855ac9ed5",
         "title": "Engineering Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2026"
@@ -193535,7 +193535,7 @@
         "company_name": "ZOLL Medical Corporation",
         "id": "f64ace8f-6d15-43f2-b199-056b7adaf4a1",
         "title": "Engineering Co-op - Human Factors and Usability",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1747161556,
         "date_posted": 1747161556,
@@ -194078,7 +194078,7 @@
         "company_name": "Marathon Petroleum",
         "id": "3f8ab7cf-6061-45f7-972a-99a70c41f253",
         "title": "Intern/Co-op - Gathering and Processing Measurement Data Support",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -197384,7 +197384,7 @@
         "company_name": "LiveRamp",
         "id": "b7d2e5a0-5c5d-4ca7-b2db-59d9366661d1",
         "title": "Co-Op \u2013 Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -197445,7 +197445,7 @@
         "company_name": "Splunk",
         "id": "e153ff2c-592e-4a34-b71f-8315968e8eb8",
         "title": "Software Engineer Intern - Backend/Full-stack",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -197853,7 +197853,7 @@
         "company_name": "Splunk",
         "id": "e1ef754e-ab09-4055-ac8f-27e800a69b8f",
         "title": "Software Engineer Intern - Frontend",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -198377,7 +198377,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "189ca38d-7a57-4de8-8dc1-1c99abf4b886",
         "title": "Stagiaire en conception de logiciels/Software Designer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -198699,7 +198699,7 @@
         "company_name": "Signify",
         "id": "e171bec3-c3a6-4130-871b-aa6532fc5f69",
         "title": "Firmware Development Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -198719,7 +198719,7 @@
         "company_name": "Nokia",
         "id": "4c42a6cc-7ab2-4c36-ad18-20884856da75",
         "title": "Embedded C/C++ Software Dev Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -198821,7 +198821,7 @@
         "company_name": "Warp Payroll",
         "id": "e17e548e-6210-4f6e-ab58-6a7dea2136f2",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -198904,7 +198904,7 @@
         "company_name": "Behaviour Interactive",
         "id": "bc5a03b6-30db-4819-85ba-e760ef57779f",
         "title": "Technical Designer - Concepteur\u00b7trice technique",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -198964,7 +198964,7 @@
         "company_name": "JPI",
         "id": "9cda8fa4-46fb-4f87-8397-3e9f5d9f85d0",
         "title": "Digital Workflows Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -199239,5 +199239,123 @@
         "company_url": "https://simplify.jobs/c/Baxter-International",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Faraday Future",
+        "id": "62341841-58c7-428c-9f92-9e820568ed9f",
+        "title": "Intern \u2013 Data Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1750131646,
+        "date_posted": 1750131646,
+        "url": "https://job-boards.greenhouse.io/faradayfuture/jobs/6608356003",
+        "locations": [
+            "West Athens, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Faraday-Future",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ERM",
+        "id": "6501f314-c784-479e-a82c-29587719c7fa",
+        "title": "Market Research Intern \u2013 Internship Program",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1750160546,
+        "date_posted": 1740385026,
+        "url": "https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Knoxville-Shelton-Group/Technician--Internship-Program--Internship-_R00023359",
+        "locations": [
+            "Knoxville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/ERM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "b14b632a-0bdd-4b18-92ba-ff887c70021b",
+        "title": "Software Engineering Co-Op",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1750199288,
+        "date_posted": 1750199288,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000065804310",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1750204444,
+        "url": "https://jobs.ashbyhq.com/n1/8db1135d-40bc-4e6c-ac64-a5e11fc8d1a4",
+        "company_name": "N1",
+        "title": "Software Engineer Intern [Backend, Rust]",
+        "locations": [
+            "New York"
+        ],
+        "terms": [
+            "Summer 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "Orazej",
+        "id": "73394687-0e49-4c91-b6ac-a051ce2c79f6",
+        "date_posted": 1750204444,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1750204481,
+        "url": "https://jobs.ashbyhq.com/a37/98b9fa73-1a6d-4aca-b1e0-67bb078f0265",
+        "company_name": "a37",
+        "title": "Member of Technical Staff Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "brianlzhou",
+        "id": "fe8ba0c7-d7e9-4ee0-ae84-1516c4047978",
+        "date_posted": 1750204481,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1750205091,
+        "url": "https://jobs.ashbyhq.com/a37/17ccb1e3-1a46-4a58-b446-ddb544d8b903",
+        "company_name": "a37",
+        "title": "Member of Technical Staff Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Winter 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "brianlzhou",
+        "id": "f284382c-18c1-4c15-9078-46325bc0ac21",
+        "date_posted": 1750205091,
+        "company_url": "",
+        "is_visible": true
     }
 ]
