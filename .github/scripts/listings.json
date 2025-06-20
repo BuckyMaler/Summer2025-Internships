@@ -192688,7 +192688,7 @@
         "company_name": "Activision-Blizzard",
         "id": "b614c210-3b53-4a02-aaf7-e01855ac9ed5",
         "title": "Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2026"
@@ -193609,7 +193609,7 @@
         "company_name": "Cibc",
         "id": "f15359fa-b701-49d1-a79b-589ac88c3082",
         "title": "Application/Software Developer Co-op - Personal Banking - Simplii & Direct Investing Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -197205,7 +197205,7 @@
         "company_name": "Energy Recovery",
         "id": "2c1fbad7-6bd9-48e1-866d-aff16376e1b0",
         "title": "Mechanical Engineering Intern - Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -198114,7 +198114,7 @@
         "company_name": "Bank of Montreal",
         "id": "816c5f54-a0d1-4843-bc9d-7392250f4e42",
         "title": "Junior Software Developer \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -198297,7 +198297,7 @@
         "company_name": "GP Fund Solutions",
         "id": "8b3619dc-cdc6-4060-99e7-df43e180b380",
         "title": "Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -198841,7 +198841,7 @@
         "company_name": "GE Aerospace",
         "id": "80f8764a-9657-44c1-915d-771de2ef6ce9",
         "title": "Analytics Co-op - Tableau Dashboard Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -199517,5 +199517,139 @@
         "company_url": "https://simplify.jobs/c/86636c38-0e05-4ec1-b699-ea03e743f151",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "989ddaf0-0d34-495c-b706-294d4343d165",
+        "title": "Compiler Engineering Intern - GPU Compute and CUDA",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1750291629,
+        "date_posted": 1750291629,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Compiler-Engineering-Intern--GPU-Compute-and-CUDA---Fall-2025_JR1998919",
+        "locations": [
+            "Austin, TX",
+            "Redmond, WA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bits",
+        "id": "8e5903ba-fdd9-4b77-99bb-e78ca08e1321",
+        "title": "Software Engineer \u2013 Summer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1750296817,
+        "date_posted": 1750296817,
+        "url": "https://apply.workable.com/getbits/j/52E7B0CF95/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bits",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Democratic National Committee",
+        "id": "f3b07658-3f4a-4bb6-8bc4-344b57987f95",
+        "title": "DNC Technology Internship",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1750303223,
+        "date_posted": 1750303223,
+        "url": "https://jobs.lever.co/dnc/66748d1f-3dda-4913-99eb-d4acf37f787c/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/DNC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BorgWarner",
+        "id": "57dab389-8b07-4069-8915-49ea65020e69",
+        "title": "Business Automation Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1750317551,
+        "date_posted": 1750317551,
+        "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Business-Automation-Intern_R2025-2397",
+        "locations": [
+            "Auburn Hills, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/BorgWarner",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "753c4120-5b70-4adf-8e9a-7b1b2892215e",
+        "title": "Software Development Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Summer 2023",
+            "Fall 2023",
+            "Summer 2024",
+            "Fall 2024",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1745416329,
+        "date_posted": 1732681062,
+        "url": "https://amazon.jobs/en/jobs/2841037/software-development-engineer-apprentice-aws-opportunity-for-veterans",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Arlington, VA",
+            "NYC",
+            "Bellevue, WA",
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1750353279,
+        "url": "https://careers.dolby.com/job/San-Francisco-Audio-Software-Engineering-Intern-CA-94101/1300160000/",
+        "company_name": "Dolby Laboratories, Inc.",
+        "title": "Audio Software Engineering Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "karthik961",
+        "id": "50eb373a-3a25-4e20-809b-7695e3f98019",
+        "date_posted": 1750353279,
+        "company_url": "",
+        "is_visible": true
     }
 ]
