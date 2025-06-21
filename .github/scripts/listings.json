@@ -187650,7 +187650,7 @@
         "company_name": "Nokia",
         "id": "aea63ff3-bc4c-4097-884a-077491c09c08",
         "title": "Automation Engineer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -190417,7 +190417,7 @@
         "company_name": "Kepler Communications",
         "id": "d9492ebf-1e30-4059-afa5-733eb337acfd",
         "title": "Hardware Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -192894,7 +192894,7 @@
         "company_name": "Booz Allen",
         "id": "a2873c2a-fda3-41ee-b008-50c6515cc2a5",
         "title": "University \u2013 Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746821906,
         "date_posted": 1746821906,
@@ -194871,7 +194871,7 @@
         "company_name": "RTX",
         "id": "21ed4bd6-474c-45f7-99ef-766bb81d5473",
         "title": "Stage \u2013 Science des donn\u00e9es et Analytique d\u2019affaires / Internship - Data Science and Business Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -195419,7 +195419,7 @@
         "company_name": "Nokia",
         "id": "0dc31f1f-ee5e-4297-bb1f-171b7a12e0b0",
         "title": "Engineering Lab Technician Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -196841,7 +196841,7 @@
         "company_name": "IKO",
         "id": "34b638ec-fbe9-4373-873b-21a3fd0027fa",
         "title": "BI Developer Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -197021,7 +197021,7 @@
         "company_name": "St. Jude Children's Research Hospital",
         "id": "166bd487-a42e-466b-a608-4beb446ff4da",
         "title": "Intern \u2013 Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -199205,7 +199205,7 @@
         "company_name": "Applied Materials",
         "id": "8e490d3a-37c9-49c8-8059-4a12646b8b9b",
         "title": "Install Automation Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Winter 2025"
@@ -199651,5 +199651,228 @@
         "date_posted": 1750353279,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Copart",
+        "id": "7626334e-fd78-46a6-8cbc-13a70e582f68",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1750381923,
+        "date_posted": 1750381923,
+        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR103530",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Copart",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "25ac8474-8598-4f9f-9ee3-3c643ce77d70",
+        "title": "Co-op: Fall 2025 - F135 Program Digital Solutions",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1750387448,
+        "date_posted": 1750387448,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PW100-East-Hartford-400-Main-Street-East-Hartford-CT-06118-USA/Co-op--Fall-2025---F135-Program-Digital-Solutions--Onsite-_01774935",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BILL",
+        "id": "ed648721-937b-4198-b5b8-6ae1ce1cc9ce",
+        "title": "Risk Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1750390088,
+        "date_posted": 1750390088,
+        "url": "https://www.bill.com/job?5342213004&gh_jid=5342213004",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bill-Dot-Com",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Weber Shandwick",
+        "id": "986a9beb-fbed-4491-930b-2d13ec403e4e",
+        "title": "AI & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1750432715,
+        "date_posted": 1750432715,
+        "url": "https://www.webershandwick.com/work-at-weber/careers/?gh_jid=8040062002",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Weber-Shandwick",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "IPG DXTRA",
+        "id": "b7892ba6-6fe2-49a3-b781-0a46d8c18c8a",
+        "title": "AI & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1750435158,
+        "date_posted": 1750435158,
+        "url": "https://job-boards.greenhouse.io/dxacirca/jobs/8040063002",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/IPG-DXTRA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Medpace, Inc.",
+        "id": "19e2eeec-000d-4a76-aaec-d774c1b64e43",
+        "title": "Web Developer Internship/Co-Op",
+        "active": false,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1750434579,
+        "date_posted": 1750434579,
+        "url": "https://careers.medpace.com/jobs/11408?lang=en-us&icims=1",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Medpace-Inc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jabil",
+        "id": "cd56994e-5bb4-495d-b73a-e412b65f3c93",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1750438260,
+        "date_posted": 1750438260,
+        "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/Lexington-KY/Data-Analytics-Intern_J2419123",
+        "locations": [
+            "Lexington, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/051f591a-22c2-4254-aec5-c3ee7c82b288",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amentum",
+        "id": "4cdbe908-45c5-4224-9880-5e7cf77956c9",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1750459498,
+        "date_posted": 1750459498,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Aberdeen-Proving-Ground/Intern_R0140943",
+        "locations": [
+            "Aberdeen, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Formstack",
+        "id": "956a72b2-14a0-4e9b-b3fa-19486c6734f8",
+        "title": "AI Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1750459404,
+        "date_posted": 1750459404,
+        "url": "https://jobs.lever.co/formstack/4c2cbe26-5948-4686-95a4-8f7145d7d2a8/apply",
+        "locations": [
+            "SF",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Formstack",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Konrad Group",
+        "id": "6edde419-ebe5-443f-a8f4-22493112af20",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1750459340,
+        "date_posted": 1750459340,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6616787003",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Konrad-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "67db3d5f-60cf-4230-90f6-63842dc9dc2e",
+        "title": "Waveserver Software Developer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1750462201,
+        "date_posted": 1750462201,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Waveserver-Software-Developer-Co-op--Fall-2025-_R028314",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
