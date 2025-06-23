@@ -193771,7 +193771,7 @@
         "company_name": "Uber",
         "id": "87e31d63-c2f1-4aba-9e8d-757dea21de26",
         "title": "Software Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -193794,7 +193794,7 @@
         "company_name": "Uber",
         "id": "6b50b53a-2202-4f0b-a885-d574b9fb4f5c",
         "title": "Software Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -199881,7 +199881,7 @@
         "company_name": "Medpace, Inc.",
         "id": "b4ee3f19-8175-4525-a8dd-88a06147951d",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -199894,5 +199894,24 @@
         "company_url": "https://simplify.jobs/c/Medpace-Inc",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1750558409,
+        "url": "https://nakisa.com/career-opportunities/?gh_jid=4590663101",
+        "company_name": "Nakisa",
+        "title": "Software Developer Intern",
+        "locations": [
+            "Montreal, Quebec, Canada"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "59029780-d67d-4195-97b4-87c8323d4df6",
+        "date_posted": 1750558409,
+        "company_url": "",
+        "is_visible": true
     }
 ]
