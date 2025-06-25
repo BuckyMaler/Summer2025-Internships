@@ -186653,7 +186653,7 @@
         "company_name": "NVIDIA",
         "id": "ad8e8d89-0caa-4097-b989-e1135451f287",
         "title": "Software Engineering Intern - Simulation and Virtualization",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -189918,7 +189918,7 @@
         "company_name": "Astranis",
         "id": "920c1eec-aa45-4d0b-bcbe-fcfdf3156a18",
         "title": "FPGA \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -196009,7 +196009,7 @@
         "company_name": "Ciena",
         "id": "b1140d8b-0911-465c-9c7b-3764112d51ee",
         "title": "THW Client Intern/Co-op - Undergrad",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -198761,7 +198761,7 @@
         "company_name": "Live Nation Entertainment",
         "id": "0dc82e5b-df8c-411c-8609-0cc567b5824e",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -199246,7 +199246,7 @@
         "company_name": "Faraday Future",
         "id": "62341841-58c7-428c-9f92-9e820568ed9f",
         "title": "Intern \u2013 Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -199658,7 +199658,7 @@
         "company_name": "Copart",
         "id": "7626334e-fd78-46a6-8cbc-13a70e582f68",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -199920,7 +199920,7 @@
         "company_name": "Equinox",
         "id": "2c60ebc9-a273-4171-8cad-a6b408fab229",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -200011,6 +200011,129 @@
             "Belfast, UK"
         ],
         "company_url": "https://simplify.jobs/c/sensata-tech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KBR",
+        "id": "6dbfd0c3-ef9b-4461-8b00-609576f7af35",
+        "title": "Software Application Developer Intern for GOES-R Series Satellites",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1750721315,
+        "date_posted": 1750721315,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Silver-Spring-Maryland/Software-Application-Developer-Intern-for-GOES-R-Series-Satellites_R2108196",
+        "locations": [
+            "Silver Spring, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Neuberger Berman",
+        "id": "69ee3238-eb2a-4a7c-a29b-3ec0ff70dee2",
+        "title": "Intern \u2013 Technology",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1750759290,
+        "date_posted": 1750759290,
+        "url": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/London/Intern_R0010928",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/97147200-3153-41b3-bbb0-5de4d7b4a48f",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "fc3232b0-3afe-4958-ad5b-88b32fb7ed0f",
+        "title": "Software Engineering Intern - Embedded Systems",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1750803162,
+        "date_posted": 1750803162,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Embedded-Systems---Fall-2025_JR1999184",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NXP Semiconductors",
+        "id": "a69ed4cc-79fe-4997-8d07-6ee6cb3a3ffe",
+        "title": "IC Design Verification Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1750804879,
+        "date_posted": 1750804879,
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kanata/IC-Design-Verification-Engineer--Intern_R-10058775",
+        "locations": [
+            "Kanata, Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NXP Semiconductors",
+        "id": "15bf7fec-a332-4ac0-859b-572ac5a78f3f",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1750804879,
+        "date_posted": 1750804879,
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kanata/Software-Engineering-Intern_R-10058774",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NXP Semiconductors",
+        "id": "bd158862-b8a1-4cc9-a6dd-3185c66cb5f3",
+        "title": "Digital Logic Design Engineering student",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1750804890,
+        "date_posted": 1750804890,
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kanata/Digital-Logic-Design-Engineering-student--COOP-Intern-_R-10058779",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984",
         "is_visible": true,
         "sponsorship": "Other"
     }
