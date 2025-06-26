@@ -145405,7 +145405,7 @@
         "company_name": "Snowflake",
         "id": "68514f17-9ecb-4ee1-bcbc-3ff17568817c",
         "title": "Product Marketing Intern - Artificial Intelligence - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -156308,7 +156308,7 @@
         "company_name": "State Street",
         "id": "b6ba16f3-bc50-4193-ad34-5b8eada32cc0",
         "title": "Co-Op - Crd",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -183071,7 +183071,7 @@
         "company_name": "IDEXX",
         "id": "8478a030-0162-49dd-92b4-a6726e8ae430",
         "title": "IT Data Engineering Support Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1744242620,
         "date_posted": 1744242620,
@@ -188351,7 +188351,7 @@
         "company_name": "TD Bank",
         "id": "5b7d2323-dedc-407c-a8fa-269674475dd8",
         "title": "Data Analyst Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -191850,7 +191850,7 @@
         "company_name": "Harris Computer",
         "id": "0a93f1fe-75e3-4192-ae0d-b3cf6e6cb764",
         "title": "GEMMS Development Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746660530,
         "date_posted": 1746660530,
@@ -192592,7 +192592,7 @@
         "company_name": "KION",
         "id": "be47dfe7-172a-4e66-97b5-f3e354c46286",
         "title": "Software Engineer Intern/Co-Op",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746735656,
         "date_posted": 1746735656,
@@ -193496,7 +193496,7 @@
         "company_name": "EarnIn",
         "id": "624fb675-ce97-4350-9424-7902dba105ec",
         "title": "Machine Learning Intern - Infra",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1747166036,
         "date_posted": 1747166036,
@@ -194260,7 +194260,7 @@
         "company_name": "Alice L. Walton School of Medicine",
         "id": "f99b5cdc-c1a6-49b7-a1fc-9d8fbbb6b2b9",
         "title": "Education Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -194281,7 +194281,7 @@
         "company_name": "Alice L. Walton School of Medicine",
         "id": "ab658957-bc85-426a-9631-17426f5c09b2",
         "title": "Education Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -198540,7 +198540,7 @@
         "company_name": "Tulip Interfaces",
         "id": "25591c29-de18-4a7b-989f-dc30f95dd2ae",
         "title": "AI / Automation Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -199404,7 +199404,7 @@
         "company_name": "TD Bank",
         "id": "93cf4cea-dfd7-4430-9a33-d3d4f7a3e36f",
         "title": "Business Insights & Analytics Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -199678,7 +199678,7 @@
         "company_name": "RTX",
         "id": "25ac8474-8598-4f9f-9ee3-3c643ce77d70",
         "title": "Co-op: Fall 2025 - F135 Program Digital Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -199699,7 +199699,7 @@
         "company_name": "BILL",
         "id": "ed648721-937b-4198-b5b8-6ae1ce1cc9ce",
         "title": "Risk Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -199780,7 +199780,7 @@
         "company_name": "Jabil",
         "id": "cd56994e-5bb4-495d-b73a-e412b65f3c93",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -199820,7 +199820,7 @@
         "company_name": "Formstack",
         "id": "956a72b2-14a0-4e9b-b3fa-19486c6734f8",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -200134,6 +200134,130 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mercedes-Benz",
+        "id": "b3e5a9c8-5692-44c5-9363-7b413b530683",
+        "title": "Software Developer \u2013 AIX Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1750814070,
+        "date_posted": 1750814070,
+        "url": "https://jobs.lever.co/MBRDNA/e987dc81-f177-4b4a-b605-670d8b68d00e/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercedes-Benz",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "ee092cd6-fe15-4c7e-96d0-4f21a8ecb942",
+        "title": "Sdet \u2013 Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1750783358,
+        "date_posted": 1750783358,
+        "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/Canada---Richmond-BC/SDET--Co-op_REQ29299",
+        "locations": [
+            "Richmond, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Teledyne",
+        "id": "ce985d6c-2510-4960-b4f7-37f22769e002",
+        "title": "Sdet \u2013 Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1750783358,
+        "date_posted": 1750783358,
+        "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/Canada---Richmond-BC/SDET--Co-op_REQ29301",
+        "locations": [
+            "Richmond, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Teledyne",
+        "id": "55792b63-1879-4792-b9f0-3950515ca814",
+        "title": "Sdet \u2013 Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1750783358,
+        "date_posted": 1750783358,
+        "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/Canada---Richmond-BC/SDET--Co-op_REQ29305-1",
+        "locations": [
+            "Richmond, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LiveRamp",
+        "id": "89b8ffb6-8d7c-4900-8706-96cfae17748d",
+        "title": "Co-op \u2013 Data Science",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1750780356,
+        "date_posted": 1750780356,
+        "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Co-op--Data-Science_JR011667",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Little Rock, AR",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/LiveRamp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lake Michigan Credit Union",
+        "id": "075a3256-c169-4ec2-8cf6-5ae0dd39129f",
+        "title": "Retail Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1750779040,
+        "date_posted": 1750779040,
+        "url": "https://lmcu.wd5.myworkdayjobs.com/lmcucareersite/job/Tampa-FL/Retail-Intern---Central-FL_REQ-2025-5800",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Lake-Michigan-Credit-Union",
         "is_visible": true,
         "sponsorship": "Other"
     }
