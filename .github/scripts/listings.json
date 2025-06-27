@@ -114117,7 +114117,7 @@
         "company_name": "Adobe",
         "id": "c9434b4a-02ad-45ed-8b26-88bfd738a582",
         "title": "2025 Intern - Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024",
             "Summer 2024",
@@ -121841,7 +121841,7 @@
         "company_name": "Electric Mind",
         "id": "05c98526-bc32-48dd-b411-712b7f2be675",
         "title": "Software Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -135789,7 +135789,7 @@
         "company_name": "Skydio",
         "id": "8cb4e5ff-4d38-47a1-8377-bec886058322",
         "title": "Middleware Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -156308,7 +156308,7 @@
         "company_name": "State Street",
         "id": "b6ba16f3-bc50-4193-ad34-5b8eada32cc0",
         "title": "Co-Op - Crd",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -163656,7 +163656,7 @@
         "company_name": "Teledyne",
         "id": "222e24da-b70c-4eac-9192-8110cfbe22ef",
         "title": "Software Engineer Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -186732,7 +186732,7 @@
         "company_name": "Nokia",
         "id": "1f2438f9-6c03-41b6-91ad-773dd5d6203b",
         "title": "Software Designer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -188351,7 +188351,7 @@
         "company_name": "TD Bank",
         "id": "5b7d2323-dedc-407c-a8fa-269674475dd8",
         "title": "Data Analyst Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -188886,7 +188886,7 @@
         "company_name": "Nokia",
         "id": "111ea7e3-e4ef-4798-8c3f-de02a0915558",
         "title": "Next-Gen AI Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -191813,7 +191813,7 @@
         "company_name": "Harris Computer",
         "id": "2f180667-9186-4718-af74-1c25a75755c6",
         "title": "Digichart Development Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746657671,
         "date_posted": 1746657671,
@@ -195031,7 +195031,7 @@
         "company_name": "Nextiva",
         "id": "9ec67b14-277d-4125-bf7b-d1618e3cd0fc",
         "title": "Marketing Intern - LLM Optimization - AI SEO / GEO",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -195298,7 +195298,7 @@
         "company_name": "Qualtrics",
         "id": "7429e56a-0a98-4cc8-97fc-2f18c877b735",
         "title": "People Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -195908,7 +195908,7 @@
         "company_name": "Ntrepid Corporation",
         "id": "c86b4736-0586-4ede-8f22-2e22aa5f4f6f",
         "title": "Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -196251,7 +196251,7 @@
         "company_name": "Cubic",
         "id": "4d76bbca-fcb4-4808-9995-ab12f14a5853",
         "title": "Innovation Intern AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -198398,7 +198398,7 @@
         "company_name": "Cibc",
         "id": "7da7fb12-a0da-422e-8ef0-50a5727ba6c1",
         "title": "Quantitative Analyst - Pension Investment Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -199266,7 +199266,7 @@
         "company_name": "ERM",
         "id": "6501f314-c784-479e-a82c-29587719c7fa",
         "title": "Market Research Intern \u2013 Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -200043,7 +200043,7 @@
         "company_name": "Neuberger Berman",
         "id": "69ee3238-eb2a-4a7c-a29b-3ec0ff70dee2",
         "title": "Intern \u2013 Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -200063,7 +200063,7 @@
         "company_name": "NVIDIA",
         "id": "fc3232b0-3afe-4958-ad5b-88b32fb7ed0f",
         "title": "Software Engineering Intern - Embedded Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -200258,6 +200258,292 @@
             "Tampa, FL"
         ],
         "company_url": "https://simplify.jobs/c/Lake-Michigan-Credit-Union",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "c952ebdc-f100-4c84-ab5d-d92d5d2a15e1",
+        "title": "Discrete Graphics Validation Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1750881288,
+        "date_posted": 1750881288,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Discrete-Graphics-Validation-Internship_JR0275985",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "c9c16ae8-003e-46ef-b527-f022f6e50a3d",
+        "title": "Geforce Technical Marketing Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1750904025,
+        "date_posted": 1750904025,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/GeForce-Technical-Marketing-Intern---Fall-2025_JR1997652",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Veolia",
+        "id": "8e74b0e0-0692-4369-bb48-0b0a83ee7c16",
+        "title": "Intern \u2013 Data Scientist",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1750883301,
+        "date_posted": 1750883301,
+        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000067009941",
+        "locations": [
+            "Hopkins, MN",
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veolia",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "06d16f55-b0fa-406d-a305-dd1ada759031",
+        "title": "System Software Engineering Intern - CUDA Driver",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1750884116,
+        "date_posted": 1750884116,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineering-Intern--CUDA-Driver---Fall-2025_JR1989344",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rootly",
+        "id": "f9d1ddab-5dac-4594-9d42-6fc7b44f3926",
+        "title": "Product Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1750924323,
+        "date_posted": 1750924323,
+        "url": "https://rootly.com/careers?4774249007&gh_jid=4774249007",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Rootly",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "J. D. Heiskell & Companies",
+        "id": "bcc9dea0-3ce1-4d4e-8176-d5075d7e6069",
+        "title": "Export Trading Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1750953696,
+        "date_posted": 1750953696,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3373032",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/JD-Heiskell-And-Companies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "f308d5cf-2992-4340-8e36-4a1ca0ea941e",
+        "title": "Anyware Endpoints Coop - C++ Developer",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1750956599,
+        "date_posted": 1750956599,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Anyware-Endpoints-Coop---C---Developer_3152071-1",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "54dd25b2-06ec-4b18-be48-48a8ad1d8d6b",
+        "title": "Associate Software Developer \u2013 Co-op position - HP Anyware Endpoints System Team",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1750955875,
+        "date_posted": 1750955875,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Associate-Software-Developer---HP-Anyware-Endpoints-System-Team--Co-op-position-_3152121-1",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard (HP)",
+        "id": "438e8566-3e8e-49c7-aeb0-a5b3a546ffc9",
+        "title": "Associate Software Developer \u2013 Co-op position - HP Anyware Endpoints C++ Developer",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1750955872,
+        "date_posted": 1750955872,
+        "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-British-Columbia-Canada/Associate-Software-Developer---HP-Anyware-Endpoints-C---Developer--Co-op-position-_3152118-1",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ada",
+        "id": "ac17d57e-b870-4e16-8f16-197b1d8f6d5f",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1750939515,
+        "date_posted": 1750939515,
+        "url": "https://job-boards.greenhouse.io/ada18/jobs/4746106007",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Copart",
+        "id": "d82092cd-8c74-4392-a1ae-78a5c073c8cb",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1750976148,
+        "date_posted": 1750976148,
+        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR103649",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Copart",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ShyftLabs",
+        "id": "a113c3f0-cd41-4da1-80b9-ca7291d12918",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1750977583,
+        "date_posted": 1750977583,
+        "url": "https://jobs.lever.co/shyftlabs/b214311a-cd95-48f4-a291-52a76c112427/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/ShyftLabs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "65fb58e9-e6fb-4b6f-8ad4-24d663589b90",
+        "title": "University \u2013 Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Spring 2026"
+        ],
+        "date_updated": 1750981362,
+        "date_posted": 1750981362,
+        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Systems-Engineer-Intern_R0221551",
+        "locations": [
+            "Fayetteville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "5c3dbc69-bcd9-4260-bdfb-77e0a1417a44",
+        "title": "Firmware Development Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1750981039,
+        "date_posted": 1750981039,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22272",
+        "locations": [
+            "Remote in USA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
         "is_visible": true,
         "sponsorship": "Other"
     }
