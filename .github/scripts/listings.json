@@ -27671,7 +27671,7 @@
         "company_name": "Kepler Communications",
         "id": "885f601c-ee24-4bda-b176-d5ceda71f7fd",
         "title": "Embedded Software Engineer Intern - Winter 2024 - 4 - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024"
         ],
@@ -185579,7 +185579,7 @@
         "company_name": "Cboe",
         "id": "52819597-6bf6-4d89-ac6d-4384c9802433",
         "title": "Data Pipeline Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [],
         "date_updated": 1744806241,
         "date_posted": 1744806241,
@@ -185896,7 +185896,7 @@
         "company_name": "Sylvera",
         "id": "f542294f-1f7d-415d-8919-c35d8a4f977f",
         "title": "Graduate Carbon Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -190437,7 +190437,7 @@
         "company_name": "Kepler Communications",
         "id": "f50837a3-b771-488a-a12c-c5073bf4abbf",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -199424,7 +199424,7 @@
         "company_name": "Daniel J Edelman Holdings",
         "id": "ddbce5cc-de00-4585-8df6-af4ce30d979c",
         "title": "Data Administration Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -200746,6 +200746,66 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/TabaPay",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Copart",
+        "id": "b7935c76-a713-4867-98ee-1b5d3b61b5db",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1751321941,
+        "date_posted": 1751321941,
+        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR103689",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Copart",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "AQR Capital Management",
+        "id": "68d2753c-5981-4e79-b199-46c3a0769c20",
+        "title": "Portfolio Implementation \u2013 Trading and Portfolio Finance Summer Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1751322686,
+        "date_posted": 1751322686,
+        "url": "https://careers.aqr.com/jobs?gh_jid=7022101&gh_jid=7022101",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cloudflare",
+        "id": "73e8c1fc-1570-4e1e-9b65-2809522ca5cb",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1751323123,
+        "date_posted": 1751323123,
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/7001678",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cloudflare",
         "is_visible": true,
         "sponsorship": "Other"
     }
