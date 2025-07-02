@@ -4740,7 +4740,7 @@
         "company_name": "Palantir",
         "id": "d0302d05-c84f-4a36-a91e-cc293f08604e",
         "title": "Software Engineer \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -5577,7 +5577,7 @@
         "company_name": "Palantir",
         "id": "0503901e-622f-4d1b-b7f9-29d44e59eaab",
         "title": "Forward Deployed Software Engineer \u2013 Internship - US Government",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -5596,7 +5596,7 @@
         "company_name": "Palantir",
         "id": "e1cb71b6-18fc-4d48-9c80-55c54bb62a50",
         "title": "Software Engineer \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -5615,7 +5615,7 @@
         "company_name": "Palantir",
         "id": "d58f726c-620e-4c0c-89d7-8b54421280ab",
         "title": "Forward Deployed Software Engineer \u2013 Internship - US Government",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -5634,7 +5634,7 @@
         "company_name": "Palantir",
         "id": "0f0aeb67-6d9f-4204-85d7-29cb04386943",
         "title": "Software Engineer \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -8138,7 +8138,7 @@
         "company_name": "Palantir",
         "id": "b9a66fc7-950d-4574-abc7-4b409156948b",
         "title": "Software Engineer \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -91093,7 +91093,7 @@
         "company_name": "Palantir",
         "id": "4a30dd71-73a0-48c8-9e4a-9422a6952920",
         "title": "Software Engineer \u2013 Internship - Defense Tech",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -91112,7 +91112,7 @@
         "company_name": "Palantir",
         "id": "c8c5aa40-1271-42fb-937f-a311fcaf917d",
         "title": "Software Engineer \u2013 Internship - Defense Tech",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -91131,7 +91131,7 @@
         "company_name": "Palantir",
         "id": "01a5ff88-29a2-4b09-9814-582b4e1fe212",
         "title": "Software Engineer \u2013 Internship - Defense Tech",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -94859,7 +94859,7 @@
         "company_name": "Palantir",
         "id": "da1074aa-7344-4ad3-9b53-078f1dbd2edc",
         "title": "Software Engineer \u2013 Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -97329,7 +97329,7 @@
         "company_name": "Palantir",
         "id": "fe77f108-84fc-48fd-bc64-dfd8921d203f",
         "title": "Forward Deployed Software Engineer \u2013 Internship - Defense Tech",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -186517,7 +186517,7 @@
         "company_name": "Hermeus",
         "id": "ec0af5cf-9cc7-4333-8b80-0d569623d9b0",
         "title": "Flight Software Engineer \u2013 Intern - Comms",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -190626,7 +190626,7 @@
         "company_name": "Unisys",
         "id": "c53ebde2-c99f-48eb-a414-b2f1714f5260",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [],
         "date_updated": 1746394346,
         "date_posted": 1746394346,
@@ -190644,7 +190644,7 @@
         "company_name": "Unisys",
         "id": "7dbb3cee-67bc-4a70-a44e-f7fe074afe3d",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [],
         "date_updated": 1746394509,
         "date_posted": 1746394509,
@@ -196674,7 +196674,7 @@
         "company_name": "Boston Consulting Group",
         "id": "a6728b9c-aa5b-4b52-a197-7a4d715d6d1d",
         "title": "Female Talent Internship - BCG Platinion",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -196700,7 +196700,7 @@
         "company_name": "Nextracker",
         "id": "80a863d2-12e4-4cf3-b405-f5680d3b419b",
         "title": "AI Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -197587,7 +197587,7 @@
         "company_name": "ATPCO",
         "id": "76a231af-3c07-4dcb-bfe8-f308a7ebde0a",
         "title": "Software Engineer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -198419,7 +198419,7 @@
         "company_name": "84.51 Degrees",
         "id": "9e102733-6e80-40f3-831f-4022ad7667e7",
         "title": "Agile Delivery \u2013 Co-op Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -200083,7 +200083,7 @@
         "company_name": "NXP Semiconductors",
         "id": "a69ed4cc-79fe-4997-8d07-6ee6cb3a3ffe",
         "title": "IC Design Verification Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -200103,7 +200103,7 @@
         "company_name": "NXP Semiconductors",
         "id": "15bf7fec-a332-4ac0-859b-572ac5a78f3f",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -200246,7 +200246,7 @@
         "company_name": "Lake Michigan Credit Union",
         "id": "075a3256-c169-4ec2-8cf6-5ae0dd39129f",
         "title": "Retail Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -200806,6 +200806,406 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "f72948bc-7bce-4d19-8254-6441ae710738",
+        "title": "Applied AI Research Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1751332286,
+        "date_posted": 1751332286,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Applied-AI-Research-Engineering-Intern---Fall-2025_JR1994353-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1751336913,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-dveloppement-logiciels_25WD89784",
+        "company_name": "Autodesk",
+        "title": "Intern, Software Developer",
+        "locations": [
+            "Montreal, Quebec, Canada"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "f85f1657-3d74-42d5-baae-51504f16a958",
+        "date_posted": 1751336913,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Intermountain Healthcare",
+        "id": "c7556257-497f-4383-b4ef-de4131f87587",
+        "title": "Investment Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1751350322,
+        "date_posted": 1751350322,
+        "url": "https://imh.wd5.myworkdayjobs.com/en-US/IntermountainCareers/job/Key-Bank-Tower/Investment-Analyst-Intern_R143833",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/be06ebc5-6942-48ad-b691-821e84f30f2b",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Boston Consulting Group",
+        "id": "502917c2-1890-4d56-9c5c-ac941efd78f2",
+        "title": "Data Scientist \u2013 Internship - Bcg X",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1751363473,
+        "date_posted": 1740183844,
+        "url": "https://careers.bcg.com/global/en/job/52455",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Photon",
+        "id": "ccccf704-6e34-425e-91e9-8c440cf17bc2",
+        "title": "Data & AI/GenAI Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1751384962,
+        "date_posted": 1751384962,
+        "url": "https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs/job/22319",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Photon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "0d20db7c-197a-4ec4-91c2-a72684374d51",
+        "title": "Software Engineer \u2013 Internship - Production Infrastructure",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1751385393,
+        "date_posted": 1751385393,
+        "url": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "33da215d-313a-45b7-8ad3-bde21b250ffe",
+        "title": "Software Engineer \u2013 Internship - Production Infrastructure",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1751385394,
+        "date_posted": 1751385394,
+        "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1/apply",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "9f078de1-afbf-46ec-a41a-9ed1bd030aa0",
+        "title": "Software Engineer \u2013 Internship - Infrastructure",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1751385394,
+        "date_posted": 1751385394,
+        "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Copart",
+        "id": "4b139772-f40a-4ef0-8867-51cd943508bc",
+        "title": "Technology Product Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1751385126,
+        "date_posted": 1751385126,
+        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR102880",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Copart",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Emerson Electric",
+        "id": "969f8d93-12b4-4ab6-8e8f-14b8bce2e1ba",
+        "title": "Software Development Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1751386496,
+        "date_posted": 1751386496,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25019232",
+        "locations": [
+            "Elyria, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Emerson-Electric",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "e7d57dde-ac35-4ece-a3d0-24ac4d340100",
+        "title": "Performance Engineer Intern - Gaming",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1751407901,
+        "date_posted": 1751407901,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-MO-St-Louis/Performance-Engineer-Intern--Gaming---Winter-Spring-2026_JR1999627",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "eed44008-bc56-4a68-9f65-0b98b4876804",
+        "title": "Forward Deployed Software Engineer \u2013 Internship - Commercial",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1751408754,
+        "date_posted": 1751408754,
+        "url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IMC Trading",
+        "id": "474c034c-cd47-45e2-b198-16e369a72b43",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1751410418,
+        "date_posted": 1751410418,
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4580810101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/IMC-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "IMC Trading",
+        "id": "6d2c19bd-5399-4a49-9aab-a4739ec8b1fd",
+        "title": "Quantitative Research Intern - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1751410406,
+        "date_posted": 1751410406,
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4580808101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/IMC-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "IMC Trading",
+        "id": "58423c76-0d80-435f-b226-e29ee7fa5bf1",
+        "title": "Quantitative Trader Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1751410404,
+        "date_posted": 1751410404,
+        "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4580757101",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/IMC-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Optiver",
+        "id": "67fab9f0-d34b-435f-8628-b12ac686e5bf",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1751413872,
+        "date_posted": 1751413872,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/7973726002/?gh_jid=7973726002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Optiver",
+        "id": "698028cf-ad57-4094-a53f-fb81d4de84dd",
+        "title": "Quantitative Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1751413848,
+        "date_posted": 1751413848,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/8033071002/?gh_jid=8033071002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Optiver",
+        "id": "2a8f1824-8b7c-4491-88fb-60819e4ec7a9",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1751413871,
+        "date_posted": 1751413871,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/7973725002/?gh_jid=7973725002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Optiver",
+        "id": "6cbfb9d7-2cb3-4bea-b7fc-9fb098768854",
+        "title": "Quantitative Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1751413850,
+        "date_posted": 1751413850,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/7967593002/?gh_jid=7967593002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Optiver",
+        "id": "2a1f8c37-115f-45dd-88d6-8d6be5708688",
+        "title": "Quantitative Trader Intern - Summer 2026",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1751413847,
+        "date_posted": 1751413847,
+        "url": "https://optiver.com/working-at-optiver/career-opportunities/7832160002/?gh_jid=7832160002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Optiver",
         "is_visible": true,
         "sponsorship": "Other"
     }
