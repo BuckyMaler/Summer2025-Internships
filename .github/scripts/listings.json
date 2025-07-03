@@ -2299,7 +2299,7 @@
         "company_name": "Squarepoint Capital",
         "id": "2c334a12-438c-49bb-8cf8-53a3ebc22b33",
         "title": "Intern Quant Researcher",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -6871,7 +6871,7 @@
         "company_name": "Ramp",
         "id": "1dd3a459-5bdd-40c2-b78a-a2483ed064a9",
         "title": "Software Engineer Internship - Frontend",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -182518,7 +182518,7 @@
         "company_name": "Nokia",
         "id": "f5b80c6b-4bf4-4550-9431-8cd7cccb293a",
         "title": "Software Designer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -184242,7 +184242,7 @@
         "company_name": "Scale AI",
         "id": "f56fa945-fa86-40ee-99bf-6ac7bde48751",
         "title": "Technical Advisor Intern - GenAI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -190626,7 +190626,7 @@
         "company_name": "Unisys",
         "id": "c53ebde2-c99f-48eb-a414-b2f1714f5260",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746394346,
         "date_posted": 1746394346,
@@ -190644,7 +190644,7 @@
         "company_name": "Unisys",
         "id": "7dbb3cee-67bc-4a70-a44e-f7fe074afe3d",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746394509,
         "date_posted": 1746394509,
@@ -196171,7 +196171,7 @@
         "company_name": "Plusgrade",
         "id": "bcc6fb7a-aaf0-4271-941d-654369d18111",
         "title": "Int\u00e9grateur Web \u2013 Intern - Stagiaire/Web Integrator",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -196191,7 +196191,7 @@
         "company_name": "Cubic",
         "id": "36d8208d-4228-407a-8e54-8d04e3cb834c",
         "title": "Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -196674,7 +196674,7 @@
         "company_name": "Boston Consulting Group",
         "id": "a6728b9c-aa5b-4b52-a197-7a4d715d6d1d",
         "title": "Female Talent Internship - BCG Platinion",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -197566,7 +197566,7 @@
         "company_name": "EVgo",
         "id": "dbd7effd-d8bf-4459-aa78-a8a3a71ecd8e",
         "title": "Intern \u2013 Hardware Compliance",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -199861,7 +199861,7 @@
         "company_name": "Ciena",
         "id": "67db3d5f-60cf-4230-90f6-63842dc9dc2e",
         "title": "Waveserver Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -200083,7 +200083,7 @@
         "company_name": "NXP Semiconductors",
         "id": "a69ed4cc-79fe-4997-8d07-6ee6cb3a3ffe",
         "title": "IC Design Verification Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -200267,7 +200267,7 @@
         "company_name": "Intel",
         "id": "c952ebdc-f100-4c84-ab5d-d92d5d2a15e1",
         "title": "Discrete Graphics Validation Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -200694,7 +200694,7 @@
         "company_name": "Autodesk",
         "id": "174fcbf1-a27d-414e-9ae7-3f510af30546",
         "title": "Intern \u2013 Software Developer/ Stagiaire en d\u00e9veloppement logiciels",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -201206,6 +201206,107 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Optiver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "40ce21dd-c6e2-4ced-bb9a-9a3d66073375",
+        "title": "Software Development Coop",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1751422796,
+        "date_posted": 1751422796,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22475",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Baker Hughes",
+        "id": "4441032c-502a-491b-a4e9-ae5bdc5a3f39",
+        "title": "Data Analyst Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1751455384,
+        "date_posted": 1750783628,
+        "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/Data-Analyst-Apprentice_R150612-1",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Baker-Hughes",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Altera Corporation",
+        "id": "19f0a0c7-14d4-4b86-a515-05f0e1690d15",
+        "title": "Embedded Solutions Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1751421756,
+        "date_posted": 1751421756,
+        "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Embedded-Solutions-Intern_R00904",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Altera-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "72c96fbc-f8cd-4977-9bf9-93929c6e2ac8",
+        "title": "Intern \u2013 Software Developer/ Stagiaire en d\u00e9veloppement logiciels",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1751494892,
+        "date_posted": 1751494892,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-dveloppement-logiciels_25WD89817",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "0bb01ae4-945e-4186-8ae4-50d75040979b",
+        "title": "Intern \u2013 Software Developer",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1751494890,
+        "date_posted": 1751494890,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Montreal-QC-CAN/Intern--Software-Developer_25WD89837-2",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
         "is_visible": true,
         "sponsorship": "Other"
     }
