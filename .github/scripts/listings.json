@@ -2704,26 +2704,6 @@
             "Chicago, IL",
             "NYC"
         ],
-        "title": "Software Engineer Intern",
-        "date_posted": 1687752000,
-        "terms": [
-            "Summer 2024"
-        ],
-        "active": true,
-        "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
-        "is_visible": true,
-        "source": "Markdown",
-        "company_url": "",
-        "date_updated": 1690430400,
-        "id": "dae21132-8561-4726-913c-e9ee1e84fa64",
-        "sponsorship": "Offers Sponsorship"
-    },
-    {
-        "company_name": "Citadel",
-        "locations": [
-            "Chicago, IL",
-            "NYC"
-        ],
         "title": "Investment & Trading Intern",
         "date_posted": 1687752000,
         "terms": [
@@ -88625,27 +88605,6 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1719957186,
-        "url": "https://www.citadel.com/careers/details/software-engineer-2025-intern-us-2/",
-        "company_name": "Citadel",
-        "title": "Software Engineer Intern",
-        "locations": [
-            "Chicago, IL",
-            "Miami, FL",
-            "New York, NY"
-        ],
-        "terms": [
-            "Summer 2025"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "reddoy",
-        "id": "96557b32-06eb-4f75-ae7b-6ee2b929a91e",
-        "date_posted": 1719957186,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "company_name": "Autodesk",
         "id": "5bf2ae8b-bd46-48c0-9640-1f55107c0055",
@@ -103771,7 +103730,7 @@
         "company_name": "Clio",
         "id": "23548c7d-01ff-437f-ae9c-07e51f4c86b4",
         "title": "Software Developer \u2013 Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -187230,7 +187189,7 @@
         "company_name": "Lumentum",
         "id": "75f8b830-c76d-49a4-b4c4-b5def108873b",
         "title": "Embedded Software Engineer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Spring 2026"
@@ -188626,7 +188585,7 @@
         "company_name": "Ciena",
         "id": "d915f4ef-4db1-47ef-87d9-3b127853cad4",
         "title": "Verification Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -190301,7 +190260,7 @@
         "company_name": "United Parcel Service (UPS)",
         "id": "76bda405-4e07-4ea5-bec1-03c52b7443ed",
         "title": "ISM Co-op",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746225896,
         "date_posted": 1746225896,
@@ -191634,7 +191593,7 @@
         "company_name": "Ciena",
         "id": "26c37137-6d91-4cf0-bc9a-9c6432de9112",
         "title": "Wavelogic Modem HW Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -198235,7 +198194,7 @@
         "company_name": "United Parcel Service (UPS)",
         "id": "8d574959-501d-4917-9a26-884149db7bda",
         "title": "ISM Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -200000,7 +199959,7 @@
         "company_name": "Sensata",
         "id": "2d55b0c5-b733-42e8-a3b0-12bcdfd6fe55",
         "title": "Intern MSD Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -200389,7 +200348,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "f308d5cf-2992-4340-8e36-4a1ca0ea941e",
         "title": "Anyware Endpoints Coop - C++ Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -200429,7 +200388,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "438e8566-3e8e-49c7-aeb0-a5b3a546ffc9",
         "title": "Associate Software Developer \u2013 Co-op position - HP Anyware Endpoints C++ Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -200916,7 +200875,7 @@
         "title": "Software Engineer \u2013 Internship - Production Infrastructure",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
         "date_updated": 1751385393,
         "date_posted": 1751385393,
@@ -200936,7 +200895,7 @@
         "title": "Software Engineer \u2013 Internship - Production Infrastructure",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
         "date_updated": 1751385394,
         "date_posted": 1751385394,
@@ -200956,7 +200915,7 @@
         "title": "Software Engineer \u2013 Internship - Infrastructure",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
         "date_updated": 1751385394,
         "date_posted": 1751385394,
@@ -201037,7 +200996,7 @@
         "title": "Forward Deployed Software Engineer \u2013 Internship - Commercial",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
         "date_updated": 1751408754,
         "date_posted": 1751408754,
@@ -201236,7 +201195,7 @@
         "company_name": "Baker Hughes",
         "id": "4441032c-502a-491b-a4e9-ae5bdc5a3f39",
         "title": "Data Analyst Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -201307,6 +201266,128 @@
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Exact Sciences",
+        "id": "235b89d0-c8e2-4c95-9f0d-a99a2d763a39",
+        "title": "Data Science Internship",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1751568261,
+        "date_posted": 1751568261,
+        "url": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Data-Science-Internship_R25-10166",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Exact-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hearst",
+        "id": "c6308d04-5ca6-4573-8553-fcdc2eeb99e8",
+        "title": "Intern \u2013 Governance - Risk & Compliance",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1751571792,
+        "date_posted": 1751571792,
+        "url": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/2024196",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Hearst",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EVgo",
+        "id": "24b1fd12-a786-4d02-a61c-fbe07beec087",
+        "title": "Intern \u2013 Hardware Compliance",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1751574839,
+        "date_posted": 1751574839,
+        "url": "https://jobs.jobvite.com/evgo/job/oHMtwfwc?nl=1&nl=1&fr=false",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/EVgo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1751577637,
+        "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+        "company_name": "Citadel",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Miami, FL",
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Fall 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "samyakjain-1",
+        "id": "4de80cf2-26de-45b4-9402-7aba6d75f267",
+        "date_posted": 1751577264,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lendbuzz",
+        "id": "980fbaf2-ceb5-4abd-9aa8-40665ba0bf28",
+        "title": "Co-op \u2013 Machine Learning Engineer - Portuguese / Spanish",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1751565423,
+        "date_posted": 1751565423,
+        "url": "https://jobs.lever.co/lendbuzz/6bb63a53-e038-40a4-aaaf-38f3825ff893/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lendbuzz",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sutter Health",
+        "id": "2de4067b-8a73-4bd1-bfa3-c4f731119599",
+        "title": "Data Analytics & AI Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1751586744,
+        "date_posted": 1751586744,
+        "url": "https://wd1.myworkdaysite.com/recruiting/sutterhealth/SH/job/Sacramento/Data-Analytics---AI-Intern_R-105618",
+        "locations": [
+            "Sacramento, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sutter-Health",
         "is_visible": true,
         "sponsorship": "Other"
     }
