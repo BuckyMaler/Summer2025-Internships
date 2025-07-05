@@ -179214,7 +179214,7 @@
         "company_name": "Lumentum",
         "id": "11ea446a-9aaf-4366-a316-5df86a21b3c5",
         "title": "Optical Algorithms & Analytics Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2026",
@@ -187629,7 +187629,7 @@
         "company_name": "Nokia",
         "id": "2be6c863-30ff-4c73-8422-52b95b5d009b",
         "title": "Automation Engineer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1745519065,
         "date_posted": 1745519065,
@@ -189092,7 +189092,7 @@
         "company_name": "Nokia",
         "id": "72308833-334c-46e0-b990-cb78a75c635c",
         "title": "AI Agent Developer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -190796,7 +190796,7 @@
         "company_name": "Nokia",
         "id": "71177361-4df4-4c8f-ab38-ffee6d3669b3",
         "title": "DSP Firmware Engineering Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -192253,7 +192253,7 @@
         "company_name": "Comcast",
         "id": "7c30f87c-a844-4404-ad91-7dd95002ac07",
         "title": "Comcast Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Spring 2026"
@@ -197670,7 +197670,7 @@
         "company_name": "Kabam",
         "id": "12aad2ba-176f-4115-8e62-1ad5f89c9b91",
         "title": "Backend Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -200532,7 +200532,7 @@
         "company_name": "Motorola",
         "id": "2b02a608-ae8b-45e5-a224-5baee594dfc6",
         "title": "Audio Software Engineer Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -200633,7 +200633,7 @@
         "company_name": "Ciena",
         "id": "95abbac3-16e0-458d-83a4-ff86a0991176",
         "title": "Waveserver Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -201195,7 +201195,7 @@
         "company_name": "Baker Hughes",
         "id": "4441032c-502a-491b-a4e9-ae5bdc5a3f39",
         "title": "Data Analyst Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -201388,6 +201388,107 @@
             "Sacramento, CA"
         ],
         "company_url": "https://simplify.jobs/c/Sutter-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Genesis Therapeutics",
+        "id": "e1cbd2ba-9d78-48ba-8352-2e1ee615cdc5",
+        "title": "ML Research Intern - BS/MS",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1751587894,
+        "date_posted": 1751587894,
+        "url": "https://jobs.lever.co/genesistherapeutics/1d5735dd-285d-4d24-aa01-67072c41395f/apply",
+        "locations": [
+            "Burlingame, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Genesis-Thera",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "e5d09b9b-d149-4b31-b702-af8c1b5f952f",
+        "title": "Backend Software Engineer Intern - Product RD and Infrastructure-Global E-Commerce Content",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1751596980,
+        "date_posted": 1751596980,
+        "url": "https://jobs.bytedance.com/en/position/7522742153819670792/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/3f74d8b1-5d66-4d3b-b4b2-52ec6c78afc3",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Midmark ",
+        "id": "e45b7992-b7ef-4846-b4ff-ecf6b47e5de3",
+        "title": "Firmware Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1751623133,
+        "date_posted": 1751623133,
+        "url": "https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/3288",
+        "locations": [
+            "Vandalia, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Midmark",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Manulife",
+        "id": "da60e4fe-81b3-4395-a290-0a95a0d7847d",
+        "title": "Backend Developer Co-op",
+        "active": false,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1751646144,
+        "date_posted": 1751646144,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_AdminJobs/job/Waterloo-Ontario/Backend-Developer-Co-op---Fall-2025_JR25070088",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kyndryl Holdings",
+        "id": "78fdd74f-5109-4eb3-9a57-89a24977d774",
+        "title": "Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1751667414,
+        "date_posted": 1751667414,
+        "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Toronto-KCA51701-HQ/Data-Scientist-Intern_R-44656-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kyndryl-Holdings",
         "is_visible": true,
         "sponsorship": "Other"
     }
