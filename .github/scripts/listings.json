@@ -194930,7 +194930,7 @@
         "company_name": "FOX",
         "id": "817544e3-8e5a-434f-b199-daaac9a40815",
         "title": "Fall 2025 FOX News Media Internship Program - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -195050,7 +195050,7 @@
         "company_name": "FOX",
         "id": "948359c4-4373-42f8-96b1-ed76f929329e",
         "title": "Fall 2025 FOX Tech Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -200449,7 +200449,7 @@
         "company_name": "ShyftLabs",
         "id": "a113c3f0-cd41-4da1-80b9-ca7291d12918",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
