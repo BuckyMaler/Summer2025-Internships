@@ -88012,7 +88012,7 @@
         "company_name": "Kargo",
         "id": "8b6fb24e-d7ce-444e-a6a0-d5f82e59d4d2",
         "title": "Backend Software Engineer \u2013 Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -169639,7 +169639,7 @@
         "company_name": "GE Aerospace",
         "id": "13e7baef-caae-4048-b9d1-98940c64a36f",
         "title": "Engineering Engines Intern - Computer or Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -169659,7 +169659,7 @@
         "company_name": "GE Aerospace",
         "id": "821d6aa3-adc3-4c89-8355-f2820dacd8fa",
         "title": "Engineering Engines Co-op - Computer or Software Engineering - Returning Students",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -169679,7 +169679,7 @@
         "company_name": "GE Aerospace",
         "id": "428a9796-35b6-495d-89bf-101a1f45ef19",
         "title": "Digital Technology Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -169699,7 +169699,7 @@
         "company_name": "GE Aerospace",
         "id": "23a6a187-d8d4-4014-97bd-e1c3ba5a5182",
         "title": "Digital Technology Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -176453,7 +176453,7 @@
         "company_name": "GE Aerospace",
         "id": "8bf72298-c5e4-44f3-860f-bc30c99704b9",
         "title": "Digital Technology Intern - Returning Students",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -186612,7 +186612,7 @@
         "company_name": "NVIDIA",
         "id": "ad8e8d89-0caa-4097-b989-e1135451f287",
         "title": "Software Engineering Intern - Simulation and Virtualization",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -195399,7 +195399,7 @@
         "company_name": "Nokia",
         "id": "108d85b6-6e1f-4ccb-ab24-fa7f55043c45",
         "title": "Software Developer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -196679,7 +196679,7 @@
         "company_name": "Bombora",
         "id": "18be1d80-6f2c-4cc3-846b-223ba1e2b889",
         "title": "Business Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -199463,7 +199463,7 @@
         "company_name": "EUNA Solutions",
         "id": "de022074-ecd5-4796-90ae-be0a39bdb803",
         "title": "Software Developer Co-Op - Procurement",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -199699,7 +199699,7 @@
         "company_name": "IPG DXTRA",
         "id": "b7892ba6-6fe2-49a3-b781-0a46d8c18c8a",
         "title": "AI & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -199800,7 +199800,7 @@
         "company_name": "Konrad Group",
         "id": "6edde419-ebe5-443f-a8f4-22493112af20",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -200246,7 +200246,7 @@
         "company_name": "NVIDIA",
         "id": "c9c16ae8-003e-46ef-b527-f022f6e50a3d",
         "title": "Geforce Technical Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -200469,7 +200469,7 @@
         "company_name": "Booz Allen",
         "id": "65fb58e9-e6fb-4b6f-8ad4-24d663589b90",
         "title": "University \u2013 Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2026"
@@ -200552,7 +200552,7 @@
         "company_name": "Harris Computer",
         "id": "ac739ea1-278a-4ba5-ac40-a6c84a0565d0",
         "title": "Co-op Data Integration Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Winter 2026"
@@ -201195,7 +201195,7 @@
         "company_name": "Baker Hughes",
         "id": "4441032c-502a-491b-a4e9-ae5bdc5a3f39",
         "title": "Data Analyst Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -201478,7 +201478,7 @@
         "company_name": "Kyndryl Holdings",
         "id": "78fdd74f-5109-4eb3-9a57-89a24977d774",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -201523,16 +201523,15 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1751903281,
+        "date_updated": 1752005019,
         "date_posted": 1751903281,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Internship-Program---Summer-2026_R219617-1",
         "locations": [
-            "Plano, TX",
-            "McLean, VA"
+            "Plano, TX McLean, VA"
         ],
         "company_url": "https://simplify.jobs/c/Capital-One",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -201741,5 +201740,105 @@
         "date_posted": 1751933358,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "McKinney",
+        "id": "c1594392-5219-4bdb-9f4c-6bbfe93e804e",
+        "title": "Intern \u2013 Data",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1751940395,
+        "date_posted": 1751940395,
+        "url": "https://job-boards.greenhouse.io/jobsmckinneycom/jobs/7009226",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/McKinney",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "iSono Health",
+        "id": "11e59e53-7009-4f00-9efa-175b35ee840f",
+        "title": "Software Engineering Intern (Internship)",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1751927942,
+        "date_posted": 1751927942,
+        "url": "https://ats.rippling.com/isonohealth/jobs/67372c25-f4fb-4d38-8aae-6df5d74e5467",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Isono-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Konrad Group",
+        "id": "65b98a97-b4aa-4f2e-9ba3-fbee621f7d49",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1751990375,
+        "date_posted": 1751990375,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6642169003",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Konrad-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AI Fund",
+        "id": "81d8a59b-a98f-450e-97f9-ceab7705fd6d",
+        "title": "Full-Stack Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752017239,
+        "date_posted": 1752017239,
+        "url": "https://jobs.lever.co/AIFund/08af7df2-3085-4d7b-ad74-10767e2d93db/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/AI-Fund",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Teledyne",
+        "id": "c52ebf0d-ea73-466c-b7b8-0eb651c0c4ac",
+        "title": "Summer Intern - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1752018531,
+        "date_posted": 1752018531,
+        "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Elgin-IL/Summer-Intern---Software-Engineer_REQ30137",
+        "locations": [
+            "Elgin, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
