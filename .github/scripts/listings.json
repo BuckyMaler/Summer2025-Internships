@@ -2712,10 +2712,10 @@
         "active": true,
         "url": "https://www.citadel.com/careers/details/investment-trading-intern-us/",
         "is_visible": true,
-        "source": "Markdown",
+        "source": "Simplify",
         "company_url": "",
         "date_updated": 1690430400,
-        "id": "aa5bc2f2-bbe5-4586-a880-a77b0052c6cf",
+        "id": "beb99fbc-738a-43b1-8d25-622cefe54316",
         "sponsorship": "Offers Sponsorship"
     },
     {
@@ -169426,7 +169426,7 @@
         "company_name": "Gesture",
         "id": "14692d90-caf8-4769-8e56-061c79b316a0",
         "title": "Data Marketing Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -169700,7 +169700,7 @@
         "company_name": "GE Aerospace",
         "id": "0fba8338-ebe0-4c46-92cd-3a95ce3bdc3c",
         "title": "Engineering Engines Co-op - Computer or Software Engineering - Returning Students",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -184143,7 +184143,7 @@
         "company_name": "Nokia",
         "id": "86a88727-7566-4fd8-907c-c4b2feb4a77f",
         "title": "Customer Applications Eng Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -187323,7 +187323,7 @@
         "company_name": "Nokia",
         "id": "b90c25ce-d478-4208-b03d-3ba75dc4fe48",
         "title": "NW Automation Practice Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -188786,7 +188786,7 @@
         "company_name": "Nokia",
         "id": "7c9b66b5-cd3b-4fbb-a5e5-5b6f8063411f",
         "title": "Next-Gen AI Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -189596,7 +189596,7 @@
         "company_name": "Nokia",
         "id": "4becd22d-1031-4c5d-a42c-3fe19ede0057",
         "title": "NPI Lab Support Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -190757,7 +190757,7 @@
         "company_name": "Nokia",
         "id": "f0cb3639-6dc7-4a9f-9eeb-e3f0abc14d27",
         "title": "Embedded C/C++ SW Developer Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -199919,7 +199919,7 @@
         "company_name": "Target",
         "id": "d97b9f55-f5e7-4a36-8ae7-dace031003de",
         "title": "Technology Leadership Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -199959,7 +199959,7 @@
         "company_name": "KBR",
         "id": "6dbfd0c3-ef9b-4461-8b00-609576f7af35",
         "title": "Software Application Developer Intern for GOES-R Series Satellites",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -200307,7 +200307,7 @@
         "company_name": "J. D. Heiskell & Companies",
         "id": "bcc9dea0-3ce1-4d4e-8176-d5075d7e6069",
         "title": "Export Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Winter 2025"
@@ -200409,7 +200409,7 @@
         "company_name": "Copart",
         "id": "d82092cd-8c74-4392-a1ae-78a5c073c8cb",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -201324,8 +201324,8 @@
         ],
         "sponsorship": "Other",
         "active": true,
-        "source": "samyakjain-1",
-        "id": "4de80cf2-26de-45b4-9402-7aba6d75f267",
+        "source": "Simplify",
+        "id": "28286b52-4c99-4d00-a870-d919c13d68c6",
         "date_posted": 1751577264,
         "company_url": "",
         "is_visible": true
@@ -202266,8 +202266,8 @@
         "active": true,
         "company_name": "Citadel Securities",
         "title": "Trading Fundamental Analyst Intern",
-        "source": "AlmondCroffle",
-        "id": "0f3dc91f-8234-4cdf-9bbb-c2b7ddc7c512",
+        "source": "Simplify",
+        "id": "9cdfa6eb-02ea-42c8-9c5c-df6f3c50b215",
         "date_posted": 1751938726,
         "company_url": "",
         "is_visible": true,
@@ -202626,8 +202626,8 @@
         "active": true,
         "company_name": "Citadel Securities",
         "title": "Software Engineer Intern",
-        "source": "AlmondCroffle",
-        "id": "c815b980-04e3-475c-978b-48a59c3e91a1",
+        "source": "Simplify",
+        "id": "c76dbe61-c0f6-47a8-b05e-b219b4e28fb7",
         "date_posted": 1751938726,
         "company_url": "",
         "is_visible": true,
@@ -202646,8 +202646,8 @@
         "active": true,
         "company_name": "Citadel Securities",
         "title": "Quantitative Trading Intern",
-        "source": "AlmondCroffle",
-        "id": "f39fb519-e50a-45c3-90b7-f9d6744ded6f",
+        "source": "Simplify",
+        "id": "4bea6abc-61ee-4c08-98aa-d9cd4e4450f2",
         "date_posted": 1751938726,
         "company_url": "",
         "is_visible": true,
@@ -202666,8 +202666,8 @@
         "active": true,
         "company_name": "Citadel Securities",
         "title": "FPGA Engineer Intern",
-        "source": "AlmondCroffle",
-        "id": "ff5a213a-4ccf-4290-a22c-bd1c867b51fc",
+        "source": "Simplify",
+        "id": "d4041518-dc22-4f01-96d9-aa0030510fd8",
         "date_posted": 1751938726,
         "company_url": "",
         "is_visible": true,
@@ -202686,8 +202686,8 @@
         "active": true,
         "company_name": "Citadel Securities",
         "title": "Quantitative Research Analyst Intern",
-        "source": "AlmondCroffle",
-        "id": "05b6a7be-ba62-4ede-91c0-d05b6dfe4315",
+        "source": "Simplify",
+        "id": "1351d97b-ce83-4efb-9f80-d78871c99cd9",
         "date_posted": 1751938726,
         "company_url": "",
         "is_visible": true,
@@ -202706,8 +202706,8 @@
         "active": true,
         "company_name": "Citadel Securities",
         "title": "Launch Intern",
-        "source": "AlmondCroffle",
-        "id": "76fcaaf0-d088-46cc-a862-dfb9aee93242",
+        "source": "Simplify",
+        "id": "474d5ebf-573a-4c91-8139-028d5352cdea",
         "date_posted": 1751938726,
         "company_url": "",
         "is_visible": true,
@@ -202725,8 +202725,8 @@
         "active": true,
         "company_name": "Citadel Securities",
         "title": "Designated Market Maker (DMM) Trading Intern",
-        "source": "AlmondCroffle",
-        "id": "fb07b7f4-e494-4215-a7c9-af8a53808322",
+        "source": "Simplify",
+        "id": "77c50183-6d12-4e5e-b96d-a938345fb1bd",
         "date_posted": 1751938726,
         "company_url": "",
         "is_visible": true,
@@ -202746,8 +202746,8 @@
         "active": true,
         "company_name": "Citadel",
         "title": "Quantitative Research Analyst Intern",
-        "source": "AlmondCroffle",
-        "id": "22495547-5db5-4eac-97ae-3095ac2bbeeb",
+        "source": "Simplify",
+        "id": "3773a013-3865-41fd-ae0d-5b66938ff357",
         "date_posted": 1751938726,
         "company_url": "",
         "is_visible": true,
@@ -203135,7 +203135,7 @@
         "company_name": "Hello Fresh",
         "id": "c8ba022c-aec8-402c-b5d5-ce9685b7a004",
         "title": "Intern \u2013 Executive Analytics & Tools",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -203217,7 +203217,7 @@
         "company_name": "NorthAB, LLC",
         "id": "217aabfe-36e7-4e28-adcd-c2fe55a7219b",
         "title": "Product Engineering Intern/Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -203626,6 +203626,211 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Citadel",
+        "id": "c2dcf460-4447-4356-89b3-714d402716a0",
+        "title": "Launch Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752196373,
+        "date_posted": 1752196373,
+        "url": "https://www.citadel.com/careers/details/launch-intern-us/",
+        "locations": [
+            "Miami, FL",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel Securities",
+        "id": "b977109a-8e8c-4173-a584-460e709a733f",
+        "title": "Quantitative Research Analyst Intern - BS/MS",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752196368,
+        "date_posted": 1752196368,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/",
+        "locations": [
+            "London, UK",
+            "Paris, France"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel",
+        "id": "3781fd12-0d4b-4e6f-a890-013b3381c856",
+        "title": "Quantitative Research Analyst Intern - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1752196367,
+        "date_posted": 1752196367,
+        "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/",
+        "locations": [
+            "London, UK",
+            "Paris, France"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel Securities",
+        "id": "16352480-c9f0-45d4-9945-7ce4aba872fd",
+        "title": "Credit & Rates Rotational Trading Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752196390,
+        "date_posted": 1752196390,
+        "url": "https://www.citadelsecurities.com/careers/details/credit-rates-rotational-trading-intern-us/",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Live Nation Entertainment",
+        "id": "b8c55504-664c-4575-83d1-b2ac50115a75",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752204798,
+        "date_posted": 1752204798,
+        "url": "https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/Work-From-Home---California/Software-Engineering-Intern_JR-81523",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Base Power",
+        "id": "84fb9450-6a32-4ad5-8c4a-2cbeb07ad086",
+        "title": "Hardware Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752214119,
+        "date_posted": 1752214119,
+        "url": "https://job-boards.greenhouse.io/basepowercompany/jobs/4423268008",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Base-Power",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Base Power",
+        "id": "8204aabf-4c8d-40fb-9923-d0c0b186732b",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752214119,
+        "date_posted": 1752214119,
+        "url": "https://job-boards.greenhouse.io/basepowercompany/jobs/4474391008",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Base-Power",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "ac2977ee-d3b6-42cf-a58c-351df28acdc4",
+        "title": "Intern Software Developer - Stagiaire en D\u00e9veloppement Logiciel",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752274576,
+        "date_posted": 1752274576,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_25WD90219-2",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/9a5a4634-d168-4118-b172-0c0aae45f2ad",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zeiss",
+        "id": "63cc4d2d-7397-4d65-af7b-a442760b16ff",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752278319,
+        "date_posted": 1752278319,
+        "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Dublin-CA/Software-Engineering-Intern_JR_1042752",
+        "locations": [
+            "Dublin, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zeiss",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "cd929e1b-b53a-41da-bb0e-978fa0a580e8",
+        "title": "University \u2013 Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Summer 2026"
+        ],
+        "date_updated": 1752277837,
+        "date_posted": 1752277837,
+        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Systems-Engineer-Intern_R0222302",
+        "locations": [
+            "Fayetteville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
         "is_visible": true,
         "sponsorship": "Other"
     }
