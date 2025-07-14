@@ -203257,7 +203257,7 @@
         "company_name": "Moog Inc",
         "id": "0d92def8-6e17-4dfa-b5fc-31acbbd2485f",
         "title": "Intern \u2013 Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -203595,7 +203595,7 @@
         "company_name": "Altera Corporation",
         "id": "2cacb2ef-372d-4678-a272-55b9883ce113",
         "title": "Software Engineer \u2013 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
