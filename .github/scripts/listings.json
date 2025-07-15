@@ -194242,7 +194242,7 @@
         "company_name": "Amgen",
         "id": "ce4bd948-2c14-46f1-a057-d5875bcd7e9a",
         "title": "Undergraduate / Graduate Co-op Student - Software Engineer - Large Molecule Discovery - Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Spring 2026"
@@ -197425,7 +197425,7 @@
         "company_name": "Penumbra Inc",
         "id": "488f9849-d9f6-43f8-8958-0972546516ae",
         "title": "Data Science Engineer Intern T",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -199083,7 +199083,7 @@
         "company_name": "Hootsuite",
         "id": "5c1956c7-7c56-4d30-9881-59df7ae1c592",
         "title": "Co-op/Intern - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -200674,7 +200674,7 @@
         "company_name": "TabaPay",
         "id": "244d9bb1-e065-40bf-8e13-85ae5a4e319c",
         "title": "Data Analyst \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -201215,7 +201215,7 @@
         "company_name": "Autodesk",
         "id": "72c96fbc-f8cd-4977-9bf9-93929c6e2ac8",
         "title": "Intern \u2013 Software Developer/ Stagiaire en d\u00e9veloppement logiciels",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -201477,7 +201477,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "a8539137-0cf4-4e26-b72a-c8e777820850",
         "title": "Intern \u2013 Investments - Total Fund Management - Global Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -201619,7 +201619,7 @@
         "id": "33ff25a9-0363-4486-acfd-48422c94be84",
         "title": "ERP Internship: Rising Senior Technology",
         "category": "AI/ML/Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -201684,7 +201684,7 @@
         "company_name": "Mosaic",
         "id": "add58d0d-03e1-4be9-b1b3-8157951776ea",
         "title": "Data Analyst Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026"
@@ -203819,7 +203819,7 @@
         "company_name": "Booz Allen",
         "id": "cd929e1b-b53a-41da-bb0e-978fa0a580e8",
         "title": "University \u2013 Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Summer 2026"
@@ -203962,7 +203962,7 @@
         "company_name": "Fullscript",
         "id": "17297b33-3c3a-4843-ae91-5aaefe314533",
         "title": "Co-op/Intern Ruby Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -204057,6 +204057,220 @@
             "Charlotte, NC"
         ],
         "company_url": "https://simplify.jobs/c/043a00ac-6fd9-4afc-991a-4d845205ab9a",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Harris Computer",
+        "id": "ecebbe66-21e2-4603-a305-59a0bdc571a7",
+        "title": "Software Developer \u2013 Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752473641,
+        "date_posted": 1752473641,
+        "url": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Ontario-Canada/Software-Developer--Co-op-Intern_R0030937",
+        "locations": [
+            "Alberta, Canada",
+            "British Columbia, Canada",
+            "Ontario, Canada",
+            "NB, Canada",
+            "Charlottetown, PE, Canada",
+            "Nova Scotia, Canada",
+            "Manitoba, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/372c6250-89ed-4b8e-9000-a81fc94184d8",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Caterpillar Inc.",
+        "id": "598fd8eb-41e5-46a3-8c9c-754ae20faa07",
+        "title": "2026 Summer Corporate Intern - Digital and Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1752474311,
+        "date_posted": 1752474311,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/XMLNAME-2026-Summer-Corporate-Intern---Digital-and-Analytics_R0000313300",
+        "locations": [
+            "Peoria, IL",
+            "Chicago, IL",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BitGo",
+        "id": "78a181f0-a303-49e7-89cd-895a7ea2578d",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752477228,
+        "date_posted": 1752477228,
+        "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/7980795002",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BitGo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bot Auto",
+        "id": "10bbc2fa-793d-42f9-9480-37170b3af54d",
+        "title": "Full Stack Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752476895,
+        "date_posted": 1752476895,
+        "url": "https://job-boards.greenhouse.io/botauto/jobs/4797571008",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Bot-Auto",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "DRW",
+        "id": "1b59a6da-b31e-43cb-b8db-6b27bed2e95b",
+        "title": "Quantitative Research Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1752524915,
+        "date_posted": 1752524915,
+        "url": "https://job-boards.greenhouse.io/drweng/jobs/6987105",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/DRW",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "DRW",
+        "id": "a280fb88-977f-40b2-8db5-33676938c4b7",
+        "title": "CAMPUS RY26 Quantitative Trading Analyst Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2027"
+        ],
+        "date_updated": 1752524554,
+        "date_posted": 1752524554,
+        "url": "https://job-boards.greenhouse.io/drweng/jobs/6899911",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/DRW",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WGU",
+        "id": "efe3becb-c2ec-489d-9115-aa9b091adefa",
+        "title": "Associate Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752525939,
+        "date_posted": 1752525939,
+        "url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-Office/Associate-Software-Engineer-Intern_JR-022297",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/e05ef31f-f120-4063-adad-2b2fdde995cb",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DRW",
+        "id": "c7343fde-2dbc-478d-a4b2-9a1ab06f3b52",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1752525551,
+        "date_posted": 1752525551,
+        "url": "https://job-boards.greenhouse.io/drweng/jobs/6987115",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/DRW",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "TD Bank",
+        "id": "e27b0cea-cef9-4f52-ab5d-e8fc29dea87c",
+        "title": "Global Markets Intern/Co-op - Institutional FX Sales",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752527912,
+        "date_posted": 1752527912,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Global-Markets-Intern-Co-op---Institutional-FX-Sales---Montreal--Fall-2025-_R_1432147",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Curve Dental",
+        "id": "03f5eb46-608f-42b5-868d-d643e5598b1f",
+        "title": "Software Development Intern (Temporary)",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752535042,
+        "date_posted": 1752535042,
+        "url": "https://ats.rippling.com/curve-dental/jobs/b7f7de31-9b57-4235-b8f9-fe19dfabaf14",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Curve-Dental",
         "is_visible": true,
         "sponsorship": "Other"
     }
