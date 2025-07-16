@@ -112065,7 +112065,7 @@
         "company_name": "Kognitos",
         "id": "07f91406-4025-4590-b4dd-017ede99ce97",
         "title": "Software Engineer \u2013 Intern - Winter 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025"
         ],
@@ -135729,7 +135729,7 @@
         "company_name": "Skydio",
         "id": "8cb4e5ff-4d38-47a1-8377-bec886058322",
         "title": "Middleware Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -200102,7 +200102,7 @@
         "company_name": "Teledyne",
         "id": "ee092cd6-fe15-4c7e-96d0-4f21a8ecb942",
         "title": "Sdet \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -200122,7 +200122,7 @@
         "company_name": "Teledyne",
         "id": "ce985d6c-2510-4960-b4f7-37f22769e002",
         "title": "Sdet \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -200142,7 +200142,7 @@
         "company_name": "Teledyne",
         "id": "55792b63-1879-4792-b9f0-3950515ca814",
         "title": "Sdet \u2013 Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -200185,7 +200185,7 @@
         "company_name": "Lake Michigan Credit Union",
         "id": "075a3256-c169-4ec2-8cf6-5ae0dd39129f",
         "title": "Retail Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -200793,7 +200793,7 @@
         "company_name": "Intermountain Healthcare",
         "id": "c7556257-497f-4383-b4ef-de4131f87587",
         "title": "Investment Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -204114,7 +204114,7 @@
         "company_name": "BitGo",
         "id": "78a181f0-a303-49e7-89cd-895a7ea2578d",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -204273,5 +204273,515 @@
         "company_url": "https://simplify.jobs/c/Curve-Dental",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Clarity Innovations",
+        "id": "f00fed72-e40a-4faa-90a5-5542a89666b1",
+        "title": "Internship \u2013 Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752516717,
+        "date_posted": 1752516717,
+        "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/4776912007",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Clarity-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Bridgewater Associates",
+        "id": "a8440d30-9b5e-4550-b1e4-b7c7efb1f49d",
+        "title": "Investment Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752519199,
+        "date_posted": 1752519199,
+        "url": "https://job-boards.greenhouse.io/bwaltpostings/jobs/7950099002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Bridgewater-Associates",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Akuna Capital",
+        "id": "9bf45871-ab21-4adf-ad7e-fc57ca65fd8d",
+        "title": "Software Engineer Intern - Full Stack Web",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1752518401,
+        "date_posted": 1752518401,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=7060087",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Akuna Capital",
+        "id": "2156c922-ba8a-4f27-bd2a-50aaab6dfc8c",
+        "title": "Hardware Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1752518400,
+        "date_posted": 1752518400,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=6945855",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Akuna Capital",
+        "id": "533c5cbc-2c31-4f95-b3ee-c79ed5b904ce",
+        "title": "Software Engineer Intern - Python",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1752518405,
+        "date_posted": 1752518405,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=7055471",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Akuna Capital",
+        "id": "9f4cdfd7-56ef-48ca-9ae9-100399041c1e",
+        "title": "Software Engineer Intern - C++",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1752518407,
+        "date_posted": 1752518407,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=6996427",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Akuna Capital",
+        "id": "c0492323-352f-4760-bf7c-5c301e1b6b72",
+        "title": "Software Engineer Intern - C# .NET Desktop",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1752518400,
+        "date_posted": 1752518400,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=7060377",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Akuna Capital",
+        "id": "08d72057-2262-4940-ab32-648dcc930353",
+        "title": "Quantitative Research Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1752518401,
+        "date_posted": 1752518401,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=7055793",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Akuna Capital",
+        "id": "0f902ab7-852b-4624-9759-d50392926fc8",
+        "title": "Quantitative Development & Strategy Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1752518402,
+        "date_posted": 1752518402,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=7065132",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BILL",
+        "id": "1d99182b-c744-4d2f-a23f-19dc5a040262",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1752547879,
+        "date_posted": 1752547879,
+        "url": "https://www.bill.com/job?5588094004&gh_jid=5588094004",
+        "locations": [
+            "San Jose, CA",
+            "Draper, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Bill-Dot-Com",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Occidental Petroleum",
+        "id": "387d5861-f87f-4086-b76b-88018de85a3f",
+        "title": "Co-Op \u2013 Data - Well Servicing & Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752549310,
+        "date_posted": 1752549310,
+        "url": "https://oxy.wd5.myworkdayjobs.com/Corporate/job/_JR100413",
+        "locations": [
+            "Midland, TX",
+            "Houston, TX",
+            "Fort Lupton, CO",
+            "Lubbock, TX",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Occidental-Petroleum",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Live Nation Entertainment",
+        "id": "2423b44d-ac5b-4ceb-a773-24532a6cd601",
+        "title": "Nosql Team Intern",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1752550895,
+        "date_posted": 1752550895,
+        "url": "https://livenation.wd1.myworkdayjobs.com/en-US/LNExternalSite/job/Beverly-Hills-CA-USA/NoSQL-Team-Intern_JR-76287-1",
+        "locations": [
+            "Culver City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Live-Nation-Entertainment",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1752558239,
+        "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Development-Intern--e-Transfer-_REQ-1870",
+        "company_name": "Interac",
+        "title": "Software Development Intern (e-Transfer)",
+        "locations": [
+            "Toronto, Ontario, Canada"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "GaryZhous",
+        "id": "3eba7b3a-5f7d-4127-9629-675724975dab",
+        "date_posted": 1752558239,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Geotab",
+        "id": "2eb982ee-9ac1-4246-a93b-fdd920748148",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752593395,
+        "date_posted": 1752593395,
+        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4575184008",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Oakville, ON, Canada",
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Geotab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Geotab",
+        "id": "6832ab76-ef30-46ff-863c-78bf6f03b1d0",
+        "title": "Data Analyst Intern - Data Operations",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752593395,
+        "date_posted": 1752593395,
+        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4615491008",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Oakville, ON, Canada",
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Geotab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Geotab",
+        "id": "c6e38bc7-daae-4ab6-9728-3b51745a9025",
+        "title": "Software Development Intern - IO Mobile App Platform",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752593387,
+        "date_posted": 1752593387,
+        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4628085008",
+        "locations": [
+            "Oakville, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Geotab",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nissan Global",
+        "id": "67e55ea9-7dc1-4129-854b-083feca47415",
+        "title": "Data Scientist Degree Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752593260,
+        "date_posted": 1752593260,
+        "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Cranfield/Data-Scientist-Degree-Apprentice_R00193334",
+        "locations": [
+            "Bedfordshire, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Nissan-Global",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital One",
+        "id": "50c69c72-2547-465e-8e07-643c6cff1247",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1752594418,
+        "date_posted": 1752594418,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Data-Analyst-Intern---Summer-2026_R218614-1",
+        "locations": [
+            "McLean, VA",
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Integra FEC",
+        "id": "4294f84d-72ea-4305-9184-fb401c89700b",
+        "title": "Fall \u2013 Data Scientist Intern - PhD",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752594661,
+        "date_posted": 1752594661,
+        "url": "https://job-boards.greenhouse.io/integra/jobs/4522522008",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Integra-FEC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Integra FEC",
+        "id": "c50a2a65-255b-4e7f-b3a7-c823855372d6",
+        "title": "Fall \u2013 Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752594662,
+        "date_posted": 1752594662,
+        "url": "https://job-boards.greenhouse.io/integrainterns/jobs/4522500008",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Integra-FEC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Integra FEC",
+        "id": "b9b7b539-ad69-4201-847f-6dfc32c09e67",
+        "title": "Fall \u2013 Data Scientist Intern - PhD",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752594662,
+        "date_posted": 1752594662,
+        "url": "https://job-boards.greenhouse.io/integrainterns/jobs/4580605008",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Integra-FEC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Integra FEC",
+        "id": "cc7f3be6-0c1d-4d28-9284-af55f27b3a1b",
+        "title": "Fall \u2013 Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752594661,
+        "date_posted": 1752594661,
+        "url": "https://job-boards.greenhouse.io/integra/jobs/4522499008",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Integra-FEC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Neuralink",
+        "id": "d363c23b-f987-413e-81b9-316ca38ddb0d",
+        "title": "Firmware Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1752619201,
+        "date_posted": 1752619201,
+        "url": "https://boards.greenhouse.io/neuralink/jobs/6648992003",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Neuralink",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CSC",
+        "id": "09ac7883-3235-4372-9a65-2e8ec327a389",
+        "title": "Business Systems Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Spring 2026"
+        ],
+        "date_updated": 1752619093,
+        "date_posted": 1752619093,
+        "url": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/13011",
+        "locations": [
+            "Wheeling, IL",
+            "Lewisville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CSC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1752620872,
+        "url": "https://careers.honeywell.com/en/sites/Honeywell/job/109972/?utm_medium=jobshare",
+        "company_name": "Honeywell",
+        "title": "Co-Op - Bachelors Software Eng (Fall 2025)",
+        "locations": [
+            "Mason, OH"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "karthik961",
+        "id": "443acaa5-213d-475d-a522-0696fc96b6a6",
+        "date_posted": 1752620872,
+        "company_url": "",
+        "is_visible": true
     }
 ]
