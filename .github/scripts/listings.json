@@ -192009,7 +192009,7 @@
         "company_name": "Neuralink",
         "id": "a2dfea15-9579-4b72-97ab-b4d45941a3b8",
         "title": "Software Engineer Intern - Implant",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746685496,
         "date_posted": 1746685496,
@@ -203759,7 +203759,7 @@
         "company_name": "Base Power",
         "id": "8204aabf-4c8d-40fb-9923-d0c0b186732b",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -205323,7 +205323,7 @@
         "company_name": "Uber",
         "id": "0fe15623-df2c-411d-9bba-5c60ad639fd3",
         "title": "2026 Software Engineering Internship - Uber Career Prep",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -205343,7 +205343,7 @@
         "company_name": "Uber",
         "id": "e8d959a9-515d-4530-973a-d59cb8825dc1",
         "title": "2026 Software Engineering Uberstar Internship - Uber Career Prep",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
