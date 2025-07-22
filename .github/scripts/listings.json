@@ -125823,7 +125823,7 @@
         "company_name": "Astranis",
         "id": "0c4eb9cc-4a38-44bf-84ed-4a3a33eeac97",
         "title": "Flight Software Intern - Summer 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -129680,7 +129680,7 @@
         "company_name": "Amazon",
         "id": "a2baf8e3-dd66-4af5-b918-b05df02264b3",
         "title": "Neuron Compiler Software Engineer Intern - Annapurna ML",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2025"
         ],
@@ -164524,7 +164524,7 @@
         "company_name": "Astranis",
         "id": "92d88f3f-2cb2-4c81-a378-bb180cf64691",
         "title": "Full Stack Developer \u2013 Intern - Network Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -185314,7 +185314,7 @@
         "company_name": "Rocket Lab USA",
         "id": "8fbe4bde-afec-439e-8db8-e5cdc4a30060",
         "title": "Software Intern Fall 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -186362,7 +186362,7 @@
         "company_name": "Nokia",
         "id": "18f07f8b-3b29-4b88-be1f-dcf7aa54af89",
         "title": "Software Development Coop",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -187109,7 +187109,7 @@
         "company_name": "IJM",
         "id": "f34c829f-78b9-441b-9f8d-207961a32efc",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -189922,7 +189922,7 @@
         "company_name": "Amazon",
         "id": "e7ad70c9-ce61-47f8-9b75-e9c73c1bc251",
         "title": "2025 ASIC Physical Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -191613,7 +191613,7 @@
         "company_name": "Nokia",
         "id": "6cf00bd1-2dc3-4f0f-882d-ac92cc8131a6",
         "title": "Hardware Failure Analysis Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -193182,7 +193182,7 @@
         "company_name": "Nokia",
         "id": "d2a18477-34b8-4a56-b349-fc552f0345dd",
         "title": "Special Projects Software Dev Coop",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -197283,20 +197283,22 @@
         "category": "Software",
         "company_name": "Blue Origin",
         "id": "545c1ba4-aad0-4d0a-8062-462629f0715e",
-        "title": "Avionics Software Engineering Intern - Undergraduate",
+        "title": "Avionics Software Engineering Intern",
         "active": true,
         "terms": [
             "Spring 2026"
         ],
-        "date_updated": 1748795783,
+        "date_updated": 1753108129,
         "date_posted": 1748795783,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Spring-2026-Avionics-Software-Engineering-Intern---Undergraduate_R52403",
         "locations": [
-            "Seattle, WA"
+            "Seattle, WA",
+            "Denver, CO",
+            "Los Angeles, CA"
         ],
         "company_url": "https://simplify.jobs/c/Blue-Origin",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "date_updated": 1749268060,
@@ -198316,7 +198318,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "189ca38d-7a57-4de8-8dc1-1c99abf4b886",
         "title": "Stagiaire en conception de logiciels/Software Designer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -198923,7 +198925,7 @@
         "company_name": "The Walt Disney Company",
         "id": "731a7712-6c7a-400d-8931-435678ff09b8",
         "title": "Computer Graphics Technology Intern - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -199003,7 +199005,7 @@
         "company_name": "ATPCO",
         "id": "d13103aa-3597-4a98-8c36-81e1c36c7495",
         "title": "Platform Capability Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -200470,7 +200472,7 @@
         "company_name": "Nokia",
         "id": "5c3dbc69-bcd9-4260-bdfb-77e0a1417a44",
         "title": "Firmware Development Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Winter 2025"
@@ -203779,7 +203781,7 @@
         "company_name": "Autodesk",
         "id": "ac2977ee-d3b6-42cf-a58c-351df28acdc4",
         "title": "Intern Software Developer - Stagiaire en D\u00e9veloppement Logiciel",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -204003,7 +204005,7 @@
         "company_name": "Bank of America",
         "id": "f4aed11b-ac6f-4335-b335-a67616533eba",
         "title": "Global Technology Apprentice - Npower/Per Scholas",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -204023,7 +204025,7 @@
         "company_name": "Bank of America",
         "id": "ab78f20f-8294-42fc-88e6-68c970b84504",
         "title": "Global Technology Apprentice - Npower/Per Scholas",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -204045,7 +204047,7 @@
         "company_name": "Bank of America",
         "id": "06dac1c9-4122-4a97-8607-107fda70c938",
         "title": "Global Technology Apprentice - Community College",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -204588,7 +204590,7 @@
         "company_name": "Geotab",
         "id": "c6e38bc7-daae-4ab6-9728-3b51745a9025",
         "title": "Software Development Intern - IO Mobile App Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -205243,7 +205245,7 @@
         "company_name": "Elekta",
         "id": "ae82c3eb-baa1-4e4b-8416-b48f960eb3e7",
         "title": "Engineering & Science \u2013 Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -205283,7 +205285,7 @@
         "company_name": "Intel",
         "id": "aa0431ef-9cd7-4300-b708-a7b79ab5f7ca",
         "title": "Firmware Development Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -205303,7 +205305,7 @@
         "company_name": "QuantCo",
         "id": "6ae9f4e5-6bce-420b-b285-17a33a0d6355",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -205603,6 +205605,130 @@
             "North Little Rock, AR"
         ],
         "company_url": "https://simplify.jobs/c/LiveRamp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Warner Bros.",
+        "id": "5946f52b-26d5-4c66-ab61-661cc98cf32e",
+        "title": "CNN Research & Analytics Internships - Fall 2025",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1753081978,
+        "date_posted": 1753081978,
+        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/CNN-Research---Analytics-Internships--ATL---Fall-2025_R000096208",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Warner-Bros",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Warner Bros.",
+        "id": "b5df519b-b779-42c4-9aec-265558818b47",
+        "title": "Sports Analytics Internships - Fall 2025",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753081978,
+        "date_posted": 1753081978,
+        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Sports-Analytics-Internships--ATL---Fall-2025_R000096210",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Warner-Bros",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Warner Bros.",
+        "id": "8aa72ad4-7fe4-4f89-a01d-0e871730dc42",
+        "title": "Research & Analytics Internships - Fall 2025",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753122178,
+        "date_posted": 1753122178,
+        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Research---Analytics-Internships--NYC---Fall-2025_R000096209",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Warner-Bros",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Five Rings Capital",
+        "id": "1c9ad46a-3060-4def-9979-2154b31b7e19",
+        "title": "Summer Intern - Quantitative Research Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1753140023,
+        "date_posted": 1753140023,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4563192008",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Five-Rings",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wells Fargo",
+        "id": "b33274f6-acab-4bf6-9237-e62c8ad81770",
+        "title": "2026 Analytics and Data Summer Internship - Early Careers",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1753141354,
+        "date_posted": 1753141354,
+        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2026-Analytics-and-Data-Summer-Internship---Early-Careers_R-475778",
+        "locations": [
+            "Des Moines, IA",
+            "Dallas, TX",
+            "Charlotte, NC",
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Wells-Fargo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Morgan Stanley",
+        "id": "3c831e96-b42c-4023-99fe-aca3702e3e05",
+        "title": "MSIM-Portfolio Solutions-Quant Generalist-Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753142320,
+        "date_posted": 1753142320,
+        "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/MSIM--Portfolio-Solutions--Quant-Generalist--Intern_JR017183",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
         "is_visible": true,
         "sponsorship": "Other"
     }
