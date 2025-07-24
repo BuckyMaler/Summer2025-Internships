@@ -191293,7 +191293,7 @@
         "company_name": "NimbleRx",
         "id": "3546d9fb-2ff3-4d85-869a-75c46e69666d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -198985,7 +198985,7 @@
         "company_name": "Blockhouse",
         "id": "e5faa8c6-2682-4449-8981-18a5f12176f6",
         "title": "Quantitative Developer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -199465,7 +199465,7 @@
         "company_name": "NVIDIA",
         "id": "989ddaf0-0d34-495c-b706-294d4343d165",
         "title": "Compiler Engineering Intern - GPU Compute and CUDA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -201277,7 +201277,7 @@
         "company_name": "Hearst",
         "id": "c6308d04-5ca6-4573-8553-fcdc2eeb99e8",
         "title": "Intern \u2013 Governance - Risk & Compliance",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -203474,7 +203474,7 @@
         "company_name": "ExodusPoint",
         "id": "c8a165ab-f25d-4201-8479-5e3036447639",
         "title": "Artificial Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -205907,7 +205907,7 @@
         "company_name": "Veolia",
         "id": "9e50abeb-1c4c-478f-8a02-8d6cf01148e1",
         "title": "Bilingual \u2013 Digital Adoption Intern - Eng/FR",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -205999,6 +205999,147 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Asana",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Manulife",
+        "id": "8dcf4e03-2759-4c92-9c2e-f8bb5bbdf346",
+        "title": "Agentic AI Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753195299,
+        "date_posted": 1753195299,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_AdminJobs/job/Toronto-Ontario/Agentic-AI-Developer-Intern_JR25071102",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UNFPA",
+        "id": "d1335828-6000-4c1c-acd0-f5556b572763",
+        "title": "Geospatial Sciences Internship",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2026"
+        ],
+        "date_updated": 1753193489,
+        "date_posted": 1753193489,
+        "url": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2003/jobs/job/27996",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/UNFPA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "e71da27b-9b79-4c94-bbc3-6bbcf17e8fab",
+        "title": "System Simulation Engineering Co-op",
+        "active": false,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753252270,
+        "date_posted": 1753252270,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/System-Simulation-Engineering-Co-op_JR0275615",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "245c8ebf-1af2-42e6-93b0-07e3797dde29",
+        "title": "Stage \u2013 Transformation num\u00e9rique des op\u00e9rations / Internship - Digital Transformation of Operations",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1753266688,
+        "date_posted": 1752891299,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/LOC13052-1000-Boul-Marie-VictorinLongueuilQuebecJ4G-1A1Canada/Internship-Fall_01780876",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Definity Financial",
+        "id": "0d6e0d09-97d5-4df7-9627-416cd9c2b82f",
+        "title": "Technology Solutions",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753285537,
+        "date_posted": 1753285537,
+        "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/8303",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Definity-Financial",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1753297309,
+        "url": "https://jobs.ashbyhq.com/a37/f457c131-1471-464a-9d23-5a9f94714c92",
+        "company_name": "a37",
+        "title": "Fullstack/MLE Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "brianlzhou",
+        "id": "f3104144-b5dc-4b87-b0be-aad6991b1090",
+        "date_posted": 1753297309,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "United Parcel Service (UPS)",
+        "id": "cfe6f158-be63-4ed0-89c1-ae005702a634",
+        "title": "Co-Op for NPOP Team",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753310620,
+        "date_posted": 1753310620,
+        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-TECHNOLOGY-HEADQUARTERS--DATACENTER-NJRAR/Co-Op-for-NPOP-Team_R25020204",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
         "is_visible": true,
         "sponsorship": "Other"
     }
