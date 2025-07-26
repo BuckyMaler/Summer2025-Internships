@@ -189822,7 +189822,7 @@
         "company_name": "Marvell",
         "id": "c42cba08-11b2-422c-b319-f0c7a3abe006",
         "title": "Digital Design Intern - Bachelors",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1743920016,
         "date_posted": 1743920016,
@@ -199550,7 +199550,7 @@
         "company_name": "Amazon",
         "id": "753c4120-5b70-4adf-8e9a-7b1b2892215e",
         "title": "Software Development Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023",
             "Fall 2023",
@@ -201338,7 +201338,7 @@
         "company_name": "Lendbuzz",
         "id": "980fbaf2-ceb5-4abd-9aa8-40665ba0bf28",
         "title": "Co-op \u2013 Machine Learning Engineer - Portuguese / Spanish",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -203944,7 +203944,7 @@
         "company_name": "Magna",
         "id": "942b4383-c408-4291-b7bd-eb32e9e97cac",
         "title": "Data Science & Analytics WCM Co-op Student",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -206007,7 +206007,7 @@
         "company_name": "Manulife",
         "id": "8dcf4e03-2759-4c92-9c2e-f8bb5bbdf346",
         "title": "Agentic AI Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -206141,5 +206141,184 @@
         "company_url": "https://simplify.jobs/c/United-Parcel-Service",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1753403845,
+        "url": "https://asana.com/jobs/apply/7078079?gh_jid=7078079",
+        "company_name": "Asana",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Francisco CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "William-Leung",
+        "id": "1f084a00-0869-4ddf-a62e-d7a33c7a13a4",
+        "date_posted": 1753403845,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Signify",
+        "id": "e5f9a242-713c-401f-9aba-c68cadc4f923",
+        "title": "Digital & Technology Solutions Degree Apprenticeship",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753406064,
+        "date_posted": 1747326794,
+        "url": "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-UK/Validation-Engineer-Apprentice_357468",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Signify",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Chainlink Labs",
+        "id": "781f484d-eb88-40fb-9276-bcf4b9d5fe6c",
+        "title": "Research Internship",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753418703,
+        "date_posted": 1753418703,
+        "url": "https://jobs.ashbyhq.com/chainlink-labs/203f6551-100f-42a5-90a6-3bb29e58a9f6/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chainlink-Labs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fizz",
+        "id": "2b9c6225-2cfa-4dea-8b2b-d48dbf13661a",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753418233,
+        "date_posted": 1753418233,
+        "url": "https://jobs.ashbyhq.com/fizz/6ba63204-10ab-47d4-a991-259091d82053/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Fizz-Social",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Aerospace",
+        "id": "ea019bd3-3a85-4f49-b027-cd92cd78fd28",
+        "title": "Digital Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1753418974,
+        "date_posted": 1753418974,
+        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Intern---US---Summer-2026_R5002160-1",
+        "locations": [
+            "Livonia, MI",
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CompScience",
+        "id": "73899a9e-ce46-4fd5-880e-b47eca53da42",
+        "title": "Engineering Internship Program",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753424312,
+        "date_posted": 1753424312,
+        "url": "https://jobs.ashbyhq.com/compscience/0701a16f-4858-4d63-b9fb-2f052655369d/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CompScience",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Definity Financial",
+        "id": "c7b25112-cf8f-4396-aec9-11a1e4eadb48",
+        "title": "Risk Services Analyst",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753409989,
+        "date_posted": 1753409989,
+        "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/8374",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Definity-Financial",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "JP Morgan Chase",
+        "id": "1b806319-cc33-48f2-b80c-72890a2eb4ec",
+        "title": "Software Engineer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1753455165,
+        "date_posted": 1753455165,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210646112",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1753480519,
+        "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/ok1Awfwb",
+        "company_name": "Metropolitan Transportation Authority",
+        "title": "Software Development, Emerging Talent Intern",
+        "locations": [
+            "New York City, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "hamim23z",
+        "id": "9d48f5ab-5719-43f7-bfc8-b7d1409d0121",
+        "date_posted": 1753480519,
+        "company_url": "",
+        "is_visible": true
     }
 ]
