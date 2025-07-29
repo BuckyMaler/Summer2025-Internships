@@ -193023,7 +193023,7 @@
         "company_name": "Robinhood",
         "id": "1755cada-9e4f-49ef-823d-82b93fe9be4e",
         "title": "Software Developer Intern/Co-op - Backend",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -197672,7 +197672,7 @@
         "company_name": "TransMarket Group",
         "id": "cf412da4-1f1d-43aa-8f7d-135ac859dfdf",
         "title": "Algorithmic Trader Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2027"
@@ -198318,7 +198318,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "189ca38d-7a57-4de8-8dc1-1c99abf4b886",
         "title": "Stagiaire en conception de logiciels/Software Designer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -203863,7 +203863,7 @@
         "company_name": "Nokia",
         "id": "01593c1f-96ee-414d-84e9-47be3d0f7702",
         "title": "Data fabric and network automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -205203,7 +205203,7 @@
         "company_name": "Procter & Gamble (P&G)",
         "id": "7df12e4e-2c4c-4e11-90a0-4d3269000aba",
         "title": "2026 STEM BOLD Internship & Scholarship",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Fall 2026",
@@ -205695,7 +205695,7 @@
         "company_name": "Wells Fargo",
         "id": "b33274f6-acab-4bf6-9237-e62c8ad81770",
         "title": "2026 Analytics and Data Summer Internship - Early Careers",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -205926,7 +205926,7 @@
         "company_name": "Asana",
         "id": "a93d91a8-8a68-4d90-834a-29be89f49104",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -205946,7 +205946,7 @@
         "company_name": "Asana",
         "id": "2bb9bcfa-613f-4dfa-aeea-6182e412f02a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -205987,7 +205987,7 @@
         "company_name": "Asana",
         "id": "c09d8413-12d6-4d9d-8548-d7107f1a3990",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -206128,7 +206128,7 @@
         "company_name": "United Parcel Service (UPS)",
         "id": "cfe6f158-be63-4ed0-89c1-ae005702a634",
         "title": "Co-Op for NPOP Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -206708,6 +206708,213 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Virtu-Financial",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KeyCorp",
+        "id": "83360f53-a0e3-4a8a-90b3-6441c1c75013",
+        "title": "2026 Summer Analytics and Quantitative Modeling Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1753719818,
+        "date_posted": 1753719818,
+        "url": "https://keybank.wd5.myworkdayjobs.com/external_career_site/job/Cleveland-OH/XMLNAME-2026-Summer-Analytics-and-Quantitative-Modeling-Internship---Cleveland_R-33875",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/KeyCorp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "2cd5d5fc-61c2-42ad-b056-79b99fa3a9f0",
+        "title": "Embedded Software Engineer \u2013 Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753721722,
+        "date_posted": 1753721722,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op--Fall-2025---4-16-Months-_R028495",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1753724191,
+        "url": "https://jobs.lever.co/Arcade/1c849dd0-e3b5-4f73-bb56-1dc159ec6820",
+        "company_name": "Arcade",
+        "title": "Research Engineer Intern, Applied AI",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Fall 2025",
+            "Winter 2026",
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "aajain2",
+        "id": "2f94c67b-d250-453c-aec1-6a72456ecb0e",
+        "date_posted": 1753724191,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753724203,
+        "url": "https://jobs.lever.co/Arcade/07c31ffc-8333-4819-bde3-e2fd4272ad86",
+        "company_name": "Arcade",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Fall 2025",
+            "Summer 2026",
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "aajain2",
+        "id": "cfae5044-39c8-4291-8cbb-532effc2c6fe",
+        "date_posted": 1753724203,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NXP Semiconductors",
+        "id": "e0d07aa8-10d6-41ba-ac9d-be52f1a304ad",
+        "title": "Digital Verification Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753742800,
+        "date_posted": 1753742800,
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Digital-Verification-Intern---Fall-2025_R-10059450",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/91edf47c-f010-430e-8558-5c1fbb365984",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blockhouse",
+        "id": "55c10134-f464-473a-97a6-4347e9faec26",
+        "title": "Crypto Quantitative Developer Internship",
+        "active": true,
+        "terms": [
+            "Fall 2023",
+            "Winter 2023"
+        ],
+        "date_updated": 1753743158,
+        "date_posted": 1753743158,
+        "url": "https://jobs.ashbyhq.com/blockhouse/551532d5-adc3-49a2-8bef-c94817bc5b84/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Blockhouse",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Asana",
+        "id": "1d2f4592-790c-4de8-871b-49d3e29be22e",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2027"
+        ],
+        "date_updated": 1753745698,
+        "date_posted": 1753745698,
+        "url": "https://www.asana.com/jobs/apply/7078192?gh_jid=7078192",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Asana",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Asana",
+        "id": "f4358b93-2379-4e15-9ddf-ebd87e229e56",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2027"
+        ],
+        "date_updated": 1753745692,
+        "date_posted": 1753745692,
+        "url": "https://www.asana.com/jobs/apply/7078152?gh_jid=7078152",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Asana",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hudson River Trading",
+        "id": "e961b830-9cec-45ea-8007-4a01b4ce8128",
+        "title": "Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1753745538,
+        "date_posted": 1753745538,
+        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6998786",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Hudson River Trading",
+        "id": "9ba23c17-8fb9-4971-9c69-ff7db55428ab",
+        "title": "Algorithm Development \u2013 Internship - Quant Research",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1753745521,
+        "date_posted": 1753745521,
+        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6998811",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
         "is_visible": true,
         "sponsorship": "Other"
     }
