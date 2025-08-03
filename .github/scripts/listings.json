@@ -113246,7 +113246,7 @@
         "company_name": "HeyGen",
         "id": "2f956c52-edf6-4b68-99c9-7db4d96de3c0",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -187573,7 +187573,7 @@
         "company_name": "Corewell Health",
         "id": "ea7d4fbf-8fbe-494b-929e-07c041b3b680",
         "title": "HR Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1745508813,
         "date_posted": 1745508813,
@@ -192512,7 +192512,7 @@
         "company_name": "Ciena",
         "id": "32d01d1c-65fc-4b1c-8103-b98fc5547f8f",
         "title": "Software Engineer and Tools Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -197855,7 +197855,7 @@
         "company_name": "Ciena",
         "id": "8c15e863-9761-4fd7-8e3d-8a6d45e2a524",
         "title": "Wavelogic Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -198298,7 +198298,7 @@
         "company_name": "Kabam",
         "id": "5f5bc525-b743-4891-a08f-ddf5df85d398",
         "title": "Data Science Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -202381,7 +202381,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Walleye Capital",
         "title": "Technology Intern",
         "category": "AI/ML/Data",
@@ -202401,7 +202401,7 @@
             "New York, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "company_name": "Walleye Capital",
         "title": "Risk Quant Research Intern",
         "source": "Simplify",
@@ -203863,7 +203863,7 @@
         "company_name": "Nokia",
         "id": "01593c1f-96ee-414d-84e9-47be3d0f7702",
         "title": "Data fabric and network automation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -205303,7 +205303,7 @@
         "company_name": "QuantCo",
         "id": "6ae9f4e5-6bce-420b-b285-17a33a0d6355",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -205822,7 +205822,7 @@
         "company_name": "Walleye Capital",
         "id": "46895a50-4c9a-41cc-aa44-fe8c9aa4abe4",
         "title": "Investment Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -206225,7 +206225,7 @@
         "company_name": "GE Aerospace",
         "id": "ea019bd3-3a85-4f49-b027-cd92cd78fd28",
         "title": "Digital Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -206365,7 +206365,7 @@
         "company_name": "Leidos",
         "id": "a90371df-bcff-4ccd-acbf-e98dee89c3d3",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -206651,7 +206651,7 @@
         "company_name": "GE Aerospace",
         "id": "c85290c7-5fdf-40ed-b7f7-4c14438a1317",
         "title": "Digital Technology Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -207363,7 +207363,7 @@
         "company_name": "Truist",
         "id": "7074846a-4bbe-4274-883a-7c52fe779fa8",
         "title": "Intern Conversion - Credit Sales & Trading Analyst Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -207465,7 +207465,7 @@
         "company_name": "Allium",
         "id": "8f826dc7-fbfb-49d7-b008-d17d4fd1a790",
         "title": "Engineering Intern - Internal Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -209493,7 +209493,7 @@
         "company_name": "Vanguard",
         "id": "32de91ea-8464-46ae-ad58-76366978ddef",
         "title": "IT Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -209566,6 +209566,195 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/CSC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SciPlay",
+        "id": "0e5be3f3-9aef-4846-a5fa-96c2d03e6da9",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754001026,
+        "date_posted": 1754001026,
+        "url": "https://lnw.wd5.myworkdayjobs.com/en-US/SciPlayExternalCareersSite/job/Cedar-Falls-IA/Software-Engineering-Intern_R320481",
+        "locations": [
+            "Waterloo, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/bdee93c8-46ab-46b3-8a3e-c03916910ae2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NexThreat",
+        "id": "a87a5347-f77e-4edc-a04d-d597f23756e2",
+        "title": "Data Analysis Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753709114,
+        "date_posted": 1753709114,
+        "url": "https://jobs.lever.co/nexthreat.com/b5a5bf65-4057-46f7-b144-2ddff9444ba0/apply",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/NexThreat",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "M&T Bank",
+        "id": "9551aba3-b479-4be7-ac1c-b13c55c7e694",
+        "title": "Technology Internship Program",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1753991394,
+        "date_posted": 1753991394,
+        "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2026-Technology-Internship-Program_R72035",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/M-And-T-Bank",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Magnet Forensics",
+        "id": "36318218-be65-4bfa-8388-3059e57e2812",
+        "title": "Software Developer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753709091,
+        "date_posted": 1753709091,
+        "url": "https://jobs.lever.co/magnetforensics/8e0e7fc8-c676-48d5-981e-361ca36e7ac4/apply",
+        "locations": [
+            "Ottawa, ON, Canada",
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Magnet-Forensics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DataVisor",
+        "id": "2a6e2d03-c02a-45f6-88ca-9dfc04c63a7c",
+        "title": "Software Engineer Co-Op Internship Fall 2025",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753810809,
+        "date_posted": 1753810809,
+        "url": "https://apply.workable.com/datavisor-jobs/j/9D69808D1A/apply",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/DataVisor",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PIP Labs",
+        "id": "21a768af-44e6-4166-81bc-924935050640",
+        "title": "Engineering Intern - App Team",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753717078,
+        "date_posted": 1753717078,
+        "url": "https://jobs.lever.co/piplabs/175d9c4e-5994-431e-bb59-3d0cf0aba42d/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/PIP-Labs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stax",
+        "id": "c55b74b5-fb2e-4dd6-a742-8a2a98658a58",
+        "title": "Software Engineer Internship",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1753717685,
+        "date_posted": 1753717685,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3442794",
+        "locations": [
+            "Orem, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/cc710af5-f21c-4b74-b377-d3b394b7b124",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altruist",
+        "id": "6d2aa9ac-ebaf-4c30-85d5-72c8bc871493",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754102255,
+        "date_posted": 1754102255,
+        "url": "https://altruist.com/join-altruist/5601833004?gh_jid=5601833004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "JP Morgan Chase",
+        "id": "37af576e-0c5f-4966-b3b6-497946729e4d",
+        "title": "2025 Code for Good Hackathon \u2013 Summer Internship - Software Engineer Program",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754103505,
+        "date_posted": 1754103505,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210648143",
+        "locations": [
+            "Palo Alto, CA",
+            "Houston, TX",
+            "Austin, TX",
+            "Tampa, FL",
+            "Plano, TX",
+            "Chicago, IL",
+            "Columbus, OH",
+            "NYC",
+            "Wilmington, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
         "is_visible": true,
         "sponsorship": "Other"
     }
