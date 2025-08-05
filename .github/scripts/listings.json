@@ -199507,7 +199507,7 @@
         "company_name": "Democratic National Committee",
         "id": "f3b07658-3f4a-4bb6-8bc4-344b57987f95",
         "title": "DNC Technology Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -199961,7 +199961,7 @@
         "company_name": "KBR",
         "id": "6dbfd0c3-ef9b-4461-8b00-609576f7af35",
         "title": "Software Application Developer Intern for GOES-R Series Satellites",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -208165,9 +208165,9 @@
         "title": "Software Engineering Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1753914653,
+        "date_updated": 1754346489,
         "date_posted": 1753914653,
         "url": "https://jobs.ashbyhq.com/baseten/4e6757f3-74c0-4d3d-9b0b-eb56ab561c37/application",
         "locations": [
@@ -208204,7 +208204,7 @@
         "company_name": "Microchip Technology",
         "id": "be8b60a3-a50d-4a68-b13b-31ddf6a50e32",
         "title": "Intern-Engineering - Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -208224,7 +208224,7 @@
         "company_name": "Microchip Technology",
         "id": "555cee32-8a3c-42f4-80fb-0cabe87ef3bd",
         "title": "Intern-Engineering - Data Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -208264,7 +208264,7 @@
         "company_name": "CACI",
         "id": "5ee98427-9639-4bd1-aab3-77bf5b44bcaf",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -208304,7 +208304,7 @@
         "company_name": "AECOM",
         "id": "9d726641-4bfa-459c-b64d-fe62b6c31bb7",
         "title": "Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -208325,7 +208325,7 @@
         "company_name": "AECOM",
         "id": "f3f95eb6-b37f-4b71-b1d1-017ea01d16c9",
         "title": "Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -208346,7 +208346,7 @@
         "company_name": "AECOM",
         "id": "6f018744-2fdf-4b38-bbab-b334c1e51a18",
         "title": "Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -208463,7 +208463,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753986313,
+        "date_updated": 1754274551,
         "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/Software-Developer-Associate--Intern-_RQ204199",
         "company_name": "GDIT",
         "title": "Software Developer Associate (Intern)",
@@ -208473,13 +208473,13 @@
         "terms": [
             "Summer 2026"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "polinavishnev",
         "id": "f2f1c82c-371f-4e92-92b1-0e1b75e9819c",
         "date_posted": 1753986313,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -208515,7 +208515,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754032808,
+        "date_updated": 1754274872,
         "date_posted": 1754032808,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/jobs/job/210650080",
         "locations": [
@@ -208523,7 +208523,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Chase",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -208637,7 +208637,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1754066819,
+        "date_updated": 1754274730,
         "date_posted": 1754066819,
         "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/6667961003",
         "locations": [
@@ -208645,7 +208645,7 @@
         ],
         "company_url": "https://simplify.jobs/c/HyannisPortResearch",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -208778,9 +208778,9 @@
         "title": "Software Engineer \u2013 Intern",
         "active": true,
         "terms": [
-            "Fall 2026"
+            "Summer 2026"
         ],
-        "date_updated": 1754075664,
+        "date_updated": 1754346268,
         "date_posted": 1754075664,
         "url": "https://jobs.ashbyhq.com/sentry/d2e3391f-9401-410a-b8a6-de3bf5f762b7/application",
         "locations": [
@@ -208798,9 +208798,9 @@
         "title": "Software Engineer \u2013 Intern",
         "active": true,
         "terms": [
-            "Spring 2026"
+            "Summer 2026"
         ],
-        "date_updated": 1754075665,
+        "date_updated": 1754346251,
         "date_posted": 1754075665,
         "url": "https://jobs.ashbyhq.com/sentry/a5ce699d-b1a8-4b93-9217-33d16d77ccd6/application",
         "locations": [
@@ -209329,9 +209329,9 @@
         "title": "Software Engineer Internship - Backend",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1754087215,
+        "date_updated": 1754346211,
         "date_posted": 1754087215,
         "url": "https://jobs.ashbyhq.com/ramp/c50962b5-c641-4d44-bbe5-7f1d6e7ce51f/application",
         "locations": [
@@ -209351,7 +209351,7 @@
         "terms": [
             "Fall 2025"
         ],
-        "date_updated": 1754087223,
+        "date_updated": 1754346195,
         "date_posted": 1754087223,
         "url": "https://jobs.ashbyhq.com/ramp/31f7e045-9a51-4a75-9ffc-d815d6db6daa/application",
         "locations": [
@@ -209738,9 +209738,9 @@
         "title": "2025 Code for Good Hackathon \u2013 Summer Internship - Software Engineer Program",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1754103505,
+        "date_updated": 1754345333,
         "date_posted": 1754103505,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210648143",
         "locations": [
@@ -209755,6 +209755,148 @@
             "Wilmington, DE"
         ],
         "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "33b518b6-1cbc-425a-97c4-8fd3bca72a6b",
+        "title": "Solutions Lab Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Winter 2025"
+        ],
+        "date_updated": 1754325216,
+        "date_posted": 1754325216,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23146",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1754330783,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2026_R218710-1",
+        "company_name": "Capital One",
+        "title": "Technology Internship Program - Summer 2026",
+        "locations": [
+            "McLean, VA",
+            "Richmond, VA",
+            "Plano, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "hamim23z",
+        "id": "8cbfccf6-8a38-46e4-9bfc-540dfef9f371",
+        "date_posted": 1754330783,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Figure AI",
+        "id": "ac59c3ae-5e3c-4bda-8430-cb6498abf63c",
+        "title": "Developer Productivity Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754345553,
+        "date_posted": 1754345553,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4589908006",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/04cbb102-51d9-4ce2-a4d8-38a82f8ea8e5",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "U.S. Bank",
+        "id": "036fbedd-299d-4b1b-b760-4e3aeb1164a9",
+        "title": "Capital Markets Summer Intern-Investment Grade Sales & Trading",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754346472,
+        "date_posted": 1754346472,
+        "url": "https://usbank.wd1.myworkdayjobs.com/en-US/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2026-Capital-Markets-Summer-Intern--Investment-Grade-Sales---Trading_2025-0018375",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/US-Bank",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rockwell Automation",
+        "id": "c3f5016e-69ca-46fb-92b8-73f66b983257",
+        "title": "Co-op \u2013 Firmware Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754347367,
+        "date_posted": 1754347367,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Cambridge-Ontario-Canada/Co-op--Firmware-Engineering_R25-6419-1",
+        "locations": [
+            "Cambridge, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Altruist",
+        "id": "9de70e7d-a843-4ce3-91a4-2fe8688bc1c3",
+        "title": "Quantitative Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754348643,
+        "date_posted": 1754348643,
+        "url": "https://altruist.com/join-altruist/5601805004?gh_jid=5601805004",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Altruist",
+        "id": "f8299fab-9315-499b-a534-8e33f55e02ff",
+        "title": "Quantitative Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754348643,
+        "date_posted": 1754348643,
+        "url": "https://altruist.com/join-altruist/5601829004?gh_jid=5601829004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d",
         "is_visible": true,
         "sponsorship": "Other"
     }
