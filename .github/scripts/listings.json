@@ -185687,7 +185687,7 @@
         "company_name": "Veolia",
         "id": "e5893996-b84a-41ef-9c84-606d12ebb185",
         "title": "Digital Adoption Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1744872509,
         "date_posted": 1744872509,
@@ -200859,7 +200859,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1751385393,
+        "date_updated": 1754409824,
         "date_posted": 1751385393,
         "url": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116/apply",
         "locations": [
@@ -201378,7 +201378,7 @@
         "company_name": "Genesis Therapeutics",
         "id": "e1cbd2ba-9d78-48ba-8352-2e1ee615cdc5",
         "title": "ML Research Intern - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -201774,13 +201774,13 @@
         ]
     },
     {
-        "date_updated": 1751938726,
+        "date_updated": 1754417269,
         "url": "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiNA/job/NEW-YORK-CITY/New-York-City-Digital-Intern---2026_JR-254945",
         "locations": [
             "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "company_name": "Protiviti",
         "title": "Digital Intern",
         "category": "AI/ML/Data",
@@ -201788,7 +201788,7 @@
         "id": "fb090357-56f3-4b18-b5c7-8264f825e9ff",
         "date_posted": 1751938726,
         "company_url": "",
-        "is_visible": true,
+        "is_visible": false,
         "terms": [
             "Summer 2026"
         ]
@@ -205802,7 +205802,7 @@
         "company_name": "Nikkiso",
         "id": "3562bd11-e289-44da-89b3-1cef60cf0737",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -206426,7 +206426,7 @@
         "company_name": "BorgWarner",
         "id": "564a7cb1-829f-4e2f-bd89-26dab87c5903",
         "title": "Simulation and Applied Statistics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -206446,7 +206446,7 @@
         "company_name": " PrizePicks",
         "id": "ad043edd-7bfb-41b6-aeee-c9274666b67a",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -206715,18 +206715,18 @@
         "company_name": "KeyCorp",
         "id": "83360f53-a0e3-4a8a-90b3-6441c1c75013",
         "title": "2026 Summer Analytics and Quantitative Modeling Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1753719818,
+        "date_updated": 1754417399,
         "date_posted": 1753719818,
         "url": "https://keybank.wd5.myworkdayjobs.com/external_career_site/job/Cleveland-OH/XMLNAME-2026-Summer-Analytics-and-Quantitative-Modeling-Internship---Cleveland_R-33875",
         "locations": [
             "Cleveland, OH"
         ],
         "company_url": "https://simplify.jobs/c/KeyCorp",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -207445,7 +207445,7 @@
         "company_name": "Fable",
         "id": "f5fa501e-e474-417b-8138-03f9c5a8e002",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -207825,7 +207825,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753887979,
+        "date_updated": 1754417581,
         "url": "https://careers-heart.icims.com/jobs/16131/intern%2c-data-science-remote/job",
         "company_name": "American Heart Association",
         "title": "Intern, Data Science",
@@ -207833,20 +207833,15 @@
             "Remote"
         ],
         "terms": [
-            "Summer 2026",
-            "Summer 2025",
-            "Fall 2025",
-            "Winter 2025",
-            "Winter 2026",
-            "Spring 2026"
+            "Summer 2026"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "2d152a19-6776-4d9b-a84b-e9ec4caaa257",
         "date_posted": 1753887979,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1753888107,
@@ -209346,16 +209341,16 @@
         "category": "Software",
         "company_name": "Ramp",
         "id": "39ae9c3c-4474-4565-b0b3-897552f89b41",
-        "title": "Software Engineer Internship - Frontend",
+        "title": "Software Engineering Internship - Frontend",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1754346195,
+        "date_updated": 1754416640,
         "date_posted": 1754087223,
         "url": "https://jobs.ashbyhq.com/ramp/31f7e045-9a51-4a75-9ffc-d815d6db6daa/application",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Ramp",
         "is_visible": true,
@@ -209555,7 +209550,7 @@
         "company_name": "CSC",
         "id": "3143b7b0-344a-456c-b0ff-4194e5f284de",
         "title": "Data Reporting and Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -209736,7 +209731,7 @@
         "company_name": "JP Morgan Chase",
         "id": "37af576e-0c5f-4966-b3b6-497946729e4d",
         "title": "2025 Code for Good Hackathon \u2013 Summer Internship - Software Engineer Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -209780,7 +209775,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1754330783,
+        "date_updated": 1754416513,
         "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2026_R218710-1",
         "company_name": "Capital One",
         "title": "Technology Internship Program - Summer 2026",
@@ -209792,13 +209787,13 @@
         "terms": [
             "Summer 2026"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "hamim23z",
         "id": "8cbfccf6-8a38-46e4-9bfc-540dfef9f371",
         "date_posted": 1754330783,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -209897,6 +209892,510 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/fd33cc05-7479-4979-9bc3-fcf69310e14d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1754358265,
+        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-FL-Tampa/GDIT-Summer-Internship-Program---Summer-2026-Data-Science-Associate-Internship_RQ204451",
+        "company_name": "GDIT",
+        "title": "Data Science Associate Internship",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "a8a5d903-3816-4142-91fb-af11a6cfc7d9",
+        "date_posted": 1754358265,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754358352,
+        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2026-Artificial-Intelligence-Machine-Learning-Associate-Internship_RQ204448",
+        "company_name": "GDIT",
+        "title": "Artificial Intelligence/Machine Learning Associate Internship",
+        "locations": [
+            "Falls Church, VA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b4731746-4ba2-4ce8-8a7f-fd25038f9f74",
+        "date_posted": 1754358352,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754360452,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4573642006",
+        "company_name": "Figure",
+        "title": "Robotics Integration Intern",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "8d6422b1-7e8b-416d-aba0-b3495599c4c5",
+        "date_posted": 1754360452,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754360615,
+        "url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/details/Mobile-Developer-Intern--AI---ML-_JR104180?workerSubType=642abc1e87ca10098af3a23fe5090000",
+        "company_name": "Copart",
+        "title": "Mobile Developer Intern (AI / ML)",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "d58a564c-660e-449b-a599-258bfde7cf25",
+        "date_posted": 1754360615,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754360793,
+        "url": "https://careers.newyorklife.com/careers?query=%23Techcampus&location=any&pid=30149944&domain=newyorklife.com&sort_by=relevance",
+        "company_name": "New York Life",
+        "title": "Technology Analyst Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "5f43856c-3bde-465b-bd43-9778ad86133d",
+        "date_posted": 1754360793,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754360928,
+        "url": "https://jobs.ashbyhq.com/baseten/4e6757f3-74c0-4d3d-9b0b-eb56ab561c37",
+        "company_name": "Baseten",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "f0f2ef0d-a3cb-4c08-8af4-fbc26cb9fa85",
+        "date_posted": 1754360928,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754361386,
+        "url": "https://job-boards.greenhouse.io/applovin/jobs/4552288006?gh_jid=4552288006",
+        "company_name": "AppLovin",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "15d2967a-2539-49a5-8d33-c4b4b7f4ba45",
+        "date_posted": 1754361386,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754363934,
+        "url": "https://lifeattiktok.com/search/7533029779479791890",
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern (TikTok-Intelligent Creation - Generative AI and Graphics)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "fa685806-ffb4-4ba9-b315-0dc6c8156373",
+        "date_posted": 1754363934,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754363985,
+        "url": "https://lifeattiktok.com/search/7533388869200333074",
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern (Data Ecosystem)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "a6928d63-b64c-444f-a90a-2c02a6ddc690",
+        "date_posted": 1754363985,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754364082,
+        "url": "https://job-boards.greenhouse.io/marqueeig1/jobs/8102318002",
+        "company_name": "Marquee Insurance Group",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Charleston, SC"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "0c7f2a11-c68d-44d4-9ed2-231b2201c4b1",
+        "date_posted": 1754364082,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "419d9be9-13fc-4bf5-a9e0-2ce445b05c04",
+        "title": "Technology Internship Program",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754319120,
+        "date_posted": 1754319120,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2026_R218710-1",
+        "locations": [
+            "Plano, TX",
+            "McLean, VA",
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Talos Trading",
+        "id": "71884059-5839-4c65-bbe7-441bc1910c93",
+        "title": "Software Engineer Intern - Backend",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1754316760,
+        "date_posted": 1754316760,
+        "url": "https://jobs.ashbyhq.com/Talos-Trading/fcd4b58b-19fc-47f2-8c7a-a9aa149ebeb1/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Talos-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Talos Trading",
+        "id": "15be289a-4a3a-491e-a351-0bbbf5650273",
+        "title": "Software Engineer Intern - Backend",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1754316761,
+        "date_posted": 1754316761,
+        "url": "https://jobs.ashbyhq.com/Talos-Trading/f3d358c4-54e2-4cc8-afe2-8474fa13320b/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Talos-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Talos Trading",
+        "id": "fab5ee9d-4888-4646-bf42-3b3c990a10db",
+        "title": "Software Engineer Intern - Front-End",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754323621,
+        "date_posted": 1754323621,
+        "url": "https://jobs.ashbyhq.com/Talos-Trading/2db01769-8f00-4652-b790-b7cff80bc891/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Talos-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1754377883,
+        "url": "https://nbtbancorp.wd12.myworkdayjobs.com/en-US/epic/job/Rochester-New-York/Student-Associate---Software-Engineer---EPIC_JR3617",
+        "company_name": "EPIC",
+        "title": "Student Associate - Software Engineer",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "68a97b61-7e02-4e63-b578-00bb0a61420e",
+        "date_posted": 1754377883,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754378083,
+        "url": "https://jobs.lever.co/convergentresearch/ae2f38c7-804e-45e0-b4c5-b5c666698d30",
+        "company_name": "Cultivarium",
+        "title": "Computer Vision and Machine Learning Intern",
+        "locations": [
+            "Watertown, MA"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2026",
+            "Summer 2025"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "f0046d13-bf59-4933-8985-28efd75937d9",
+        "date_posted": 1754378083,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754378177,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cyber-Security-Internship-Program---Summer-2026_R218613-1",
+        "company_name": "Capital One",
+        "title": "Cyber Security Internship Program",
+        "locations": [
+            "Mclean, VA",
+            "Plano, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "7dc4bfa6-d1e8-466a-983a-3f81f926fe65",
+        "date_posted": 1754378177,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "174a07c8-fbf8-4230-a424-5d346a3ca5ba",
+        "title": "Software Engineer Intern - Payment Architecture - Global Payment",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1754410021,
+        "date_posted": 1754410021,
+        "url": "https://jobs.bytedance.com/en/position/7533369790536141063/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Motorola",
+        "id": "212dc499-a662-4704-9d3b-ac2080f5586a",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754413489,
+        "date_posted": 1754413489,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Software-Engineer-Intern_R56319",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "bd5985bd-7c09-4dfe-b27f-46d6f0d3418a",
+        "title": "Forward Deployed Software Engineer \u2013 Internship - Commercial",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754429794,
+        "date_posted": 1754429794,
+        "url": "https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Chicago Trading Company",
+        "id": "51309188-7d62-41e9-9fbe-d02b155f9d0d",
+        "title": "Quant Trading Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754431442,
+        "date_posted": 1754431442,
+        "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4593774005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chicago Trading Company",
+        "id": "0f074937-3479-4ab1-8ba6-5f30386603ee",
+        "title": "Software Engineering Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754431449,
+        "date_posted": 1754431449,
+        "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4593772005",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/ChicagoTradingCo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "2c978ac6-354b-433b-85b1-97e6cd13fb55",
+        "title": "Summer 2026 University Internship Pipeline",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754432063,
+        "date_posted": 1754432063,
+        "url": "https://careers-peraton.icims.com/jobs/158530/job",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Moog Inc",
+        "id": "f64afbd4-decb-48c2-843c-156da8aeee65",
+        "title": "Intern \u2013 Artificial Intelligence",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754437877,
+        "date_posted": 1754437877,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-25-13375",
+        "locations": [
+            "Boston, NY",
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog-Inc",
         "is_visible": true,
         "sponsorship": "Other"
     }
