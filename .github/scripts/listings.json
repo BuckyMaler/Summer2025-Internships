@@ -47343,7 +47343,7 @@
         "company_name": "Ramp",
         "id": "094007c3-3fe3-4732-804a-d8d95105d434",
         "title": "Software Engineer Internship - IOS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -94372,7 +94372,7 @@
         "company_name": "Squarepoint Capital",
         "id": "3ec91fbf-4e9b-4ad8-a8e9-0878aa80cad8",
         "title": "Intern Software Developer - Summer 2025",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -156692,7 +156692,7 @@
         "company_name": "ByteDance",
         "id": "ce3b17ad-c587-4791-88ab-33060ffb4909",
         "title": "Software Engineer Intern - Applied Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -169854,7 +169854,7 @@
         "company_name": "Genies",
         "id": "51dadaab-4a53-4690-abaa-8a100a534c1d",
         "title": "Backend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -197692,7 +197692,7 @@
         "company_name": "Envista",
         "id": "5056b313-06b8-4dbd-845f-a7d6333b24c1",
         "title": "R&D Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -199961,7 +199961,7 @@
         "company_name": "KBR",
         "id": "6dbfd0c3-ef9b-4461-8b00-609576f7af35",
         "title": "Software Application Developer Intern for GOES-R Series Satellites",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -203863,7 +203863,7 @@
         "company_name": "Nokia",
         "id": "01593c1f-96ee-414d-84e9-47be3d0f7702",
         "title": "Data fabric and network automation Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -204568,7 +204568,7 @@
         "company_name": "Geotab",
         "id": "6832ab76-ef30-46ff-863c-78bf6f03b1d0",
         "title": "Data Analyst Intern - Data Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -205645,7 +205645,7 @@
         "company_name": "Warner Bros.",
         "id": "b5df519b-b779-42c4-9aec-265558818b47",
         "title": "Sports Analytics Internships - Fall 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -206477,7 +206477,7 @@
         "company_name": "Sony Pictures Entertainment",
         "id": "bb0b208c-cddf-4c3b-9d0c-35871ac62017",
         "title": "Systems & Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -206810,7 +206810,7 @@
         "company_name": "NXP Semiconductors",
         "id": "e0d07aa8-10d6-41ba-ac9d-be52f1a304ad",
         "title": "Digital Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -208149,7 +208149,7 @@
         "company_name": "Crowdstrike",
         "id": "c25d8bdf-7ebf-4d8f-8763-f93229200038",
         "title": "Frontend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -208291,7 +208291,7 @@
         "company_name": "AbbVie",
         "id": "cae188bf-ce85-4b79-8028-954730fbaca8",
         "title": "Business Technology Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -209504,7 +209504,7 @@
         "company_name": "Vanguard",
         "id": "32de91ea-8464-46ae-ad58-76366978ddef",
         "title": "IT Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -210073,8 +210073,8 @@
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "source": "AlmondCroffle",
-        "id": "fa685806-ffb4-4ba9-b315-0dc6c8156373",
+        "source": "Simplify",
+        "id": "9cb12f36-6168-4a9b-a830-a3b05b7b80b4",
         "date_posted": 1754363934,
         "company_url": "",
         "is_visible": true
@@ -210092,8 +210092,8 @@
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "source": "AlmondCroffle",
-        "id": "a6928d63-b64c-444f-a90a-2c02a6ddc690",
+        "source": "Simplify",
+        "id": "104ba742-a080-4cfc-a787-389a4b2623c4",
         "date_posted": 1754363985,
         "company_url": "",
         "is_visible": true
@@ -210128,7 +210128,7 @@
         "company_name": "Capital One",
         "id": "419d9be9-13fc-4bf5-a9e0-2ce445b05c04",
         "title": "Technology Internship Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -210299,7 +210299,7 @@
         "company_name": "Motorola",
         "id": "212dc499-a662-4704-9d3b-ac2080f5586a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -210629,5 +210629,1861 @@
         "date_posted": 1754505435,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754527584,
+        "url": "https://jobs.ashbyhq.com/Talos-Trading/0c150c16-ed0e-4f21-81d6-e85f67437f00",
+        "company_name": "Talos Trading",
+        "title": "Quantitative Analyst Intern",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "ad5ce389-551e-4be7-bebd-a09b9b49cad8",
+        "date_posted": 1754527293,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754527811,
+        "url": "https://jobs.ashbyhq.com/Talos-Trading/f3d358c4-54e2-4cc8-afe2-8474fa13320b",
+        "company_name": "Talos Trading",
+        "title": "Software Engineer Intern, Backend, Dealer",
+        "locations": [
+            "New York, NY"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "293a4f93-8d58-4676-b1cb-e4b7b013b734",
+        "date_posted": 1754527485,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754528171,
+        "url": "https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Data-Science-Intern--Year-Round-_R2025-2865",
+        "company_name": "BorgWarner",
+        "title": "Data Science Intern",
+        "locations": [
+            "Auburn Hills, MI"
+        ],
+        "terms": [
+            "Summer 2026",
+            "Summer 2025",
+            "Fall 2025",
+            "Winter 2025",
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "88d1b7c8-562e-40c3-8671-3d8b11ad7cbc",
+        "date_posted": 1754528171,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754541165,
+        "url": "https://jobs.ashbyhq.com/confluent/d9ebd50b-967e-4f35-8ebd-f0ce2705136a",
+        "company_name": "Confluent",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Austin, TX"
+        ],
+        "terms": [
+            "Spring 2026",
+            "Winter 2026",
+            "Winter 2025",
+            "Fall 2025",
+            "Summer 2025",
+            "Summer 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "bf8470b1-93c2-48a9-aa09-782423815cbb",
+        "date_posted": 1754541165,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754541336,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4590429006",
+        "company_name": "Figure",
+        "title": "Firmware Engineer Intern",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "2d1a6338-2e35-4a8e-a5ae-a5c133acf387",
+        "date_posted": 1754541336,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sun Life",
+        "id": "c50ebc9c-7897-4b8b-b752-549a304b94f5",
+        "title": "Digital Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754541717,
+        "date_posted": 1754541717,
+        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Digital-Analytics-Intern--Summer-2026-_JR00114466",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sun-Life",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1754543314,
+        "url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-25-13375",
+        "company_name": "Moog",
+        "title": "Artificial Intelligence",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "terms": [
+            "Fall 2025"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "9ece024e-719a-4e8c-9953-c15309d1ac94",
+        "date_posted": 1754543314,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jump Trading",
+        "id": "6fdace5c-6ca0-411d-a5fa-170c4212dd45",
+        "title": "Campus UI Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754545792,
+        "date_posted": 1754545792,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7125381",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Roblox",
+        "id": "526e258c-ede0-4d6f-b82d-564217c9707c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754545569,
+        "date_posted": 1754545569,
+        "url": "https://careers.roblox.com/jobs/7114765?gh_jid=7114765",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roblox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wurl",
+        "id": "dc49de1f-c56b-4912-92a6-d240db6835c1",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754545547,
+        "date_posted": 1754545547,
+        "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4552288006",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wurl",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wabtec",
+        "id": "df374bf3-f271-48b5-8451-81b30a306ddb",
+        "title": "Part-time Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754548249,
+        "date_posted": 1754548249,
+        "url": "https://wabtec.wd1.myworkdayjobs.com/en-US/wabtec_careers/job/Fort-Worth-TX/Part-time-Fall-2025-Co-op_R0101047",
+        "locations": [
+            "Pittsburgh, PA",
+            "Fort Worth, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/fafa7828-221b-4c03-8031-f534d09caac1",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "f9c3682d-25e0-42b3-aeb8-ae98854876fe",
+        "title": "Software Engineer Intern - Payment Network - Global Payment",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754547807,
+        "date_posted": 1754547807,
+        "url": "https://jobs.bytedance.com/en/position/7533369475380070663/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jump Trading",
+        "id": "7893ae36-4fcf-4ff9-8f3b-593b393a5ba9",
+        "title": "Campus Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754549018,
+        "date_posted": 1754549018,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7124769",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Otis",
+        "id": "e18f467d-ae15-442d-b239-6eb0d2604b1d",
+        "title": "Model-Based Design Algorithm Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754548960,
+        "date_posted": 1754548960,
+        "url": "https://otis.wd5.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT556-Farmington-Hills-34705-West-12-Mile-Rd-MI-48331-USA/Model-Based-Design-Algorithm-Engineer-Intern_20140445",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Otis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jump Trading",
+        "id": "75484706-7428-413f-965c-0440ead8978d",
+        "title": "Campus Data Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754548768,
+        "date_posted": 1754548768,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7125399",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "e67389e6-900e-4123-96d5-f9ad505ed5e0",
+        "title": "Software Engineer Intern - Payment Risk - Global Payment - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754552551,
+        "date_posted": 1754552551,
+        "url": "https://jobs.bytedance.com/en/position/7533003732948175112/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "e412dc4f-d3be-447d-9502-533daa1b4245",
+        "title": "Mobile Software Engineer Intern - Tiktok-Social-Friend Interaction",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554783,
+        "date_posted": 1754554783,
+        "url": "https://lifeattiktok.com/search/7533124077981370631",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "dbb85ac5-eb29-4db0-8722-1e7e4687ecb5",
+        "title": "Software Development Engineer in Test Intern - Tiktok-Intelligent Creation - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554799,
+        "date_posted": 1754554799,
+        "url": "https://lifeattiktok.com/search/7533136806755617031",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "cf6d4667-2bf8-45b8-a0be-37b953800bc3",
+        "title": "Machine Learning Engineer Intern - Tiktok Search Team",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554779,
+        "date_posted": 1754554779,
+        "url": "https://lifeattiktok.com/search/7534852684386617618",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "c7d26c28-0d3a-4b4f-af99-677a48c39ae6",
+        "title": "Mobile Software Engineer Intern - Tiktok-Pgc",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554791,
+        "date_posted": 1754554791,
+        "url": "https://lifeattiktok.com/search/7533471551095933192",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "c63dc093-aa62-4713-bb02-c8a2af93c39f",
+        "title": "Mobile Audio/Video Software Engineer Intern - Tiktok-Intelligent Creation - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554782,
+        "date_posted": 1754554782,
+        "url": "https://lifeattiktok.com/search/7532756507083950354",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "a3e18a60-895e-46eb-88bf-17c691846864",
+        "title": "Software Development Engineer in Test Intern - Tiktok-Global Live-Fundamental - 2026 Summer - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554799,
+        "date_posted": 1754554799,
+        "url": "https://lifeattiktok.com/search/7533134867878922504",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "a1525997-1c16-4b29-9052-9bf2afbf8d99",
+        "title": "Data Science intern - 2025 Start - BS/MS",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754554785,
+        "date_posted": 1754554785,
+        "url": "https://lifeattiktok.com/search/7478599213392251154",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "303961af-5b0e-4c30-be54-bed07b083191",
+        "title": "Mobile Software Engineer Intern - Tiktok-Privacy and Security-Product - 2026 Summer - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554780,
+        "date_posted": 1754554780,
+        "url": "https://lifeattiktok.com/search/7533117357264111890",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "299c8679-1858-43c5-8cde-d28585efaae4",
+        "title": "Backend Software Engineer Intern - Tiktok-Privacy and Security-Data Lifecycle Management",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554782,
+        "date_posted": 1754554782,
+        "url": "https://lifeattiktok.com/search/7533113811977554183",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "213cf83e-b4b0-4179-9a19-d3e6c3e4518b",
+        "title": "Software Engineer Intern - Recommendation Infrastructure",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1754554784,
+        "date_posted": 1754554784,
+        "url": "https://lifeattiktok.com/search/7534878965941766408",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "1654684c-ca1f-4d3e-9dc0-fc8e1f470e37",
+        "title": "Software Engineer Intern - Tiktok Search Architecture team",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554784,
+        "date_posted": 1754554784,
+        "url": "https://lifeattiktok.com/search/7534626306991016199",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "1179840a-8111-4070-ba58-0f0a0fe1fe17",
+        "title": "Data Engineer Intern - E-commerce",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554780,
+        "date_posted": 1754554780,
+        "url": "https://lifeattiktok.com/search/7534817408415861000",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "034929f5-3b54-450e-bcd7-de81a7fb989b",
+        "title": "Data Engineer Intern - Data Platfrom Tiktok BP",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554788,
+        "date_posted": 1754554788,
+        "url": "https://lifeattiktok.com/search/7534803858175576327",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "ae87d528-23ff-4841-8c2c-6834b05e0f5c",
+        "title": "AI/ML Software Engineer Intern - Data Platform",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1754554756,
+        "date_posted": 1754554756,
+        "url": "https://lifeattiktok.com/search/7499689149813950727",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "f7ae716b-13a6-4464-9c91-775ac62596a4",
+        "title": "Machine Learning Engineer Intern - Creative AI - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1754554742,
+        "date_posted": 1754554742,
+        "url": "https://lifeattiktok.com/search/7488883963248904456",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "7acabf5a-1421-4b78-85ca-4aea13033332",
+        "title": "Data Engineer Intern - Ads Data",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1754554732,
+        "date_posted": 1754554732,
+        "url": "https://lifeattiktok.com/search/7478174818136000776",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "934af5c3-dc30-411c-b864-9fcaed8b9f2d",
+        "title": "Machine Learning Engineer Intern - E-commerce-Recommendation - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1754554679,
+        "date_posted": 1754554679,
+        "url": "https://lifeattiktok.com/search/7397461556852508966",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "7a09a47d-71fc-4d58-8e8c-a04fe2040205",
+        "title": "Software Engineer Intern \u2013 Lead Ads - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1754554655,
+        "date_posted": 1754554655,
+        "url": "https://lifeattiktok.com/search/7483748420286859527",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "70488a49-ae9c-48e3-b393-f17081cdf3a8",
+        "title": "Software Engineer Intern - Recommendation Infrastructure",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1754554667,
+        "date_posted": 1754554667,
+        "url": "https://lifeattiktok.com/search/7397571359977310490",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "b072507a-6687-4108-a744-2482c73b34c0",
+        "title": "Frontend Engineer Intern - Trust and Safety-Engineering-Risk & Response",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554632,
+        "date_posted": 1754554632,
+        "url": "https://lifeattiktok.com/search/7527613337334188306",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "841e759c-87fe-4c36-97bd-6940efcf988a",
+        "title": "Frontend Engineer Intern - Trust and Safety-Engineering-Data Product & General Service",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554642,
+        "date_posted": 1754554642,
+        "url": "https://lifeattiktok.com/search/7527615375778416914",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "822b0351-7624-436b-8275-5e5985c0fe4c",
+        "title": "Backend Software Engineer Intern - Tiktok-Music-Music Content Ecosystem - 2026 Summer - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554627,
+        "date_posted": 1754554627,
+        "url": "https://lifeattiktok.com/search/7532287836311144711",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "779f212c-f34e-4260-b5af-2e54a8c159fb",
+        "title": "Software Engineer Intern - Platform efficiency",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754554650,
+        "date_posted": 1754554650,
+        "url": "https://lifeattiktok.com/search/7530513185797359880",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "5a2e20ec-cf46-44b8-a567-b1cd0d997fcd",
+        "title": "Software Engineer Intern - Global CRM",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1754554629,
+        "date_posted": 1754554629,
+        "url": "https://lifeattiktok.com/search/7532247736243865864",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "c9639161-37ac-42b2-b037-1c6109301577",
+        "title": "Data Scientist Intern - Tiktok-Business Risk Integrated Control-Risk Measurement - 2026 Summer - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554605,
+        "date_posted": 1754554605,
+        "url": "https://lifeattiktok.com/search/7532604203891247367",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "bac3b138-473e-426c-9f94-5f323517bb40",
+        "title": "Backend Software Engineer Intern - Tiktok-PGC-Ecosystem Platform - 2026 Summer - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554586,
+        "date_posted": 1754554586,
+        "url": "https://lifeattiktok.com/search/7533404385150470408",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "a6e979b7-c84b-455a-9f3c-7fa10d5d908c",
+        "title": "Machine Learning Engineer Intern - Tiktok Search E-Commerce team - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554574,
+        "date_posted": 1754554574,
+        "url": "https://lifeattiktok.com/search/7534626087721240839",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "a42b35ad-9bd8-4964-b430-60e7bd053316",
+        "title": "Data Engineer Intern - Tiktok-Privacy and Security-Data Infra - 2026 Summer - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554614,
+        "date_posted": 1754554614,
+        "url": "https://lifeattiktok.com/search/7533507946605873416",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "9a851a21-846e-41f1-9f0c-d409c869a2c4",
+        "title": "Backend Software Engineer Intern - Tiktok-Growth-Customer Lifecycle - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554585,
+        "date_posted": 1754554585,
+        "url": "https://lifeattiktok.com/search/7532752999941949703",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TikTok",
+        "id": "72600b58-238c-416b-938c-e472165215e0",
+        "title": "Intelligent Camera Effects Software Engineer Intern - Effect-Tiktok",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554579,
+        "date_posted": 1754554579,
+        "url": "https://lifeattiktok.com/search/7533023896800495890",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "593c9ed8-ce41-4272-9b7b-cfcee93a7ba1",
+        "title": "Backend Software Engineer Intern - Tiktok-Social-Graph",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554597,
+        "date_posted": 1754554597,
+        "url": "https://lifeattiktok.com/search/7533130221324994823",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "4777948c-e970-420c-bec4-aaa6eaa917e6",
+        "title": "Backend Software Engineer Intern - Tiktok-PGC-Monetization - 2026 Summer - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554571,
+        "date_posted": 1754554571,
+        "url": "https://lifeattiktok.com/search/7533096848266709266",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "20e72443-6281-4142-b38b-05478e0bf88a",
+        "title": "Software Engineer Intern - Trust and Safety - Engineering-Core Safety",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554615,
+        "date_posted": 1754554615,
+        "url": "https://lifeattiktok.com/search/7527609404540389650",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "13314b9f-3223-4972-bc98-92884e3c49c4",
+        "title": "Software Engineer Intern - Experimentation & Evaluation - Data Platform",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554575,
+        "date_posted": 1754554575,
+        "url": "https://lifeattiktok.com/search/7534793633532479751",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "b7179e54-c75a-422b-9e6c-7306ea8ba13b",
+        "title": "Software Engineer Intern - Tiktok-PGC-AI Platform",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554576,
+        "date_posted": 1754554576,
+        "url": "https://lifeattiktok.com/search/7533106667609917703",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "a4eeb749-26e5-40c9-80bc-8c300195632a",
+        "title": "Backend Software Engineer Intern - Tiktok-Product Infrastructure-Customer Service Platform - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554587,
+        "date_posted": 1754554587,
+        "url": "https://lifeattiktok.com/search/7533302395993426183",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "8a4a0d96-2628-4e75-afae-2e9f7d28ecb6",
+        "title": "Backend Software Engineer Intern - Tiktok-Social-Photo and Text - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554588,
+        "date_posted": 1754554588,
+        "url": "https://lifeattiktok.com/search/7533130219693115655",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "83b8625c-9a5f-4932-b128-ddd4a88b0c0e",
+        "title": "Frontend Engineer Project Intern - Tiktok-Search-Client",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754554573,
+        "date_posted": 1754554573,
+        "url": "https://lifeattiktok.com/search/7533782486234007816",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "71773937-1082-44d7-a53e-95cd1ecac9d6",
+        "title": "Mobile Software Engineer Intern - Tiktok-Intelligent Creation - 2026 Summer - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554572,
+        "date_posted": 1754554572,
+        "url": "https://lifeattiktok.com/search/7532758054421530887",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "116eb43d-741b-427f-ae18-350eeb43f7ef",
+        "title": "Software Engineer Intern - Tiktok-Intelligent Creation-Creation Experience - 2026 Summer - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554577,
+        "date_posted": 1754554577,
+        "url": "https://lifeattiktok.com/search/7533795446322383111",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "0a064cfe-add2-47c5-8a65-9f1c2be0f198",
+        "title": "Machine Learning Engineer Intern - Tiktok Search Local Services team - 2026 Summer - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754554577,
+        "date_posted": 1754554577,
+        "url": "https://lifeattiktok.com/search/7534626464240994568",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "779d2f66-723d-4e79-8ccb-416f18693b9e",
+        "title": "Software Engineer Intern - Monetization Technology - Ads Creative",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754560210,
+        "date_posted": 1754560210,
+        "url": "https://lifeattiktok.com/search/7532460740410738952",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "a82bc710-4b8a-4d6a-8032-beea4a552c0d",
+        "title": "Machine Learning Engineer Intern - E-commerce-Recommendation - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1754561111,
+        "date_posted": 1754561111,
+        "url": "https://lifeattiktok.com/search/7397462166708930867",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "b71bd92d-d214-4e91-a054-8fbb5dcea43a",
+        "title": "Software Engineer Intern - Tiktok-PGC-LLM Applications and AI Agents - 2026 Summer - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754574915,
+        "date_posted": 1754574915,
+        "url": "https://lifeattiktok.com/search/7533482613907081480",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "a414c9b6-f4a6-4cb6-8eca-bd7a7ef494b3",
+        "title": "Machine Learning Engineer Intern - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1754574934,
+        "date_posted": 1754574934,
+        "url": "https://lifeattiktok.com/search/7397250703767193882",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "e4a1dec1-6384-4c57-bbae-d21f3902bfed",
+        "title": "Software Engineer Intern - Recommendation Infrastructure",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754577313,
+        "date_posted": 1754577313,
+        "url": "https://lifeattiktok.com/search/7533035030336538887",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "d1fc867c-fcf9-4e18-9a5e-951ac63739e7",
+        "title": "Software Development Engineer in Test Intern - Tiktok-Privacy and Security-Business Risk Integrated Control - 2026 Summer - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754579094,
+        "date_posted": 1754579094,
+        "url": "https://lifeattiktok.com/search/7533137928836778247",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "52df9eb2-8317-4575-8acb-3a5483ca3148",
+        "title": "Machine Learning Engineer Intern - Monetization Technology - Ads Creative - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754580201,
+        "date_posted": 1754580201,
+        "url": "https://lifeattiktok.com/search/7532464949135313159",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "03a0765c-185c-440c-9ffe-b0f967866d34",
+        "title": "Data Scientist Intern - Tiktok-Search",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754581395,
+        "date_posted": 1754581395,
+        "url": "https://lifeattiktok.com/search/7533404377287280903",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "68dcbaba-eb3e-4777-a533-89191abfbb44",
+        "title": "Software Development Engineer in Test Intern - Tiktok-Growth",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754582759,
+        "date_posted": 1754582759,
+        "url": "https://lifeattiktok.com/search/7533135081482324231",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "a786835d-c5d4-4a8e-87bb-0dda464edc80",
+        "title": "Backend Software Engineer Intern - Tiktok-Growth-Innovative Growth - 2026 Summer - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754580618,
+        "date_posted": 1754580618,
+        "url": "https://lifeattiktok.com/search/7532750976021973256",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "0a5fd6e7-ade3-4274-a5f9-6aa271173b89",
+        "title": "Software Engineer Intern - Tiktok Intelligent Creation Effects - 2026 Summer - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754584659,
+        "date_posted": 1754584659,
+        "url": "https://lifeattiktok.com/search/7532759383232858376",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "1ddbd636-21b3-49e9-8dbf-f6ae0898ddad",
+        "title": "Software Engineer Intern - Applied Machine Learning-Enterprise",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754584624,
+        "date_posted": 1754584624,
+        "url": "https://jobs.bytedance.com/en/position/7533042683796097298/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "785b994d-44ef-428e-9446-ee6b6de6ae43",
+        "title": "Backend Software Engineer Intern - Tiktok-Social-User and Relation - 2026 Summer - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754584665,
+        "date_posted": 1754584665,
+        "url": "https://lifeattiktok.com/search/7533130855972702472",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "112df575-454c-4b9a-a2fb-361285005df7",
+        "title": "Software Engineer Intern - Applied Machine Learning-Enterprise - BS/MS",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1754586916,
+        "date_posted": 1754586916,
+        "url": "https://jobs.bytedance.com/en/position/7534883498658629906/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "ee35cb24-d8bf-41d7-881e-48ebd011cddc",
+        "title": "Frontend Engineer Intern - Tiktok-Pgc - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754587122,
+        "date_posted": 1754587122,
+        "url": "https://lifeattiktok.com/search/7533095458232584466",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "a98716d0-1a11-46aa-8405-a3bd382945db",
+        "title": "Data Scientist Intern - E-commerce Governance Algorithms - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1754587123,
+        "date_posted": 1754587123,
+        "url": "https://lifeattiktok.com/search/7397455103747836210",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "f97d5112-4d44-4d70-99fc-ae9bca3a3f3d",
+        "title": "Frontend Engineer Intern - Tiktok-Search-Client",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754587120,
+        "date_posted": 1754587120,
+        "url": "https://lifeattiktok.com/search/7533783305126365448",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "c3bf7441-29b9-4a6d-a6bf-4282eb67e697",
+        "title": "Data Engineer Intern - E-commerce",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754587105,
+        "date_posted": 1754587105,
+        "url": "https://lifeattiktok.com/search/7534818364393654535",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "1d911c19-b885-4882-8d83-25a72a50e653",
+        "title": "Machine Learning Engineer Intern - Tiktok-Engine and Tools-3D graphics - 2026 Start - PhD",
+        "active": true,
+        "terms": [
+            "Spring 2026",
+            "Summer 2026"
+        ],
+        "date_updated": 1754587128,
+        "date_posted": 1754587128,
+        "url": "https://lifeattiktok.com/search/7532735339883710728",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "5cbd37d5-9572-4786-9044-4a223471831e",
+        "title": "Software Engineer Intern - Recommendation Infrastructure",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1754588624,
+        "date_posted": 1754588624,
+        "url": "https://lifeattiktok.com/search/7494134428059814152",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "85c7ef68-e176-469b-920b-6d6e0dfda0e3",
+        "title": "Software Engineer Intern - Trust and Safety-Engineer-AI Safety - 2026 Summer - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754587125,
+        "date_posted": 1754587125,
+        "url": "https://lifeattiktok.com/search/7527618943449909522",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "df1cb805-03f8-412e-a205-4095882c4475",
+        "title": "Backend Software Engineer Intern - Tiktok-Product Infrastructure-Account - 2026 Summer - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754589300,
+        "date_posted": 1754589300,
+        "url": "https://lifeattiktok.com/search/7533433249885128967",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "5cf97d69-3f9a-40f2-b738-6aa0457c614b",
+        "title": "Software Engineer Intern - Recommendation Infrastructure",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754589308,
+        "date_posted": 1754589308,
+        "url": "https://lifeattiktok.com/search/7533003732948617480",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "48091f8d-f8ec-4d31-aeeb-3b2aae9af3b1",
+        "title": "Software Engineer Intern - Data Ecosystem - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754589306,
+        "date_posted": 1754589306,
+        "url": "https://lifeattiktok.com/search/7533387057667934482",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "1176e63c-eb58-40bb-b17f-9d948c9da798",
+        "title": "Frontend Engineer Intern - Tiktok-Growth-Innovative Growth",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754590227,
+        "date_posted": 1754590227,
+        "url": "https://lifeattiktok.com/search/7532748736225904903",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "238bfcec-42a1-494c-902c-67cf488d9005",
+        "title": "Software Engineer Intern - Ads Infra",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1754587730,
+        "date_posted": 1754587730,
+        "url": "https://lifeattiktok.com/search/7473342040157194514",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "193fc4e6-659b-47ef-a4e3-7c2df938dc1c",
+        "title": "Software Engineer Intern - Data Arch - Shorttext Rec - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754583146,
+        "date_posted": 1754583146,
+        "url": "https://lifeattiktok.com/search/7535250563514059016",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Confluent",
+        "id": "de7eb449-6fc8-484d-bede-8f69ae747534",
+        "title": "Confluent Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Summer 2027"
+        ],
+        "date_updated": 1754605769,
+        "date_posted": 1754605769,
+        "url": "https://jobs.ashbyhq.com/confluent/095d92fe-7534-4f49-a846-b63ca229731b/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Confluent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Confluent",
+        "id": "8947eda0-17f0-40fb-99fa-eddae05ad61a",
+        "title": "2026 Confluent Software Engineering Intern Opportunity",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754605779,
+        "date_posted": 1754605779,
+        "url": "https://jobs.ashbyhq.com/confluent/d9ebd50b-967e-4f35-8ebd-f0ce2705136a/application",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Confluent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Confluent",
+        "id": "86d6b780-11da-4609-b072-9bcd6f464fda",
+        "title": "2026 Confluent Software Engineering Intern Opportunity",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754605769,
+        "date_posted": 1754605769,
+        "url": "https://jobs.ashbyhq.com/confluent/974fa008-7174-4e6f-a89c-8c6cce70ae7e/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Confluent",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Jump Trading",
+        "id": "f83c9ced-2fd8-4b9c-b88a-df8059cb1387",
+        "title": "Campus Quantitative Trader \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754605563,
+        "date_posted": 1754605563,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7142372",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ramp",
+        "id": "6b976321-b3f1-4529-bee1-b8c1d3ed433e",
+        "title": "Software Engineer Internship - IOS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754606442,
+        "date_posted": 1754606442,
+        "url": "https://jobs.ashbyhq.com/ramp/8c155b55-3e7e-48a8-ac98-f988a2b6f4da/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ramp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ramp",
+        "id": "673559f4-3da3-4a62-9726-bee7fcf9a3c7",
+        "title": "Software Engineer Internship - Android",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1754606441,
+        "date_posted": 1754606441,
+        "url": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ramp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Manulife",
+        "id": "a8a4d2f7-edcd-40bc-922c-5e4a3de69c66",
+        "title": "Reporting & Analytics Analyst \u2013 Global Operations Risk & Control Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1754607211,
+        "date_posted": 1754607211,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_AdminJobs/job/Toronto-Ontario/Reporting---Analytics-Analyst--Global-Operations-Risk---Control-Co-op_JR25080365",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/acb6271e-e26a-401d-befe-547f56e287b5",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dow Chemical Company",
+        "id": "446a8c72-ac30-4831-b0f1-8854e2c06eb8",
+        "title": "Data Engineer Internship Spring 2026",
+        "active": true,
+        "terms": [
+            "Spring 2026"
+        ],
+        "date_updated": 1754610891,
+        "date_posted": 1754610891,
+        "url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Kankakee-IL-USA/Data-Engineer-Internship-Spring-2026-at-the-Dow-Delivery-Center-at-UIUC--Champaign--IL-_R2061990",
+        "locations": [
+            "Urbana, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Dow-Chemical-Company",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
