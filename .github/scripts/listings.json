@@ -119438,7 +119438,7 @@
         "company_name": "Altera",
         "id": "857ea339-1431-4ff9-a91d-c48fee5b99f9",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -161110,7 +161110,7 @@
         "company_name": "Tower Research Capital",
         "id": "c5ee72ae-f07d-450e-9e49-034e3504b9a6",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -203279,7 +203279,7 @@
         "company_name": "Wurl",
         "id": "911f40b9-f027-4128-9e35-e6cc08ec56ee",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -204136,7 +204136,7 @@
         "company_name": "Bot Auto",
         "id": "10bbc2fa-793d-42f9-9480-37170b3af54d",
         "title": "Full Stack Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -206037,7 +206037,7 @@
         "company_name": "UNFPA",
         "id": "d1335828-6000-4c1c-acd0-f5556b572763",
         "title": "Geospatial Sciences Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -206356,7 +206356,7 @@
         "company_name": "Accenture",
         "id": "c5e2a6e7-15d7-4f60-8131-1e9a26916bb5",
         "title": "Graduate Intern - Applied Research Scientist",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -209837,7 +209837,7 @@
         "company_name": "U.S. Bank",
         "id": "036fbedd-299d-4b1b-b760-4e3aeb1164a9",
         "title": "Capital Markets Summer Intern-Investment Grade Sales & Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -212452,7 +212452,7 @@
         "company_name": "Manulife",
         "id": "a8a4d2f7-edcd-40bc-922c-5e4a3de69c66",
         "title": "Reporting & Analytics Analyst \u2013 Global Operations Risk & Control Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -213742,7 +213742,7 @@
         "company_name": "Chamberlain Group",
         "id": "a32b64d9-7f29-4b46-ae81-ddaca616dece",
         "title": "Software Engineer 1 \u2013 Intern Conversion - Middleware",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -213762,7 +213762,7 @@
         "company_name": "Harris Computer",
         "id": "2051e128-3f18-4a84-b15f-eb51b6b73d3f",
         "title": "Software Developer \u2013 Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -214152,7 +214152,7 @@
         "company_name": "Polaris",
         "id": "defafa26-ce2c-45ac-93df-6ec022f02b40",
         "title": "Digital & Information Technology \u2013 Predictive Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -214166,5 +214166,24 @@
         "company_url": "https://simplify.jobs/c/ad05a83e-f0ad-47b5-beeb-4c7bf3f50f64",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1754929539,
+        "url": "https://ats.rippling.com/rippling/jobs/ee1ec0b1-9a55-408d-979d-9c74f257e9ea",
+        "company_name": "Rippling",
+        "title": "Machine Learning Engineer Intern",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "terms": [
+            "Winter 2026"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Desmosy",
+        "id": "058f9bd6-e419-44f8-9a5f-6441591b6775",
+        "date_posted": 1754929475,
+        "company_url": "",
+        "is_visible": true
     }
 ]
