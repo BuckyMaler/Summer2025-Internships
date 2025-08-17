@@ -187248,7 +187248,7 @@
         "company_name": "Waabi",
         "id": "5ddb85dc-bcbd-4f53-a6e0-e7f5b9539250",
         "title": "Vehicle Model Simulation Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1745437056,
         "date_posted": 1745437056,
@@ -203178,7 +203178,7 @@
         "company_name": "Rippling",
         "id": "3d40df7f-0692-4e9b-a273-74728052bf81",
         "title": "Frontend/Full Stack Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -207542,7 +207542,7 @@
             "Summer 2026"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "105f38b0-6409-4d1a-886a-78f95036951a",
         "date_posted": 1753832317,
@@ -209504,7 +209504,7 @@
         "company_name": "Vanguard",
         "id": "32de91ea-8464-46ae-ad58-76366978ddef",
         "title": "IT Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -214257,7 +214257,7 @@
         "company_name": "GE Appliances",
         "id": "276fca10-5c8d-4a4f-9b01-170901106898",
         "title": "Digital Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -215451,8 +215451,8 @@
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "source": "AlmondCroffle",
-        "id": "b7077af9-122c-4af7-92ea-d23344684ddb",
+        "source": "Simplify",
+        "id": "a2911035-3a66-4719-ab56-55f7c142ce93",
         "date_posted": 1755167776,
         "company_url": "",
         "is_visible": true
@@ -216628,7 +216628,7 @@
         "company_name": "ByteDance",
         "id": "0cea3673-3f7d-4725-8596-4d2f9be71d02",
         "title": "Network Software Development Engineer Intern - Network Observation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -217084,6 +217084,744 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/EQ-Bank",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ocean Optics",
+        "id": "4df70ddd-a56c-47ae-bb3e-f4ab70797811",
+        "title": "Software Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755295462,
+        "date_posted": 1755295462,
+        "url": "https://halma.wd3.myworkdayjobs.com/halma/job/Rochester/Software-Engineering-Co-op_JR25_000871",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Ocean-Optics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Synnex",
+        "id": "651dd3c4-759a-4a85-b907-d318180836a4",
+        "title": "Internship - Technical Scholar Program",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755295243,
+        "date_posted": 1755295243,
+        "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Greenville-SC/Greenville--SC---2023-Technical-Scholar-Program_R23785",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Synnex",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Verkada",
+        "id": "b35f91ad-c38c-4364-900b-0caafa2215a7",
+        "title": "Hardware Engineer",
+        "active": true,
+        "terms": [
+            "Winter 2025"
+        ],
+        "date_updated": 1755295060,
+        "date_posted": 1755295060,
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4321158007",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verkada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "cf3b2175-fef3-4491-be0d-bddb34d2dc35",
+        "title": "Software Engineer Intern - Financial Product - Global Payment",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755291832,
+        "date_posted": 1755291832,
+        "url": "https://jobs.bytedance.com/en/position/7533002244305848584/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hitachi",
+        "id": "657f21d2-8d39-4d31-a185-7d00152348b2",
+        "title": "PMO Analyst and Business Intelligence Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025",
+            "Spring 2026"
+        ],
+        "date_updated": 1755292725,
+        "date_posted": 1755292725,
+        "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/PMO-Analyst-and-Business-Intelligence-Intern_R1010308",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Hitachi",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fundamental Research Labs",
+        "id": "d0f37477-e67e-4555-b132-301c5a4ee167",
+        "title": "Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755293797,
+        "date_posted": 1755293797,
+        "url": "https://jobs.ashbyhq.com/fundamentalresearchlabs/fccaee31-5a39-4978-837e-577f74a4d9b5/application",
+        "locations": [
+            "Menlo Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fundamental-Research-Labs",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "7dd4e8a7-ee3b-479d-b08a-7c3dbe34c420",
+        "title": "Data Analyst/Scientist Intern - HR",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1755306496,
+        "date_posted": 1755306496,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Winter---HR--Data-Analyst-Scientist-Intern--4-Months-_R-0000136794",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "WeRide",
+        "id": "247df49d-57d7-4cde-b1ca-eeee3214a95b",
+        "title": "Intern - Vehicle Embedded Engineer - Dbw",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755307692,
+        "date_posted": 1755307692,
+        "url": "https://jobs.lever.co/weride/32871b7d-f424-422f-af2c-615c59ff44cd/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "66d624a4-bf98-4f02-b127-38342b345cff",
+        "title": "Software Engineer Intern - Multi-Cloud CDN Platform",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755313164,
+        "date_posted": 1755313164,
+        "url": "https://jobs.bytedance.com/en/position/7538139519473092882/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "38e9b155-826a-49f7-a431-a689d10c579e",
+        "title": "Machine Learning Engineer Intern - Global E-commerce Risk Control - 2026 Summer - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755313167,
+        "date_posted": 1755313167,
+        "url": "https://jobs.bytedance.com/en/position/7535953226975054098/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WEC Energy Group",
+        "id": "47ffa3a8-d666-40f2-bfbb-2f23e8fb8ce2",
+        "title": "Renewables Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755315029,
+        "date_posted": 1755315029,
+        "url": "https://careers.wecenergygroup.com/Wisconsin_Public_Service/job/Milwaukee-Renewables-Data-Analytics-Intern-WI-53203/1317609200/?ats=successfactors",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/WEC-Energy-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OneMain Financial",
+        "id": "4fdf538d-216b-420b-b185-938552d4e348",
+        "title": "Analytics Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755315552,
+        "date_posted": 1755315552,
+        "url": "https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Analytics-Analyst-Intern_R2508-47528",
+        "locations": [
+            "Charlotte, NC",
+            "Wilmington, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/b4966f20-7ca2-4e09-9e76-ea8708e860ec",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uline",
+        "id": "66d3d3bf-1746-4e5a-8d3a-b6e2b4b504af",
+        "title": "Financial Data Analyst Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755317031,
+        "date_posted": 1755317031,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Financial-Data-Analyst-Internship---Summer-2026_R256283",
+        "locations": [
+            "Waukegan, IL",
+            "Milwaukee, WI",
+            "Pleasant Prairie, WI",
+            "Morton Grove, IL",
+            "Kenosha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/656d9cca-8674-4b7c-ad5f-f7298d72e103",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ameren",
+        "id": "e06f01ed-c41a-417d-8ef8-1277023d153c",
+        "title": "Application Development Co-Op",
+        "active": true,
+        "terms": [
+            "Winter 2025",
+            "Summer 2025",
+            "Fall 2025"
+        ],
+        "date_updated": 1755312596,
+        "date_posted": 1755312596,
+        "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Application-Development-Co-Op_031806-1",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Ameren",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uline",
+        "id": "9f14aaca-3fd3-4859-aff7-41f71a5520d2",
+        "title": "Business Intelligence Developer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755312630,
+        "date_posted": 1755312630,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Business-Intelligence-Developer-Internship---Summer-2026_R256541",
+        "locations": [
+            "Waukegan, IL",
+            "Milwaukee, WI",
+            "Pleasant Prairie, WI",
+            "Morton Grove, IL",
+            "Kenosha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/656d9cca-8674-4b7c-ad5f-f7298d72e103",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ConnectPrep",
+        "id": "77cb3c56-8756-48cd-a185-c345440af69c",
+        "title": "Data Analyst Internship",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755321145,
+        "date_posted": 1755321145,
+        "url": "https://apply.workable.com/connectprep/j/DFBFC5045A/apply",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/ConnectPrep",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ConnectPrep",
+        "id": "18a96e4c-2f48-4388-a17b-3127e516ed49",
+        "title": "Data Analyst Internship",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755321143,
+        "date_posted": 1755321143,
+        "url": "https://apply.workable.com/connectprep/j/80CC49930B/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/ConnectPrep",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Goldman Sachs",
+        "id": "a01bad01-4a56-48f2-be0f-426a8738c83a",
+        "title": "2026 \u2013 Summer Analyst - FICC and Equities - Sales and Trading - Quantitative Strats",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755293452,
+        "date_posted": 1755293452,
+        "url": "https://higher.gs.com/roles/152578?type=students",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/1e8c5083-a2a3-4cb5-b517-47da9c7a9da2",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Interactions",
+        "id": "40200897-470d-489a-bb5c-646de6cdd4a2",
+        "title": "Artificial Intelligence Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755292323,
+        "date_posted": 1755292323,
+        "url": "https://interactions.wd1.myworkdayjobs.com/en-US/Interactions/job/United-States---Remote/Artificial-Intelligence-Analyst-Intern_R0002002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Interactions",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uline",
+        "id": "2b2c1f42-0190-40a2-88e2-9314a7cda022",
+        "title": "Software Developer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755292066,
+        "date_posted": 1755292066,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Developer-Internship---Summer-2026_R256032",
+        "locations": [
+            "Waukegan, IL",
+            "Milwaukee, WI",
+            "Pleasant Prairie, WI",
+            "Morton Grove, IL",
+            "Kenosha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/656d9cca-8674-4b7c-ad5f-f7298d72e103",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "BlackEdge Capital",
+        "id": "e4fed01c-f35c-456d-bea5-212f9386d27c",
+        "title": "Quantitative Developer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755293016,
+        "date_posted": 1755293016,
+        "url": "https://job-boards.greenhouse.io/blackedgecapital/jobs/4596128005",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackEdge-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ontario Teachers' Pension Plan",
+        "id": "a29eec98-2bd6-4b1e-bb54-0aa58147cd55",
+        "title": "Intern \u2013 Enterprise Architecture and Emerging Technologies",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Summer 2027"
+        ],
+        "date_updated": 1755294987,
+        "date_posted": 1755294987,
+        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Enterprise-Architecture-and-Emerging-Technologies--May-2026---16-months-_6582",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "c2354808-a208-464b-bbb1-77dafd02c4d7",
+        "title": "Software Engineer Intern - Recommendation Infrastructure",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1755303491,
+        "date_posted": 1755303491,
+        "url": "https://lifeattiktok.com/search/7537493362585979154",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "02cee9b7-b9f4-4c8d-be40-ae6666a588a1",
+        "title": "Software Engineer Intern - Recommendation Infrastructure",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755303489,
+        "date_posted": 1755303489,
+        "url": "https://lifeattiktok.com/search/7537491011187902727",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "c0de8fc2-6482-4a33-b95c-9054e2e850e0",
+        "title": "General Hire \u2013 Machine Learning Engineer Intern - Commerce& Content Service & Search Ads - 2026 Summer - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755303488,
+        "date_posted": 1755303488,
+        "url": "https://lifeattiktok.com/search/7534855949620119815",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "1bed96de-fbbd-4905-a7a2-51f2fded39c2",
+        "title": "Software Engineer Intern - Monetization Technology - Ads Creative AI - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755303487,
+        "date_posted": 1755303487,
+        "url": "https://lifeattiktok.com/search/7535617494221048082",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "00e70c4e-9171-45b8-a583-f063356c94e1",
+        "title": "Backend Software Engineer Intern - Foundation Platform",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755303658,
+        "date_posted": 1755303658,
+        "url": "https://lifeattiktok.com/search/7538307729329277202",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Space Kinetic",
+        "id": "1f0c158d-0251-4db6-9052-2c917f8754ac",
+        "title": "Internship-Software Engineering",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755301661,
+        "date_posted": 1755301661,
+        "url": "https://job-boards.greenhouse.io/spacekinetic/jobs/4885757008",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Space-Kinetic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "123bfef9-0acc-4a0d-896f-998637c5fe82",
+        "title": "Software Engineer Intern - Live Service",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755303693,
+        "date_posted": 1755303693,
+        "url": "https://lifeattiktok.com/search/7538314547103762696",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ConnectPrep",
+        "id": "af907140-9f5c-43d2-ad9b-b2c265ba2207",
+        "title": "Data Analyst Internship",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755301551,
+        "date_posted": 1755301551,
+        "url": "https://apply.workable.com/connectprep/j/BDD172BF52/apply",
+        "locations": [
+            "Westport, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/ConnectPrep",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "ac124cf6-870e-4078-b871-ec6c45459919",
+        "title": "Backend Software Engineer Intern - Media Platform",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755303658,
+        "date_posted": 1755303658,
+        "url": "https://lifeattiktok.com/search/7538301580093720840",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Flow Traders",
+        "id": "dc19cba3-10ca-4fa4-a242-47ceb5b37399",
+        "title": "Trading Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755300805,
+        "date_posted": 1755300805,
+        "url": "https://job-boards.greenhouse.io/flowtraders/jobs/7166435",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Flow-Traders",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "860f82b8-0562-4605-b9a7-3cac835a34c7",
+        "title": "Software Engineer Intern - Video-on-Demand Algorithm - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755303661,
+        "date_posted": 1755303661,
+        "url": "https://lifeattiktok.com/search/7538304000404244743",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "208b0ad1-830d-48f9-b9bd-98f5a7d06cc1",
+        "title": "Software Engineer Intern - Media Engine",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755303673,
+        "date_posted": 1755303673,
+        "url": "https://lifeattiktok.com/search/7538304108715198727",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "3b44967e-536c-43a3-9ceb-440d6b0dfa8d",
+        "title": "Firmware Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755301295,
+        "date_posted": 1755301295,
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Intern_1192958",
+        "locations": [
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "f431232f-2573-4a89-be1a-a86037f9325f",
+        "title": "Waveserver Platform Software Developer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755302056,
+        "date_posted": 1755302056,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Waveserver-Platform-Software-Developer-Co-op--Fall-2025-_R028647",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
         "is_visible": true,
         "sponsorship": "Other"
     }
