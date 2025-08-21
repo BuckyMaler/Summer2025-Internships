@@ -13,8 +13,8 @@ SIMPLIFY_BUTTON = "https://i.imgur.com/MXdpmi0.png" # says apply
 SHORT_APPLY_BUTTON = "https://i.imgur.com/fbjwDvo.png"
 SQUARE_SIMPLIFY_BUTTON = "https://i.imgur.com/aVnQdox.png"
 LONG_APPLY_BUTTON = "https://i.imgur.com/6cFAMUo.png"
-NON_SIMPLIFY_INACTIVE_THRESHOLD_MONTHS = 4
-SIMPLIFY_INACTIVE_THRESHOLD_MONTHS = 8
+NON_SIMPLIFY_INACTIVE_THRESHOLD_MONTHS = 3
+SIMPLIFY_INACTIVE_THRESHOLD_MONTHS = 6
 
 # Set of Simplify company URLs to block from appearing in the README
 # Add Simplify company URLs to block them (e.g., "https://simplify.jobs/c/Jerry")
@@ -54,7 +54,7 @@ def getLocations(listing):
     if len(listing["locations"]) <= 3:
         return locations
     num = str(len(listing["locations"])) + " locations"
-    return f'<details><summary>**{num}**</summary>{locations}</details>'
+    return f'<details><summary><strong>{num}</strong></summary>{locations}</details>'
 
 def getSponsorship(listing):
     if listing["sponsorship"] == "Does Not Offer Sponsorship":
@@ -71,20 +71,21 @@ def getLink(listing):
         link += "?utm_source=Simplify&ref=Simplify"
     else:
         link += "&utm_source=Simplify&ref=Simplify"
-    # return f'<a href="{link}" style="display: inline-block;"><img src="{SHORT_APPLY_BUTTON}" width="160" alt="Apply"></a>'
 
     if listing["source"] != "Simplify":
+        # Non-Simplify jobs: single button, centered with smaller width to prevent wrapping
         return (
             f'<div align="center">'
-            f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="88" alt="Apply"></a>'
+            f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="80" alt="Apply"></a>'
             f'</div>'
         )
 
+    # Simplify jobs: two buttons with smaller widths to prevent wrapping
     simplifyLink = f"https://simplify.jobs/p/{listing['id']}?utm_source=GHList"
     return (
         f'<div align="center">'
-        f'<a href="{link}"><img src="{SHORT_APPLY_BUTTON}" width="52" alt="Apply"></a> '
-        f'<a href="{simplifyLink}"><img src="{SQUARE_SIMPLIFY_BUTTON}" width="28" alt="Simplify"></a>'
+        f'<a href="{link}"><img src="{SHORT_APPLY_BUTTON}" width="50" alt="Apply"></a> '
+        f'<a href="{simplifyLink}"><img src="{SQUARE_SIMPLIFY_BUTTON}" width="26" alt="Simplify"></a>'
         f'</div>'
     )
     
@@ -101,14 +102,35 @@ def mark_stale_listings(listings):
 def filter_active(listings):
     return [listing for listing in listings if listing.get("active", False)]
 
+def convert_markdown_to_html(text):
+    """Convert markdown formatting to HTML for proper rendering in HTML table cells"""
+    # Convert **bold** to <strong>bold</strong>
+    text = re.sub(r'\*\*(.*?)\*\*', r'<strong>\1</strong>', text)
+    
+    # Convert [link text](url) to <a href="url">link text</a>
+    text = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', r'<a href="\2">\1</a>', text)
+    
+    return text
+
 def create_md_table(listings, offSeason=False):
-    table = ""
+    # Create HTML table with CSS styling
+    table = '<table style="width: 100%; border-collapse: collapse;">\n<thead>\n<tr>\n'
+    
     if offSeason:
-        table += "| Company | Role | Location | Terms | Application | Age |\n"
-        table += "| ------- | ---- | -------- | ----- | ------ | -- |\n"
+        table += '<th style="width: 22%; min-width: 180px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Company</th>\n'
+        table += '<th style="width: 22%; min-width: 180px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Role</th>\n'
+        table += '<th style="width: 18%; min-width: 140px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Location</th>\n'
+        table += '<th style="width: 15%; min-width: 120px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Terms</th>\n'
+        table += '<th style="width: 15%; min-width: 120px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Application</th>\n'
+        table += '<th style="width: 8%; min-width: 60px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Age</th>\n'
     else:
-        table += "| Company | Role | Location | Application | Age |\n"
-        table += "| ------- | ---- | -------- | ------ | -- |\n"
+        table += '<th style="width: 25%; min-width: 200px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Company</th>\n'
+        table += '<th style="width: 30%; min-width: 250px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Role</th>\n'
+        table += '<th style="width: 20%; min-width: 150px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Location</th>\n'
+        table += '<th style="width: 15%; min-width: 120px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Application</th>\n'
+        table += '<th style="width: 10%; min-width: 80px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Age</th>\n'
+    
+    table += '</tr>\n</thead>\n<tbody>\n'
 
     prev_company = None
     prev_days_active = None  # FIXED: previously incorrectly using date_posted
@@ -122,7 +144,8 @@ def create_md_table(listings, offSeason=False):
         
         raw_url = listing.get("company_url", "").strip()
         company_url = raw_url + '?utm_source=GHList&utm_medium=company' if raw_url.startswith("http") else ""
-        company = f"**[{company_name}]({company_url})**" if company_url else f"**{company_name}**"
+        company_markdown = f"**[{company_name}]({company_url})**" if company_url else f"**{company_name}**"
+        company = convert_markdown_to_html(company_markdown)
         location = getLocations(listing)
         
         # Check for advanced degree requirements and add graduation cap emoji
@@ -170,11 +193,26 @@ def create_md_table(listings, offSeason=False):
             prev_company = company_name
             prev_days_active = days_active
         
+        # Create HTML table row
+        table += '<tr>\n'
+        
         if offSeason:
-            table += f"| {company} | {position} | {location} | {terms} | {link} | {days_display} |\n"
+            table += f'<td style="padding: 8px; border-bottom: 1px solid #eee;">{company}</td>\n'
+            table += f'<td style="padding: 8px; border-bottom: 1px solid #eee;">{position}</td>\n'
+            table += f'<td style="padding: 8px; border-bottom: 1px solid #eee;">{location}</td>\n'
+            table += f'<td style="padding: 8px; border-bottom: 1px solid #eee;">{terms}</td>\n'
+            table += f'<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">{link}</td>\n'
+            table += f'<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">{days_display}</td>\n'
         else:
-            table += f"| {company} | {position} | {location} | {link} | {days_display} |\n"
+            table += f'<td style="padding: 8px; border-bottom: 1px solid #eee;">{company}</td>\n'
+            table += f'<td style="padding: 8px; border-bottom: 1px solid #eee;">{position}</td>\n'
+            table += f'<td style="padding: 8px; border-bottom: 1px solid #eee;">{location}</td>\n'
+            table += f'<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">{link}</td>\n'
+            table += f'<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">{days_display}</td>\n'
+        
+        table += '</tr>\n'
 
+    table += '</tbody>\n</table>\n'
     return table
 
 
@@ -237,7 +275,7 @@ def ensureCategories(listings):
         listing["category"] = classifyJobCategory(listing)
     return listings
 
-def create_category_table(listings, category_name):
+def create_category_table(listings, category_name, offSeason=False):
     category_listings = [l for l in listings if l["category"] == category_name]
     if not category_listings:
         return ""
@@ -253,6 +291,12 @@ def create_category_table(listings, category_name):
             "\n"
             "> 🧠 Want to know what keywords your resume is missing for a job? Use the blue Simplify application link to instantly compare your resume to any job description.\n\n"
         )
+        
+    if category_name == 'Product Management':
+        header += (
+            "> 📅 Curious when Big Tech product internships typically open? Simplify put together an [openings tracker](https://simplify.jobs/top-list/Associate-Product-Manager-Intern?utm_source=GHList&utm_medium=ot) based on historical data for those companies.\n"
+            "\n"
+        )
 
     # Sort and format
     active = sorted([l for l in category_listings if l["active"]], key=lambda l: l["date_posted"], reverse=True)
@@ -260,17 +304,86 @@ def create_category_table(listings, category_name):
 
     result = header
     if active:
-        result += create_md_table(active) + "\n\n"
+        result += create_md_table(active, offSeason) + "\n\n"
 
     if inactive:
         result += (
             "<details>\n"
             f"<summary>🗃️ Inactive roles ({len(inactive)})</summary>\n\n"
-            + create_md_table(inactive) +
+            + create_md_table(inactive, offSeason) +
             "\n\n</details>\n\n"
         )
 
     return result
+
+# GitHub README file size limit (500 KiB = 512,000 bytes)
+GITHUB_FILE_SIZE_LIMIT = 512000
+# Smaller buffer to show warning closer to actual cutoff (5 KiB buffer)
+SIZE_BUFFER = 5120
+
+def check_and_insert_warning(content, repo_name="Summer2026-Internships"):
+    """Insert warning notice before GitHub cutoff point while preserving full content"""
+    content_size = len(content.encode('utf-8'))
+    
+    if content_size <= (GITHUB_FILE_SIZE_LIMIT - SIZE_BUFFER):
+        return content
+    
+    # Find insertion point before the GitHub cutoff
+    target_size = GITHUB_FILE_SIZE_LIMIT - SIZE_BUFFER - 1000  # Extra buffer for the notice
+    
+    # Convert to bytes for accurate measurement
+    content_bytes = content.encode('utf-8')
+    
+    # Find the last complete table row before the limit
+    insertion_bytes = content_bytes[:target_size]
+    insertion_content = insertion_bytes.decode('utf-8', errors='ignore')
+    
+    # Find the last complete </tr> tag to ensure clean insertion
+    last_tr_end = insertion_content.rfind('</tr>')
+    if last_tr_end != -1:
+        # Find the end of this row
+        next_tr_start = insertion_content.find('\n', last_tr_end)
+        if next_tr_start != -1:
+            insertion_point = next_tr_start
+        else:
+            insertion_point = last_tr_end + 5  # After </tr>
+    else:
+        insertion_point = len(insertion_content)
+    
+    # Create the warning notice with anchor link
+    warning_notice = f"""
+</tbody>
+</table>
+
+---
+
+<div align="center" id="github-cutoff-warning">
+  <h2>🔗 See Full List</h2>
+  <p><strong>⚠️ GitHub preview cuts off around here due to file size limits.</strong></p>
+  <p>📋 <strong><a href="https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-see-full-list">Click here to view the complete list with all internship opportunities!</a></strong> 📋</p>
+  <p><em>To find even more internships in tech, check out <a href="https://simplify.jobs/jobs?category=Software%20Engineering%3BHardware%20Engineering%3BQuantitative%20Finance%3BProduct%20Management%3BData%20%26%20Analytics%3BIT%20%26%20Security&jobId=2ac81173-86b5-4dbd-a7a9-260847c259cc&jobType=Internship?utm_source=GHList">Simplify's website</a>.</em></p>
+</div>
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+<thead>
+<tr>
+<th style="width: 25%; min-width: 200px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Company</th>
+<th style="width: 30%; min-width: 250px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Role</th>
+<th style="width: 20%; min-width: 150px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Location</th>
+<th style="width: 15%; min-width: 120px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Application</th>
+<th style="width: 10%; min-width: 80px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Age</th>
+</tr>
+</thead>
+<tbody>
+"""
+    
+    # Split content at insertion point and insert warning
+    before_insertion = content[:insertion_point]
+    after_insertion = content[insertion_point:]
+    
+    return before_insertion + warning_notice + after_insertion
 
 def embedTable(listings, filepath, offSeason=False):
     # Ensure all listings have a category
@@ -328,7 +441,7 @@ def embedTable(listings, filepath, offSeason=False):
                 for category_key in category_order:
                     if category_key in CATEGORIES:
                         category_info = CATEGORIES[category_key]
-                        table = create_category_table(listings, category_info["name"])
+                        table = create_category_table(listings, category_info["name"], offSeason)
                         if table:
                             newText += table
                 continue
@@ -342,8 +455,11 @@ def embedTable(listings, filepath, offSeason=False):
             if not in_browse_section and not in_table_section:
                 newText += line
 
+    # Check content size and insert warning if necessary
+    final_content = check_and_insert_warning(newText)
+    
     with open(filepath, "w") as f:
-        f.write(newText)
+        f.write(final_content)
 
 
 def filterSummer(listings, year, earliest_date):
