@@ -192051,7 +192051,7 @@
         "company_name": "QuEra Computing",
         "id": "8aad3bdd-ad9d-4911-acbf-ea62e562ed98",
         "title": "Scientific Software Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1746688460,
         "date_posted": 1746688460,
@@ -194144,7 +194144,7 @@
         "company_name": "Brex",
         "id": "81d7ccda-dfee-4208-92db-ed4f57441699",
         "title": "Software Engineer \u2013 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025",
             "Winter 2025"
@@ -209715,7 +209715,7 @@
         "company_name": "PIP Labs",
         "id": "21a768af-44e6-4166-81bc-924935050640",
         "title": "Engineering Intern - App Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -214047,7 +214047,7 @@
         "company_name": "Nextiva",
         "id": "ca9aa085-672f-467f-afe9-1ea438a7d115",
         "title": "AI Engineer Intern - Go-to-Market - Part-time",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -214192,7 +214192,7 @@
         "company_name": "Polaris",
         "id": "defafa26-ce2c-45ac-93df-6ec022f02b40",
         "title": "Digital & Information Technology \u2013 Predictive Data Science Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -216831,15 +216831,18 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755418863,
+        "date_updated": 1755945844,
         "date_posted": 1755295902,
         "url": "https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY-1250-Broadway/Software-Engineer-Intern_R2025-242116",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/TransPerfect",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     },
     {
         "source": "Simplify",
@@ -219213,7 +219216,7 @@
         "company_name": "FNBO",
         "id": "960bc9b7-5a6f-4a2c-b1b8-200149bba0da",
         "title": "Internship - Data Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -226379,7 +226382,7 @@
         "company_name": "Samsung",
         "id": "46ed593a-959a-46cc-b0ce-4685d73eff94",
         "title": "Summer/Autumn Internship - AI Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -229507,7 +229510,7 @@
         "company_name": "Blizzard Entertainment",
         "id": "1584fc93-77a7-42ee-9192-74c39f836282",
         "title": "AI Localization Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -230305,9 +230308,9 @@
         "title": "Technology Development Program - Software Engineer Development track - Sdp",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755812995,
+        "date_updated": 1755941622,
         "date_posted": 1755812995,
         "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/Technology-Development-Program---Software-Engineer-Development-track--SDP---Current-Interns-Only_R0059605",
         "locations": [
@@ -230317,8 +230320,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -230352,9 +230354,9 @@
         "title": "Technology Development Program - AI Engineer Development track - Tdp-AI",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755812999,
+        "date_updated": 1755942829,
         "date_posted": 1755812999,
         "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/Technology-Development-Program---AI-Engineer-Development-track--TDP-AI---Current-Interns-Only_R0059606",
         "locations": [
@@ -230364,8 +230366,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -230398,12 +230399,11 @@
         "company_name": "Johnson & Johnson",
         "id": "fadfdcac-5759-4e2b-9617-66c4e0409fa9",
         "title": "Digital Transformation Co-op - Healthcare Distribution - Sdc",
-        "active": true,
+        "active": false,
         "terms": [
-            "Fall 2025",
-            "Winter 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755813775,
+        "date_updated": 1755942803,
         "date_posted": 1755813775,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Markham-Ontario-Canada/Digital-Transformation-Co-op--Healthcare-Distribution--SDC-_R-028638",
         "locations": [
@@ -230448,9 +230448,9 @@
         "title": "Software Engineering Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755814692,
+        "date_updated": 1755941486,
         "date_posted": 1755814692,
         "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR104426",
         "locations": [
@@ -230469,7 +230469,7 @@
         "company_name": "Activision-Blizzard",
         "id": "26b9c1d1-8c1a-49d9-ad71-ca0efced8ff1",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -230541,9 +230541,9 @@
         "title": "Hardware Engineer intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755816161,
+        "date_updated": 1755943881,
         "date_posted": 1755816161,
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Hardware-Engineer-intern_1192886",
         "locations": [
@@ -230635,9 +230635,9 @@
         "title": "Full Stack Developer Co-op",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755816843,
+        "date_updated": 1755941450,
         "date_posted": 1755816843,
         "url": "https://jobs.l3harris.com/job/Niagara-on-the-Lake-Full-Stack-Developer-Co-op-ON/1319062300/?ats=successfactors",
         "locations": [
@@ -230708,9 +230708,9 @@
         "title": "Firmware Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755817603,
+        "date_updated": 1755943850,
         "date_posted": 1755817603,
         "url": "https://jobs-legrand.icims.com/jobs/9473/job",
         "locations": [
@@ -230967,9 +230967,9 @@
         "title": "Quantitative Researcher Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755820615,
+        "date_updated": 1755943535,
         "date_posted": 1755820615,
         "url": "https://job-boards.greenhouse.io/engineersgate/jobs/7182973",
         "locations": [
@@ -230979,8 +230979,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -231040,9 +231039,9 @@
         "title": "Supply Chain Data Analyst Internship 2026",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755822935,
+        "date_updated": 1755942121,
         "date_posted": 1755822935,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2026_R56900",
         "locations": [
@@ -231063,9 +231062,9 @@
         "title": "Intern Software Engineer II",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755822675,
+        "date_updated": 1755941363,
         "date_posted": 1755822675,
         "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME--USA--2025-Intern-Conversion--2026-Corporate-Intern-Software-Engineer-II---Sunnyvale--CA_R-2273398",
         "locations": [
@@ -231178,9 +231177,9 @@
         "title": "Tech Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755823045,
+        "date_updated": 1755941250,
         "date_posted": 1755823045,
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Tech-Intern_1192880",
         "locations": [
@@ -231224,9 +231223,9 @@
         "title": "Research Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755824704,
+        "date_updated": 1755942030,
         "date_posted": 1755824704,
         "url": "https://edzt.fa.em4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/28438",
         "locations": [
@@ -231236,7 +231235,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Master's"
         ]
     },
     {
@@ -231247,9 +231246,9 @@
         "title": "Data Scientist Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755823944,
+        "date_updated": 1755942075,
         "date_posted": 1755823944,
         "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/Remote---USA/Data-Scientist-Intern_J2424986",
         "locations": [
@@ -231439,9 +231438,9 @@
         "title": "Information Security Generalist Internship",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755821254,
+        "date_updated": 1755944001,
         "date_posted": 1755821254,
         "url": "https://methodisthealth.wd5.myworkdayjobs.com/en-US/MLH/job/5865-Shelby-Oaks-Circle/Information-Security-Generalist-Internship_R-11915",
         "locations": [
@@ -231462,10 +231461,9 @@
         "title": "Fixed Income Software Developer Platform Intern - Investment Management",
         "active": true,
         "terms": [
-            "Winter 2026",
-            "Spring 2026"
+            "Summer 2026"
         ],
-        "date_updated": 1755821899,
+        "date_updated": 1755943181,
         "date_posted": 1755821899,
         "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5628/job",
         "locations": [
@@ -231509,9 +231507,9 @@
         "title": "Firmware Engineer Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755837512,
+        "date_updated": 1755943687,
         "date_posted": 1755837512,
         "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000077455500",
         "locations": [
@@ -231521,8 +231519,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -231674,7 +231671,7 @@
         "company_name": "Merchants Bank of Indiana",
         "id": "bbf63b20-d066-4111-b240-60f7ff79e55f",
         "title": "Capital Markets Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -231699,9 +231696,9 @@
         "title": "API Developer Intern",
         "active": false,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755847338,
+        "date_updated": 1755941218,
         "date_posted": 1755847338,
         "url": "https://vetsez.breezy.hr/p/bc2397bb62ae01/apply",
         "locations": [
@@ -231726,7 +231723,7 @@
         "terms": [
             "Fall 2025"
         ],
-        "date_updated": 1755847310,
+        "date_updated": 1755941792,
         "date_posted": 1755847310,
         "url": "https://www.metacareers.com/jobs/1166376528712896",
         "locations": [
@@ -231739,7 +231736,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "PhD"
+            "Master's"
         ]
     },
     {
@@ -231750,9 +231747,9 @@
         "title": "Product Engineering Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755848709,
+        "date_updated": 1755943609,
         "date_posted": 1755848709,
         "url": "https://careers.qorvo.com/job/Greensboro-Product-Engineering-Intern-NC-27409/1319275800/?ats=successfactors",
         "locations": [
@@ -231762,8 +231759,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -231772,7 +231768,7 @@
         "company_name": "Merchants Bank of Indiana",
         "id": "08d3d9af-17d4-4a2a-9d03-57037606b2c5",
         "title": "Risk Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -231819,7 +231815,7 @@
         "company_name": "Merchants Bank of Indiana",
         "id": "da25d9a4-381f-4ff1-bc0c-4240b1bbc1fe",
         "title": "Information Security Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -231961,11 +231957,11 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755868835,
+        "date_updated": 1755943912,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [
-            "Bachelor's"
+            "Master's"
         ],
         "url": "https://activision.wd1.myworkdayjobs.com/en-US/blizzard_external_careers/job/Irvine---Blizzard---Blizzard-Way/AI-Localization-Intern_R025877",
         "company_name": "Blizzard",
@@ -231974,7 +231970,7 @@
             "Irvine, CA"
         ],
         "terms": [
-            "Fall 2026"
+            "Summer 2025"
         ],
         "category": "Data Science, AI & Machine Learning",
         "source": "AlmondCroffle",
@@ -232042,9 +232038,9 @@
         "title": "Product Management Intern",
         "active": true,
         "terms": [
-            "Fall 2025"
+            "Summer 2026"
         ],
-        "date_updated": 1755874346,
+        "date_updated": 1755941718,
         "date_posted": 1755874346,
         "url": "https://harman.wd3.myworkdayjobs.com/HARMAN/job/Northridge---California-USA/Product-Management-Intern_R-47677-2025",
         "locations": [
@@ -232054,8 +232050,7 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
-            "Bachelor's",
-            "PhD"
+            "Bachelor's"
         ]
     },
     {
@@ -232311,11 +232306,11 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755900761,
+        "date_updated": 1755941194,
         "date_posted": 1755900761,
         "url": "https://job-boards.greenhouse.io/metronome/jobs/4894044008",
         "locations": [
-            "SF"
+            "San Francisco, CA"
         ],
         "company_url": "https://simplify.jobs/c/Metronome",
         "is_visible": true,
@@ -232690,7 +232685,7 @@
         "company_name": "RSM",
         "id": "b7a73e13-64dc-485d-b5b6-e0147339ed11",
         "title": "Application Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -232762,7 +232757,7 @@
         "company_name": "Crowdstrike",
         "id": "c5e5b669-87bb-45d4-a5f4-e73feaaaf39e",
         "title": "IT Service Desk Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -232984,6 +232979,317 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "6d42c839-2b71-4070-928a-d5d0b3de0ce7",
+        "title": "Intern Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755907785,
+        "date_posted": 1755907785,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2026-Intern-Software-Engineer_R10204604",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OCC",
+        "id": "89ed7e9f-1de9-471b-8a85-0af079d1a648",
+        "title": "Technical Certification and Documentation Services Summer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755908348,
+        "date_posted": 1755908348,
+        "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Dallas-TX/Technical-Certification-and-Documentation-Services-Summer-Intern_REQ-4358",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/OptionsClearingCorporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "American Express",
+        "id": "f9903a02-3ca5-4ba5-ae71-8270420e8315",
+        "title": "Campus Undergraduate Summer Internship Program - 2026 Product Innovation - Credit & Fraud Risk",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755909711,
+        "date_posted": 1755909711,
+        "url": "https://aexp.eightfold.ai/careers/job/30873718",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "American Express",
+        "id": "6a9ca014-6b86-4fc1-b73f-1785b07a8903",
+        "title": "Campus Undergraduate Summer Internship Program - 2026 Product Innovation - Credit & Fraud Risk",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755909708,
+        "date_posted": 1755909708,
+        "url": "https://aexp.eightfold.ai/careers/job/30873716",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1755912006,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://careers.rtx.com/global/en/job/01786610/Software-Engineering-Co-Op-Summer-Fall-2026-Onsite",
+        "company_name": "RTX",
+        "title": "Software Engineering Co-Op",
+        "locations": [
+            "Cedar Rapids, Iowa"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "83656a24-d18b-489d-b08d-0af2db974851",
+        "date_posted": 1755912006,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755912037,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Bachelor's"
+        ],
+        "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0129980",
+        "company_name": "PayPal",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Jose, CA",
+            "Chicago, IL",
+            "Scottsdale, AZ",
+            "Omaha, NE",
+            "Austin, TX"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "bb0ef06f-f4e3-4716-aa45-439e03a5f7ad",
+        "date_posted": 1755912037,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ChargePoint",
+        "id": "1bf75679-dcdc-4eab-9c7e-86800069d198",
+        "title": "Power Electronics Controls and Firmware Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1755915462,
+        "date_posted": 1755915462,
+        "url": "https://www.chargepoint.com/about/opportunities/job/?gh_jid=8128543002",
+        "locations": [
+            "Los Gatos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ChargePoint",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BitGo",
+        "id": "85795dd1-9105-4331-acbb-6f7f27749028",
+        "title": "Winter 2026 Internship - Wallet Core",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1755929347,
+        "date_posted": 1755929347,
+        "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8133819002",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BitGo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BitGo",
+        "id": "d708ee93-5aea-458d-9de8-30594edfebdd",
+        "title": "Internship - Crypto as a Service & Staking",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1755929340,
+        "date_posted": 1755929340,
+        "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8133823002",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BitGo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BitGo",
+        "id": "34d9d7c5-a28e-40ae-b54e-39eea673438d",
+        "title": "Winter 2026 Internship - Hsm Team",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1755929341,
+        "date_posted": 1755929341,
+        "url": "https://job-boards.greenhouse.io/bitgointernships/jobs/8133783002",
+        "locations": [
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BitGo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "352060c4-ea0f-46d1-b57f-c3874eb6edd5",
+        "title": "Embedded Systems Software Intern - Linux and Jetson",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1755959561,
+        "date_posted": 1755959561,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Embedded-Systems-Software-Intern--Linux-and-Jetson---Winter-2026_JR2001802-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Polaris",
+        "id": "87baaaf6-144f-4b54-98c0-33150ffc1ff7",
+        "title": "Digital & Information Technology \u2013 Infrastructure & Information Security Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755958630,
+        "date_posted": 1755958630,
+        "url": "https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Plymouth-MN-USA/Digital---Information-Technology---Infrastructure---Information-Security-Internship---Summer-2026_R27030",
+        "locations": [
+            "Wayzata, MN",
+            "South Yankton, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/8c8aedb9-7273-4dee-9f66-0b575d5c1da1",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Polaris",
+        "id": "4b60573c-6fdb-4dc0-8f91-7b4ba3aeb91a",
+        "title": "Digital & Information Technology \u2013 Digital Product Development Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1755958631,
+        "date_posted": 1755958631,
+        "url": "https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Plymouth-MN-USA/Digital---Information-Technology---Digital-Product-Development-Internship---Summer-2026_R27027",
+        "locations": [
+            "Wayzata, MN",
+            "South Yankton, NE",
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/8c8aedb9-7273-4dee-9f66-0b575d5c1da1",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
