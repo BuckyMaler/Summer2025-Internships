@@ -205682,7 +205682,7 @@
         "company_name": "Warner Bros.",
         "id": "8aa72ad4-7fe4-4f89-a01d-0e871730dc42",
         "title": "Research & Analytics Internships - Fall 2025",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -221661,7 +221661,7 @@
         "company_name": "Meta",
         "id": "63c2dba9-dfdb-4cbe-b33a-74cb419ed766",
         "title": "Research Scientist Intern - Computational Optics & Optimization - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -222053,7 +222053,7 @@
         "company_name": "General Dynamics Information Technology",
         "id": "9e2be13c-a5bc-4b19-8c3a-5151e2c71f10",
         "title": "Scitls Coop/Dr Manager",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2025"
         ],
@@ -228387,7 +228387,7 @@
         "company_name": "Walmart",
         "id": "b54bfe56-45a4-47c1-a2d5-3c9309bf0c06",
         "title": "2025 Intern Conversion: 2026 FT Data Scientist III",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025",
             "Fall 2025"
@@ -232255,7 +232255,7 @@
         "company_name": "Bright Machines",
         "id": "e280d30f-8693-4b2e-83e2-80194e05b74d",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -232983,7 +232983,7 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
+        "category": "Software Engineering",
         "company_name": "Northrop Grumman",
         "id": "6d42c839-2b71-4070-928a-d5d0b3de0ce7",
         "title": "Intern Software Engineer",
@@ -232991,7 +232991,7 @@
         "terms": [
             "Summer 2026"
         ],
-        "date_updated": 1755907785,
+        "date_updated": 1756048149,
         "date_posted": 1755907785,
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2026-Intern-Software-Engineer_R10204604",
         "locations": [
@@ -232999,10 +232999,9 @@
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
         "is_visible": true,
-        "sponsorship": "Other",
+        "sponsorship": "U.S. Citizenship is Required",
         "degrees": [
-            "Bachelor's",
-            "Master's"
+            "Bachelor's"
         ]
     },
     {
@@ -233291,5 +233290,28 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1756048129,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Enterprise-Quality-Management-Summer-Intern_REQ-4364?source=Linkedin",
+        "company_name": "OCC",
+        "title": "Enterprise Quality Management Summer Intern",
+        "locations": [
+            "Chicago , IL"
+        ],
+        "terms": [
+            "Summer 2026"
+        ],
+        "category": "Software Engineering",
+        "source": "Ronitsabhaya75",
+        "id": "07b0f5e7-99c8-4570-a141-ed3bf673ae1b",
+        "date_posted": 1756048129,
+        "company_url": "",
+        "is_visible": true
     }
 ]
