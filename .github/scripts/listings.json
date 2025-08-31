@@ -169857,7 +169857,7 @@
         "company_name": "Genies",
         "id": "51dadaab-4a53-4690-abaa-8a100a534c1d",
         "title": "Backend Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -220050,7 +220050,7 @@
         "company_name": "Chime",
         "id": "51276a1d-aecb-494a-8f0e-fb05ec91bc3a",
         "title": "IT Helpdesk Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2025"
         ],
@@ -235034,7 +235034,7 @@
         "company_name": "Entrust",
         "id": "94f59f77-7cb1-4f72-810a-310488135b4d",
         "title": "Intern \u2013 Pki Pqc",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -235157,7 +235157,7 @@
         "company_name": "Skyworks",
         "id": "83d267be-2e83-4cf6-bad3-a64b43ee0757",
         "title": "Audio AI Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -235485,7 +235485,7 @@
         "company_name": "Walmart",
         "id": "2b1ba663-de7f-4bc1-b8d1-e2df24c27128",
         "title": "2025 Intern Conversion - 2026 FT: Data Analyst II - Transportation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -238245,7 +238245,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "3d0c1885-20b3-426b-8753-3abb9d769a2e",
         "title": "Hardware Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -244938,6 +244938,903 @@
             "Newport Beach, CA"
         ],
         "company_url": "https://simplify.jobs/c/PIMCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AXS",
+        "id": "fabb7a23-7715-41ea-ab50-5489970a44b2",
+        "title": "Fall Intern - Data and Analytics - Axs",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756511717,
+        "date_posted": 1756511717,
+        "url": "https://job-boards.greenhouse.io/axs/jobs/8141877002",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/AXScom",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Santander Global Facilities (SGF) US - Santander Group",
+        "id": "593bb6b4-8fd0-4198-8bd3-bc945a96cf41",
+        "title": "Application Development Intern - Auto",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756511744,
+        "date_posted": 1756511744,
+        "url": "https://santander.wd3.myworkdayjobs.com/santandercareers/job/Dallas/Application-Development-Intern--Auto-_Req1486460",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/9a775ea7-e29a-4fa8-963a-761444b7066a",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dow Jones",
+        "id": "23166991-0f58-41d2-93e7-9f4e18278aca",
+        "title": "SAP Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756511661,
+        "date_posted": 1756511661,
+        "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/New-York-City/Summer-2026-Internship---SAP-Intern_Job_Req_48495",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Dow-Jones",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dow Jones",
+        "id": "04d5d976-2b70-4fbe-9a91-ec200cd7416e",
+        "title": "OPIS Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756511660,
+        "date_posted": 1756511660,
+        "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/New-York-City/Summer-2026-Internship---OPIS-Software-Development-Intern_Job_Req_48502",
+        "locations": [
+            "Gaithersburg, MD",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Dow-Jones",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Medline",
+        "id": "d07b4638-476a-4ae2-8b35-0711d4676140",
+        "title": "IT Software Development Intern - E-Commerce",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756511564,
+        "date_posted": 1756511564,
+        "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/IT-Software-Development-Intern--E-Commerce----Summer-2026_R2514365",
+        "locations": [
+            "Northbrook, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "06cb611f-93a3-45be-bf76-f63497f5b8f5",
+        "title": "Software Development Coop",
+        "active": true,
+        "terms": [
+            "Winter 2026",
+            "Spring 2026"
+        ],
+        "date_updated": 1756511515,
+        "date_posted": 1756511515,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24265",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "122f8076-b489-40d1-a9c3-22841b25efc1",
+        "title": "AI Developer Intern - Undergrad",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756513048,
+        "date_posted": 1756513048,
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/AI-Developer-Intern--Undergrad-_1193066",
+        "locations": [
+            "Houston, TX",
+            "Berkeley Heights, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Medline",
+        "id": "e4135e56-fd1c-43dc-bbc2-e467058bc3de",
+        "title": "IT Software Development Intern - E-commerce",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756512780,
+        "date_posted": 1756512780,
+        "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/IT-Software-Development-Intern--E-commerce-_R2514364",
+        "locations": [
+            "Northbrook, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/f22ab711-4900-472d-be8a-7263e99e49fa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Santander",
+        "id": "033fc52d-c1bf-4614-a27e-237089070a06",
+        "title": "Technology \u2013 Intern - Chief Data Office - Cdo",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756512783,
+        "date_posted": 1756512783,
+        "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boston/Technology---Chief-Data-Office--CDO--Intern_Req1487873-2",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Santander",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "885de28d-1f8c-4365-8e5a-0cb5c4fd689c",
+        "title": "Computer Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756512499,
+        "date_posted": 1756512499,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Lexington-SC-SC07/Computer-Engineer-Intern---Summer-2026_R57308",
+        "locations": [
+            "Irmo, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "AccuWeather",
+        "id": "880d0068-0c7c-4a83-89c0-90de82bac42e",
+        "title": "Product Intern - Digital Strategy",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756512435,
+        "date_posted": 1756512435,
+        "url": "https://job-boards.greenhouse.io/accuweather/jobs/7211006",
+        "locations": [
+            "State College, PA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/AccuWeather",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jabil",
+        "id": "f1f69b0e-a277-4a1a-a43b-8fe6f9b47b22",
+        "title": "Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756513900,
+        "date_posted": 1756513900,
+        "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Engineering-Intern_J2425596",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Geotab",
+        "id": "ae698396-3291-4add-8f31-8bfb43bb9193",
+        "title": "Embedded Developer Intern - Kinematics",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1756513817,
+        "date_posted": 1756513817,
+        "url": "https://job-boards.greenhouse.io/geotab/jobs/4808764008",
+        "locations": [
+            "Oakville, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Geotab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "58a77d9a-cdef-42ba-9a31-09dcb7f618a2",
+        "title": "AI Developer Intern - Masters",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756513793,
+        "date_posted": 1756513793,
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/AI-Developer-Intern--Masters-_1193085",
+        "locations": [
+            "Houston, TX",
+            "Berkeley Heights, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "USAA",
+        "id": "2108cda7-04ec-4b49-b497-5db12e7145da",
+        "title": "Data & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756513589,
+        "date_posted": 1756513589,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Data---Analytics-Intern_R0112047",
+        "locations": [
+            "Plano, TX",
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dow Jones",
+        "id": "b6a26bb6-ce87-42b1-845e-1d7a5ae3c499",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756513556,
+        "date_posted": 1756513556,
+        "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/New-York-City/Summer-2026-Internship---Software-Engineering-Intern_Job_Req_48494",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Dow-Jones",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Schweitzer Engineering Laboratories",
+        "id": "5a255f93-f6bd-44ba-9a50-3370cd974c67",
+        "title": "Application Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756516379,
+        "date_posted": 1756516379,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Application-Engineering-Intern_2025-17982",
+        "locations": [
+            "Moscow, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wavetronix",
+        "id": "ec6c76f6-ca7b-44c5-b160-b3ada8567cee",
+        "title": "Computer Science Internship",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756518108,
+        "date_posted": 1756518108,
+        "url": "https://wavetronix.breezy.hr/p/b89da1eae7f3/apply",
+        "locations": [
+            "Springville, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Wavetronix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Geotab",
+        "id": "e7e7633a-5aef-4e61-b01b-177af306ce73",
+        "title": "Embedded Developer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1756520269,
+        "date_posted": 1756520269,
+        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4808709008",
+        "locations": [
+            "Oakville, ON, Canada",
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Geotab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Geotab",
+        "id": "6d947b27-e43e-4d3a-8b9d-be5602755df7",
+        "title": "Embedded Developer Intern - IOX Works & Go Focus",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1756520268,
+        "date_posted": 1756520268,
+        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/4808699008",
+        "locations": [
+            "Oakville, ON, Canada",
+            "Kitchener, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Geotab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "PIMCO",
+        "id": "ec49df5b-6aa3-48c5-b0c3-a1811603b70b",
+        "title": "PhD Summer Intern - Portfolio Management - Quantitative Research Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756520120,
+        "date_posted": 1756520120,
+        "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2026-PhD-Summer-Intern---Portfolio-Management--Quantitative-Research-Analyst_R105638",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PIMCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PIMCO",
+        "id": "758b483d-b3a4-4313-b01c-51ee1bffc397",
+        "title": "2026 Summer Intern - Client Solutions & Analytics Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756520123,
+        "date_posted": 1756520123,
+        "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2026-Summer-Intern---Client-Solutions---Analytics-Analyst--US_R105618",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PIMCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PIMCO",
+        "id": "710e9602-28c5-4812-b3e5-0f53c51ed211",
+        "title": "Intern - Technology Analyst - Software Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756520127,
+        "date_posted": 1756520127,
+        "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2026-Summer-Intern---Technology-Analyst--Software-Engineering_R105630",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PIMCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "PIMCO",
+        "id": "63ad86c6-0bee-4ed2-b01b-05581c4de028",
+        "title": "Summer Internship - PhD Quant Research Analyst - Client Solutions & Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756521090,
+        "date_posted": 1756521090,
+        "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2026-Summer-Internship---PhD-Quant-Research-Analyst--Client-Solutions---Analytics_R105639",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PIMCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Walmart",
+        "id": "9656a6b9-e36c-4b57-acb4-b3a7345cf7e8",
+        "title": "2025 Intern Conversion - 2026 FT: Product Manager III",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756521574,
+        "date_posted": 1756521574,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2025-Intern-Conversion---2026-FT--Product-Manager-III_R-2266147",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "06c04f3d-f1ab-475a-9cfa-b958c6fbe704",
+        "title": "Software Engineer Intern - Business Integrity - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756522946,
+        "date_posted": 1756522946,
+        "url": "https://lifeattiktok.com/search/7543420658085185799",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics UK",
+        "id": "b87e2353-babd-4d9b-bb00-db68fc13a8de",
+        "title": "Co-op - Software Development and Test",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1756528643,
+        "date_posted": 1756528643,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079048584",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics UK",
+        "id": "8e4588bd-686b-4725-a852-9fcfe4a64c9d",
+        "title": "Co-op - Software Developer",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1756528648,
+        "date_posted": 1756528648,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079047471",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics UK",
+        "id": "83b18715-3030-46d9-bd7f-8083173d1824",
+        "title": "Co-op - Firmware Development and Test",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1756528638,
+        "date_posted": 1756528638,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079049454",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics UK",
+        "id": "7d7d8281-6e4f-4f56-8ee6-013f574bbb49",
+        "title": "Co-op - Embedded Software Developer",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1756528673,
+        "date_posted": 1756528673,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079029886",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics UK",
+        "id": "6edd936f-76a2-488b-bab8-11395e2a2f65",
+        "title": "Co-op - Software/Systems Engineering",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1756528652,
+        "date_posted": 1756528652,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079047292",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics UK",
+        "id": "5f88ae1b-d78c-4658-888e-b6ecb45a123d",
+        "title": "Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1756528661,
+        "date_posted": 1756528661,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079044549",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics UK",
+        "id": "5bcb4de2-aa1f-4fc7-ae32-244a8e5b9961",
+        "title": "Co-op - Embedded Software Test",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1756528670,
+        "date_posted": 1756528670,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000079034324",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Micron Technology",
+        "id": "98376bc6-4fb7-4b5d-bb42-3b8f9acf74f6",
+        "title": "Intern \u2013 Yield Technology Equipment",
+        "active": true,
+        "terms": [
+            "Spring 2025",
+            "Summer 2025"
+        ],
+        "date_updated": 1756550330,
+        "date_posted": 1756160120,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Yield-Technology-Equipment-Intern_JR81576",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Qorvo",
+        "id": "0a5aa59d-90ef-400e-b895-c227b6eb7241",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Fall 2025"
+        ],
+        "date_updated": 1756570301,
+        "date_posted": 1756570301,
+        "url": "https://careers.qorvo.com/job/Greensboro-Data-Science-Intern-NC-27409/1321730800/?ats=successfactors",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Qorvo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Santander Global Facilities (SGF) US - Santander Group",
+        "id": "e65f364a-6a15-47df-af94-44260d921e20",
+        "title": "Database Administrator Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756595838,
+        "date_posted": 1756595838,
+        "url": "https://santander.wd3.myworkdayjobs.com/santandercareers/job/Dallas/Database-Administrator-Intern_Req1486494",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/9a775ea7-e29a-4fa8-963a-761444b7066a",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Freeform",
+        "id": "38e5481b-bb8b-4caa-a492-3a198462abce",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756595817,
+        "date_posted": 1756595817,
+        "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/6828427003",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/FreeformFuture",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Santander Global Facilities (SGF) US - Santander Group",
+        "id": "ccaab6bd-7d8f-4e0d-917b-b47eef2bb849",
+        "title": "Digital Product and Innovation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1756595824,
+        "date_posted": 1756595824,
+        "url": "https://santander.wd3.myworkdayjobs.com/santandercareers/job/Miami/Digital-Product-and-Innovation-Intern_Req1486536-1",
+        "locations": [
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/9a775ea7-e29a-4fa8-963a-761444b7066a",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
